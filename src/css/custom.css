@@ -4,7 +4,7 @@
  * work well for content-centric websites.
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;700;800&family=Source+Sans+3:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;700;800&family=Source+Sans+3:wght@400;600;700&family=Zilla+Slab:wght@500;600;700&family=Nunito+Sans:wght@400;600;700&display=swap');
 
 /* You can override the default Infima variables here. */
 :root {
@@ -20,6 +20,15 @@
   --ifm-font-family-base: 'Source Sans 3', 'Segoe UI', sans-serif;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(20, 102, 135, 0.14);
+
+  /* EPUB (Pages) brand tokens — Uputstvo Voice Toys V5 */
+  --vt-blue: #236794;
+  --vt-yellow: #fed227;
+  --vt-gray: #5e5e5e;
+  --vt-table-alt: #efefef;
+  --vt-rule: #929292;
+  --vt-heading-font: 'Zilla Slab', 'Rockwell', 'Roboto Slab', serif;
+  --vt-body-font: 'Nunito Sans', 'Avenir Next', 'Source Sans 3', sans-serif;
 }
 
 h1,
@@ -115,36 +124,44 @@ h4 {
   }
 }
 
-/* Uputstvo — standalone manual instance polish */
+/* Uputstvo — standalone manual instance polish (EPUB-aligned) */
 .plugin-id-uputstvo .theme-doc-markdown {
   max-width: 78ch;
   margin: 0 auto;
+  font-family: var(--vt-body-font);
   font-size: 1.05rem;
   line-height: 1.74;
 }
 
 .plugin-id-uputstvo .theme-doc-markdown h1 {
+  font-family: var(--vt-heading-font);
+  font-weight: 700;
   font-size: clamp(2.1rem, 4.4vw, 2.9rem);
   line-height: 1.1;
+  letter-spacing: -0.01em;
   margin-bottom: 0.4rem;
   padding-bottom: 0.7rem;
-  border-bottom: 3px solid rgba(17, 86, 115, 0.5);
-  color: #0c4a63;
+  border-bottom: 3px solid var(--vt-blue);
+  color: var(--vt-blue);
 }
 
 .plugin-id-uputstvo .theme-doc-markdown h2 {
+  font-family: var(--vt-heading-font);
+  font-weight: 600;
   margin-top: 2.6rem;
   padding-top: 0.7rem;
-  border-top: 1px solid rgba(17, 86, 115, 0.16);
+  border-top: 1px solid rgba(35, 103, 148, 0.22);
   font-size: clamp(1.5rem, 3.1vw, 1.95rem);
-  color: #0d4257;
+  color: var(--vt-blue);
 }
 
 .plugin-id-uputstvo .theme-doc-markdown h3 {
+  font-family: var(--vt-heading-font);
+  font-weight: 600;
   margin-top: 1.9rem;
   margin-bottom: 0.6rem;
   font-size: clamp(1.15rem, 2.4vw, 1.34rem);
-  color: #0f4f6c;
+  color: var(--vt-blue);
 }
 
 .plugin-id-uputstvo .theme-doc-markdown p {
@@ -166,7 +183,7 @@ h4 {
   border: 0;
   height: 1px;
   margin: 2rem 0;
-  background: linear-gradient(90deg, transparent 0%, rgba(17, 86, 115, 0.22) 20%, rgba(17, 86, 115, 0.22) 80%, transparent 100%);
+  background: linear-gradient(90deg, transparent 0%, rgba(35, 103, 148, 0.28) 20%, rgba(35, 103, 148, 0.28) 80%, transparent 100%);
 }
 
 .plugin-id-uputstvo .theme-doc-markdown img {
@@ -188,8 +205,10 @@ h4 {
   display: block;
   margin-top: -0.8rem;
   margin-bottom: 1.2rem;
-  font-size: 0.95rem;
-  color: #406476;
+  font-family: var(--vt-body-font);
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #333;
   text-align: center;
 }
 
@@ -198,19 +217,27 @@ h4 {
   display: table;
   border-collapse: collapse;
   margin: 1.2rem 0 1.8rem;
+  font-family: var(--vt-body-font);
   font-size: 0.98rem;
 }
 
+/* EPUB look: yellow header band, dashed inner rules, alternating rows */
 .plugin-id-uputstvo .theme-doc-markdown th {
-  background: #eef5f8;
-  color: #0c4a63;
+  background: var(--vt-yellow);
+  color: #1a1a1a;
+  font-weight: 700;
+  text-align: left;
 }
 
 .plugin-id-uputstvo .theme-doc-markdown th,
 .plugin-id-uputstvo .theme-doc-markdown td {
-  border: 1px solid rgba(17, 86, 115, 0.16);
+  border: 0.75px dashed var(--vt-rule);
   padding: 0.62rem 0.72rem;
   vertical-align: top;
+}
+
+.plugin-id-uputstvo .theme-doc-markdown tbody tr:nth-child(odd) td {
+  background: var(--vt-table-alt);
 }
 
 @media screen and (max-width: 996px) {

@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ---
 
-specifikacije uređaja Prečnik 121mm Visina 340 mm PET-G Akrilni štap 20mm prečnik, 40cm dužina *na slici je prikazan jedan uređaj za koji važi specifikacija.
+SPECIFIKACIJE UREĐAJA: Prečnik 121mm Visina 340 mm PET-G Akrilni štap 20mm prečnik, 40cm dužina *na slici je prikazan jedan uređaj za koji važi specifikacija.
 
 komplet podrazumeva 5 uređaja različitih boja.
 
@@ -44,7 +44,7 @@ Stanje baterija možete kontrolisati i pomoću mobilne aplikacije. Na donjoj str
 
 Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću USB-C konektora sa donje strane uređaja. Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
 
-![Spready-removebg-preview](./images/Spready-removebg-preview.png)
+![Spready-removebg-preview|200](./images/Spready-removebg-preview.png)
 
 ![Spreads1.9](./images/Spreads1_9.png)
 
