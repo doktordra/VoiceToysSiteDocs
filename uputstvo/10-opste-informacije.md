@@ -74,20 +74,20 @@ Svi uređaji se napajaju standardnim USB punjačima od 5V/3A pomoću kabla sa US
 
 ### Objašnjenje simbola
 
-| ![CDE](./images/image-178.png) | Uređaj je sertifikovan za bezbednost po standardima za tržište Republike Srbije.    |
-| ------------------------------ | ----------------------------------------------------------------------------------- |
-|                                | Uređaj je sertifikovan za bezbednost po standardima za tržište Evropske Unije.      |
-|                                | Uređaj ne bacajte u komunalni otpad, već ga reciklirajte ili pošaljite proizvođaču. |
+| ![AAA\|103](./images/3A.png)   | Uređaj je sertifikovan za bezbednost po standardima za tržište Republike Srbije.   |
+| ------------------------------ | ---------------------------------------------------------------------------------- |
+| ![AAA\|105](./images/CE.png)   | Uređaj je sertifikovan za bezbednost po standardima za tržište Evropske Unije.     |
+| ![AAA\|95](./images/Trash.png) | Uređaj ne bacajte u komunalni otpad, već ga reciklirajte ili pošaljite proizvođaču |
 
 ---
 
 ### Upozorenja
 
-- OPREZ: Baterija u uređaju nije zamenjiva i njena zamena može izazvati rizik. Ne pokušavajte da je zamenite ili isključite.
+- **OPREZ**: Baterija u uređaju nije zamenjiva i njena zamena može izazvati rizik. Ne pokušavajte da je zamenite ili isključite.
 
-- UPOZORENJE: Postoji rizik od eksplozije ili povrede ako je uređaj izložen provodnim materijalima, tečnosti, vatri ili visokoj temperaturi (iznad 40°C).
+- **UPOZORENJE**: Postoji rizik od eksplozije ili povrede ako je uređaj izložen provodnim materijalima, tečnosti, vatri ili visokoj temperaturi (iznad 40°C).
 
-- UPOZORENJE: Uređaj mora biti napajan eksternim napajanjem koje je usklađeno sa IEC/EN 62368-1 standardom i ispunjava ES1 i PS1 zahteve.
+- **UPOZORENJE**: Uređaj mora biti napajan eksternim napajanjem koje je usklađeno sa IEC/EN 62368-1 standardom i ispunjava ES1 i PS1 zahteve...
 
 - UPOZORENJE: Opasnost od strujnog udara ili požara. Uređaj punite isključivo isporučenim USB punjačem. USB kabl mora biti povezan na sertifikovani laptop/PC ili sertifikovani mini USB punjač.
 

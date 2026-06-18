@@ -40,6 +40,37 @@ function getLocaleTitle(locale) {
   return 'Srpski';
 }
 
+function detectLocaleFromLabel(value) {
+  const normalized = (value || '').trim().toLowerCase();
+  if (normalized === 'en' || normalized.includes('english')) return 'en';
+  if (normalized === 'de' || normalized.includes('deutsch') || normalized.includes('german')) return 'de';
+  if (normalized === 'sr' || normalized.includes('srpski') || normalized.includes('serbian')) return 'sr';
+  return null;
+}
+
+function getExistingLocaleLinks(sidebar) {
+  const roots = [document.querySelector('.navbar'), sidebar].filter(Boolean);
+  const links = {};
+
+  for (const root of roots) {
+    const anchors = root.querySelectorAll('a[href]');
+    for (const anchor of anchors) {
+      const href = anchor.getAttribute('href');
+      if (!href) continue;
+
+      const locale =
+        detectLocaleFromLabel(anchor.textContent) ||
+        detectLocaleFromLabel(anchor.getAttribute('title')) ||
+        detectLocaleFromLabel(anchor.getAttribute('aria-label'));
+
+      if (!locale || links[locale]) continue;
+      links[locale] = href;
+    }
+  }
+
+  return links;
+}
+
 function buildLocalePath(targetLocale) {
   const { pathname, search, hash } = window.location;
   const currentLocale = getCurrentLocale();
@@ -61,7 +92,7 @@ function buildLocalePath(targetLocale) {
   return `${localizedPath}${search}${hash}`;
 }
 
-function ensureLanguageSwitcher(controlsRow) {
+function ensureLanguageSwitcher(controlsRow, sidebar) {
   let switcher = controlsRow.querySelector('.mobile-language-switcher');
   if (!(switcher instanceof HTMLElement)) {
     switcher = document.createElement('div');
@@ -85,6 +116,7 @@ function ensureLanguageSwitcher(controlsRow) {
   }
 
   const currentLocale = getCurrentLocale();
+  const existingLocaleLinks = getExistingLocaleLinks(sidebar);
   trigger.replaceChildren();
   const icon = document.createElement('span');
   icon.className = 'mobile-language-icon';
@@ -98,7 +130,7 @@ function ensureLanguageSwitcher(controlsRow) {
   popup.replaceChildren();
   ['sr', 'en', 'de'].forEach((locale) => {
     const link = document.createElement('a');
-    link.href = buildLocalePath(locale);
+    link.href = existingLocaleLinks[locale] || buildLocalePath(locale);
     link.textContent = getLocaleLabel(locale);
     link.title = getLocaleTitle(locale);
     link.className = 'mobile-language-option';
@@ -163,7 +195,7 @@ function moveMobileControlsBelowLogo() {
     languageListItem.remove();
   }
 
-  ensureLanguageSwitcher(controlsRow);
+  ensureLanguageSwitcher(controlsRow, sidebar);
 }
 
 function normalizeMobileNavbarPanelWithRetry(retries = 4) {

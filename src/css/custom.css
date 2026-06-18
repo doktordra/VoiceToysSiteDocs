@@ -236,6 +236,27 @@ h4 {
   vertical-align: top;
 }
 
+.plugin-id-uputstvo .theme-doc-markdown table img {
+  display: block;
+  width: auto;
+  max-width: 96px;
+  max-height: 72px;
+  height: auto;
+  margin: 0.2rem auto;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.plugin-id-uputstvo .theme-doc-markdown th:first-child,
+.plugin-id-uputstvo .theme-doc-markdown td:first-child {
+  width: 120px;
+  text-align: center;
+  vertical-align: middle;
+}
+
 .plugin-id-uputstvo .theme-doc-markdown tbody tr:nth-child(odd) td {
   background: var(--vt-table-alt);
 }

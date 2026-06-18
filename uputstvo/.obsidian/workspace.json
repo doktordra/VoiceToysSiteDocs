@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-opste-informacije.md",
+                "file": "70-garancija.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-opste-informacije"
+              "title": "70-garancija"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 300
   },
   "right": {
     "id": "b2f336f4791fa63a",
@@ -185,16 +185,12 @@
   },
   "active": "5773a9b2209da8a5",
   "lastOpenFiles": [
-    "images/vibey-removebg-preview.png",
-    "images/SpreadYAsset_4.png",
-    "images/Spready-removebg-preview.png",
-    "images/SpaceY_USBC_Back_52-filtered.png",
-    "images/senzor-removebg-preview-1.png",
-    "images/Screenshot_2024-04-30-16-33-11-09_41a74ddf68be21faad2fbbb691b15143.jpg",
-    "images/Raising_Starts_BEDZ_.png",
-    "images/image-26.png",
-    "images/image-55.png",
+    "80-i-to-nije-sve.md",
+    "90-kontakt.md",
     "10-opste-informacije.md",
+    "images/CE.png",
+    "images/3A.png",
+    "images/Trash.png",
     "00-uvod.md",
     "30-spready.md",
     "40-jumpy.md",
