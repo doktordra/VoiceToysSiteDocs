@@ -122,7 +122,9 @@ Namena: Prepoznavanje i ponavljanje ritmičkih obrazaca
 
 ### 6 - Režim: Fonetika
 
-Namena: Vežbanje formanata i sibilanata Izbor režima se vrši pritiskom na taster "Režim" koji se nalazi u desnom uglu donjeg crvenog polja ekrana aplikacije. Na slici desno možete videti prikaz ekrana nakon pritiska na taster "Režim". Kada dodirnete natpis sa željenim režimom pojaviće se ekran namenjen detaljnom podešavanju tog režima.
+Namena: Vežbanje formanata i sibilanata
+
+Izbor režima se vrši pritiskom na taster **"Režim"** koji se nalazi u desnom uglu donjeg crvenog polja ekrana aplikacije. Na slici desno možete videti prikaz ekrana nakon pritiska na taster **"Režim"**. Kada dodirnete natpis sa željenim režimom pojaviće se ekran namenjen detaljnom podešavanju tog režima.
 
 U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih režima.
 
@@ -130,11 +132,13 @@ U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih r
 
 ---
 
-REžim: reakcija 4-4-1: Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka i udaljenosti birate pritiskom na taster "Reakcija". Pojaviće se ekran prikazan na strani 27, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
+### Režim: Reakcija
+
+**4-4-1:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka i udaljenosti birate pritiskom na taster **"Reakcija"**. Pojaviće se ekran prikazan na strani 27, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
 U sredini ekrana aplikacije se nalaze slike koje identifikuju trenutni režim rada uređaja (leva) i način prikaza svetlosnog panela (desna slika). Izgled ovog dela ekrana možete videti na donjoj slici.
 
-Leva slika na ekranu prikazuje režim rada uređaja koji je označen rečju "Mikrofon" i odgovarajućim simbolom, sve dok nije uključen senzor udaljenosti. Sa ovim postavkama svetlosni panel reaguje na zvuk. Kada se senzor udaljenosti uključi, svetlosni panel prestaje da reaguje na zvuk i reaguje samo na promenu distance između senzora i objekta, a na ekranu aplikacije je napisano "Udaljenost" i odgovarajući simbol. Kada se senzor udaljenosti isključi aplikacija i sve njene funkcije, kao i svetlosni panel, automatski se vraćaju u režim "Mikrofon", odnosno ponovo reaguju na zvuk.
+Leva slika na ekranu prikazuje režim rada uređaja koji je označen rečju "Mikrofon" i odgovarajućim simbolom, sve dok nije uključen senzor udaljenosti. Sa ovim postavkama svetlosni panel reaguje na zvuk. Kada se senzor udaljenosti uključi, svetlosni panel prestaje da reaguje na zvuk i reaguje samo na promenu distance između senzora i objekta, a na ekranu aplikacije je napisano **"Udaljenost"** i odgovarajući simbol. Kada se senzor udaljenosti isključi aplikacija i sve njene funkcije, kao i svetlosni panel, automatski se vraćaju u režim "Mikrofon", odnosno ponovo reaguju na zvuk.
 
 Desna slika koja se nalazi u sredini ekrana aplikacije prikazuje trenutni izgled svetlosnog panela. Kada dodirnete sliku, otvara se prozor (slika dole) u kom možete promeniti izgled svetlosnog panela prema ponuđenim opcijama, na način koji je opisan na sledećoj strani.
 
@@ -144,33 +148,35 @@ Desna slika koja se nalazi u sredini ekrana aplikacije prikazuje trenutni izgled
 
 ---
 
-REžim: reakcija Podešavanje nivoa zvuka, osetljivosti i inercije vizuelne reprezentacije zvuka se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji "Izvor".
+### Režim: Reakcija 
 
-Nivo zvuka je prag koji nivo zvuka mora da pređe da bi izazvao svetlosnu reakciju. Zvukovi ispod ovog nivoa su ignorisani. Ukoliko je potrebno, podesite ga prema nivou buke u vašem prostoru tako da se svetlosni panel ne uključuje kada niko ne govori.
+Podešavanje nivoa zvuka, osetljivosti i inercije vizuelne reprezentacije zvuka se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji **"Izvor"**.
 
-Osetljivost je osetljivost sistema na promenu nivoa zvuka.
+**Nivo zvuka** je prag koji nivo zvuka mora da pređe da bi izazvao svetlosnu reakciju. Zvukovi ispod ovog nivoa su ignorisani. Ukoliko je potrebno, podesite ga prema nivou buke u vašem prostoru tako da se svetlosni panel ne uključuje kada niko ne govori.
 
-Ukoliko ga menjate ka većim vrednostima, sistem postaje osetljiviji, i moguće ga je lakše pobuditi. Pomerajući klizač ka manjim vrednostima, potreban je viši nivo zvuka da bi se uređaj pokrenuo, odnosno da bi se svetla upalila.
+**Osetljivost** je osetljivost sistema na promenu nivoa zvuka. Ukoliko ga menjate ka većim vrednostima, sistem postaje osetljiviji, i moguće ga je lakše pobuditi. Pomerajući klizač ka manjim vrednostima, potreban je viši nivo zvuka da bi se uređaj pokrenuo, odnosno da bi se svetla upalila.
 
-Inercija predstavlja brzinu reakcije svetlosnog panela na zvučnu pobudu.
+**Inercija** predstavlja brzinu reakcije svetlosnog panela na zvučnu pobudu.
 
-Kada uključite senzor udaljenosti, u sekciji "Izvor" se pojavljuje klizač Raspon. Njime regulišete osetljivost svetlosnog prikaza na promenu udaljenosti prepreke od senzora udaljenost. Što je manja vrednost na klizaču, svetla na panelu će reagovati brže i više ispunjavati ekran.
+Kada uključite senzor udaljenosti, u sekciji "Izvor" se pojavljuje klizač **Raspon**. Njime regulišete osetljivost svetlosnog prikaza na promenu udaljenosti prepreke od senzora udaljenost. Što je manja vrednost na klizaču, svetla na panelu će reagovati brže i više ispunjavati ekran.
 
-Podešavanje prikaza svetala na svetlosnom panelu se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji "Prikaz", a funkcije klizača u različitim varijantama prikaza ekrana su: "Duga" - pomoću klizača Opadanje možete regulisati brzinu opadanja svetlosne reakcije na zvuk.
+Podešavanje prikaza svetala na svetlosnom panelu se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji **"Prikaz"**, a funkcije klizača u različitim varijantama prikaza ekrana su: 
 
-"Polja" - pored klizača Opadanje pojavljuje se klizač Polja.
+**"Duga"** - pomoću klizača Opadanje možete regulisati brzinu opadanja svetlosne reakcije na zvuk.
 
-Njime određujete u koliko raznobojnih polja će biti podeljen prikaz svetala na svetlosnom panelu.
+**"Polja"** - pored klizača Opadanje pojavljuje se klizač **Polja**. Njime određujete u koliko raznobojnih polja će biti podeljen prikaz svetala na svetlosnom panelu.
 
-"Vrh" - pojavljuje se Opadanje i još dva klizača. Opadanje vrha određuje kojom brzinom će opadati vrh, odnosno crvena linija koja prikazuje maksimalnu postignutu jačinu zvuka. Zadržavanje vrha određuje koliko dugo će vrh stajati u mestu pre no što počne da opada niz svetlosni panel.
+**"Vrh"** - pojavljuje se Opadanje i još dva klizača. **Opadanje vrha** određuje kojom brzinom će opadati vrh, odnosno crvena linija koja prikazuje maksimalnu postignutu jačinu zvuka. **Zadržavanje vrha** određuje koliko dugo će vrh stajati u mestu pre no što počne da opada niz svetlosni panel.
 
-"Prozor" - klizači Opadanje vrha i Zadržavanje vrha imaju istu funkciju kao u prethodnom slučaju, a pojam "vrh" se odnosi na belu liniju koja prikazuje nivo zvuka.
+**"Prozor"** - klizači **Opadanje vrha i Zadržavanje vrha** imaju istu funkciju kao u prethodnom slučaju, a pojam "vrh" se odnosi na belu liniju koja prikazuje nivo zvuka.
 
-Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, svoja podešavanja možete zapamtiti na način koji je opisan na strani 19.
+Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, **svoja podešavanja možete zapamtiti** na način koji je opisan na strani 19.
 
 ---
 
-režim: reakcija - senzor udaljenosti Nakon što uključite senzor udaljenosti on će se automatski povezati sa svetlosnim panelom, a ekran aplikacije će izgledati kao na slici desno. Detaljno podešavanje njegovih funkcija je opisano na prethodnoj strani.
+### Režim: reakcija - Senzor udaljenosti
+
+Nakon što uključite senzor udaljenosti on će se automatski povezati sa svetlosnim panelom, a ekran aplikacije će izgledati kao na slici desno. Detaljno podešavanje njegovih funkcija je opisano na prethodnoj strani.
 
 Senzor distance uključite nakon što ga postavite na maksimalnu distancu od objekta od kog želite da merite udaljenost. U trenutnku uključenja, senzor meri početnu udaljenost, i sve promene udaljenosti se prikazuju u odnosu na nju.
 
@@ -178,7 +184,7 @@ Postavite ga tako da strana senzora na kojoj se nalaze okrugli otvori bude usmer
 
 Na ekranu aplikacije možete videti stanje napunjenosti baterije koja se nalazi u senzoru udaljenosti. Nemojte čekati da se baterija potpuno isprazni, nego je napunite priključivanjem USB-C kabla na za to predviđeno mesto koje je na slici dole označeno strelicom.
 
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
+Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
 
 ![JumpY senzor](./images/screenshots/sr/JumpY_senzor.jpg)
 
@@ -188,91 +194,90 @@ Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na ta
 
 ---
 
-režim: snoezelen 4-4-2: Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim Snoezelen umirujućeg svetla birate pritiskom na taster " Snoezelen".
+### Režim: Snoezelen
 
-Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
+**4-4-2:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Snoezelen umirujućeg svetla birate pritiskom na taster **" Snoezelen"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
-Podešavanje kombinacije boja, brzine i broja boja koje se prikazuju se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji "Podešavanja".
+Podešavanje kombinacije boja, brzine i broja boja koje se prikazuju se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji **"Podešavanja"**.
 
-Šara predstavlja izbor načina prikaza umirujućeg svetla, odnosno način prikaza kombinacije boja. Postoji 8 načina prikaza boja, koje birate pomoću ovog klizača.
+**Šara** predstavlja izbor načina prikaza umirujućeg svetla, odnosno način prikaza kombinacije boja. Postoji 8 načina prikaza boja, koje birate pomoću ovog klizača.
 
-Brzina se odnosi na brzinu promene svetala u trenutno izabranom prikazu umirujućeg svetla. Možete je ubrzati ili usporiti.
+**Brzina** se odnosi na brzinu promene svetala u trenutno izabranom prikazu umirujućeg svetla. Možete je ubrzati ili usporiti.
 
-Boje označava broj boja koje će učestvovati u izabranom prikazu umirujućeg svetla.
+**Boje** označava broj boja koje će učestvovati u izabranom prikazu umirujućeg svetla.
 
-Intenzitet svetla podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
+I**ntenzitet svetla** podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
 
-Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, svoja podešavanja možete zapamtiti i njima pristupiti na način koji je opisan na strani 19.
+Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, **svoja podešavanja možete zapamtiti i njima pristupiti** na način koji je opisan na strani 19.
 
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
+Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
 
 ![JumpY snoezelen](./images/screenshots/sr/JumpY_snoezelen.jpg)
 
 *Prikaz ekrana nakon aktiviranja režima Snoezelen.*
 
 ---
+### Režim: Igra tapšanja
 
-režim: igra tapšanja 4-4-3: Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim Igra tapšanja birate pritiskom na taster " Igra tapšanja". Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
+**4-4-3:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Igra tapšanja birate pritiskom na taster **"Igra tapšanja"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
-Podešavanje osetljivosti uređaja na zvuk se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji "Podešavanja".
+Podešavanje osetljivosti uređaja na zvuk se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji **"Podešavanja"**.
 
-Osetljivost predstavlja osetljivost sistema na nagli skok u nivou zvuka. Ovaj nagli skok se izaziva proizvođenjem nekog glasnog, oštrog zvuka - tapšanja, udarom noge o pod, olovke u sto, lopte u pod, udarca u bubanj itd. Više informacija o načinu igranja možete pronaći pritiskom na simbol znaka pitanja, u desnom delu gornjeg crvenog polja.
+**Osetljivost** predstavlja osetljivost sistema na nagli skok u nivou zvuka. Ovaj nagli skok se izaziva proizvođenjem nekog glasnog, oštrog zvuka - tapšanja, udarom noge o pod, olovke u sto, lopte u pod, udarca u bubanj itd. Više informacija o načinu igranja možete pronaći pritiskom na simbol znaka pitanja, u desnom delu gornjeg crvenog polja.
 
-Resetuj je dugme označeno simbolom. Pritiskom na ovaj taster vraćate igru u početni položaj.
+**Resetuj** je dugme označeno simbolom ↻. Pritiskom na ovaj taster vraćate igru u početni položaj.
 
-Intenzitet svetla podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
+**Intenzitet svetla** podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
 
-Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, svoja podešavanja možete zapamtiti i njima pristupiti na način koji je opisan na strani 19.
+Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, **svoja podešavanja možete zapamtiti i njima pristupiti** na način koji je opisan na strani 19.
 
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
+Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
 
 ![JumpY igra tapšanja](./images/screenshots/sr/JumpY_igra_taps_anja.jpg)
 
 *Prikaz ekrana nakon aktiviranja režima Igra tapšanja.*
 
 ---
+### Režim: Razlike
 
-režim: razlike 4-4-4: Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim Razlike - vežba raspoznavanja boja birate pritiskom na taster "Razlike".
+**4-4-4:** Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim Razlike - vežba raspoznavanja boja birate pritiskom na taster **"Razlike"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
-Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
+Podešavanje osetljivosti uređaja na zvuk se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji **"Podešavanja".**
 
-Podešavanje osetljivosti uređaja na zvuk se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji "Podešavanja".
+**Osetljivost** predstavlja osetljivost sistema na nagli skok u nivou zvuka. Ovaj nagli skok se izaziva proizvođenjem nekog glasnog, oštrog zvuka - tapšanja, udarom noge o pod, olovke u sto, lopte u pod, udarca u bubanj itd. Više informacija o načinu igranja možete pronaći pritiskom na simbol znaka pitanja, u desnom delu gornjeg crvenog polja.
 
-Osetljivost predstavlja osetljivost sistema na nagli skok u nivou zvuka. Ovaj nagli skok se izaziva proizvođenjem nekog glasnog, oštrog zvuka - tapšanja, udarom noge o pod, olovke u sto, lopte u pod, udarca u bubanj itd. Više informacija o načinu igranja možete pronaći pritiskom na simbol znaka pitanja, u desnom delu gornjeg crvenog polja.
+**Vreme do drugog udara** određuje maksimalan vremenski razmak između dva udara koje sistem registruje kao dvostruki udar.
 
-Vreme do drugog udara određuje maksimalan vremenski razmak između dva udara koje sistem registruje kao dvostruki udar.
+**Intenzitet svetla** podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
 
-Intenzitet svetla podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
+Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, **svoja podešavanja možete zapamtiti i njima pristupiti** na način koji je opisan na strani 19.
 
-Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, svoja podešavanja možete zapamtiti i njima pristupiti na način koji je opisan na strani 19.
-
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
+Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
 
 ![JumpY razlike](./images/screenshots/sr/JumpY_razlike.jpg)
 
 *Prikaz ekrana nakon aktiviranja režima Razlike.*
 
 ---
+### Režim: Ritmički obrazac
 
-režim: ritmički obrazac 4-4-5: Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim Prepoznavanje i ponavljanje ritmičkih obrazaca birate pritiskom na taster "Ritmički obrazac". Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
+**4-4-5:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Prepoznavanje i ponavljanje ritmičkih obrazaca birate pritiskom na taster **"Ritmički obrazac"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
-U srednjem delu ekrana se nalazi taster Smer koji određuje u kom smeru će se kretati bela linija.
+U srednjem delu ekrana se nalazi taster **Smer** koji određuje u kom smeru će se kretati bela linija.
 
-Podešavanje uređaja se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji "Podešavanja".
+Podešavanje uređaja se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji **"Podešavanja"**.
 
-Na klizaču sa oznakama Lako-Srednje-Teško biramo širinu linija čime igraču otežavamo ili olakšavamo zadatak. Pored ovog klizača se nalazi taster sa oznakom čijim aktiviranjem se igra resetuje i vraća na početak.
+Na klizaču sa oznakama **Lako-Srednje-Teško** biramo širinu linija čime igraču otežavamo ili olakšavamo zadatak. Pored ovog klizača se nalazi taster sa oznakom ↻ čijim aktiviranjem se igra resetuje i vraća na početak.
 
-Brzina predstavlja brzinu kretanja bele linije. Njenim podešavanjem igraču otežavamo ili olakšavamo zadatak.
+**Brzina** predstavlja brzinu kretanja bele linije. Njenim podešavanjem igraču otežavamo ili olakšavamo zadatak.
 
-Osetljivost predstavlja osetljivost sistema na nagli skok u nivou zvuka. Ovaj nagli skok se izaziva proizvođenjem nekog glasnog, oštrog zvuka - tapšanja, udarom noge o pod, olovke u sto, lopte u pod, udarca u bubanj itd.
+**Osetljivost** predstavlja osetljivost sistema na nagli skok u nivou zvuka. Ovaj nagli skok se izaziva proizvođenjem nekog glasnog, oštrog zvuka - tapšanja, udarom noge o pod, olovke u sto, lopte u pod, udarca u bubanj itd. Više informacija o načinu igranja možete pronaći pritiskom na simbol znaka pitanja, u desnom delu gornjeg crvenog polja.
 
-Više informacija o načinu igranja možete pronaći pritiskom na simbol znaka pitanja, u desnom delu gornjeg crvenog polja.
+**Intenzitet svetla** podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
 
-Intenzitet svetla podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
+Ukoliko promenite neki od parametara **svoja podešavanja možete zapamtiti i njima pristupiti** na način koji je opisan na strani 19.
 
-Ukoliko promenite neki od parametara svoja podešavanja možete zapamtiti i njima pristupiti na način koji je opisan na strani 19.
-
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
+Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
 
 ![JumpY ritmički obrazac](./images/screenshots/sr/JumpY_ritmic_ki_obrazac-1.jpg)
 
@@ -280,29 +285,25 @@ Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na ta
 
 ---
 
-režim: fonetika 4-4-6: Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim Fonetika - vežbanje formanata i sibilanata birate pritiskom na taster "Fonetika". Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
+### Režim: Fonetika 
+
+**4-4-6:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Fonetika - vežbanje formanata i sibilanata birate pritiskom na taster **"Fonetika"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
 U srednjem delu ekrana se nalazi slika koja pokazuje u kom režimu rada se nalazi uređaj.
 
-Podešavanje uređaja se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji "Podešavanja".
+Podešavanje uređaja se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji **"Podešavanja"**.
 
-Na klizaču sa oznakama Prag formanata biramo prag koji nivo zvuka mora da pređe da bi izazvao svetlosnu reakciju.
+Na klizaču sa oznakama **Prag formanata** biramo prag koji nivo zvuka mora da pređe da bi izazvao svetlosnu reakciju. Zvukovi ispod ovog nivoa su ignorisani.
 
-Zvukovi ispod ovog nivoa su ignorisani.
+Na klizaču sa oznakama **Prag sibilanata** biramo prag koji nivo zvuka mora da pređe da bi izazvao svetlosnu reakciju. Zvukovi ispod ovog nivoa su ignorisani.
 
-Na klizaču sa oznakama Prag sibilanata biramo prag koji nivo zvuka mora da pređe da bi izazvao svetlosnu reakciju.
+**Osetljivost** je osetljivost sistema na promenu nivoa zvuka. Ukoliko ga menjate ka većim vrednostima, sistem postaje osetljiviji, i moguće ga je lakše pobuditi. Pomerajući klizač ka manjim vrednostima, potreban je viši nivo zvuka da bi se uređaj pokrenuo, odnosno da bi se svetla upalila.
 
-Zvukovi ispod ovog nivoa su ignorisani.
+**Intenzitet svetla** podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
 
-Osetljivost je osetljivost sistema na promenu nivoa zvuka.
+Ukoliko promenite neki od parametara **svoja podešavanja možete zapamtiti i njima pristupiti** na način koji je opisan na strani 19.
 
-Ukoliko ga menjate ka većim vrednostima, sistem postaje osetljiviji, i moguće ga je lakše pobuditi. Pomerajući klizač ka manjim vrednostima, potreban je viši nivo zvuka da bi se uređaj pokrenuo, odnosno da bi se svetla upalila.
-
-Intenzitet svetla podešava jačinu sijanja ekrana, ovoj funkciji pristupate na taster zupčanika u gornjem crvenom polju.
-
-Ukoliko promenite neki od parametara svoja podešavanja možete zapamtiti i njima pristupiti na način koji je opisan na strani 19.
-
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
+Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
 
 ![JumpY fonetika](./images/screenshots/sr/JumpY_fonetika.jpg)
 

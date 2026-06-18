@@ -4,7 +4,7 @@ sidebar_position: 8
 ---
 ### Garancija
 
-VoiceToys D.O.O. kao autor i proizvođač sistema VoiceToys svakom korisniku daje punu garanciju u trajanju od 24 mesecai nakon kupovine proizvoda.
+VoiceToys D.O.O. kao autor i proizvođač sistema VoiceToys svakom korisniku **daje punu garanciju u trajanju od 24 mesecai** nakon kupovine proizvoda.
 
 Ukoliko se u roku od 24 meseca od datuma prodaje pojavi bilo kakva tehnička nepravilnost, uređaj će bez naknade i u najkraćem vremenskom roku biti zamenjen novim.
 
