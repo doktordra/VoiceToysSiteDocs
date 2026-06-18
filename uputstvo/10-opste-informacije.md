@@ -1,6 +1,7 @@
 ---
 title: Opšte informacije
 sidebar_position: 2
+hide_table_of_contents: true
 ---
 **Bezbednost pre svega!**
 
@@ -66,11 +67,11 @@ U drugoj kutiji dolazi uređaj JumpY, sa pripadajućim napajanjem i senzorom uda
 
 Bežične uređaje izvadite iz kutije i postavite u horizontalni položaj. Kutije odložite na bezbedno mesto, za slučaj budućeg transporta ili odlaganja. Ukoliko smatrate da vam nisu potrebne, možete ih vratiti proizvođaču na reciklažu.
 
-Uređaj JumpY se postavlja na zid, prema uputstvu u poglavlju namenjenom detaljnim informacijama o njemu.
+Uređaj **JumpY** se postavlja na zid, prema uputstvu u poglavlju namenjenom detaljnim informacijama o njemu.
 
 ### Napajanje uređaja i električna bezbednost
 
-Svi uređaji se napajaju standardnim USB punjačima od 5V/3A pomoću kabla sa USB-C priključkom. Ne koristite neispravne ili oštećene kablove, već samo one koji su vam isporučeni uz uređaj ili adekvatne kvalitetne zamene. Tokom punjenja NE OSTAVLJAJTE UREĐAJE BEZ NADZORA! U slučaju eventualne pojave neuobičajeno visoke temperature uređaja, pojave dima ili neuobičajenih mirisa uređaj ODMAH isključite iz struje i odložite na mesto na kom ne može izazvati požar! Bežični uređaji se pune i namenjeni su za rad bez priključenog napajanja, dok uređaj JumpY mora da bude konstantno priključen na napajanje jer ne sadrži baterije.
+Svi uređaji se napajaju standardnim USB punjačima od 5V/3A pomoću kabla sa USB-C priključkom. Ne koristite neispravne ili oštećene kablove, već samo one koji su vam isporučeni uz uređaj ili adekvatne kvalitetne zamene. Tokom punjenja NE OSTAVLJAJTE UREĐAJE BEZ NADZORA! U slučaju eventualne pojave neuobičajeno visoke temperature uređaja, pojave dima ili neuobičajenih mirisa uređaj ODMAH isključite iz struje i odložite na mesto na kom ne može izazvati požar! Bežični uređaji se pune i namenjeni su za rad bez priključenog napajanja, dok uređaj **JumpY** mora da bude konstantno priključen na napajanje jer ne sadrži baterije.
 
 ### Objašnjenje simbola
 
@@ -82,16 +83,6 @@ Svi uređaji se napajaju standardnim USB punjačima od 5V/3A pomoću kabla sa US
 ---
 
 ### Upozorenja
-
-- **OPREZ**: Baterija u uređaju nije zamenjiva i njena zamena može izazvati rizik. Ne pokušavajte da je zamenite ili isključite.
-
-- **UPOZORENJE**: Postoji rizik od eksplozije ili povrede ako je uređaj izložen provodnim materijalima, tečnosti, vatri ili visokoj temperaturi (iznad 40°C).
-
-- **UPOZORENJE**: Uređaj mora biti napajan eksternim napajanjem koje je usklađeno sa IEC/EN 62368-1 standardom i ispunjava ES1 i PS1 zahteve...
-
-- UPOZORENJE: Opasnost od strujnog udara ili požara. Uređaj punite isključivo isporučenim USB punjačem. USB kabl mora biti povezan na sertifikovani laptop/PC ili sertifikovani mini USB punjač.
-
-- UPOZORENJE: NE otvarajte kućište uređaja. Ukoliko se utvrdi da je kućište otvoreno, garancija prestaje da važi.
 
 | Oznaka / Sign | Značenje                                                                                                                                                                                            |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -121,14 +112,14 @@ Ukoliko koristite Android uređaj, aplikaciju možete preuzeti sa Google Play St
 
 Za instalaciju aplikacije potrebna su odobrenja za korišćenje lokacije i bluetooth- a. Prilikom instaliranja, dobićete notifikacije na kojima je potrebno da odobrite pristup traženim funkcijama telefona. Nakon odobrenja, aplikacija se instalira na uobičajeni način i može se naći među ostalim aplikacijama na vašem uređaju, pod imenom VoiceToys i sa našim logotipom.
 
-Tokom upotrebe neophodno je da bluetooth komunikacija i lokacija na vašem telefonu budu uključene.
+**Tokom upotrebe neophodno je da bluetooth komunikacija, notifikacije i lokacija na vašem telefonu budu uključene.**
 
 ### 1 - 3: Početni ekran
 
-Nakon pokretanja aplikacije počinje pretraga uređaja raspoloživih za povezivanje. Nakon završene pretrage, zelenim okvirom biće istaknute slike prisutnih, odnosno uključenih uređaja kojima možete pristupiti. Pritiskom na sliku željenog uređaja, povezujete se sa njim i prelazite na ekran za kontrolu istog. Pritiskom na logo VoiceToys dolazite na naš sajt gde možete naći kontakt za podršku i sve potrebne informacije. Nakon završene pretrage uređaja, možete ponoviti proces pritiskom na simbol koji prikazuje lupu.
+Nakon pokretanja aplikacije počinje pretraga uređaja raspoloživih za povezivanje. **Nakon završene pretrage, zelenim okvirom biće istaknute slike prisutnih, odnosno uključenih uređaja kojima možete pristupiti. Pritiskom na sliku željenog uređaja, povezujete se sa njim i prelazite na ekran za kontrolu istog.** Pritiskom na logo VoiceToys dolazite na naš sajt gde možete naći kontakt za podršku i sve potrebne informacije. Nakon završene pretrage uređaja, možete ponoviti proces pritiskom na simbol koji prikazuje lupu.
 
 ![Screenshot_2024-04-22-11-26-23-93_3a220c2fb963ee2deb62bf32156943f2](./images/screenshots/sr/Screenshot_2024-04-22-11-26-23-93_3a220c2fb963ee2deb62bf32156943f2.jpg)
 
 *Početni ekran mobilne aplikacije.*
 
-*Uređaj JumpY spreman za povezivanje.*
+*Uređaj **JumpY** spreman za povezivanje.*

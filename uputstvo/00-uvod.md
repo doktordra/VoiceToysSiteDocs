@@ -2,6 +2,7 @@
 title: Hvala na poverenju!
 sidebar_position: 1
 slug: /
+hide_table_of_contents: true
 ---
 **Sistem Voice Toys je napravljen sa željom da ga korisnici zavole!**
 

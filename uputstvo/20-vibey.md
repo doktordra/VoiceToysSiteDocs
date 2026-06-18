@@ -1,42 +1,38 @@
 ---
 title: VibeY
 sidebar_position: 3
+hide_table_of_contents: true
 ---
 ![VibeYsolo2](./images/VibeYsolo2.png)
 
 ---
 
-### Specifikacije uređaja - VibeY
+### Specifikacije uređaja
 
-Prečnik 121mm, visina 60mm, PET-G ekstrudirani akril.
-
-![VibeY](./images/image-26.png)
-
-![VibeYAsset 1](./images/VibeYAsset_1.png)
-
-| Napajanje | DC, 5V, 3A |
-| --- | --- |
-| Konektor | USB-C |
+| Napajanje | DC, 5V, 3A                      |
+| --------- | ------------------------------- |
+| Konektor  | USB-C                           |
 | Dimenzije | Prečnik 121mm<br />Visina 60 mm |
-| Baterija | Li-Ion 18650 |
-| Mreže | Wi-Fi, Bluetooth |
-| Kućište | PET-G<br />ekstrudirani akril |
+| Baterija  | Li-Ion 18650                    |
+| Mreže     | Wi-Fi, Bluetooth                |
+| Kućište   | PET-G<br />ekstrudirani akril   |
+
 
 ---
 
 ### 2 - 1: Opis uređaja i bezbednosne napomene
 
-VibeY je vibrotaktilna, svetleća kutija, namenjena za stimulaciju glasanja i kontrolu visine i intenziteta glasa. Iako je namenjena da se pomoću nje osete vibracije, ne sme se davati deci na samostalno rukovanje! Detaljna podešavanja uređaja se vrše putem mobilne aplikacije VoiceToys.
+**VibeY** je vibrotaktilna, svetleća kutija, namenjena za stimulaciju glasanja i kontrolu visine i intenziteta glasa. Iako je namenjena da se pomoću nje osete vibracije, **ne sme se davati deci na samostalno rukovanje!** Detaljna podešavanja uređaja se vrše putem mobilne aplikacije VoiceToys.
 
 ### 2 - 2: Puštanje uređaja u rad
 
-Uređaj se pokreće se stavljanjem prekidača koji se nalazi sa donje strane uređaja u poziciju 1. Nakon uključivanja, logotip na kućištu počinje da sija, LED svetlo sa gornje strane prikaže animaciju svetlima i uređaj na kratko zavibrira. Ovaj efekat se može isključiti putem mobilne aplikacije, što je objašnjeno u sledećem poglavlju. Vaš uređaj VibeY je sada spreman za rad.
+Uređaj se pokreće se stavljanjem prekidača koji se nalazi sa donje strane uređaja u poziciju 1. Nakon uključivanja, logotip na kućištu počinje da sija, LED svetlo sa gornje strane prikaže animaciju svetlima i uređaj na kratko zavibrira. Ovaj efekat se može isključiti putem mobilne aplikacije, što je objašnjeno u sledećem poglavlju. Vaš uređaj **VibeY** je sada spreman za rad.
 
 Ukoliko logotip promeni boju u žuto, to znači da je baterija oslabila, a ukoliko počne da treperi crveno, baterija je na kritično niskom nivou i treba je odmah napuniti. Stanje baterija možete kontrolisati i pomoću mobilne aplikacije.
 
 Na donjoj strani uređaja se takođe nalaze i tri otvora za ulaz zvuka u unutrašnjost uređaja. Ne pokrivajte ih i ne stavljajte uređaj na meku površinu koja može apsorbovati zvuk!
 
-*Uvodne napomene: VibeY, donja strana uređaja.*
+
 
 ### 2 - 3: Punjenje baterije uređaja
 
@@ -44,14 +40,13 @@ Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću U
 
 ![vibey-removebg-preview](./images/vibey-removebg-preview.png)
 
-*Prekidač za uključivanje uređaja i USB-C konektor za punjenje baterije uređaja.*
+***VibeY**, donja strana uređaja. Vidljivi su prekidač, USB-C ulaz i otvori za ulaz zvuka.*
 
 ---
-
+### Početni ekran aplikacije namenjen kontroli uređaja VibeY
 <ScreenshotCallout
 	src="/voice-toys/images/screenshots/sr/VibeY_poc_etni_ekran.jpg"
 	alt="Početni ekran aplikacije namenjen kontroli uređaja VibeY"
-	title="Početni ekran aplikacije namenjen kontroli uređaja"
 	items={[
 		{label: 'Naziv uređaja, informacije o sistemu i pomoć'},
 		{label: 'Klizači za podešavanje vibracije ili svetla', description: '(opisano na sledećoj strani)'},
@@ -70,21 +65,21 @@ Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću U
 
 Nakon pokretanja, uređaj radi u po parametrima koji su postavljeni prilikom prethodnog korišćenja. Ukoliko imate potrebu da prilagođavate parametre osetljivosti ili isključite vibraciju ili svetlo, možete to učiniti pomoću mobilne aplikacije.
 
-Uključite uređaj, pa na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju "VibeY " nakon što se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, uređaj će na kratko emitovati plavo svetlo, na telefonu će se pojaviti ekran prikazan na slici na prethodnoj strani, a kontrole će preuzeti stanje koje je trenutno aktivno u uređaju.
+Uključite uređaj, pa na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju  **VibeY** nakon što se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, uređaj će na kratko emitovati plavo svetlo, na telefonu će se pojaviti ekran prikazan na slici na prethodnoj strani, a kontrole će preuzeti stanje koje je trenutno aktivno u uređaju.
 
-Nakon odabira opcije "VibeY " na početnom ekranu aplikacije, ušli ste u ekran sa prikazima funkcije mobilne aplikacije za uređaj "VibeY ".
+Nakon odabira opcije **VibeY**  na početnom ekranu aplikacije, ušli ste u ekran sa prikazima funkcije mobilne aplikacije za uređaj **VibeY** .
 
 U gornjem žutom polju ekrana možete videti naziv uređaja, informacije o sistemu i pomoć.
 
 Pritiskom na simbol zupčanika u gornjem žutom polju pristupićete ekranu sa informacijama o uređaju (na slici), gde možete videti da li je Vaš uređaj ažuriran, odnosno da li je u njega učitana poslednja verzija softvera.
 
-Pomoću klizača u sekciji "Boja logotipa" možete izabrati boju kojom će sijati logotip Vašeg uređaja.
+Pomoću klizača u sekciji **"Boja logotipa"** možete izabrati boju kojom će sijati logotip Vašeg uređaja.
 
-Pomoću klizača u sekciji "Intenzitet logotipa" možete odrediti jačinu kojom će sijati logotip Vašeg uređaja.
+Pomoću klizača u sekciji **"Intenzitet logotipa"** možete odrediti jačinu kojom će sijati logotip Vašeg uređaja.
 
-Pritiskom na simbol u sekciji "Uvod" možete uključiti ili isključiti svetla i vibraciju koji se javljauju svaki put kada uključite Vaš uređaj.
+Pritiskom na simbol u sekciji **"Uvod"** možete uključiti ili isključiti svetla i vibraciju koji se javljauju svaki put kada uključite Vaš uređaj.
 
-Pritiskom na bilo koji deo ekrana osenčen sivom bojom se vraćate na početni ekran za uređaj "VibeY ".
+Pritiskom na bilo koji deo ekrana osenčen sivom bojom se vraćate na početni ekran za uređaj **VibeY**.
 
 ![zupcanik VibeY](./images/screenshots/sr/zupcanik_VibeY.jpg)
 
@@ -92,15 +87,16 @@ Pritiskom na bilo koji deo ekrana osenčen sivom bojom se vraćate na početni e
 
 ---
 
-Pritiskom na simbol znaka pitanja pojaviće se ekran sa tekstom koji će Vam pomoći da se podsetite osnovnih funkcija aplikacije za uređaj "VibeY " (slika levo). Tekst možete pomerati na dole kako bi ga pročitali do kraja.
+Pritiskom na simbol znaka pitanja pojaviće se ekran sa tekstom koji će Vam pomoći da se podsetite osnovnih funkcija aplikacije za uređaj **VibeY** (slika dole). Tekst možete pomerati  kako biste ga pročitali do kraja.
 
-U dnu ekrana se nalazi taster "Pogledaj video". Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja "VibeY ".
+U dnu ekrana se nalazi taster "Pogledaj video". Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja **VibeY**.
 
-Pritiskom na taster "X" vraćate se na početni ekran uređaja "VibeY ".
+Pritiskom na taster "X" vraćate se na početni ekran uređaja **VibeY**.
 
-U gornjoj polovini početnog ekrana se nalazi polje "Izaberite ili kreirajte preset". Pritiskom na ovo polje će Vam se prikazati ekran u čijem donjem delu se nalaze kartice sa nazivima "Podrazumevani" i "Korisnički" (slika desno). Pod podrazumevanim presetima se nalaze fabrički podešene svetlosne i vibrirajuće reakcije Vašeg uređaja koje su opisane nazivima ispod slike svakog od njih. U korisničkim presetima se nalaze ona podešavanja koja ste sami kreirali i dali im imena. Način kreiranja i pamćenja podešavanja pogledajte na strani 19.
+U gornjoj polovini početnog ekrana se nalazi polje **"Izaberite ili kreirajte preset**". Pritiskom na ovo polje će Vam se prikazati ekran u čijem donjem delu se nalaze kartice sa nazivima "Podrazumevani" i "Korisnički" (slika desno). Pod podrazumevanim presetima se nalaze fabrički podešene svetlosne i vibrirajuće reakcije Vašeg uređaja koje su opisane nazivima ispod slike svakog od njih. U korisničkim presetima se nalaze ona podešavanja koja ste sami kreirali i dali im imena. Način kreiranja i pamćenja podešavanja pogledajte na strani 19.
 
-Ispod polja "Izaberite i kreirajte preset" se nalazi slika sa vizuelnom reprezentacijom upaljene ili ugašene vibracije odnosno svetla, kao i tasteri za njihovo uključivanje i isključivanje.
+Ispod polja "**Izaberite i kreirajte preset**" se nalazi slika sa vizuelnom reprezentacijom upaljene ili ugašene vibracije odnosno svetla, kao i tasteri za njihovo uključivanje i isključivanje.
+
 
 ![VibeY](./images/screenshots/sr/VibeY_.jpg)
 
