@@ -38,6 +38,7 @@ const config: Config = {
   projectName: 'prirucnik',
 
   onBrokenLinks: 'throw',
+  onBrokenAnchors: 'ignore',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -199,14 +200,6 @@ const config: Config = {
             {
               label: 'Uputstvo (Početak)',
               to: '/uputstvo',
-            },
-            {
-              label: 'Uputstvo (English)',
-              to: '/en/uputstvo',
-            },
-            {
-              label: 'Uputstvo (Deutsch)',
-              to: '/de/uputstvo',
             },
           ],
         },
