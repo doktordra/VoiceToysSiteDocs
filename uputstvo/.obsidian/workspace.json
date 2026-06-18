@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-spready.md",
+                "file": "10-opste-informacije.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30-spready"
+              "title": "10-opste-informacije"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "b2f336f4791fa63a",
@@ -185,11 +185,20 @@
   },
   "active": "5773a9b2209da8a5",
   "lastOpenFiles": [
-    "40-jumpy.md",
-    "30-spready.md",
-    "20-vibey.md",
+    "images/vibey-removebg-preview.png",
+    "images/SpreadYAsset_4.png",
+    "images/Spready-removebg-preview.png",
+    "images/SpaceY_USBC_Back_52-filtered.png",
+    "images/senzor-removebg-preview-1.png",
+    "images/Screenshot_2024-04-30-16-33-11-09_41a74ddf68be21faad2fbbb691b15143.jpg",
+    "images/Raising_Starts_BEDZ_.png",
+    "images/image-26.png",
+    "images/image-55.png",
     "10-opste-informacije.md",
     "00-uvod.md",
+    "30-spready.md",
+    "40-jumpy.md",
+    "20-vibey.md",
     "70-garancija.md",
     "60-azuriranje.md"
   ]
