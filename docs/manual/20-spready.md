@@ -154,7 +154,7 @@ Varijacija: Rasporedite stubiće i kartice kao u prethodnoj igri. U ovoj igri s
 
 Kada se na nekom od stubića uključi svetlo, igra počinje. Zadatak je da dete zapamti koja boja baze se aktivirala, kao i oblik koji je prikazan na kartici. Zatim na papiru pronađe krug odgovarajuće boje i dodirne ga levim kažiprstom. Desnu šaku formira prema odgovarajućem obliku koji je prikazan na kartici.
 
-![image1.png](./images/image1.png)
+![image1.png](/img/manual/image1.png)
 
 ### **Uhvati boju**
 

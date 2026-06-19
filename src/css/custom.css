@@ -203,13 +203,22 @@ h4 {
 
 .plugin-id-uputstvo .theme-doc-markdown p > em:only-child {
   display: block;
-  margin-top: -0.8rem;
-  margin-bottom: 1.2rem;
+  margin-top: -0.9rem;
+  margin-bottom: 2.0rem;
+  padding: 0.35rem 0.65rem;
+  border-radius: 8px;
+  width: fit-content;
+  max-width: min(100%, 64ch);
+  margin-left: auto;
+  margin-right: auto;
   font-family: var(--vt-body-font);
   font-style: italic;
-  font-size: 0.9rem;
-  color: #333;
+  font-size: 0.92rem;
+  line-height: 1.4;
+  color: #1e5f95;
   text-align: center;
+  background: rgba(35, 103, 148, 0.08);
+  border: 1px solid rgba(35, 103, 148, 0.2);
 }
 
 .plugin-id-uputstvo .theme-doc-markdown table {
@@ -221,12 +230,17 @@ h4 {
   font-size: 0.98rem;
 }
 
-/* EPUB look: yellow header band, dashed inner rules, alternating rows */
+/* Default: plain header without yellow */
 .plugin-id-uputstvo .theme-doc-markdown th {
-  background: var(--vt-yellow);
+  background: var(--vt-table-alt);
   color: #1a1a1a;
   font-weight: 700;
   text-align: left;
+}
+
+/* Safety/warning tables — retain yellow header band */
+.plugin-id-uputstvo .theme-doc-markdown .table-warning th {
+  background: var(--vt-yellow);
 }
 
 .plugin-id-uputstvo .theme-doc-markdown th,

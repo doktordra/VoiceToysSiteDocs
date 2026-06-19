@@ -2,15 +2,15 @@
 title: SpaceY
 sidebar_position: 6
 ---
-![SpaceYs.3](./images/image-135.png)
+![SpaceYs.3](/voice-toys/images/image-135.png)
 
 ---
 
 ### Specifikacije uređaja - SpaceY 
 
-![SpaceY](./images/image-137.png)
+![SpaceY](/voice-toys/images/image-137.png)
 
-![SpaceYAsset 3](./images/SpaceYAsset_3.png)
+![SpaceYAsset 3](/voice-toys/images/SpaceYAsset_3.png)
 
 | Napajanje | DC, 5V, 3A                                           |
 | --------- | ---------------------------------------------------- |
@@ -30,7 +30,7 @@ SpaceY je sistem koji se sastoji od 5 pametnih zvučnika primarno namenjenih uve
 
 ### 5 - 2: Puštanje u rad
 
-Zvučnici se uključuju postavljanjem prekidača koji se nalazi sa donje strane uređaja u položaj 1. Svetla na zvučnicima počinju da emituju svetlost u boji uređaja. **Neophodno je da plavi zvučnik bude uključen da bi i ostali mogli da funkcionišu!** Nakon uključivanja svih zvučnika, pokrenite mobilnu aplikaciju. Na početnom ekranu aplikacije kliknite na sliku zvučnika kada se pozadina iza njih oboji zelenom bojom. Ukoliko su se zvučnici pravilno povezali, svetla na njima će se ugasiti. To znači da su spremni za rad.
+Zvučnici se uključuju postavljanjem prekidača koji se nalazi sa donje strane uređaja u položaj 1. Svetla na zvučnicima počinju da emituju svetlost u boji **uređaja.Neophodno je da plavi zvučnik bude uključen da bi i ostali mogli da funkcionišu!** Nakon uključivanja svih zvučnika, pokrenite mobilnu aplikaciju. Na početnom ekranu aplikacije kliknite na sliku zvučnika kada se pozadina iza njih oboji zelenom bojom. Ukoliko su se zvučnici pravilno povezali, svetla na njima će se ugasiti. To znači da su spremni za rad.
 
 Ukoliko tokom rada svetla počnu da sijaju narandžasto, to znači da je baterija oslabila, a ukoliko počnu da trepere crveno, baterija je na kritično niskom nivou i treba je odmah napuniti. Stanje baterija možete kontrolisati i pomoću mobilne aplikacije.
 
@@ -38,7 +38,7 @@ Ukoliko tokom rada svetla počnu da sijaju narandžasto, to znači da je baterij
 <font color="red">**Zvučnike NEMOJTE hvatati za rezonantnu ploču - belu tablu od balze i EVA pene sa oznakom! Postoji opasnost da otpadne. Molimo vas da zvučnik hvatate samo za plastično kućište!**</font>
 
 
-![SpaceY_USBC.51](./images/image-139.png)
+![SpaceY_USBC.51](/voice-toys/images/image-139.png)
 
 *Detaljne informacije o uređaju SpaceY: prednja strana, indikatorsko svetlo i rezonantna ploča.*
 
@@ -52,13 +52,13 @@ Postavite zvučnike u prostor tako da se nalaze ispred, levo, desno, iza, a jeda
 
 Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od **5V/3A, pomoću USB-C konektora sa zadnje strane uređaja.** Nakon priključenja napona, svetlo indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen. Kada prestanete da radite sa SpaceY zvučnicima, svetla na njima će se upaliti kao podsetnik da ih isključite. Ne ostavljajte ih uključene bez potrebe, kako biste izbegli bespotrebno trošenje baterije.
 
-![SpaceY_USBC_Back.52](./images/SpaceY_USBC_Back_52-filtered.png)
+![SpaceY_USBC_Back.52](/voice-toys/images/SpaceY_USBC_Back_52-filtered.png)
 
 *Detaljne informacije o uređaju SpaceY: donja i zadnja strana, USB-C priključak, prekidač i otvor za montažu.*
 
 ---
 
-![SpaceY početni ekran](./images/screenshots/sr/SpaceY_poc_etni_ekran.jpg)
+![SpaceY početni ekran](/voice-toys/images/screenshots/sr/SpaceY_poc_etni_ekran.jpg)
 
 *Izgled ekrana aplikacije: grupe zvukova, kontrole reprodukcije, jačina zvuka, indikatori vremena i stanje baterije.*
 
@@ -97,6 +97,6 @@ U donjem zelenom polju ekrana se nalazi taster "**Režim**".Pritiskom na ovaj ta
 
 Pritiskom na taster sa simbolom kućice se vraćate na početni ekran **VoiceToys** aplikacije gde možete izabrati neki drugi uređaj iz sistema **VoiceToys** sa kojim želite da nastavite rad.
 
-![SpaceY zvukovi](./images/screenshots/sr/SpaceY_zvukovi.jpg)
+![SpaceY zvukovi](/voice-toys/images/screenshots/sr/SpaceY_zvukovi.jpg)
 
 *Detaljne informacije o uređaju i izgled ekrana nakon pritiska na taster "Režim".*
