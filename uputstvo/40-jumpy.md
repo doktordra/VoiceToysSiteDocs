@@ -18,7 +18,7 @@ sidebar_position: 5
 | ------------ | ----------------------------------------------------------------- |
 | Konektor     | USB-C                                                             |
 | Mreže        | Wi-Fi, Bluetooth                                                  |
-| JumpY        | svetlosni **panel**                                                   |
+| JumpY        | svetlosni **panel**                                               |
 | Dimenzije    | 1200 mm x 300 mm                                                  |
 | Kućište      | Aluminijumski ram, Forex ploče,<br />ekstrudirani akril, EVA pena |
 | JumpY senzor | opcioni senzor udaljenosti                                        |
@@ -132,18 +132,47 @@ U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih r
 
 ---
 
-### **Režim: Reakcija4-4-1:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka i udaljenosti birate pritiskom na taster **"Reakcija"**. Pojaviće se ekran prikazan na strani 27, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
+### Režim: Reakcija
+
+4-4-1:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka i udaljenosti birate pritiskom na taster **"Reakcija"**. Pojaviće se ekran prikazan na strani 27, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
 U sredini ekrana aplikacije se nalaze slike koje identifikuju trenutni režim rada uređaja (leva) i način prikaza svetlosnog **panel**a (desna slika). Izgled ovog dela ekrana možete videti na donjoj slici.
 
-Leva slika na ekranu prikazuje režim rada uređaja koji je označen rečju "Mikrofon" i odgovarajućim simbolom, sve dok nije uključen senzor udaljenosti. Sa ovim postavkama svetlosni **panel** reaguje na zvuk. Kada se senzor udaljenosti uključi, svetlosni **panel** prestaje da reaguje na zvuk i reaguje samo na promenu distance između senzora i objekta, a na ekranu aplikacije je napisano **"Udaljenost"** i odgovarajući simbol. Kada se senzor udaljenosti isključi aplikacija i sve njene funkcije, kao i svetlosni **panel**, automatski se vraćaju u režim "Mikrofon", odnosno ponovo reaguju na zvuk.
 
-Desna slika koja se nalazi u sredini ekrana aplikacije prikazuje trenutni izgled svetlosnog **panel**a. Kada dodirnete sliku, otvara se prozor (slika dole) u kom možete promeniti izgled svetlosnog **panel**a prema ponuđenim opcijama, na način koji je opisan na sledećoj strani.
 
 ![JumpY izaberite ekran](/voice-toys/images/screenshots/sr/JumpY_izaberite_ekran.jpg)
 
 ![JumpY mikrofon](/voice-toys/images/screenshots/sr/JumpY_mikrofon-1.jpg)
 
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/JumpY_izaberite_ekran.jpg"
+	
+	alt="JumpY_senzor)"
+	imagePosition="left"
+>
+
+Leva slika na ekranu prikazuje režim rada uređaja koji je označen rečju "Mikrofon" i odgovarajućim simbolom, sve dok nije uključen senzor udaljenosti. Sa ovim postavkama svetlosni **panel** reaguje na zvuk. Kada se senzor udaljenosti uključi, svetlosni **panel** prestaje da reaguje na zvuk i reaguje samo na promenu distance između senzora i objekta, a na ekranu aplikacije je napisano **"Udaljenost"** i odgovarajući simbol. Kada se senzor udaljenosti isključi aplikacija i sve njene funkcije, kao i svetlosni **panel**, automatski se vraćaju u režim "Mikrofon", odnosno ponovo reaguju na zvuk.
+
+Desna slika koja se nalazi u sredini ekrana aplikacije prikazuje trenutni izgled svetlosnog **panel**a. Kada dodirnete sliku, otvara se prozor (slika dole) u kom možete promeniti izgled svetlosnog **panel**a prema ponuđenim opcijama, na način koji je opisan na sledećoj strani.
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/JumpY_mikrofon-1.jpg"
+	
+	alt="JumpY_senzor)"
+	imagePosition="left"
+>
+
+*Prikaz ekrana nakon uk
+
+
+
+</FigureBlock>
+
+
+
+
+
+
+</FigureBlock>
 ---
 
 ### **Režim: Reakcija** 
@@ -174,6 +203,20 @@ Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili op
 
 ### **Režim:** reakcija - Senzor udaljenosti
 
+
+
+
+
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/JumpY_senzor.jpg"
+	alt="JumpY_senzor)"
+	imagePosition="right"
+>
+
+*Prikaz ekrana nakon uključivanja senzora udaljenosti.*
+
+
+
 Nakon što uključite senzor udaljenosti on će se automatski povezati sa svetlosnim **panel**om, a ekran aplikacije će izgledati kao na slici desno. Detaljno podešavanje njegovih funkcija je opisano na prethodnoj strani.
 
 Senzor distance uključite nakon što ga postavite na maksimalnu distancu od objekta od kog želite da merite udaljenost. U trenutnku uključenja, senzor meri početnu udaljenost, i sve promene udaljenosti se prikazuju u odnosu na nju.
@@ -183,16 +226,27 @@ Postavite ga tako da strana senzora na kojoj se nalaze okrugli otvori bude usmer
 Na ekranu aplikacije možete videti stanje napunjenosti baterije koja se nalazi u senzoru udaljenosti. Nemojte čekati da se baterija potpuno isprazni, nego je napunite priključivanjem USB-C kabla na za to predviđeno mesto koje je na slici dole označeno strelicom.
 
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
-
-![JumpY senzor](/voice-toys/images/screenshots/sr/JumpY_senzor.jpg)
-
-*Prikaz ekrana nakon uključivanja senzora udaljenosti.*
+</FigureBlock>
 
 ![senzor-removebg-preview](/voice-toys/images/senzor-removebg-preview-1.png)
 
 ---
 
 ### **Režim:** Snoezelen
+
+
+
+
+
+
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/JumpY_snoezelen.jpg"
+	alt="JumpY_snoezelen)"
+	imagePosition="right"
+>
+
+*Prikaz ekrana nakon aktiviranja režima Snoezelen.*
+
 
 **4-4-2:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Snoezelen umirujućeg svetla birate pritiskom na taster **" Snoezelen"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
@@ -209,13 +263,24 @@ I**ntenzitet svetla** podešava jačinu sijanja ekrana, ovoj funkciji pristupate
 Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, **svoja **podešavanja možetezapamtiti** i njima pristupiti** na način koji je opisan na strani 19.
 
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
-
-![JumpY snoezelen](/voice-toys/images/screenshots/sr/JumpY_snoezelen.jpg)
-
-*Prikaz ekrana nakon aktiviranja režima Snoezelen.*
+</FigureBlock>
 
 ---
 ### **Režim:** Igra tapšanja
+
+
+
+
+
+
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/JumpY_igra_taps_anja.jpg"
+	alt="JumpY_igra_taps_anja)"
+	imagePosition="right"
+>
+
+*Prikaz ekrana nakon aktiviranja režima Igra tapšanja.*
+
 
 **4-4-3:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Igra tapšanja birate pritiskom na taster **"Igra tapšanja"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
@@ -230,13 +295,24 @@ Podešavanje osetljivosti uređaja na zvuk se vrši pomoću klizača koji se nal
 Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, **svoja **podešavanja možetezapamtiti** i njima pristupiti** na način koji je opisan na strani 19.
 
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
-
-![JumpY igra tapšanja](/voice-toys/images/screenshots/sr/JumpY_igra_taps_anja.jpg)
-
-*Prikaz ekrana nakon aktiviranja režima Igra tapšanja.*
+</FigureBlock>
 
 ---
 ### **Režim:** Razlike
+
+
+
+
+
+
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/JumpY_razlike.jpg"
+	alt="JumpY_razlika)"
+	imagePosition="right"
+>
+
+*Prikaz ekrana nakon aktiviranja režima Razlike.*
+
 
 **4-4-4:** Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim Razlike - vežba raspoznavanja boja birate pritiskom na taster **"Razlike"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
@@ -249,13 +325,24 @@ Podešavanje osetljivosti uređaja na zvuk se vrši pomoću klizača koji se nal
 Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, **svoja **podešavanja možetezapamtiti** i njima pristupiti** na način koji je opisan na strani 19.
 
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
-
-![JumpY razlike](/voice-toys/images/screenshots/sr/JumpY_razlike.jpg)
-
-*Prikaz ekrana nakon aktiviranja režima Razlike.*
+</FigureBlock>
 
 ---
 ### **Režim:** Ritmički obrazac
+
+
+
+
+
+
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/JumpY_ritmic_ki_obrazac-1.jpg"
+	alt="JumpY_ritmic_ki_obrazac-1)"
+	imagePosition="right"
+>
+
+*Prikaz ekrana nakon aktiviranja režima Ritmički obrazac.*
+
 
 **4-4-5:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Prepoznavanje i ponavljanje ritmičkih obrazaca birate pritiskom na taster **"Ritmički obrazac"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
@@ -274,14 +361,25 @@ Na klizaču sa oznakama **Lako-Srednje-Teško** biramo širinu linija čime igra
 Ukoliko promenite neki od parametara **svoja **podešavanja možetezapamtiti** i njima pristupiti** na način koji je opisan na strani 19.
 
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
-
-![JumpY ritmički obrazac](/voice-toys/images/screenshots/sr/JumpY_ritmic_ki_obrazac-1.jpg)
-
-*Prikaz ekrana nakon aktiviranja režima Ritmički obrazac.*
+</FigureBlock>
 
 ---
 
 ### **Režim:** Fonetika 
+
+
+
+
+
+
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/JumpY_fonetika.jpg"
+	alt="JumpY_fonetika)"
+	imagePosition="right"
+>
+
+*Prikaz ekrana nakon aktiviranja režima Fonetika.*
+
 
 **4-4-6:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Fonetika - vežbanje formanata i sibilanata birate pritiskom na taster **"Fonetika"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 26.
 
@@ -300,7 +398,4 @@ Na klizaču sa oznakama **Prag sibilanata** biramo prag koji nivo zvuka mora da 
 Ukoliko promenite neki od parametara **svoja **podešavanja možetezapamtiti** i njima pristupiti** na način koji je opisan na strani 19.
 
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
-
-![JumpY fonetika](/voice-toys/images/screenshots/sr/JumpY_fonetika.jpg)
-
-*Prikaz ekrana nakon aktiviranja režima Fonetika.*
+</FigureBlock>

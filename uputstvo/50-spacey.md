@@ -8,9 +8,18 @@ sidebar_position: 6
 
 ### Specifikacije uređaja - SpaceY 
 
-![SpaceY](/voice-toys/images/image-137.png)
 
-![SpaceYAsset 3](/voice-toys/images/SpaceYAsset_3.png)
+
+
+
+
+<FigureBlock
+	src="/voice-toys/images/image-137.png"
+	alt="image/137"
+	imagePosition="right"
+>
+
+
 
 | Napajanje | DC, 5V, 3A                                           |
 | --------- | ---------------------------------------------------- |
@@ -19,10 +28,22 @@ sidebar_position: 6
 | Baterija  | Li-Ion 18650                                         |
 | Mreže     | Wi-Fi, Bluetooth                                     |
 | Kućište   | PET-G, Balza drvo, Eva pena,<br />ekstrudirani akril |
-
+</FigureBlock>
 
 
 ---
+
+
+
+
+
+<FigureBlock
+	src="/voice-toys/images/image-139.png"
+	alt="SpaceY_USBC_Back_52-filtered"
+	imagePosition="right"
+>
+
+
 
 ### 5 - 1: Opis sistema i bezbednosne napomene
 
@@ -36,13 +57,23 @@ Ukoliko tokom rada svetla počnu da sijaju narandžasto, to znači da je baterij
 
 
 <font color="red">**Zvučnike NEMOJTE hvatati za rezonantnu ploču - belu tablu od balze i EVA pene sa oznakom! Postoji opasnost da otpadne. Molimo vas da zvučnik hvatate samo za plastično kućište!**</font>
+</FigureBlock>
 
-
-![SpaceY_USBC.51](/voice-toys/images/image-139.png)
-
-*Detaljne informacije o uređaju SpaceY: prednja strana, indikatorsko svetlo i rezonantna ploča.*
 
 ---
+
+
+
+
+
+
+<FigureBlock
+	src="/voice-toys/images/SpaceY_USBC_Back_52-filtered.png"
+	alt="SpaceY_USBC_Back_52-filtered"
+	imagePosition="right"
+>
+
+
 
 ### 5 - 3: Montaža i postavljanje u prostoru
 
@@ -51,11 +82,7 @@ Postavite zvučnike u prostor tako da se nalaze ispred, levo, desno, iza, a jeda
 ### 5 - 4: Punjenje baterije uređaja
 
 Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od **5V/3A, pomoću USB-C konektora sa zadnje strane uređaja.** Nakon priključenja napona, svetlo indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen. Kada prestanete da radite sa SpaceY zvučnicima, svetla na njima će se upaliti kao podsetnik da ih isključite. Ne ostavljajte ih uključene bez potrebe, kako biste izbegli bespotrebno trošenje baterije.
-
-![SpaceY_USBC_Back.52](/voice-toys/images/SpaceY_USBC_Back_52-filtered.png)
-
-*Detaljne informacije o uređaju SpaceY: donja i zadnja strana, USB-C priključak, prekidač i otvor za montažu.*
-
+</FigureBlock>
 ---
 
 ![SpaceY početni ekran](/voice-toys/images/screenshots/sr/SpaceY_poc_etni_ekran.jpg)
@@ -85,9 +112,20 @@ U donjem delu ekrana se nalaze:
 
 -pet polja sa slikama životinja, uokvirenih bojama koje odgovaraju zvučnicima koja služe za **eimitovanje zvuka**. Kada su zvučnici uključeni, prikazana su samo polja aktivnih zvučnika. Pritiskom na sliku u polju određene boje, odgovarajući zvuk se čuje iz zvučnika u boji polja koje je pritisnuto. U slučaju potrebe možete ponovo emitovati isti zvuk bez uticaja na merenje vremena.
 
-*Funkcije mobilne aplikacije.*
 
 ---
+
+
+### Detaljne informacije o uređaju
+
+
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/SpaceY_zvukovi.jpg"
+	alt="SpaceY_zvukovi"
+	imagePosition="right"
+>
+
+*Izgled ekrana nakon pritska na taster "Režim.*
 
 - ukoliko želite da promenite raspored zvukova, pritisnite neku od strelica ⬅️ ili ➡️koje se nalaze iznad plavog, odnosno žutog polja. Slike će zameniti mesta, i zvučnici će reagovati prema novom rasporedu.
 
@@ -96,7 +134,4 @@ U donjem delu ekrana se nalaze:
 U donjem zelenom polju ekrana se nalazi taster "**Režim**".Pritiskom na ovaj taster će se pojaviti grupe zvukova koje možete da izaberete (životinje, vozila, kućni aparati, instrumenti i priroda). Izborom neke od grupa zvukova slike u donjem delu ekrana će se promeniti i pojaviće se slike iz grupe zvukova koje ste odabrali. Pritiskom na slike će se emitovati novi zvukovi koji odgovaraju slikama.
 
 Pritiskom na taster sa simbolom kućice se vraćate na početni ekran **VoiceToys** aplikacije gde možete izabrati neki drugi uređaj iz sistema **VoiceToys** sa kojim želite da nastavite rad.
-
-![SpaceY zvukovi](/voice-toys/images/screenshots/sr/SpaceY_zvukovi.jpg)
-
-*Detaljne informacije o uređaju i izgled ekrana nakon pritiska na taster "Režim".*
+</FigureBlock>
