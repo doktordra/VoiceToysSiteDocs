@@ -20,8 +20,7 @@ sidebar_position: 6
 | Mreže     | Wi-Fi, Bluetooth                                     |
 | Kućište   | PET-G, Balza drvo, Eva pena,<br />ekstrudirani akril |
 
-*na slici je prikazan jedan uređaj za koji važi specifikacija.
-Komplet podrazumeva 5 uređaja različitih boja.
+
 
 ---
 
@@ -36,7 +35,7 @@ Zvučnici se uključuju postavljanjem prekidača koji se nalazi sa donje strane 
 Ukoliko tokom rada svetla počnu da sijaju narandžasto, to znači da je baterija oslabila, a ukoliko počnu da trepere crveno, baterija je na kritično niskom nivou i treba je odmah napuniti. Stanje baterija možete kontrolisati i pomoću mobilne aplikacije.
 
 
-<font color="red">**Zvučnike NEMOJTE hvatati za rezonantnu ploču - belu tablu od baze i EVA pene sa oznakom! Postoji opasnost da otpadne. Molimo vas da zvučnik hvatate samo za plastično kućište!**</font>
+<font color="red">**Zvučnike NEMOJTE hvatati za rezonantnu ploču - belu tablu od balze i EVA pene sa oznakom! Postoji opasnost da otpadne. Molimo vas da zvučnik hvatate samo za plastično kućište!**</font>
 
 
 ![SpaceY_USBC.51](./images/image-139.png)

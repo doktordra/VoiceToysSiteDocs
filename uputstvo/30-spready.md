@@ -145,37 +145,35 @@ Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na ta
 
 ---
 
-### 3-7: Nakon što ste pritiskom na taster "REŽIM" ušli u meni
+### Režim Memorija: podešavanja.
 
-za izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster " Memorija". Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
+**3-7:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Memorija"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
 
 Igra memorije generiše nizove slučajnih brojeva od 1 do 5 i prikazuje ih osvetljavanjem stubića. Podešavanjem parametara, koje se obavlja pomoću aplikacije, možete odrediti nivo kompleksnosti igre. Podešavanje parametara se vrši pomoću klizača koji se nalaze u donjem delu ekrana čiji je izgled prikazan na prethodnoj strani.
 
-Broj serija određuje koliko serija paljenja stubića će biti u toku jedne igre. Najmanji broj serija je 1, a najveći 10.
+**Broj serija** određuje koliko serija paljenja stubića će biti u toku jedne igre. Najmanji broj serija je 1, a najveći 10.
 
-Maksimalna veličina označava koliko stubića ćemo koristiti tokom jedne serije. Možemo odrediti da se upali samo jedan, pa sve do svih pet stubića. Kada se jednom podesi, ovaj parametar ostaje isti u svim serijama.
+**Maksimalna veličina** označava koliko stubića ćemo koristiti tokom jedne serije. Možemo odrediti da se upali samo jedan, pa sve do svih pet stubića. Kada se jednom podesi, ovaj parametar ostaje isti u svim serijama.
 
-Trajanje prikaza označava vreme tokom kog će stubići biti upaljeni. Vreme je izraženo u sekundama.
+**Trajanje prikaza** označava vreme tokom kog će stubići biti upaljeni. Vreme je izraženo u sekundama.
 
-Trajanje pauze označava vreme tokom kog će stubići biti ugašeni između dve serije. Vreme je izraženo u sekundama.
+**Trajanje pauze** označava vreme tokom kog će stubići biti ugašeni između dve serije. Vreme je izraženo u sekundama.
 
-Intenzitet svetla određuje jačinu svetla kojim će stubići biti osvetljeni.
+**Intenzitet svetla** određuje jačinu svetla kojim će stubići biti osvetljeni.
 
-Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, svoja podešavanja možete zapamtiti na način koji je opisan na strani 19.
+Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, **svoja podešavanja možete zapamtiti** na način koji je opisan na strani 19.
 
-Ispod klizača za podešavanje parametara igre nalaze se taster PLAY, REPEAT i STRELICA. Njihova namena je objašnjena na sledećoj strani.
+Ispod klizača za podešavanje parametara igre nalaze se taster PLAY ▶️ , REPEAT 🔁  i STRELICA 🔽 . Njihova namena je objašnjena na sledećoj strani.
 
-U donjem plavom polju ekrana aplikacije je taster "Preseti", čija je upotreba opisana na strani 19. Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
+U donjem plavom polju ekrana aplikacije je taster "Preseti", čija je upotreba opisana na strani 19. Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
 
-*Režim Memorija: podešavanja.*
 
 ---
+### Režim Memorija - princip rada
 
-Igru pokrećete pritiskom na taster. Stubići će početi da se pale, a na ekranu će se prikazivati šema po kojoj su se palili. Izgled ovog ekrana je prikazan na slici desno.
+Igru pokrećete pritiskom na taster ▶️ . Stubići će početi da se pale, a na ekranu će se prikazivati šema po kojoj su se palili. Izgled ovog ekrana je prikazan na slici desno.
 
-Brojevi u levoj koloni označavaju broj serije paljenja stubića. U ovom primeru igra je bila ograničena na 5 serija.
-
-Brojevi desnoj koloni označavaju koliko stubića je bilo upaljeno u toj seriji. U ovom primeru u prvoj seriji su bila upaljena 3 stubića, u drugoj takođe 3, u trećoj 2, a u četvrtoj i petoj po jedan.
+Brojevi u levoj koloni označavaju broj serije paljenja stubića. U ovom primeru igra je bila ograničena na 5 serija. Brojevi desnoj koloni označavaju koliko stubića je bilo upaljeno u toj seriji. U ovom primeru u prvoj seriji su bila upaljena 3 stubića, u drugoj takođe 3, u trećoj 2, a u četvrtoj i petoj po jedan.
 
 Brojevi u donjem redu označavaju koliko stubića određene boje je ukupno bilo upaljeno tokom trajanja igre. U ovom primeru plavih je ukupno bilo 2, zelenih 3, žutih 1, crvenih i sivih po 2. Broj 10 u desnom uglu označava koliko je ukupno stubića bilo upaljeno tokom igre.
 
@@ -183,17 +181,14 @@ Obojena polja označavaju stubiće određene boje koji su se palili tokom svake 
 
 Aplikacija slučajnim odabirom određuje koji stubići će se paliti u kojoj seriji, i koliko stubića će se paliti u kojoj seriji u odnosu na zadatu maksimalnu veličinu prikaza koja se podešava parametrom opisanim na prethodnoj strani.
 
-Pritiskom na taster pokrećete novu igru sa istim parametrima koji su prethodno zadati.
+Pritiskom na taster ▶️ pokrećete novu igru sa istim parametrima koji su prethodno zadati.
 
-Pritiskom na taster ponavljate prethodnu igru, sa istim zadatim parametrima.
+Pritiskom na taster  🔁 ponavljate prethodnu igru, sa istim zadatim parametrima.
 
-Ukoliko želite da promenite parametre, pritiskom na taster će se pojaviti klizači za kontrolu parametara igre.
-
-Njih možete ukloniti ponovnim pritiskom na isti taster.
+Ukoliko želite da promenite parametre, pritiskom na taster 🔽  će se pojaviti klizači za kontrolu parametara igre. Njih možete ukloniti ponovnim pritiskom na isti taster.
 
 ![SpreadY memorija 2](./images/screenshots/sr/SpreadY_memorija_2-2.jpg)
 
-*Režim Memorija - princip rada: prikaz ekrana nakon pritiska na taster "PLAY".*
 
 ---
 
@@ -203,26 +198,24 @@ Njih možete ukloniti ponovnim pritiskom na isti taster.
 
 ---
 
-### 3-8: Nakon što ste pritiskom na taster "REŽIM" ušli u meni
+### Režim Ručno: podešavanje i način rada.
 
-za izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster " Ručno". Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
+**3-8:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meniza izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Ručno"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
 
 Napominjemo da se i u ovom slučaju primenjuje raspored stubića kao i za režim "Mikrofon" - plavi, zeleni, žuti, crveni, sivi, kako je i prikazano na ekranu aplikacije.
 
 Za analizu i sintezu reči i rečenica koriste se dodaci - nosači koji se postavljaju na svetleće šipke, u koje možete staviti kartice sa slovima ili slikama. Kartice nisu deo sistema "VoiceToys" i ne dolaze uz stubiće SpreadY.
 
-Podešavanje intenziteta sijanja se vrši klizačem " Intenzitet svetla". Odnosi se na sve stubiće.
+**Podešavanje intenziteta sijanja** se vrši klizačem **" Intenzitet svetla"**. Odnosi se na sve stubiće.
 
 Određivanje načina aktivacije i prikaza upaljenih stubića se podešava izborom jedne od opcija koje su prikazane u narednoj sekciji.
 
-Jedan označava opciju u kojoj će se paliti i ostati upaljen samo jedan stubić. Stubić možemo upaliti pritiskom na polje koje je oivičeno bojom onog stubića koji želimo da upalimo. Obojeno polje označava da je stubić te boje upaljen. Možemo izabrati koji stubić želimo da upalimo, a kada upalimo naredni stubić - prethodni će se ugasiti.
+**Jedan** označava opciju u kojoj će se paliti i ostati upaljen samo jedan stubić. Stubić možemo upaliti pritiskom na polje koje je oivičeno bojom onog stubića koji želimo da upalimo. Obojeno polje označava da je stubić te boje upaljen. Možemo izabrati koji stubić želimo da upalimo, a kada upalimo naredni stubić - prethodni će se ugasiti. Stubiće možemo paliti redom od plavog do sivog i nazad pritiskom na tastere LEVO i DESNO, a stubiće gasimo pritiskom na taster ↻ .
 
-Stubiće možemo paliti redom od plavog do sivog i nazad pritiskom na tastere LEVO i DESNO, a stubiće gasimo pritiskom na taster.
+**Bilo koji** označava opciju u kojoj pritiskom na polje koje je oivičeno bojom stubića koji želimo da upalimo palimo jedan ili više stubića. Stubić gasimo ponovnim pritiskom na obojeno polje.
 
-Bilo koji označava opciju u kojoj pritiskom na polje koje je oivičeno bojom stubića koji želimo da upalimo palimo jedan ili više stubića. Stubić gasimo ponovnim pritiskom na obojeno polje.
+**Nasumično** označava opciju u kojoj će aplikacija slučajnim uzorkom upaliti jedan stubić. Stubić će se upaliti nakon pritiska na taster PLAY ▶️ , a ugasićemo ga i biti spremni za naredno paljenje pritiskom na taster ↻ . Obojeno polje označava koji stubić je upaljen.
 
-Nasumično označava opciju u kojoj će aplikacija slučajnim uzorkom upaliti jedan stubić. Stubić će se upaliti nakon pritiska na taster PLAY, a ugasićemo ga i biti spremni za naredno paljenje pritiskom na taster. Obojeno polje označava koji stubić je upaljen.
+Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
 
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
 
-*Režim Ručno: podešavanje i način rada.*

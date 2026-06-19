@@ -30,15 +30,15 @@ sidebar_position: 5
 
 ### 4 -1: Opis sistema i bezbednosne napomene
 
-JumpY je višenamenski svetlosni panel dimenzija 120x30 cm, prevashodno namenjen za audio-vizuelnu i senzo- motornu stimulaciju. Može da reaguje na nivo zvuka koristeći ugrađeni mikrofon izuzetne osetljivosti, a može i da se bežično poveže sa pripadajućim senzorom udaljenosti. Pomoću mobilne aplikacije biraju se njegovi brojni režimi rada.
+**JumpY** je višenamenski svetlosni panel dimenzija 120x30 cm, prevashodno namenjen za audio-vizuelnu i senzo- motornu stimulaciju. Može da reaguje na nivo zvuka koristeći ugrađeni mikrofon izuzetne osetljivosti, a može i da se bežično poveže sa pripadajućim senzorom udaljenosti. Pomoću mobilne aplikacije biraju se njegovi brojni režimi rada.
 
 Svetlosni panel nije predviđen za bilo kakav fizički kontakt sa korisnikom! Nemojte dodirivati niti udarati njegovu svetlosnu površinu!
 
 ### 4 - 2: Puštanje sistema u rad
 
-JumpY panel je namenjen za montažu na zid. Uputstvo za montažu se nalazi na sledećoj strani. Ukoliko je potrebno da ga često premeštate, na svoju odgovornost ga možete koristiti i bez pričvršćivanja. JumpY panel je jedini VoiceToys uređaj koji mora biti priključen na električnu mrežu tokom rada. Zbog toga, pre korišćenja se uverite da imate izvor napajanja u blizini. Uređaj se napaja kablom sa USB-C konektorom. Priključak se nalazi sa donje desne strane svetlosnog panela, neposredno ispod prekidača.
+**JumpY** panel je namenjen za montažu na zid. **Uputstvo za montažu se nalazi na sledećoj strani.** Ukoliko je potrebno da ga često premeštate**, na svoju odgovornost ga možete koristiti i bez pričvršćivanja. JumpY panel** je jedini VoiceToys uređaj koji mora biti priključen na električnu mrežu tokom rada. Zbog toga, pre korišćenja se uverite da imate izvor napajanja u blizini. Uređaj se napaja kablom sa USB-C konektorom. Priključak se nalazi sa donje desne strane svetlosnog panela, neposredno ispod prekidača.
 
-Pomoću njega priključite standardni USB adapter, minimum 5V/3A na električnu mrežu. Uključite prekidač. Uređaj se inicijalizuje emitujući crvenu boju. Nakon kratkog perioda inicijalizacije uređaj počinje da radi, i to u onom režimu u kom je radio prilikom prethodne upotrebe.
+Pomoću njega priključite standardni USB adapter, **minimum 5V/3A** na električnu mrežu. Uključite prekidač. Uređaj se inicijalizuje emitujući crvenu boju. Nakon kratkog perioda inicijalizacije uređaj počinje da radi, i to u onom režimu u kom je radio prilikom prethodne upotrebe.
 
 ![Jumped - semafor 2 alpha](./images/Jumped_-_semafor_2_alpha.png)
 
@@ -56,31 +56,30 @@ Ostavite dovoljno prostora sa donje desne strane za priključak struje i kontrol
 
 Nakon montaže, pričvrstite priložene samolepljive ugaonike na uglove uređaja.
 
-*Ugaonik pričvršćen za uređaj.*
+
 
 ![IMG20251225155359](./images/IMG20251225155359.jpg)
+*Ugaonik pričvršćen za uređaj.*
 
 ---
 
 ### 4 - 3: Funkcije mobilne aplikacije za uređaj JumpY
 
-Biranje režima rada i fina podešavanja uređaja se vrše pomoću aplikacije VoiceToys. Pre nego što pokrenete mobilnu aplikaciju, obavezno uključite uređaj JumpY kako bi se povezao sa aplikacijom. Uređaji (svetlosni panel i senzor distance) se povezuju automatski, bez ikakvog dodatnog podešavanja i reaguju na zvuk odmah nakon uključivanja.
+Biranje režima rada i fina podešavanja uređaja se vrše pomoću aplikacije **VoiceToys**. Pre nego što pokrenete mobilnu aplikaciju, obavezno uključite uređaj JumpY kako bi se povezao sa aplikacijom. Uređaji (svetlosni panel i senzor distance) se povezuju automatski, bez ikakvog dodatnog podešavanja i reaguju na zvuk odmah nakon uključivanja.
 
 Nakon što uključite uređaj, na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju "JumpY " kada se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, svetlosni panel će na kratko emitovati plavo svetlo, a mobilna aplikacija će preuzeti podešavanja uređaja i prikazati vrednosti po kojima on trenutno radi.
 
 U gornjem crvenom polju ekrana aplikacije možete videti naziv uređaja i tastere za informacije o sistemu i pomoć.
 
-Pritiskom na simbol zupčanika u gornjem crvenom polju pristupićete ekranu sa informacijama o uređaju, gde možete videti da li je Vaš uređaj ažuriran, odnosno da li je u njega učitana poslednja verzija softvera.
+**Pritiskom na simbol zupčanika** u gornjem crvenom polju pristupićete ekranu sa informacijama o uređaju, gde možete videti da li je Vaš uređaj ažuriran, odnosno da li je u njega učitana poslednja verzija softvera.
 
 Možete podesiti i jačinu zvuka kojom će se emitovati reakcije za tačne i netačne odgovore, kao i jačinu svetla koje emituje svetlosni panel.
 
 Pritiskom na bilo koji deo ekrana osenčen sivom bojom se vraćate na ekran za uređaj JumpY.
 
-Pritiskom na simbol znaka pitanja pojaviće se tekst koji će Vam pomoći da se podsetite osnovnih funkcija JumpY aplikacije. Tekst možete pomerati na dole kako bi ga pročitali do kraja. U dnu ekrana se nalazi taster "Pogledaj video".
+**Pritiskom na simbol znaka pitanja** pojaviće se tekst koji će Vam pomoći da se podsetite osnovnih funkcija JumpY aplikacije. Tekst možete pomerati na dole kako bi ga pročitali do kraja. U dnu ekrana se nalazi taster "Pogledaj video". Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja JumpY.
 
-Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja JumpY.
-
-Pritiskom na taster "X" vraćate se na ekran uređaja JumpY, u onom režimu u kom ste ga prethodno koristili.
+Pritiskom na taster **"X"** vraćate se na ekran uređaja JumpY, u onom režimu u kom ste ga prethodno koristili.
 
 ![JumpY zupcanik](./images/screenshots/sr/JumpY_zupcanik.jpg)
 
@@ -98,11 +97,16 @@ Pritiskom na taster "X" vraćate se na ekran uređaja JumpY, u onom režimu u ko
 
 Svetlosni panel sa senzorom udaljenosti JumpY nudi nekoliko režima rada, sa sledećim predloženim namenama:
 
-### 1 - Režim: Reakcija
-
 ![JumpY režim](./images/screenshots/sr/JumpY_rez_im.jpg)
+*Režimi rada uređaja JumpY: prikaz ekrana nakon pritiska na taster "Režim".*
+### 1 - Režim: Reakcija
+1a - Mikrofon (reakcija na zvuk) 
 
-1a - Mikrofon (reakcija na zvuk) Namena: Vizuelna identifikacija nivoa zvuka 1b - Senzor udaljenosti (reakcija na udaljenost) Namena: Vizuelna identifikacija udaljenosti
+Namena: Vizuelna identifikacija nivoa zvuka 
+
+1b - Senzor udaljenosti (reakcija na udaljenost) 
+
+Namena: Vizuelna identifikacija udaljenosti
 
 ### 2 - Režim: Snoezelen (korisnik podešava parametre)
 
@@ -128,7 +132,7 @@ Izbor režima se vrši pritiskom na taster **"Režim"** koji se nalazi u desnom 
 
 U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih režima.
 
-*Režimi rada uređaja JumpY: prikaz ekrana nakon pritiska na taster "Režim".*
+
 
 ---
 
