@@ -43,20 +43,33 @@ Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću U
 
 ---
 ### Početni ekran aplikacije namenjen kontroli uređaja **VibeY**
-<ScreenshotCallout
+
+<FigureBlock
 	src="/voice-toys/images/screenshots/sr/VibeY_poc_etni_ekran.jpg"
-	alt="Početni ekran aplikacije namenjen kontroli uređaja **Vibe**Y"
-	items={[
-		{label: 'Naziv uređaja, informacije o sistemu i pomoć'},
-		{label: 'Klizači za podešavanje vibracije ili svetla', description: '(opisano na sledećoj strani)'},
-		{label: 'Indikator stanja napunjenosti baterije', description: '(pojavljuje se kada su uređaj i aplikacija povezani)'},
-		{label: 'Trenutno učitani preset i + dugme za pravljenje novog preseta od trenutnih podešavanja'},
-		{label: '**Kartice** za izbor prikaza klizača za podešavanje vibracije ili svetla'},
-		{label: 'Izbor preseta i povratak na glavnu stranu'},
-		{label: '**Tasteri** za uključivanje i isključivanje vibracije/svetla'},
-		{label: 'Vizuelna reprezentacija uključene vibracije/svetla'},
-	]}
-/>
+	alt="Početni ekran aplikacije namenjen kontroli uređaja VibeY"
+>
+*Početni ekran aplikacije namenjen kontroli uređaja **VibeY***
+
+
+Naziv uređaja, informacije o sistemu i pomoć
+
+Klizači za podešavanje vibracije ili svetla (opisano na sledećoj strani)
+
+Indikator stanja napunjenosti baterije (pojavljuje se kada su uređaj i
+aplikacija povezani)
+
+Trenutno učitani preset i + dugme za pravljenje novog preseta od
+trenutnih podešavanja
+
+Kartice za izbor prikaza klizača za podešavanje vibracije ili svetla
+
+Izbor preseta i povratak na glavnu stranu
+
+Tasteri za uključivanje i isključivanje vibracije/svetla
+
+Vizuelna reprezentacija uključene vibracije/svetla
+</FigureBlock>
+
 
 ---
 
@@ -116,7 +129,7 @@ Pritiskom na taster **"X"** vraćate se na početni ekran uređaja **VibeY**.
 >
 *Prikaz ekrana nakon pritiska na polje "Izaberite ili kreirajte preset"*
 
-U gornjoj polovini početnog ekrana se nalazi polje **"Izaberite ili kreirajte preset**". Pritiskom na ovo polje će Vam se prikazati ekran u čijem donjem delu se nalaze kartice sa nazivima "Podrazumevani" i "Korisnički" (slika desno). Pod podrazumevanim presetima se nalaze fabrički podešene svetlosne i vibrirajuće reakcije Vašeg uređaja koje su opisane nazivima ispod slike svakog od njih. U korisničkim presetima se nalaze ona podešavanja koja ste sami kreirali i dali im imena. Način kreiranja i pamćenja podešavanja pogledajte na strani 19.
+U gornjoj polovini početnog ekrana se nalazi polje **"Izaberite ili kreirajte preset**". Pritiskom na ovo polje će Vam se prikazati ekran u čijem donjem delu se nalaze kartice sa nazivima "Podrazumevani" i "Korisnički" (slika desno). Pod podrazumevanim presetima se nalaze fabrički podešene svetlosne i vibrirajuće reakcije Vašeg uređaja koje su opisane nazivima ispod slike svakog od njih. U korisničkim presetima se na laze ona podešavanja koja ste sami kreirali i dali im imena. Način kreiranja i pamćenja podešavanja pogledajte na strani 19.
 
 Ispod polja "**Izaberite i kreirajte preset**" se nalazi slika sa vizuelnom reprezentacijom upaljene ili ugašene vibracije odnosno svetla, kao i tasteri za njihovo uključivanje i isključivanje.
 
