@@ -55,13 +55,21 @@ U gornjem plavom polju ekrana aplikacije možete videti naziv uređaja i tastere
 
 Pritiskom na bilo koji deo ekrana osenčen sivom bojom se vraćate na ekran za uređaj **SpreadY**.
 
-**Pritiskom na simbol znakapitanja** pojaviće se ekran sa tekstom koji će Vam pomoći da se podsetite osnovnih funkcija **SpreadY** aplikacije (slika desno). Tekst možete pomerati na dole kako bi ga pročitali do kraja. U dnu ekrana se nalazi taster "Pogledaj video". Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja **SpreadY**.
+---
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_help.jpg"
+  alt="SpreadY help"
+  imagePosition="right"
+>
+*Prikaz ekrana nakon pritiska na simbol znaka pitanja*
+
+**Pritiskom na simbol znak pitanja** pojaviće se ekran sa tekstom koji će Vam pomoći da se podsetite osnovnih funkcija **SpreadY** aplikacije (slika desno). Tekst možete pomerati na dole kako bi ga pročitali do kraja. U dnu ekrana se nalazi taster "Pogledaj video". Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja **SpreadY**.
 
 Pritiskom na taster **"X"** vraćate se na ekran uređaja **SpreadY**, u onom režimu u kom ste ga prethodno koristili.
 
-![SpreadY help](/voice-toys/images/screenshots/sr/SpreadY_help.jpg)
+</FigureBlock>
 
-*Prikaz ekrana nakon pritiska na simbol znaka **pitanja**.*
 
 ---
 
@@ -69,29 +77,59 @@ Pritiskom na taster **"X"** vraćate se na ekran uređaja **SpreadY**, u onom re
 
 Sistem SpreadY nudi tri režima rada, sa sledećim predloženim namenama:
 
-### 1 - **Režim:** Mikrofon (reakcija na zvuk)
+| Režim | Način rada |    Namena
+| -------- | ----------------------------------- | -------------------------------------------- |
+|  Mikrofon | reakcija na zvuk                    | Vizuelna identifikacija rasprostiranja zvuka    |
+|   Memorija | korisnik podešava parametre         | Igra memorije i učenje sabiranja       |  
+| Ručno    | korisnik uključuje stubiće po želji | Analiza i sinteza reči i rečenice         |    
 
-Namena: Vizuelna identifikacija rasprostiranja zvuka
-### 2 - **Režim:** Memorija (korisnik podešava parametre)
 
-Namena: Igra memorije i učenje sabiranja
-### 3 - **Režim:** Ručno (korisnik uključuje stubiće po želji)
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_rez_im.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+*Režimi rada uređaja SpreadY: prikaz ekrana nakon pritiska na taster **Režim***
 
-Namena: Analiza i sinteza reči i rečenice Izbor režima se vrši pritiskom na taster **"Režim"** koji se nalazi u desnom uglu donjeg plavog polja ekrana aplikacije. Na slici desno možete videti prikaz ekrana nakon pritiska na taster **"Režim"**. Kada dodirnete natpis sa željenim režimom pojaviće se ekran namenjen detaljnom podešavanju tog režima.
+Izbor režima se vrši pritiskom na taster **"Režim"** koji se nalazi u desnom uglu donjeg plavog polja ekrana aplikacije. Na slici desno možete videti prikaz ekrana nakon pritiska na taster **"Režim"**. Kada dodirnete natpis sa željenim režimom pojaviće se ekran namenjen detaljnom podešavanju tog režima.
 
 U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih režima.
-![SpreadY režim](/voice-toys/images/screenshots/sr/SpreadY_rez_im.jpg)
-*Režimi rada uređaja SpreadY: prikaz ekrana nakon pritiska na taster **"Režim"**.*
-
+</FigureBlock>
 ---
-
-![SpreadY zvuk](/voice-toys/images/screenshots/sr/SpreadY_zvuk.jpg)
-
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_zvuk.jpg"
+  alt="SpreadY mikrofon"
+  imagePosition="left"
+>
 *Režim Mikrofon - početni ekran: indikatori baterije, preset opcije, klizači, izbor prikaza i informacije o sistemu.*
 
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
+|     |     |     |     |
+| --- | --- |     |     |
+|     |     |     |     |
+|     |     |     |     |
+| --- | --- |     |     |
+|     |     |     |     |
+|     |     |     |     |
+| --- | --- |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+| 
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+
+</FigureBlock>
+
+
 ---
 
-# 3-6: 
+# Režim Mikrofon: podešavanja
+
 
 Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka birate pritiskom na taster " Mikrofon". Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
 
@@ -109,9 +147,8 @@ Opadanje određuje opadanje intenziteta svetla od plavog do sivog stubića.
 
 **Intenzitet svetla** podešava jačinu sijanja svetlosnih stubića. Što ga više pomerate ka većim vrednostima, svetlosni stubići će sijati jače.
 
-Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, **svojapodešavanja možete zapamtiti** na način koji je opisan na sledećoj strani.
+Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, **svoja podešavanja možete zapamtiti** na način koji je opisan na sledećoj strani.
 
-*Režim Mikrofon: podešavanja.*
 
 ---
 
