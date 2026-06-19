@@ -33,21 +33,21 @@ sidebar_position: 6
 
 ---
 
+### 5 - 1: Opis sistema i bezbednosne napomene
 
+SpaceY je sistem koji se sastoji od 5 pametnih zvučnika primarno namenjenih uvežbavanju identifikacije i prostorne lokalizacije zvuka kod osoba sa oštećenim sluhom. Povezuju se bežično, a napajaju se pomoću ugrađenih punjivih baterija. Kontrolišu se isključivo **VoiceToys** mobilnom aplikacijom. Emituju lako prepoznatljive zvukove razvrstane u grupe od po pet zvukova.
 
 
 
 <FigureBlock
-	src="/voice-toys/images/image-139.png"
+	src="/voice-toys/images/SpaceY_USBC_Back_52-filtered.png"
 	alt="SpaceY_USBC_Back_52-filtered"
 	imagePosition="right"
 >
 
 
 
-### 5 - 1: Opis sistema i bezbednosne napomene
 
-SpaceY je sistem koji se sastoji od 5 pametnih zvučnika primarno namenjenih uvežbavanju identifikacije i prostorne lokalizacije zvuka kod osoba sa oštećenim sluhom. Povezuju se bežično, a napajaju se pomoću ugrađenih punjivih baterija. Kontrolišu se isključivo **VoiceToys** mobilnom aplikacijom. Emituju lako prepoznatljive zvukove razvrstane u grupe od po pet zvukova.
 
 ### 5 - 2: Puštanje u rad
 
@@ -62,19 +62,6 @@ Ukoliko tokom rada svetla počnu da sijaju narandžasto, to znači da je baterij
 
 ---
 
-
-
-
-
-
-<FigureBlock
-	src="/voice-toys/images/SpaceY_USBC_Back_52-filtered.png"
-	alt="SpaceY_USBC_Back_52-filtered"
-	imagePosition="right"
->
-
-
-
 ### 5 - 3: Montaža i postavljanje u prostoru
 
 Postavite zvučnike u prostor tako da se nalaze ispred, levo, desno, iza, a jedan iznad slušaoca ili grupe sa kojom se radi. U slučaju montaže na zid potrebno je izbušiti rupe u zidu i postaviti u njih šrafove prečnika 6 milimetara, sa zakošenom glavom. Na šrafove zakačite zvučnike pomoću rupe koja se nalazi na zadnjoj strani zvučnika.
@@ -82,14 +69,15 @@ Postavite zvučnike u prostor tako da se nalaze ispred, levo, desno, iza, a jeda
 ### 5 - 4: Punjenje baterije uređaja
 
 Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od **5V/3A, pomoću USB-C konektora sa zadnje strane uređaja.** Nakon priključenja napona, svetlo indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen. Kada prestanete da radite sa SpaceY zvučnicima, svetla na njima će se upaliti kao podsetnik da ih isključite. Ne ostavljajte ih uključene bez potrebe, kako biste izbegli bespotrebno trošenje baterije.
-</FigureBlock>
+
+
 ---
-
-![SpaceY početni ekran](/voice-toys/images/screenshots/sr/SpaceY_poc_etni_ekran.jpg)
-
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/SpaceY_poc_etni_ekran.jpg"
+	alt="SpaceY_USBC_Back_52-filtered"
+	imagePosition="right"
+>
 *Izgled ekrana aplikacije: grupe zvukova, kontrole reprodukcije, jačina zvuka, indikatori vremena i stanje baterije.*
-
----
 
 ### 5 - 5: Funkcije mobilne aplikacije
 
@@ -111,6 +99,8 @@ U donjem delu ekrana se nalaze:
 - klizač za **regulaciju i indikaciju jačine zvuka** koju zvučnici proizvode. Početna vrednost je 25, moguće je pojačati do 30. Pojačavanje ili utišavanje zvuka utiče na sve zvučnike podjednako.
 
 -pet polja sa slikama životinja, uokvirenih bojama koje odgovaraju zvučnicima koja služe za **eimitovanje zvuka**. Kada su zvučnici uključeni, prikazana su samo polja aktivnih zvučnika. Pritiskom na sliku u polju određene boje, odgovarajući zvuk se čuje iz zvučnika u boji polja koje je pritisnuto. U slučaju potrebe možete ponovo emitovati isti zvuk bez uticaja na merenje vremena.
+
+</FigureBlock>
 
 
 ---

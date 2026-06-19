@@ -2,10 +2,18 @@
 title: SpreadY
 sidebar_position: 4
 ---
-![Spreads1.9](/voice-toys/images/Spreads1_9.png)
 
 ---
 ### Specifikacije uređaja
+
+
+<FigureBlock
+  src="/voice-toys/images/Spreads1_9.png"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+*Raspored SpreadY stubića po bojama*
+
 
 | Napajanje | DC, 5V, 3A                                             |
 | --------- | ------------------------------------------------------ |
@@ -14,6 +22,8 @@ sidebar_position: 4
 | Baterija  | Li-Ion 18650                                           |
 | Mreže     | Wi-Fi, Bluetooth                                       |
 | Kućište   | PET-G<br />Akrilni štap 20mm prečnik, 40cm<br />dužina |
+
+</FigureBlock>
 
 ---
 
@@ -95,7 +105,12 @@ Izbor režima se vrši pritiskom na taster **"Režim"** koji se nalazi u desnom 
 
 U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih režima.
 </FigureBlock>
----
+
+## Režim Mikrofon: podešavanja
+
+
+Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka birate pritiskom na taster " Mikrofon". 
+
 <FigureBlock
   src="/voice-toys/images/screenshots/sr/SpreadY_zvuk.jpg"
   alt="SpreadY mikrofon"
@@ -103,35 +118,6 @@ U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih r
 >
 *Režim Mikrofon - početni ekran: indikatori baterije, preset opcije, klizači, izbor prikaza i informacije o sistemu.*
 
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-|     |     |     |     |
-|     |     |     |     |
-| --- | --- |     |     |
-|     |     |     |     |
-|     |     |     |     |
-| --- | --- |     |     |
-|     |     |     |     |
-|     |     |     |     |
-| --- | --- |     |     |
-|     |     |     |     |
-|     |     |     |     |
-|     |     |     |     |
-| 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-
-</FigureBlock>
-
-
----
-
-# Režim Mikrofon: podešavanja
-
-
-Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka birate pritiskom na taster " Mikrofon". Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
 
 Vizuelna reprezentacija zvuka može biti analogna ili digitalna. Tasteri za izbor vizuelne reprezentacije zvuka "Analogno" i "Digitalno" se nalaze u sredini ekrana aplikacije. U analognom režimu sijaju svi stubići zajedno, a intenzitet sijanja zavisi od nivoa zvuka. U digitalnom režimu stubići uvek sijaju maksimalnim intenzitetom kada zvuk pređe nivo koji je definisan za svaki od njih, a osvetljavaju se jedan po jedan, u zavisnosti od nivoa zvuka.
 
@@ -149,8 +135,15 @@ Opadanje određuje opadanje intenziteta svetla od plavog do sivog stubića.
 
 Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, **svoja podešavanja možete zapamtiti** na način koji je opisan na sledećoj strani.
 
-
+</FigureBlock>
 ---
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_preseti.jpg"
+  alt="SpreadY preseti"
+  imagePosition="right"
+>
+*Režim Mikrofon - podešavanja: prikaz ekrana nakon pritiska na taster **"Preseti"**.*
 
 U levom uglu donjeg plavog polja aplikacije se nalazi taster **"Preseti"**. Pritiskom na ovaj taster donji deo ekrana aplikacije izgleda kao na slici desno.
 
@@ -169,24 +162,20 @@ Prikazaće se sva podešavanja koja ste do sada zapamtili.
 Jednostavno kliknite na neki od tastera sa imenom zapamćenog podešavanja i sistem će odmah preuzeti ta podešavanja i dalje raditi po njima.
 
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
+</FigureBlock>
 
-![SpreadY preseti](/voice-toys/images/screenshots/sr/SpreadY_preseti.jpg)
-
-*Režim Mikrofon - podešavanja: prikaz ekrana nakon pritiska na taster **"Preseti"**.*
-
----
-
-![SpreadY memorija 1](/voice-toys/images/screenshots/sr/SpreadY_memorija_1.jpg)
-
-*Režim Memorija - ekran parametara igre: serije, ekspozicija, pauza, broj stubića, intenzitet i komande.*
-
----
-
-### Režim Memorija: podešavanja.
+## Režim Memorija: podešavanja
 
 **3-7:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Memorija"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
 
 Igra memorije generiše nizove slučajnih brojeva od 1 do 5 i prikazuje ih osvetljavanjem stubića. Podešavanjem parametara, koje se obavlja pomoću aplikacije, možete odrediti nivo kompleksnosti igre. Podešavanje parametara se vrši pomoću klizača koji se nalaze u donjem delu ekrana čiji je izgled prikazan na prethodnoj strani.
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_memorija_1.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+*Režim Memorija - ekran parametara igre: serije, ekspozicija, pauza, broj stubića, intenzitet i komande.*
 
 **Broj serija** određuje koliko serija paljenja stubića će biti u toku jedne igre. Najmanji broj serija je 1, a najveći 10.
 
@@ -201,13 +190,17 @@ Igra memorije generiše nizove slučajnih brojeva od 1 do 5 i prikazuje ih osvet
 Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, svoja podešavanja možete zapamtiti na način koji je opisan na strani 19.
 
 Ispod klizača za podešavanje parametara igre nalaze se taster PLAY ▶️ , REPEAT 🔁  i STRELICA 🔽 . Njihova namena je objašnjena na sledećoj strani.
-
+</FigureBlock>
 U donjem plavom polju ekrana aplikacije je taster "Preseti", čija je upotreba opisana na strani 19. Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
-
 
 ---
 ### Režim Memorija - princip rada
 
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_memorija_2-2.jpg"
+  alt="SpreadY memorija"
+  imagePosition="right"
+>
 Igru pokrećete pritiskom na taster ▶️ . Stubići će početi da se pale, a na ekranu će se prikazivati šema po kojoj su se palili. Izgled ovog ekrana je prikazan na slici desno.
 
 Brojevi u levoj koloni označavaju broj serije paljenja stubića. U ovom primeru igra je bila ograničena na 5 serija. Brojevi desnoj koloni označavaju koliko stubića je bilo upaljeno u toj seriji. U ovom primeru u prvoj seriji su bila upaljena 3 stubića, u drugoj takođe 3, u trećoj 2, a u četvrtoj i petoj po jedan.
@@ -223,21 +216,21 @@ Pritiskom na taster ▶️ pokrećete novu igru sa istim parametrima koji su pre
 Pritiskom na taster  🔁 ponavljate prethodnu igru, sa istim zadatim parametrima.
 
 Ukoliko želite da promenite parametre, pritiskom na taster 🔽  će se pojaviti klizači za kontrolu parametara igre. Njih možete ukloniti ponovnim pritiskom na isti taster.
-
-![SpreadY memorija 2](/voice-toys/images/screenshots/sr/SpreadY_memorija_2-2.jpg)
-
-
----
-
-![SpreadY ručno](/voice-toys/images/screenshots/sr/SpreadY_ruc_no.jpg)
-
-*Režim Ručno - početni ekran: indikatori baterije, intenzitet, aktivacija stubića i kontrole režima.*
+</FigureBlock>
 
 ---
 
 ### Režim Ručno: podešavanje i način rada.
 
-**3-8:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meniza izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Ručno"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_ruc_no.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+*Režim **Ručno**: indikatori baterije, intenzitet, aktivacija stubića i kontrole režima.*
+
+Nakon što ste pritiskom na taster **"REŽIM"** ušli u meniza izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Ručno"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
 
 Napominjemo da se i u ovom slučaju primenjuje raspored stubića kao i za režim "Mikrofon" - **plavi**, **zeleni, žuti,crveni, sivi**, kako je i prikazano na ekranu aplikacije.
 
@@ -247,13 +240,14 @@ Podešavanje intenziteta sijanja se vrši klizačem " Intenzitet svetla". Odnosi
 
 Određivanje načina aktivacije i prikaza upaljenih stubića se podešava izborom jedne od opcija koje su prikazane u narednoj sekciji.
 
-**Jedan** označava opciju u kojoj će se paliti i ostati upaljen samo jedan stubić. Stubić možemo upaliti pritiskom na polje koje je oivičeno bojom onog stubića koji želimo da upalimo. Obojeno polje označava da je stubić te boje upaljen. Možemo izabrati koji stubić želimo da upalimo, a kada upalimo naredni stubić - prethodni će se ugasiti. Stubiće možemo paliti redom od plavog do sivog i nazad pritiskom na tastere LEVO i DESNO, a stubiće gasimo pritiskom na taster ↻ .
+**Jedan** označava opciju u kojoj će se paliti i ostati upaljen samo jedan stubić. Stubić možemo upaliti pritiskom na polje koje je oivičeno bojom onog stubića koji želimo da upalimo. Obojeno polje označava da je stubić te boje upaljen. Možemo izabrati koji stubić želimo da upalimo, a kada upalimo naredni stubić - prethodni će se ugasiti. Stubiće možemo paliti redom od plavog do sivog i nazad pritiskom na tastere LEVO ⬅️ i DESNO ➡️ , a stubiće gasimo pritiskom na taster ↻ .
 
 **Bilo koji** označava opciju u kojoj pritiskom na polje koje je oivičeno bojom stubića koji želimo da upalimo palimo jedan ili više stubića. Stubić gasimo ponovnim pritiskom na obojeno polje.
 
 **Nasumično** označava opciju u kojoj će aplikacija slučajnim uzorkom upaliti jedan stubić. Stubić će se upaliti nakon pritiska na taster PLAY ▶️ , a ugasićemo ga i biti spremni za naredno paljenje pritiskom na taster ↻ . Obojeno polje označava koji stubić je upaljen.
+</FigureBlock>
+
+
+
 
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
-
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
-

@@ -2,11 +2,17 @@
 title: VibeY
 sidebar_position: 3
 ---
-![VibeYsolo2](/voice-toys/images/VibeYsolo2.png)
 
----
 
 ### Specifikacije uređaja
+
+
+<FigureBlock
+  src="/voice-toys/images/VibeYsolo2.png"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+
 
 | Napajanje | DC, 5V, 3A                      |
 | --------- | ------------------------------- |
@@ -15,7 +21,7 @@ sidebar_position: 3
 | Baterija  | Li-Ion 18650                    |
 | Mreže     | Wi-Fi, Bluetooth                |
 | Kućište   | PET-G<br />ekstrudirani akril   |
-
+</FigureBlock>
 
 ---
 
