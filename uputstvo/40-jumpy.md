@@ -2,13 +2,13 @@
 title: JumpY
 sidebar_position: 5
 ---
-![JumpED](./images/JumpED.png)
 
-![senzor-removebg-preview](./images/senzor-removebg-preview.png)
+
+
 
 ---
 
-specifikacije uređaja - jumpy+ JUMPY SENZOR Aluminijumski ram, Forex ploče, ekstrudirani akril, EVA pena Širina 70 mm Visina 50 mm Dužina 45 mm senzor
+
 
 ![JumpY](./images/image-96.png)
 
