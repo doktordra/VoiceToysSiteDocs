@@ -10,12 +10,12 @@ Ponosni smo što zajedno sa vama stvaramo inovaciju koja predstavlja kreativnost
 
 Zato vas pozivamo da nam se javite sa vašim idejama i učestvujete u daljem razvoju VoiceToys-a!
 
-![DSCN7176](./images/image-178.png)
+![DSCN7176](/voice-toys/images/image-178.png)
 
-![IMG_20230426_112008](./images/image-179.png)
+![IMG_20230426_112008](/voice-toys/images/image-179.png)
 
-![IMG20230426183846](./images/image-180.png)
+![IMG20230426183846](/voice-toys/images/image-180.png)
 
-![IMG20230509131326](./images/image-181.png)
+![IMG20230509131326](/voice-toys/images/image-181.png)
 
 *VoiceToys se razvija i menja zahvaljujući vama.*

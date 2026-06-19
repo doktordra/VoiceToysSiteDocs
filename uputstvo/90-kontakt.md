@@ -9,11 +9,11 @@ Naučno - tehnološki park Beograd, Veljka Dugoševića 54
 
 
 
-![VoiceToysLogo](./images/image-183.png)
+![VoiceToysLogo](/voice-toys/images/image-183.png)
 
 
 
 |                                        |                                                            |
 | -------------------------------------- | ---------------------------------------------------------- |
-| ![NTPlogoLAT](./images/NTPlogoLAT.png) | ![Raising Starts BEDŽ](./images/Raising_Starts_BEDZ_.png) |
+| ![NTPlogoLAT](/voice-toys/images/NTPlogoLAT.png) | ![Raising Starts BEDŽ](/voice-toys/images/Raising_Starts_BEDZ_.png) |
 |                                        |                                                            |

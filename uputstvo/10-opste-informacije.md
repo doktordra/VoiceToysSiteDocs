@@ -9,7 +9,7 @@ VoiceToys nisu igračke, iako se tako zovu.
 
 **VoiceToys uređaje nemojte davati deci na samostalno korišćenje!**
 
-Svi VoiceToys uređaji su napravljeni od neškodljivih materijala i bez oštrih ivica kako bi se minimizovala opasnost od povreda. Uređaji su namenjeni da njima rukuju terapeuti. Osim uređaja VibeY, koji proizvodi vibracije i namenjen je da ga korisnik dodiruje, ostale uređajte nemojte davati korisnicima u ruke kako bi se izbegla slučajna oštećenja. Posebno obratite pažnju na zvučnike iz sistema SpaceY, jer su njihove emitujuće površine napravljene od mekanog drveta. Hvatajte ih i držite isključivo za plastični deo!
+Svi VoiceToys uređaji su napravljeni od neškodljivih materijala i bez oštrih ivica kako bi se minimizovala opasnost od povreda. Uređaji su namenjeni da njima rukuju terapeuti. Osim uređaja **Vibe**Y, koji proizvodi vibracije i namenjen je da ga korisnik dodiruje, ostale uređajte nemojte davati korisnicima u ruke kako bi se izbegla slučajna oštećenja. Posebno obratite pažnju na zvučnike iz sistema **Space**Y, jer su njihove emitujuće površine napravljene od mekanog drveta. Hvatajte ih i držite isključivo za plastični deo!
 
 **Napomena o sigurnosti i odgovornosti korisnika** 
 
@@ -41,7 +41,7 @@ Sistem VoiceToys sastoji se od četiri grupe uređaja i mobilne aplikacije.
 
 Koji su elementi sistema i čemu su namenjeni?
 
-![VoiceToys_System](./images/VoiceToys_System.png)
+![VoiceToys_System](/voice-toys/images/VoiceToys_System.png)
 
 ---
 
@@ -57,11 +57,11 @@ Sistem VoiceToys dolazi u dve kutije. U jednoj su zapakovani **bežični** uređ
 
 Uz njih dolaze i dodatne komponente za rad:
 
-- 5 komada providnih šipki za SpreadY
-- 5 komada nosača za kartice za SpreadY
+- 5 komada providnih šipki za **Spread**Y
+- 5 komada nosača za kartice za **Spread**Y
 - 1 kabl za punjenje
 
-U drugoj kutiji dolazi uređaj JumpY, sa pripadajućim napajanjem i senzorom udaljenost - JumpY Senzor, koji se takođe tretira kao bežični uređaj.
+U drugoj kutiji dolazi uređaj **Jump**Y, sa pripadajućim napajanjem i senzorom udaljenost - **Jump**Y **Senzor**, koji se takođe tretira kao **bežični** uređaj.
 
 ### Raspakivanje i postavljanje za rad
 
@@ -75,7 +75,7 @@ Svi uređaji se napajaju standardnim USB punjačima od 5V/3A pomoću kabla sa US
 
 ### Objašnjenje simbola
 
-| ![AAA\|103](./images/3A.png)   | Uređaj je sertifikovan za bezbednost po standardima za tržište Republike Srbije.   |
+| ![AAA\|103](/img/uputstvo/3A.png)   | Uređaj je sertifikovan za bezbednost po standardima za tržište Republike Srbije.   |
 | ------------------------------ | ---------------------------------------------------------------------------------- |
 | ![AAA\|105](./images/CE.png)   | Uređaj je sertifikovan za bezbednost po standardima za tržište Evropske Unije.     |
 | ![AAA\|95](./images/Trash.png) | Uređaj ne bacajte u komunalni otpad, već ga reciklirajte ili pošaljite proizvođaču |
@@ -83,21 +83,23 @@ Svi uređaji se napajaju standardnim USB punjačima od 5V/3A pomoću kabla sa US
 ---
 
 ### Upozorenja
+<div class="table-warning">
 
-| Oznaka / Sign | Značenje                                                                                                                                                                                            |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⚠️ Upozorenje | Pokazuje mogućnost ozbiljne fizičke povrede ako se uputstva iz ovog priručnika ne prate pravilno.                                                                                                   |
-| ▲ Oprez       | Pokazuje mogućnost fizičke povrede ili materijalne štete ako se uputstva ne prate pravilno.                                                                                                         |
-| 🚫 Zabranjeno | Precrtani krug pokazuje da je nešto zabranjeno. Objašnjenje zabrane nalazi se pored simbola.                                                                                                        |
-| 🚫📦          | Nije dozvoljeno rasklapanje!                                                                                                                                                                        |
-| ❗             | OPREZ: Baterija u uređaju nije zamenjiva i njena zamena može izazvati rizik. Ne pokušavajte da je<br />zamenite ili isključite.                                                                     |
-| ❗             | OPREZ: Proizvodi nisu namenjeni za upotrebu u zapaljivim ili eksplozivnim okruženjima.                                                                                                              |
-| ⚡             | UPOZORENJE: Postoji rizik od eksplozije ili povrede ako je uređaj izložen provodnim materijalima,<br />tečnosti, vatri ili visokoj temperaturi (iznad 40°C).                                        |
-| ❗             | UPOZORENJE: Ne koristite uređaj u vlažnom okruženju. Zaštitite ga od prodora tečnosti.                                                                                                              |
-| ▲             | UPOZORENJE: Uređaj mora biti napajan eksternim napajanjem koje je usklađeno sa IEC/EN 62368-1<br />standardom i ispunjava ES1 i PS1 zahteve.                                                        |
-| 🚫🔌          | UPOZORENJE: Opasnost od strujnog udara ili požara. Uređaj punite isključivo isporučenim USB<br />punjačem. USB kabl mora biti povezan na sertifikovani laptop/PC ili sertifikovani mini USB punjač. |
-| 🚫🛠️         | UPOZORENJE: NE otvarajte kućište uređaja. Ukoliko se utvrdi da je kućište otvoreno, garancija prestaje<br />da važi.                                                                                |
+| Oznaka / Sign | Značenje                                                                                                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚠️ Upozorenje | Pokazuje mogućnost ozbiljne fizičke povrede ako se uputstva iz ovog priručnika ne prate pravilno.                                                                                                       |
+| ▲ Oprez       | Pokazuje mogućnost fizičke povrede ili materijalne štete ako se uputstva ne prate pravilno.                                                                                                             |
+| 🚫 Zabranjeno | Precrtani krug pokazuje da je nešto zabranjeno. Objašnjenje zabrane nalazi se pored simbola.                                                                                                            |
+| 🚫📦          | Nije dozvoljeno rasklapanje!                                                                                                                                                                            |
+| ❗             | **OPREZ:** Baterija u uređaju nije zamenjiva i njena zamena može izazvati rizik. Ne pokušavajte da je<br />zamenite ili isključite.                                                                     |
+| ❗             | **OPREZ:** Proizvodi nisu namenjeni za upotrebu u zapaljivim ili eksplozivnim okruženjima.                                                                                                              |
+| ⚡             | **UPOZORENJE:** Postoji rizik od eksplozije ili povrede ako je uređaj izložen provodnim materijalima,<br />tečnosti, vatri ili visokoj temperaturi (iznad 40°C).                                        |
+| ❗             | **UPOZORENJE:** Ne koristite uređaj u vlažnom okruženju. Zaštitite ga od prodora tečnosti.                                                                                                              |
+| ▲             | **UPOZORENJE:** Uređaj mora biti napajan eksternim napajanjem koje je usklađeno sa IEC/EN 62368-1<br />standardom i ispunjava ES1 i PS1 zahteve.                                                        |
+| 🚫🔌          | **UPOZORENJE:** Opasnost od strujnog udara ili požara. Uređaj punite isključivo isporučenim USB<br />punjačem. USB kabl mora biti povezan na sertifikovani laptop/PC ili sertifikovani mini USB punjač. |
+| 🚫🛠️         | **UPOZORENJE:** NE otvarajte kućište uređaja. Ukoliko se utvrdi da je kućište otvoreno, garancija prestaje<br />da važi.                                                                                |
 
+</div>
 ---
 
 ### Mobilna aplikacija - namena i instalacija
@@ -118,7 +120,7 @@ Za instalaciju aplikacije potrebna su odobrenja za korišćenje lokacije i bluet
 
 Nakon pokretanja aplikacije počinje pretraga uređaja raspoloživih za povezivanje. **Nakon završene pretrage, zelenim okvirom biće istaknute slike prisutnih, odnosno uključenih uređaja kojima možete pristupiti. Pritiskom na sliku željenog uređaja, povezujete se sa njim i prelazite na ekran za kontrolu istog.** Pritiskom na logo VoiceToys dolazite na naš sajt gde možete naći kontakt za podršku i sve potrebne informacije. Nakon završene pretrage uređaja, možete ponoviti proces pritiskom na simbol koji prikazuje lupu.
 
-![Screenshot_2024-04-22-11-26-23-93_3a220c2fb963ee2deb62bf32156943f2](./images/screenshots/sr/Screenshot_2024-04-22-11-26-23-93_3a220c2fb963ee2deb62bf32156943f2.jpg)
+![Screenshot_2024-04-22-11-26-23-93_3a220c2fb963ee2deb62bf32156943f2](/voice-toys/images/screenshots/sr/Screenshot_2024-04-22-11-26-23-93_3a220c2fb963ee2deb62bf32156943f2.jpg)
 
 *Početni ekran mobilne aplikacije.*
 

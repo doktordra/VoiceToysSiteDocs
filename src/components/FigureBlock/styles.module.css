@@ -1,0 +1,76 @@
+/* FigureBlock — responsive screenshot + caption layout */
+
+.wrap {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 1.4rem;
+  margin: 1.8rem 0 4rem;
+}
+
+.wrapRight {
+  flex-direction: row-reverse;
+}
+
+/* Image slot — fixed narrow column on the left */
+.img {
+  flex: 0 0 auto;
+  width: min(220px, 40%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid rgba(17, 86, 115, 0.1);
+  box-shadow: 0 6px 18px rgba(13, 42, 58, 0.09);
+  background: #fff;
+  padding: 4px;
+  /* override the global uputstvo img centering */
+  margin: 0 0 0.9rem !important;
+  max-width: 100% !important;
+  max-height: none !important;
+}
+
+.caption {
+  width: 100%;
+  margin: 0 0 2.4rem;
+  text-align: center;
+}
+
+.caption em {
+  display: inline-block !important;
+  max-width: 100%;
+  margin: 0 !important;
+  padding: 0.3rem 0.62rem !important;
+  border-radius: 8px;
+  border: 1px solid rgba(35, 103, 148, 0.2);
+  background: rgba(35, 103, 148, 0.08);
+  font-style: italic;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #1e5f95;
+}
+
+/* Text slot — takes remaining space */
+.text {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+/* Portrait / narrow screens → stack vertically */
+@media screen and (max-width: 768px) {
+  .wrap {
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+
+  .img {
+    width: min(260px, 80%);
+    margin: 0 auto;
+  }
+}
