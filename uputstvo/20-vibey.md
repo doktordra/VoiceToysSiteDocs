@@ -67,7 +67,7 @@ Nakon pokretanja, uređaj radi u po parametrima koji su postavljeni prilikom pre
 
 Uključite uređaj, pa na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju  **VibeY** nakon što se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, uređaj će na kratko emitovati plavo svetlo, na telefonu će se pojaviti ekran prikazan na slici na prethodnoj strani, a kontrole će preuzeti stanje koje je trenutno aktivno u uređaju.
 
-Nakon odabira opcije **VibeY**  na početnom ekranu aplikacije, ušli ste u ekran sa prikazima funkcije mobilne aplikacije za uređaj **VibeY** .
+Nakon odabira opcije **VibeY**  na početnom ekranu aplikacije, ušli ste u ekran sa prikazima funkcije mobilne aplikacije za uređaj **VibeY**.
 
 U gornjem žutom polju ekrana možete videti naziv uređaja, informacije o sistemu i pomoć.
 
@@ -119,7 +119,6 @@ Kašnjenje je vreme odlaganja reakcije svetlom ili vibracijom na zvučnu pobudu.
 Pritiskom na taster "Preseti" u donjem levom uglu ekrana, vraćate se na ekran koji je opisan na prethodnoj strani i koji je identičan klikom na sekciju "Izaberite ili kreirajte preset".
 
 Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg žutog polja ekrana aplikacije.
-
 ![VibeY kontrole](./images/screenshots/sr/VibeY_kontrole.jpg)
 
-*Prikaz ekrana nakon pritiska na polje "Kontrole" i detaljne funkcije mobilne aplikacije.*
+*Prikaz ekrana nakon pritiska na polje "Kontrole"*

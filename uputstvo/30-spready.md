@@ -5,32 +5,25 @@ sidebar_position: 4
 ![Spreads1.9](./images/Spreads1_9.png)
 
 ---
+### Specifikacije uređaja
 
-SPECIFIKACIJE UREĐAJA: Prečnik 121mm Visina 340 mm PET-G Akrilni štap 20mm prečnik, 40cm dužina *na slici je prikazan jedan uređaj za koji važi specifikacija.
-
-komplet podrazumeva 5 uređaja različitih boja.
-
-![SpreadY](./images/image-55.png)
-
-![SpreadYAsset 4](./images/SpreadYAsset_4.png)
-
-| Napajanje | DC, 5V, 3A |
-| --- | --- |
-| Konektor | USB-C |
-| Dimenzije | Prečnik 121mm<br />Visina 340 mm |
-| Baterija | Li-Ion 18650 |
-| Mreže | Wi-Fi, Bluetooth |
-| Kućište | PET-G<br />Akrilni štap 20mm prečnik, 40cm<br />dužina |
+| Napajanje | DC, 5V, 3A                                             |
+| --------- | ------------------------------------------------------ |
+| Konektor  | USB-C                                                  |
+| Dimenzije | Prečnik 121mm<br />Visina 340 mm                       |
+| Baterija  | Li-Ion 18650                                           |
+| Mreže     | Wi-Fi, Bluetooth                                       |
+| Kućište   | PET-G<br />Akrilni štap 20mm prečnik, 40cm<br />dužina |
 
 ---
 
 ### 3 -1: Opis sistema i bezbednosne napomene
 
-SpreadY je multifunkcionalni sistem koji se sastoji od 5 svetlećih stubića. Namenjeni su za vizuelnu identifikaciju rasprostiranja zvuka, kao igra memorije odnosno učenje sabiranja i za analizu i sintezu reči i rečenice uključivanjem individualnih stubića. Izbor funkcija i detaljna podešavanja uređaja se vrše putem mobilne aplikacije VoiceToys.
+**SpreadY** je multifunkcionalni sistem koji se sastoji od 5 svetlećih stubića. Namenjeni su za vizuelnu identifikaciju rasprostiranja zvuka, kao igra memorije odnosno učenje sabiranja i za analizu i sintezu reči i rečenice uključivanjem individualnih stubića. Izbor funkcija i detaljna podešavanja uređaja se vrše putem mobilne aplikacije VoiceToys.
 
 ### 3-2: Puštanje sistema u rad
 
-SpreadY stubići se koriste tako što se rasporede u prostoru tako da plavi stubić bude najbliži izvoru zvuka. Ostali stubići se ređaju po sledećem redosledu: zeleni, žuti, crveni, sivi. Stubići se puštaju u rad stavljanjem prekidača sa donje strane uređaja u poziciju 1.
+**SpreadY** stubići se koriste tako što se rasporede u prostoru tako da plavi stubić bude najbliži izvoru zvuka. Ostali stubići se ređaju po sledećem redosledu: zeleni, žuti, crveni, sivi. Stubići se puštaju u rad stavljanjem prekidača sa donje strane uređaja u poziciju 1.
 
 Nakon uključivanja, logotip na kućištu počinje da sija. Uređaji se povezuju automatski, bez ikakvog dodatnog podešavanja i reaguju na zvuk odmah nakon uključivanja. Plavi stubić je glavni, u njemu je mikrofon, on šalje signal ostalima i on se povezuje sa mobilnom aplikacijom.
 
@@ -42,13 +35,11 @@ Stanje baterija možete kontrolisati i pomoću mobilne aplikacije. Na donjoj str
 
 ### 3 - 3: Punjenje baterije uređaja
 
-Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću USB-C konektora sa donje strane uređaja. Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
+Uređaj sadrži Litijum-jonsku bateriju koja se puni **naponom od 5V/3A, pomoću USB-C konektora sa donje strane uređaja**. Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
 
 ![Spready-removebg-preview|200](./images/Spready-removebg-preview.png)
 
-![Spreads1.9](./images/Spreads1_9.png)
-
-*Uvodne informacije o uređaju: raspored SpreadY stubića po bojama, donja strana uređaja, USB-C priključak za punjenje i prekidač.*
+*Donja strana uređaja, USB-C priključak za punjenje i prekidač.*
 
 ---
 
@@ -56,21 +47,21 @@ Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću U
 
 Biranje režima rada i fina podešavanja uređaja se vrše pomoću aplikacije VoiceToys. Pre nego što pokrenete mobilnu aplikaciju, obavezno uključite plavi stubić jer se u njemu nalazi bluetooth prijemnik pomoću kojeg uređaj komunicira sa telefonom. Uređaji se povezuju automatski, bez ikakvog dodatnog podešavanja i reaguju na zvuk odmah nakon uključivanja.
 
-Nakon što uključite uređaj, na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju "SpreadY " kada se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, logotip plavog stubića će trepnuti dva puta, a mobilna aplikacija će preuzeti podešavanja uređaja i prikazati vrednosti prema kojima on trenutno reaguje.
+Nakon što uključite uređaj, na početnom ekranu aplikacije odaberite opciju **SpreadY** kada se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, logotip plavog stubića će trepnuti dva puta, a mobilna aplikacija će preuzeti podešavanja uređaja i prikazati vrednosti prema kojima on trenutno reaguje.
 
 U gornjem plavom polju ekrana aplikacije možete videti naziv uređaja i tastere za informacije o sistemu i pomoć.
 
 Pritiskom na simbol zupčanika u gornjem plavom polju pristupićete ekranu sa informacijama o uređaju, gde možete videti da li je Vaš uređaj ažuriran, odnosno da li je u njega učitana poslednja verzija softvera.
 
-Pritiskom na bilo koji deo ekrana osenčen sivom bojom se vraćate na ekran za uređaj "SpreadY ".
+Pritiskom na bilo koji deo ekrana osenčen sivom bojom se vraćate na ekran za uređaj **SpreadY**.
 
-Pritiskom na simbol znaka pitanja pojaviće se ekran sa tekstom koji će Vam pomoći da se podsetite osnovnih funkcija "SpreadY " aplikacije (slika desno). Tekst možete pomerati na dole kako bi ga pročitali do kraja. U dnu ekrana se nalazi taster "Pogledaj video". Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja "SpreadY ".
+Pritiskom na simbol znaka pitanja pojaviće se ekran sa tekstom koji će Vam pomoći da se podsetite osnovnih funkcija **SpreadY** aplikacije (slika desno). Tekst možete pomerati na dole kako bi ga pročitali do kraja. U dnu ekrana se nalazi taster "Pogledaj video". Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja **SpreadY**.
 
-Pritiskom na taster "X" vraćate se na ekran uređaja "SpreadY ", u onom režimu u kom ste ga prethodno koristili.
+Pritiskom na taster "X" vraćate se na ekran uređaja **SpreadY**, u onom režimu u kom ste ga prethodno koristili.
 
 ![SpreadY help](./images/screenshots/sr/SpreadY_help.jpg)
 
-*Funkcije mobilne aplikacije: prikaz ekrana nakon pritiska na simbol znaka pitanja.*
+*Prikaz ekrana nakon pritiska na simbol znaka pitanja.*
 
 ---
 
@@ -80,20 +71,16 @@ Sistem SpreadY nudi tri režima rada, sa sledećim predloženim namenama:
 
 ### 1 - Režim: Mikrofon (reakcija na zvuk)
 
-![SpreadY režim](./images/screenshots/sr/SpreadY_rez_im.jpg)
-
 Namena: Vizuelna identifikacija rasprostiranja zvuka
-
 ### 2 - Režim: Memorija (korisnik podešava parametre)
 
 Namena: Igra memorije i učenje sabiranja
-
 ### 3 - Režim: Ručno (korisnik uključuje stubiće po želji)
 
 Namena: Analiza i sinteza reči i rečenice Izbor režima se vrši pritiskom na taster "Režim" koji se nalazi u desnom uglu donjeg plavog polja ekrana aplikacije. Na slici desno možete videti prikaz ekrana nakon pritiska na taster "Režim". Kada dodirnete natpis sa željenim režimom pojaviće se ekran namenjen detaljnom podešavanju tog režima.
 
 U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih režima.
-
+![SpreadY režim](./images/screenshots/sr/SpreadY_rez_im.jpg)
 *Režimi rada uređaja SpreadY: prikaz ekrana nakon pritiska na taster "Režim".*
 
 ---
@@ -104,9 +91,9 @@ U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih r
 
 ---
 
-### 3-6: Nakon što ste pritiskom na taster "REŽIM" ušli u meni
+# 3-6: 
 
-za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka birate pritiskom na taster " Mikrofon". Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
+Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka birate pritiskom na taster " Mikrofon". Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
 
 Vizuelna reprezentacija zvuka može biti analogna ili digitalna. Tasteri za izbor vizuelne reprezentacije zvuka "Analogno" i "Digitalno" se nalaze u sredini ekrana aplikacije. U analognom režimu sijaju svi stubići zajedno, a intenzitet sijanja zavisi od nivoa zvuka. U digitalnom režimu stubići uvek sijaju maksimalnim intenzitetom kada zvuk pređe nivo koji je definisan za svaki od njih, a osvetljavaju se jedan po jedan, u zavisnosti od nivoa zvuka.
 
