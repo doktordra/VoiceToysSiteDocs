@@ -26,9 +26,9 @@ const config: Config = {
     },
   },
 
-  // Set the production URL for GitHub Pages hosting.
-  url: 'https://doktordra.github.io',
-  baseUrl: '/VoiceToysSiteDocs/',
+  // Set the production url of your site here
+  url: 'https://docs.voicetoys.rs',       // Vaš glavni domen
+  baseUrl: '/',            // Kosa crta na početku i kraju
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
