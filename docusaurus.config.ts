@@ -108,23 +108,23 @@ const config: Config = {
           items: [
             {
               label: 'Uvod',
-              to: '/docs/manual/uvod',
+              to: 'docs/manual/uvod',
             },
             {
               label: 'VibeY',
-              to: '/docs/manual/vibey',
+              to: 'docs/manual/vibey',
             },
             {
               label: 'SpreadY',
-              to: '/docs/manual/spready',
+              to: 'docs/manual/spready',
             },
             {
               label: 'JumpY',
-              to: '/docs/manual/jumpy',
+              to: 'docs/manual/jumpy',
             },
             {
               label: 'SpaceY',
-              to: '/docs/manual/spacey',
+              to: 'docs/manual/spacey',
             },
           ],
         },
@@ -193,7 +193,7 @@ const config: Config = {
           items: [
             {
               label: 'Priručnik (Uvod)',
-              to: '/docs/manual/uvod',
+              to: 'docs/manual/uvod',
             },
             {
               label: 'Uputstvo (Početak)',
@@ -210,7 +210,7 @@ const config: Config = {
             },
             {
               label: 'Priručnik',
-              to: '/docs/manual/uvod',
+              to: 'docs/manual/uvod',
             },
             {
               label: 'Uputstvo',

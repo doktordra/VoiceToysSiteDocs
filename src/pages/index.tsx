@@ -11,6 +11,8 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   const projectLogoUrl = useBaseUrl('/img/VoiceToysLOGO.png');
+  const manualIntroUrl = useBaseUrl('docs/manual/uvod');
+  const manualJumpyUrl = useBaseUrl('docs/manual/jumpy');
   return (
     <header className={clsx(styles.heroBanner)}>
       <div className={styles.heroBackdrop} />
@@ -29,10 +31,10 @@ function HomepageHeader() {
           </Heading>
           <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
           <div className={styles.buttons}>
-            <Link className="button button--primary button--lg" to="/docs/manual/uvod">
+            <Link className="button button--primary button--lg" to={manualIntroUrl}>
               Otvori priručnik
             </Link>
-            <Link className="button button--secondary button--lg" to="/docs/manual/jumpy">
+            <Link className="button button--secondary button--lg" to={manualJumpyUrl}>
               Kreni od JumpY
             </Link>
           </div>
@@ -84,6 +86,7 @@ function HomeSections() {
 }
 
 function HomeCta() {
+  const manualIntroUrl = useBaseUrl('docs/manual/uvod');
   return (
     <section className={styles.ctaSection}>
       <div className={clsx('container', styles.ctaBox)}>
@@ -96,7 +99,7 @@ function HomeCta() {
         </div>
         <Link
           className="button button--primary button--lg"
-          to="/docs/manual/uvod">
+          to={manualIntroUrl}>
           Pregledaj dokumentaciju
         </Link>
       </div>
