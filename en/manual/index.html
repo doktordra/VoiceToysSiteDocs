@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="sr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Uputstvo Voice Toys</title>
+    <link rel="stylesheet" href="web/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <img src="OPS/images/image.png" alt="VoiceToys" class="brand-logo" />
+        <strong id="app-title">uputstvo za upotrebu</strong>
+      </div>
+
+      <div class="actions">
+        <button id="home-page" class="toolbar-button icon-button" aria-label="Naslovna" title="Naslovna">⌂</button>
+        <button id="prev-page" class="toolbar-button icon-button" aria-label="Prethodna" title="Prethodna">←</button>
+        <button id="next-page" class="toolbar-button icon-button" aria-label="Sledeća" title="Sledeća">→</button>
+        <span id="page-counter" class="page-counter">Strana 1 / 1</span>
+        <button id="export-pdf" class="toolbar-button" aria-label="PDF Export" title="PDF Export">PDF Export</button>
+        <label class="lang-label" for="lang-toggle" id="lang-label">Jezik</label>
+        <button id="lang-toggle" class="lang-button" aria-live="polite">SR</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar">
+        <h1 id="toc-title">Sadržaj</h1>
+        <nav>
+          <ul id="toc-list"></ul>
+        </nav>
+      </aside>
+
+      <section class="viewer-wrap">
+        <iframe
+          id="viewer"
+          class="viewer"
+          src="OPS/page-1.xhtml"
+          title="EPUB Viewer"
+          loading="eager"
+        ></iframe>
+      </section>
+    </main>
+
+    <dialog id="language-dialog" class="language-dialog" aria-labelledby="language-dialog-title">
+      <form method="dialog" class="language-dialog-form">
+        <div class="language-dialog-header">
+          <h2 id="language-dialog-title">Izbor jezika</h2>
+          <button id="language-dialog-close" class="toolbar-button" value="cancel">Zatvori</button>
+        </div>
+        <p id="language-dialog-hint" class="language-dialog-hint">Izaberi jezik za prikaz interfejsa i sadržaja.</p>
+        <div id="language-options" class="language-options" role="list"></div>
+      </form>
+    </dialog>
+
+    <script src="web/app.js" type="module"></script>
+  </body>
+</html>

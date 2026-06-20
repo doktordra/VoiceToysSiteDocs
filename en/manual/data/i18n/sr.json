@@ -1,0 +1,34 @@
+{
+  "app": {
+    "title": "Uputstvo Voice Toys",
+    "subtitle": "Web verzija EPUB dokumenta",
+    "langLabel": "Jezik",
+    "langButton": "SR",
+    "languageDialogTitle": "Izbor jezika",
+    "languageDialogHint": "Izaberi jezik za prikaz interfejsa i sadržaja.",
+    "languageDialogClose": "Zatvori",
+    "tocTitle": "Sadržaj",
+    "tocHint": "Izaberi poglavlje i otvori stranicu.",
+    "homeButton": "Naslovna",
+    "prevButton": "Prethodna",
+    "nextButton": "Sledeća",
+    "pageCounter": "Strana {current} / {total}",
+    "pdfExportButton": "PDF Export / Print",
+    "printButton": "Štampa"
+  },
+  "toc": {
+    "index-1": "Hvala na poverenju!",
+    "index-2": "Sistem Voice Toys je napravljen sa željom da ga korisnici zavole",
+    "index-3": "1 - Opšte informacije",
+    "index-4": "VoiceToys nisu igračke, iako se tako zovu.",
+    "index-5": "Koji su elementi sistema i čemu su namenjeni?",
+    "index-6": "2 - VibeY",
+    "index-7": "3 - SpreadY",
+    "index-8": "4 - JumpY",
+    "index-9": "5 - SpaceY",
+    "index-10": "6 - Automatsko ažuriranje uređaja",
+    "index-11": "7 - Garancija, održavanje i servis",
+    "index-12": "7 - I to nije sve!",
+    "index-13": "Kontakt"
+  }
+}

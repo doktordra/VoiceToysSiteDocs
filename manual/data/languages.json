@@ -1,0 +1,27 @@
+{
+  "defaultLanguage": "sr",
+  "languages": [
+    {
+      "code": "sr",
+      "label": "SR",
+      "name": "Srpski",
+      "ui": "data/i18n/sr.json",
+      "content": "data/content.sr.json"
+    },
+    {
+      "code": "en",
+      "label": "EN",
+      "name": "English",
+      "ui": "data/i18n/en.json",
+      "content": "data/content.en.json",
+      "fallback": "data/fallback.en.json"
+    },
+    {
+      "code": "de",
+      "label": "DE",
+      "name": "Deutsch",
+      "ui": "data/i18n/de.json",
+      "content": "data/content.de.json"
+    }
+  ]
+}
