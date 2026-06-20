@@ -27,10 +27,8 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://voicetoys.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  url: 'https://www.voicetoys.rs',       // Vaš glavni domen
+  baseUrl: '/docs/',            // Kosa crta na početku i kraju
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
