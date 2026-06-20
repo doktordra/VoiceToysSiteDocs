@@ -30,10 +30,14 @@
 
 .heroLogoWrap {
   margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  width: 100%;
 }
 
 .heroLogo {
   display: block;
+  margin: 0 auto;
   width: min(100%, 620px);
   height: auto;
 }
