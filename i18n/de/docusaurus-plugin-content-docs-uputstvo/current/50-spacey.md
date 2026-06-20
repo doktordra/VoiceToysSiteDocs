@@ -1,6 +1,6 @@
 ---
 title: SpaceY
-sidebar_position: 6
+sidebar_position: 7
 ---
 ![SpaceYs.3](/voice-toys/images/image-135.png)
 

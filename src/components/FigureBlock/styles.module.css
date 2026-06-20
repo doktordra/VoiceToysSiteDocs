@@ -14,8 +14,9 @@
 
 /* Image slot — fixed narrow column on the left */
 .img {
-  flex: 0 0 auto;
-  width: min(220px, 40%);
+  flex: 1 1 0;
+  width: auto;
+  min-width: 280px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,7 +24,7 @@
 
 .img img {
   display: block;
-  width: 100%;
+  width: auto;
   height: auto;
   border-radius: 10px;
   border: 1px solid rgba(17, 86, 115, 0.1);
@@ -33,7 +34,8 @@
   /* override the global uputstvo img centering */
   margin: 0 0 0.9rem !important;
   max-width: 100% !important;
-  max-height: none !important;
+  max-height: var(--figure-max-image-height, none) !important;
+  object-fit: contain;
 }
 
 .caption {
@@ -58,7 +60,9 @@
 
 /* Text slot — takes remaining space */
 .text {
-  flex: 1 1 0;
+  flex: 0 1 auto;
+  width: fit-content;
+  max-width: 46ch;
   min-width: 0;
 }
 

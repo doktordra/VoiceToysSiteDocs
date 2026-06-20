@@ -1,6 +1,6 @@
 ---
 title: JumpY
-sidebar_position: 5
+sidebar_position: 6
 ---
 ![JumpED](/voice-toys/images/JumpED.png)
 

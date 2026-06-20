@@ -1,6 +1,6 @@
 ---
 title: VibeY
-sidebar_position: 3
+sidebar_position: 4
 hide_table_of_contents: true
 ---
 ![VibeYsolo2](/voice-toys/images/VibeYsolo2.png)

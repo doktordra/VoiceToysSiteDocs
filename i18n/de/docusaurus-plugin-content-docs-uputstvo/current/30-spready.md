@@ -1,6 +1,6 @@
 ---
 title: SpreadY
-sidebar_position: 4
+sidebar_position: 5
 ---
 ![Spreads1.9](/voice-toys/images/Spreads1_9.png)
 

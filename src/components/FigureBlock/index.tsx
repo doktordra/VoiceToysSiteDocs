@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect, useRef} from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
@@ -37,6 +37,10 @@ export default function FigureBlock({
   imagePosition = 'left',
   children,
 }: Props): React.JSX.Element {
+  const wrapRef = useRef<HTMLDivElement>(null);
+  const textRef = useRef<HTMLDivElement>(null);
+  const captionRef = useRef<HTMLParagraphElement>(null);
+
   const resolvedSrc = useBaseUrl(src);
   const normalizedCaption = typeof caption === 'string' ? caption.trim() : caption;
 
@@ -74,13 +78,45 @@ export default function FigureBlock({
   const resolvedCaption = normalizedCaption || markdownCaption;
   const wrapClassName = imagePosition === 'right' ? `${styles.wrap} ${styles.wrapRight}` : styles.wrap;
 
+  useEffect(() => {
+    const wrapElement = wrapRef.current;
+    const textElement = textRef.current;
+    if (!wrapElement || !textElement || typeof window === 'undefined') return;
+
+    const syncImageMaxHeight = () => {
+      if (window.matchMedia('(max-width: 768px)').matches) {
+        wrapElement.style.removeProperty('--figure-max-image-height');
+        return;
+      }
+
+      const textHeight = textElement.getBoundingClientRect().height;
+      const captionHeight = captionRef.current?.getBoundingClientRect().height ?? 0;
+      const availableHeight = Math.max(180, Math.floor(textHeight - captionHeight));
+      wrapElement.style.setProperty('--figure-max-image-height', `${availableHeight}px`);
+    };
+
+    syncImageMaxHeight();
+
+    const resizeObserver = new ResizeObserver(syncImageMaxHeight);
+    resizeObserver.observe(textElement);
+    if (captionRef.current) {
+      resizeObserver.observe(captionRef.current);
+    }
+
+    window.addEventListener('resize', syncImageMaxHeight);
+    return () => {
+      resizeObserver.disconnect();
+      window.removeEventListener('resize', syncImageMaxHeight);
+    };
+  }, [resolvedCaption]);
+
   return (
-    <div className={wrapClassName}>
+    <div ref={wrapRef} className={wrapClassName}>
       <div className={styles.img}>
         <img src={resolvedSrc} alt={alt} />
-        {resolvedCaption ? <p className={styles.caption}><em>{resolvedCaption}</em></p> : null}
+        {resolvedCaption ? <p ref={captionRef} className={styles.caption}><em>{resolvedCaption}</em></p> : null}
       </div>
-      <div className={styles.text}>{contentNodes}</div>
+      <div ref={textRef} className={styles.text}>{contentNodes}</div>
     </div>
   );
 }

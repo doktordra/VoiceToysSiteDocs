@@ -1,6 +1,6 @@
 ---
 title: Automatsko ažuriranje uređaja
-sidebar_position: 7
+sidebar_position: 8
 ---
 <FigureBlock
   src="/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-32-32-42_3a220c2fb963ee2deb62bf32156943f2_1_.jpg"
@@ -10,7 +10,7 @@ sidebar_position: 7
 
 *Ukoliko postoji dostupno ažuriranje , pojaviće vam se ovaj ekran*
 
-### Šta je ažuriranje uređaja?
+# Šta je ažuriranje uređaja?
 
 VoiceToys su digitalno kontrolisani uređaji - sadrže mikrokontroler koji ima svoj program - **firmware**.
 

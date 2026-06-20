@@ -1,6 +1,6 @@
 ---
 title: I to nije sve!
-sidebar_position: 9
+sidebar_position: 10
 ---
 Od svog početka, VoiceToys se razvijao, rastao, menjao i napredovao kroz komunikaciju sa onima koji ga koriste.
 

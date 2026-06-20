@@ -4,7 +4,13 @@ sidebar_position: 1
 slug: /
 hide_table_of_contents: true
 ---
-**Sistem Voice Toys je napravljen sa željom da ga korisnici zavole!**
+# Sistem Voice Toys je napravljen sa željom da ga korisnici zavole!
+
+<FigureBlock
+  src="/voice-toys/images/viber_image_2019-11-04_14-58-02.jpg"
+  alt="Decja kuca"
+  imagePosition="right"
+>
 
 Namenjen je za rad u logopedskoj i defektološkoj praksi, ali se može koristiti u radu sa korisnicima svih uzrasta i nivoa razvoja.
 
@@ -15,6 +21,4 @@ Dizajniran je da bude lak za upotrebu, vizuelno sveden, jednostavnih oblika i ja
 Kontroliše se bežično, originalnom aplikacijom razvijenom za Android i iOS uređaje.
 
 Zasnovan je na mikrokontrolerima kojima se veoma lako, bežično ažurira operativni sistem. Zahvaljujući tome, uređaji se mogu modifikovati i obogatiti dodatnim funkcijama prema zahtevima korisnika. Pozivamo vas da svojim idejama učestvujete u razvoju i napretku ovog jedinstvenog sistema!
-
-![viber_image_2019-11-04_14-58-02](/voice-toys/images/viber_image_2019-11-04_14-58-02.jpg)
-Uređaj SpreadY u toku rada 
+</FigureBlock>

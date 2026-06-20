@@ -235,8 +235,67 @@ function initMobileNavbarFix() {
   setTimeout(() => normalizeMobileNavbarPanelWithRetry(), 300);
 }
 
+
+function isTypingTarget(target) {
+  if (!(target instanceof Element)) return false;
+  const tagName = target.tagName.toLowerCase();
+  if (tagName === 'input' || tagName === 'textarea' || tagName === 'select') return true;
+  if (target.getAttribute('contenteditable') === 'true') return true;
+  return Boolean(target.closest('input, textarea, select, [contenteditable="true"]'));
+}
+
+function handleArrowPagination(event) {
+  if (event.defaultPrevented) return;
+  if (event.repeat) return;
+  if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
+  if (event.key !== 'ArrowRight' && event.key !== 'ArrowLeft') return;
+  if (isTypingTarget(event.target)) return;
+
+  const currentPath = window.location.pathname.replace(/\/$/, '') || '/';
+  const topLevelPageLinks = Array.from(
+    document.querySelectorAll('.theme-doc-sidebar-menu > li > a.menu__link[href]'),
+  )
+    .map((link) => {
+      if (!(link instanceof HTMLAnchorElement)) return null;
+      const url = new URL(link.href, window.location.origin);
+      if (url.hash) return null;
+      if (!url.pathname.includes('/uputstvo')) return null;
+      return {
+        href: `${url.pathname}${url.search}`,
+        path: url.pathname.replace(/\/$/, '') || '/',
+      };
+    })
+    .filter(Boolean)
+    .filter((item, index, arr) => arr.findIndex((x) => x.path === item.path) === index);
+
+  const currentIndex = topLevelPageLinks.findIndex((item) => item.path === currentPath);
+  const targetIndex =
+    event.key === 'ArrowRight' ? currentIndex + 1 : currentIndex - 1;
+
+  if (currentIndex >= 0 && targetIndex >= 0 && targetIndex < topLevelPageLinks.length) {
+    event.preventDefault();
+    window.location.assign(topLevelPageLinks[targetIndex].href);
+    return;
+  }
+
+  // Fallback when sidebar is unavailable (e.g., non-doc pages).
+  const selector = event.key === 'ArrowRight' ? '.pagination-nav__link--next' : '.pagination-nav__link--prev';
+  const fallbackLink = document.querySelector(selector);
+  if (fallbackLink instanceof HTMLAnchorElement) {
+    event.preventDefault();
+    fallbackLink.click();
+  }
+}
+
+function initArrowPaginationNavigation() {
+  if (window.__arrowPaginationNavigationLoaded) return;
+  window.__arrowPaginationNavigationLoaded = true;
+  document.addEventListener('keydown', handleArrowPagination);
+}
+
 if (typeof window !== 'undefined') {
   window.__mobileNavbarFixLoaded = true;
+  initArrowPaginationNavigation();
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initMobileNavbarFix, {
       once: true,

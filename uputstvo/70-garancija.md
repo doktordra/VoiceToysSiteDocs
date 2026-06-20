@@ -1,6 +1,6 @@
 ---
 title: Garancija, održavanje i servis
-sidebar_position: 8
+sidebar_position: 9
 ---
 ### Garancija
 

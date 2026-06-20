@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 
-### Specifikacije uređaja
+# Specifikacije uređaja
 
 
 <FigureBlock

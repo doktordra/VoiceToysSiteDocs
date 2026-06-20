@@ -69,6 +69,12 @@ h4 {
   border-top: 1px solid rgba(17, 86, 115, 0.12);
 }
 
+/* Keep docs navigation on the left sidebar only. */
+.theme-doc-toc-desktop,
+.theme-doc-toc-mobile {
+  display: none !important;
+}
+
 @media screen and (max-width: 996px) {
   html,
   body {
@@ -222,8 +228,10 @@ h4 {
 }
 
 .plugin-id-uputstvo .theme-doc-markdown table {
-  width: 100%;
-  display: table;
+  width: auto;
+  display: inline-table;
+  max-width: 100%;
+  table-layout: auto;
   border-collapse: collapse;
   margin: 1.2rem 0 1.8rem;
   font-family: var(--vt-body-font);

@@ -1,17 +1,8 @@
 ---
 title: SpaceY
-sidebar_position: 6
+sidebar_position: 7
 ---
-![SpaceYs.3](/voice-toys/images/image-135.png)
-
----
-
-### Specifikacije uređaja - SpaceY 
-
-
-
-
-
+# Specifikacije uređaja
 
 <FigureBlock
 	src="/voice-toys/images/image-137.png"
@@ -37,7 +28,11 @@ sidebar_position: 6
 
 SpaceY je sistem koji se sastoji od 5 pametnih zvučnika primarno namenjenih uvežbavanju identifikacije i prostorne lokalizacije zvuka kod osoba sa oštećenim sluhom. Povezuju se bežično, a napajaju se pomoću ugrađenih punjivih baterija. Kontrolišu se isključivo **VoiceToys** mobilnom aplikacijom. Emituju lako prepoznatljive zvukove razvrstane u grupe od po pet zvukova.
 
+![SpaceYs.3](/voice-toys/images/image-135.png)
 
+*SpaceY - sistem od 5 zvučnika*
+
+### 5 - 2: Puštanje u rad
 
 <FigureBlock
 	src="/voice-toys/images/SpaceY_USBC_Back_52-filtered.png"
@@ -45,20 +40,15 @@ SpaceY je sistem koji se sastoji od 5 pametnih zvučnika primarno namenjenih uve
 	imagePosition="right"
 >
 
-
-
-
-
-### 5 - 2: Puštanje u rad
-
 Zvučnici se uključuju postavljanjem prekidača koji se nalazi sa donje strane uređaja u položaj 1. Svetla na zvučnicima počinju da emituju svetlost u boji **uređaja.Neophodno je da plavi zvučnik bude uključen da bi i ostali mogli da funkcionišu!** Nakon uključivanja svih zvučnika, pokrenite mobilnu aplikaciju. Na početnom ekranu aplikacije kliknite na sliku zvučnika kada se pozadina iza njih oboji zelenom bojom. Ukoliko su se zvučnici pravilno povezali, svetla na njima će se ugasiti. To znači da su spremni za rad.
+
+
+</FigureBlock>
 
 Ukoliko tokom rada svetla počnu da sijaju narandžasto, to znači da je baterija oslabila, a ukoliko počnu da trepere crveno, baterija je na kritično niskom nivou i treba je odmah napuniti. Stanje baterija možete kontrolisati i pomoću mobilne aplikacije.
 
 
 <font color="red">**Zvučnike NEMOJTE hvatati za rezonantnu ploču - belu tablu od balze i EVA pene sa oznakom! Postoji opasnost da otpadne. Molimo vas da zvučnik hvatate samo za plastično kućište!**</font>
-</FigureBlock>
-
 
 ---
 
@@ -72,6 +62,9 @@ Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od **5V/3A, pomoću
 
 
 ---
+
+### 5 - 5: Funkcije mobilne aplikacije
+
 <FigureBlock
 	src="/voice-toys/images/screenshots/sr/SpaceY_poc_etni_ekran.jpg"
 	alt="SpaceY_USBC_Back_52-filtered"
@@ -79,7 +72,6 @@ Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od **5V/3A, pomoću
 >
 *Izgled ekrana aplikacije: grupe zvukova, kontrole reprodukcije, jačina zvuka, indikatori vremena i stanje baterije.*
 
-### 5 - 5: Funkcije mobilne aplikacije
 
 Nakon što uključite uređaj, na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju "SpaceY " kada se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, svetla na zvučnicima će se ugasiti i oni su spremni za rad.
 
@@ -104,7 +96,6 @@ U donjem delu ekrana se nalaze:
 
 
 ---
-
 
 ### Detaljne informacije o uređaju
 
