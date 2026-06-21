@@ -20,12 +20,29 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
+  gap: 2rem;
+}
+
+@media (min-width: 996px) {
+  .heroGrid {
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+    align-items: center;
+  }
 }
 
 .heroCopy {
   display: flex;
   flex-direction: column;
   align-items: center;
+  flex: 1;
+}
+
+@media (min-width: 996px) {
+  .heroCopy {
+    align-items: flex-start;
+  }
 }
 
 .heroLogoWrap {
@@ -35,11 +52,30 @@
   width: 100%;
 }
 
+@media (min-width: 996px) {
+  .heroLogoWrap {
+    justify-content: flex-start;
+  }
+}
+
 .heroLogo {
   display: block;
-  margin: 0 auto;
   width: min(100%, 620px);
   height: auto;
+}
+
+.heroImageWrap {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  max-width: 500px;
+}
+
+.heroImage {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .kicker {
@@ -95,6 +131,12 @@
   flex-wrap: wrap;
   gap: 0.75rem;
   justify-content: center;
+}
+
+@media (min-width: 996px) {
+  .buttons {
+    justify-content: flex-start;
+  }
 }
 
 .sectionWrap {

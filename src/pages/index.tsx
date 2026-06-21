@@ -10,6 +10,8 @@ import styles from './index.module.css';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   const projectLogoUrl = useBaseUrl('/img/VoiceToysLOGO.png');
+  const blagoslovUrl = useBaseUrl('/img/blagoslov.jpg');
+
   return (
     <header className={clsx(styles.heroBanner)}>
       <div className={styles.heroBackdrop} />
@@ -33,6 +35,13 @@ function HomepageHeader() {
               Otvori uputstvo
             </Link>
           </div>
+        </div>
+        <div className={styles.heroImageWrap}>
+          <img
+            src={blagoslovUrl}
+            alt="Blagoslov"
+            className={styles.heroImage}
+          />
         </div>
       </div>
     </header>
