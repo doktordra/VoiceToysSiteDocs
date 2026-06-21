@@ -88,8 +88,25 @@ const config: Config = {
   clientModules: ['./src/client/mobileNavbarFix.js'],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/Ylogo.jpg',
+    metadata: [
+      {
+        property: 'og:image',
+        content: 'https://docs.voicetoys.rs/img/Ylogo.jpg',
+      },
+      {
+        property: 'og:image:type',
+        content: 'image/jpeg',
+      },
+      {
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
+      {
+        name: 'twitter:image',
+        content: 'https://docs.voicetoys.rs/img/Ylogo.jpg',
+      },
+    ],
     colorMode: {
       defaultMode: 'light',
       disableSwitch: false,
