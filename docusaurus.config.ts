@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'VoiceToys Priručnik',
   tagline: 'Interaktivni priručnik za terapeute i edukatore',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/y-favicon-32x32.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {

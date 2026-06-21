@@ -173,11 +173,19 @@ function moveMobileControlsBelowLogo() {
     brand.insertAdjacentElement('afterend', controlsRow);
   }
 
-  const darkModeBtn = brand.querySelector(
-    'button[aria-label*="dark and light mode"], button[title*="dark and light mode"]',
-  );
-  if (darkModeBtn instanceof HTMLElement && darkModeBtn.parentElement !== controlsRow) {
-    controlsRow.appendChild(darkModeBtn);
+  const darkModeToggle =
+    brand.querySelector('.colorModeToggle_DEke, [class*="colorModeToggle"]') ||
+    brand.querySelector(
+      [
+        'button[aria-label*="dark and light mode" i]',
+        'button[title*="dark and light mode" i]',
+        'button[aria-label*="tamnog i svetlog moda" i]',
+        'button[title*="tamnog i svetlog moda" i]',
+      ].join(', '),
+    )?.closest('div');
+
+  if (darkModeToggle instanceof HTMLElement && darkModeToggle.parentElement !== controlsRow) {
+    controlsRow.appendChild(darkModeToggle);
   }
 
   const languageListItem = Array.from(sidebar.querySelectorAll('li')).find((li) => {
