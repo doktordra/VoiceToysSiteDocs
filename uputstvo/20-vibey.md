@@ -25,11 +25,11 @@ sidebar_position: 3
 
 ---
 
-### 2 - 1: Opis uređaja i bezbednosne napomene
+### Opis uređaja i bezbednosne napomene
 
 **VibeY** je vibrotaktilna, svetleća kutija, namenjena za stimulaciju glasanja i kontrolu visine i intenziteta glasa. Iako je namenjena da se pomoću nje osete vibracije, **ne sme se davati deci na samostalno rukovanje!** Detaljna podešavanja uređaja se vrše putem mobilne aplikacije VoiceToys.
 
-### 2 - 2: Puštanje uređaja u rad
+### Puštanje uređaja u rad
 
 Uređaj se pokreće se stavljanjem prekidača koji se nalazi sa donje strane uređaja u poziciju 1. Nakon uključivanja, logotip na kućištu počinje da sija, LED svetlo sa gornje strane prikaže animaciju svetlima i uređaj na kratko zavibrira. Ovaj efekat se može isključiti putem mobilne aplikacije, što je objašnjeno u sledećem poglavlju. Vaš uređaj **VibeY** je sada spreman za rad.
 
@@ -39,7 +39,7 @@ Na donjoj strani uređaja se takođe nalaze i tri otvora za ulaz zvuka u unutra�
 
 
 
-### 2 - 3: Punjenje baterije uređaja
+### Punjenje baterije uređaja
 
 Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću USB-C konektora sa **donje strane uređaja.** Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
 
@@ -79,7 +79,7 @@ Vizuelna reprezentacija uključene vibracije/svetla
 
 ---
 
-### 2 - 4: Funkcije mobilne aplikacije za uređaj **Vibe**Y
+### Funkcije mobilne aplikacije za uređaj **VibeY**
 
 Nakon pokretanja, uređaj radi u po parametrima koji su postavljeni prilikom prethodnog korišćenja. Ukoliko imate potrebu da prilagođavate parametre osetljivosti ili isključite vibraciju ili svetlo, možete to učiniti pomoću mobilne aplikacije.
 
@@ -150,7 +150,7 @@ Ispod polja "**Izaberite i kreirajte preset**" se nalazi slika sa vizuelnom repr
 >
 *Prikaz ekrana nakon pritiska na polje "Kontrole"*
 
-Pritiskom na taster "Kontrole" koji se nalazi u donjem levom uglu ekrana se vraćate na početni ekran u čijem donjem delu će se prikazati klizači sa kontrolama za podešavanje nivoa zvuka, osetljivosti i kašnjenja reakcije Vašeg uređaja "**Vibe**Y ". Prikaz ovog ekrana možete videti na slici desno.
+Pritiskom na taster "Kontrole" koji se nalazi u donjem levom uglu ekrana se vraćate na početni ekran u čijem donjem delu će se prikazati klizači sa kontrolama za podešavanje nivoa zvuka, osetljivosti i kašnjenja reakcije Vašeg uređaja "**VibeY** ". Prikaz ovog ekrana možete videti na slici desno.
 
 **Tasteri** Vibracija i Svetlo, koji se nalaze u središnjem delu ekrana, uključuju ili isključuju reakciju uređaja svetlom odnosno vibracijom. Njihov intenzitet i brzina reakcije mogu se odvojeno podešavati pomoću klizača u donjem polju. **Kartice** Vibracija i Svetlo koji se nalaze u donjoj polovini ekrana određuju na koji tip reakcije utičemo, birajući set aktivnih klizača.
 

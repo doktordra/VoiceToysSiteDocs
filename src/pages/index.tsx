@@ -36,13 +36,7 @@ function HomepageHeader() {
             </Link>
           </div>
         </div>
-        <div className={styles.heroImageWrap}>
-          <img
-            src={blagoslovUrl}
-            alt="Blagoslov"
-            className={styles.heroImage}
-          />
-        </div>
+        
       </div>
     </header>
   );
@@ -53,7 +47,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={siteConfig.title}
-      description="VoiceToys priručnik i dokumentacija za uređaje JumpY, SpreadY, VibeY i SpaceY.">
+      description="Dokumentacija za VoiceToys uređaje">
       <HomepageHeader />
       <main>
       </main>

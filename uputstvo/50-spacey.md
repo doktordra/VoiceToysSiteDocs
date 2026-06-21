@@ -24,7 +24,7 @@ sidebar_position: 7
 
 ---
 
-### 5 - 1: Opis sistema i bezbednosne napomene
+### Opis sistema i bezbednosne napomene
 
 SpaceY je sistem koji se sastoji od 5 pametnih zvučnika primarno namenjenih uvežbavanju identifikacije i prostorne lokalizacije zvuka kod osoba sa oštećenim sluhom. Povezuju se bežično, a napajaju se pomoću ugrađenih punjivih baterija. Kontrolišu se isključivo **VoiceToys** mobilnom aplikacijom. Emituju lako prepoznatljive zvukove razvrstane u grupe od po pet zvukova.
 
@@ -32,7 +32,7 @@ SpaceY je sistem koji se sastoji od 5 pametnih zvučnika primarno namenjenih uve
 
 *SpaceY - sistem od 5 zvučnika*
 
-### 5 - 2: Puštanje u rad
+### Puštanje u rad
 
 <FigureBlock
 	src="/voice-toys/images/SpaceY_USBC_Back_52-filtered.png"
@@ -52,18 +52,18 @@ Ukoliko tokom rada svetla počnu da sijaju narandžasto, to znači da je baterij
 
 ---
 
-### 5 - 3: Montaža i postavljanje u prostoru
+### Montaža i postavljanje u prostoru
 
 Postavite zvučnike u prostor tako da se nalaze ispred, levo, desno, iza, a jedan iznad slušaoca ili grupe sa kojom se radi. U slučaju montaže na zid potrebno je izbušiti rupe u zidu i postaviti u njih šrafove prečnika 6 milimetara, sa zakošenom glavom. Na šrafove zakačite zvučnike pomoću rupe koja se nalazi na zadnjoj strani zvučnika.
 
-### 5 - 4: Punjenje baterije uređaja
+### Punjenje baterije uređaja
 
 Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od **5V/3A, pomoću USB-C konektora sa zadnje strane uređaja.** Nakon priključenja napona, svetlo indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen. Kada prestanete da radite sa SpaceY zvučnicima, svetla na njima će se upaliti kao podsetnik da ih isključite. Ne ostavljajte ih uključene bez potrebe, kako biste izbegli bespotrebno trošenje baterije.
 
 
 ---
 
-### 5 - 5: Funkcije mobilne aplikacije
+### Funkcije mobilne aplikacije
 
 <FigureBlock
 	src="/voice-toys/images/screenshots/sr/SpaceY_poc_etni_ekran.jpg"

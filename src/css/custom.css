@@ -8,6 +8,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
+  --ifm-navbar-height: 92px;
   --ifm-color-primary: #146687;
   --ifm-color-primary-dark: #125c79;
   --ifm-color-primary-darker: #115673;
@@ -36,6 +37,10 @@ h2,
 h3,
 h4 {
   letter-spacing: -0.01em;
+}
+
+html {
+  scroll-padding-top: calc(var(--ifm-navbar-height) + 1.5rem); /* Obezbeđuje dovoljno prostora ispod menija kada se skroluje na sidro (anchor) */
 }
 
 .navbar {
@@ -76,6 +81,10 @@ h4 {
 }
 
 @media screen and (max-width: 996px) {
+  :root {
+    --ifm-navbar-height: 68px;
+  }
+
   html,
   body {
     overflow-x: hidden;
@@ -130,7 +139,30 @@ h4 {
   }
 }
 
-/* Uputstvo — standalone manual instance polish (EPUB-aligned) */
+/* Uputstvo — standalone manual instance polish (EPUB-aligned) */.navbar-print-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.5rem;
+  color: var(--ifm-navbar-link-color);
+  opacity: 0.8;
+  transition: opacity 0.2s;
+  cursor: pointer;
+}
+
+.navbar-print-btn:hover {
+  opacity: 1;
+  color: var(--ifm-navbar-link-hover-color);
+}
+
+@media print {
+  .navbar-print-btn,
+  .navbar__toggle,
+  .navbar__search,
+  .navbar__items--right {
+    display: none !important;
+  }
+}
 .plugin-id-uputstvo .theme-doc-markdown {
   max-width: 78ch;
   margin: 0 auto;
@@ -142,7 +174,7 @@ h4 {
 .plugin-id-uputstvo .theme-doc-markdown h1 {
   font-family: var(--vt-heading-font);
   font-weight: 700;
-  font-size: clamp(2.1rem, 4.4vw, 2.9rem);
+  font-size: clamp(1.4rem, 2.5vw, 1.85rem);
   line-height: 1.1;
   letter-spacing: -0.01em;
   margin-bottom: 0.4rem;

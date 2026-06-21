@@ -6,9 +6,8 @@ hide_table_of_contents: true
 # VoiceToys nisu igračke, iako se tako zovu.
 
 **Bezbednost pre svega!**
-**VoiceToys uređaje nemojte davati deci na samostalno korišćenje!**
 
-Svi VoiceToys uređaji su napravljeni od neškodljivih materijala i bez oštrih ivica kako bi se minimizovala opasnost od povreda. Uređaji su namenjeni da njima rukuju terapeuti. Osim uređaja **Vibe**Y, koji proizvodi vibracije i namenjen je da ga korisnik dodiruje, ostale uređajte nemojte davati korisnicima u ruke kako bi se izbegla slučajna oštećenja. Posebno obratite pažnju na zvučnike iz sistema **Space**Y, jer su njihove emitujuće površine napravljene od mekanog drveta. Hvatajte ih i držite isključivo za plastični deo!
+Svi VoiceToys uređaji su napravljeni od neškodljivih materijala i bez oštrih ivica kako bi se minimizovala opasnost od povreda. Uređaji su namenjeni da njima rukuju terapeuti. **Nemojte ih davati deci na samostalno korišćenje!** Osim uređaja **VibeY**, koji proizvodi vibracije i namenjen je da ga korisnik dodiruje, ostale uređajte nemojte davati korisnicima u ruke kako bi se izbegla slučajna oštećenja. Posebno obratite pažnju na zvučnike iz sistema **SpaceY**, jer su njihove emitujuće površine napravljene od mekanog drveta. Hvatajte ih i držite isključivo za plastični deo!
 
 **Napomena o sigurnosti i odgovornosti korisnika** 
 
@@ -40,12 +39,7 @@ Sistem VoiceToys sastoji se od četiri grupe uređaja i mobilne aplikacije.
 
 **SpaceY** su 5 pametnih zvučnika koji služe za identifikaciju i lokalizaciju zvuka u prostoru. Kontrolišu se isključivo mobilnom aplikacijom.
 
-
-
-
 ---
-
-### Sadržaj i bezbednosne napomene
 
 ### Šta je u kutiji?
 
@@ -57,11 +51,11 @@ Sistem VoiceToys dolazi u dve kutije. U jednoj su zapakovani **bežični** uređ
 
 Uz njih dolaze i dodatne komponente za rad:
 
-- 5 komada providnih šipki za **Spread**Y
-- 5 komada nosača za kartice za **Spread**Y
+- 5 komada providnih šipki za **SpreadY**
+- 5 komada nosača za kartice za **SpreadY**
 - 1 kabl za punjenje
 
-U drugoj kutiji dolazi uređaj **Jump**Y, sa pripadajućim napajanjem i senzorom udaljenost - **Jump**Y **Senzor**, koji se takođe tretira kao **bežični** uređaj.
+U drugoj kutiji dolazi uređaj **JumpY**, sa pripadajućim napajanjem i senzorom udaljenost - **JumpY** **Senzor**, koji se takođe tretira kao **bežični** uređaj.
 
 ### Raspakivanje i postavljanje za rad
 

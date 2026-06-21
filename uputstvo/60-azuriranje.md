@@ -22,9 +22,6 @@ U dva jednostavna koraka vaš mobilni uređaj preuzima ažuriranje sa VoiceToys 
 
 </FigureBlock>
 
-
-## Tok ažuriranja
-
 ### **1 - Početak i preuzimanje ažuriranja** 
 
 <FigureBlock
@@ -48,10 +45,10 @@ Nakon što je ažuriranje preuzeto, vaš VoiceToys uređaj ulazi u Update režim
   alt="zupcanik VibeY"
   imagePosition="right"
 >
-Android mobilni uređaji će vas automatski odvesti do WiFi podešavanja vašeg telefona, dok na iPhone uređajima to morate uraditi ručno, tako što ćete pokrenuti Settings vašeg uređaja i odabrati opciju WiFi. Ukoliko WiFi na vašem telefonu nije uključen, uključite ga. U listi WiFi mreža pronađite VoiceToys update mrežu vašeg uređaja i povežite se na nju: 
+Android mobilni uređaji će vas automatski odvesti do WiFi podešavanja vašeg telefona, dok na iPhone uređajima to morate uraditi ručno, tako što ćete pokrenuti Settings vašeg uređaja i odabrati opciju WiFi. Ukoliko WiFi na vašem telefonu nije uključen, uključite ga. U listi WiFi mreža **pronađite VoiceToys update mrežu** vašeg uređaja i povežite se na nju: 
 </FigureBlock>
 
-### 2 - Slanje Firmware-a u VoiceToys uređaj
+### 3 - Slanje Firmware-a u VoiceToys uređaj
 <FigureBlock
   src="/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-33-30-11_3a220c2fb963ee2deb62bf32156943f2.jpg"
   alt="zupcanik VibeY"

@@ -25,11 +25,11 @@ sidebar_position: 5
 
 ---
 
-### 3 -1: Opis sistema i bezbednosne napomene
+### Opis sistema i bezbednosne napomene
 
 **SpreadY** je multifunkcionalni sistem koji se sastoji od 5 svetlećih stubića. Namenjeni su za vizuelnu identifikaciju rasprostiranja zvuka, kao igra memorije odnosno učenje sabiranja i za analizu i sintezu reči i rečenice uključivanjem individualnih stubića. Izbor funkcija i detaljna podešavanja uređaja se vrše putem mobilne aplikacije VoiceToys.
 
-### 3-2: Puštanje sistema u rad
+### Puštanje sistema u rad
 
 **SpreadY** stubići se koriste tako što se rasporede u prostoru tako da **plavi** stubić bude najbliži izvoru zvuka. Ostali stubići se ređaju po sledećem redosledu: **zeleni, žuti,crveni, sivi**. Stubići se puštaju u rad stavljanjem prekidača sa donje strane uređaja u poziciju 1.
 
@@ -41,7 +41,7 @@ Ukoliko logotip promeni boju u žuto, to znači da je baterija oslabila, a ukoli
 
 Stanje baterija možete kontrolisati i pomoću mobilne aplikacije. Na donjoj strani plavog uređaja se takođe nalaze i tri otvora za ulaz zvuka u unutrašnjost **uređaja.** Ne pokrivajte ih i ne stavljajte uređaj na meku površinu koja može apsorbovati zvuk!
 
-### 3 - 3: Punjenje baterije uređaja
+### Punjenje baterije uređaja
 
 Uređaj sadrži Litijum-jonsku bateriju koja se puni **naponom od 5V/3A, pomoću USB-C konektora sa donje strane uređaja**. Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
 
@@ -51,7 +51,7 @@ Uređaj sadrži Litijum-jonsku bateriju koja se puni **naponom od 5V/3A, pomoću
 
 ---
 
-### 3 - 4: Funkcije mobilne aplikacije za uređaj SpreadY
+### Funkcije mobilne aplikacije za uređaj SpreadY
 
 Biranje režima rada i fina podešavanja uređaja se vrše pomoću aplikacije VoiceToys. Pre nego što pokrenete mobilnu aplikaciju, obavezno uključite **plavi** stubić jer se u njemu nalazi bluetooth prijemnik pomoću kojeg uređaj komunicira sa telefonom. Uređaji se povezuju automatski, bez ikakvog dodatnog podešavanja i reaguju na zvuk odmah nakon uključivanja.
 
@@ -81,7 +81,7 @@ Pritiskom na taster **"X"** vraćate se na ekran uređaja **SpreadY**, u onom re
 
 ---
 
-### 3 - 5: Režimi rada uređaja SpreadY i njihova namena
+### Režimi rada uređaja SpreadY i njihova namena
 
 Sistem SpreadY nudi tri režima rada, sa sledećim predloženim namenama:
 
@@ -104,7 +104,7 @@ Izbor režima se vrši pritiskom na taster **"Režim"** koji se nalazi u desnom 
 U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih režima.
 </FigureBlock>
 
-## Režim Mikrofon: podešavanja
+## Režim **Mikrofon**
 
 
 Nakon što ste pritiskom na taster "REŽIM" ušli u meni za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka birate pritiskom na taster " Mikrofon". 
@@ -162,7 +162,7 @@ Jednostavno kliknite na neki od tastera sa imenom zapamćenog podešavanja i sis
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
 </FigureBlock>
 
-## Režim Memorija: podešavanja
+## Režim Memorija - podešavanja
 
 **3-7:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Memorija"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
 
@@ -192,7 +192,7 @@ Ispod klizača za podešavanje parametara igre nalaze se taster PLAY ▶️ , RE
 U donjem plavom polju ekrana aplikacije je taster "Preseti", čija je upotreba opisana na strani 19. Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
 
 ---
-### Režim Memorija - princip rada
+## Režim Memorija - princip rada
 
 <FigureBlock
   src="/voice-toys/images/screenshots/sr/SpreadY_memorija_2-2.jpg"
@@ -218,7 +218,7 @@ Ukoliko želite da promenite parametre, pritiskom na taster 🔽  će se pojavit
 
 ---
 
-### Režim Ručno: podešavanje i način rada.
+### Režim **Ručno**
 
 
 <FigureBlock
