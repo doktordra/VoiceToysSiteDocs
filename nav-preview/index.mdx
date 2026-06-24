@@ -1,0 +1,77 @@
+---
+id: index
+title: VoiceToys dokumentacija
+hide_title: true
+hide_table_of_contents: true
+---
+
+import styles from './index.module.css';
+
+<div className={styles.landing}>
+
+  <div className={styles.hero}>
+    <h1 className={styles.heroTitle}>VoiceToys<br/><span>Dokumentacija</span></h1>
+    <p className={styles.heroSubtitle}>Interaktivni priručnik za terapeute i edukatore — sve na jednom mestu.</p>
+  </div>
+
+  <div className={styles.grid}>
+
+    <div className={styles.card} data-color="blue">
+      <div className={styles.cardIcon}>📖</div>
+      <h2 className={styles.cardTitle}>Priručnik</h2>
+      <p className={styles.cardDesc}>Koncepti, teorija i praktični vodiči za svakog od 4 VoiceToys uređaja.</p>
+      <div className={styles.cardLinks}>
+        <a href="/docs/manual/uvod" className={styles.btnPrimary}>Uvod u sistem</a>
+        <div className={styles.btnGroup}>
+          <a href="/docs/manual/vibey" className={styles.btnSecondary}>VibeY</a>
+          <a href="/docs/manual/spready" className={styles.btnSecondary}>SpreadY</a>
+          <a href="/docs/manual/jumpy" className={styles.btnSecondary}>JumpY</a>
+          <a href="/docs/manual/spacey" className={styles.btnSecondary}>SpaceY</a>
+        </div>
+      </div>
+    </div>
+
+    <div className={styles.card} data-color="teal">
+      <div className={styles.cardIcon}>📋</div>
+      <h2 className={styles.cardTitle}>Uputstvo</h2>
+      <p className={styles.cardDesc}>Praktičan vodič za svakodnevni rad: postavljanje, uređaji, aplikacija i podrška.</p>
+      <div className={styles.cardLinks}>
+        <a href="/uputstvo" className={styles.btnPrimary}>Početak</a>
+        <div className={styles.btnGroup}>
+          <a href="/uputstvo/opste-informacije" className={styles.btnSecondary}>Opšte info</a>
+          <a href="/uputstvo/mobilna-aplikacija" className={styles.btnSecondary}>App</a>
+          <a href="/uputstvo/azuriranje" className={styles.btnSecondary}>Ažuriranje</a>
+          <a href="/uputstvo/kontakt" className={styles.btnSecondary}>Kontakt</a>
+        </div>
+      </div>
+    </div>
+
+    <div className={styles.card} data-color="slate">
+      <div className={styles.cardIcon}>🛡️</div>
+      <h2 className={styles.cardTitle}>Sertifikati</h2>
+      <p className={styles.cardDesc}>Zvanična bezbednosna dokumentacija i sertifikati za sve uređaje VoiceToys sistema.</p>
+      <div className={styles.cardLinks}>
+        <div className={styles.btnGroup}>
+          <a href="/bezbednost/emc" className={styles.btnPrimary}>EMC sertifikat</a>
+          <a href="/bezbednost/lvd" className={styles.btnPrimary}>LVD sertifikat</a>
+        </div>
+      </div>
+    </div>
+
+    <div className={styles.card} data-color="amber">
+      <div className={styles.cardIcon}>⭐</div>
+      <h2 className={styles.cardTitle}>Testimonials</h2>
+      <p className={styles.cardDesc}>Originalna pisma preporuke i zapažanja iz ustanova i terapeuta koji koriste VoiceToys.</p>
+      <div className={styles.cardLinks}>
+        <div className={styles.btnGroup}>
+          <a href="/Testimonials/Buzganovic%20zapa%C5%BEanja%20sa%20tretmana.pdf" className={styles.btnSecondary} target="_blank">Buzganovic (SR)</a>
+          <a href="/Testimonials/Logo-centar%20zapa%C5%BEanja%20sa%20tretmana.pdf" className={styles.btnSecondary} target="_blank">Logo-centar (SR)</a>
+          <a href="/Testimonials/O%C5%A0%20Miloje%20Pavlovi%C4%87%20-%20pismo%20preporuke.pdf" className={styles.btnSecondary} target="_blank">OŠ Miloje Pavlović (SR)</a>
+          <a href="/Testimonials/%D0%9A%D0%97_%D0%9B%D0%9E%D0%A0_%D0%91%D0%B0%D0%B3%D0%B0%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D1%84%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B8%CC%86_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE_%D1%80%D0%B5%D0%B0%D0%B1%D1%96%D0%BB%D1%96%D1%82%D0%B0%D1%86%D1%96%D0%B8%CC%86%D0%BD%D0%B8%D0%B8%CC%86_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%C2%AB%D0%9E%D0%B1%D0%B5%D1%80%D1%96%D0%B3%C2%BB.pdf" className={styles.btnSecondary} target="_blank">Оберіг (UK)</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>

@@ -73,6 +73,24 @@ const config: Config = {
       },
     ],
     [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'bezbednost',
+        path: 'bezbednost',
+        routeBasePath: 'bezbednost',
+        sidebarPath: './sidebarsBezbednost.ts',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'pregled',
+        path: 'nav-preview',
+        routeBasePath: '/',
+        sidebarPath: './sidebarsPregled.ts',
+      },
+    ],
+    [
       require.resolve('@easyops-cn/docusaurus-search-local'),
       {
         indexDocs: true,
@@ -118,80 +136,6 @@ const config: Config = {
         src: '/img/VoiceToysLOGO.png',
       },
       items: [
-        {
-          type: 'dropdown',
-          position: 'left',
-          label: 'Priručnik',
-          items: [
-            {
-              label: 'Uvod',
-              to: '/docs/manual/uvod',
-            },
-            {
-              label: 'VibeY',
-              to: '/docs/manual/vibey',
-            },
-            {
-              label: 'SpreadY',
-              to: '/docs/manual/spready',
-            },
-            {
-              label: 'JumpY',
-              to: '/docs/manual/jumpy',
-            },
-            {
-              label: 'SpaceY',
-              to: '/docs/manual/spacey',
-            },
-          ],
-        },
-        {
-          type: 'dropdown',
-          position: 'left',
-          label: 'Uputstvo',
-          items: [
-            {
-              label: 'Dobrodošli',
-              to: '/uputstvo',
-            },
-            {
-              label: 'Opšte informacije',
-              to: '/uputstvo/opste-informacije',
-            },
-            {
-              label: 'VibeY',
-              to: '/uputstvo/vibey',
-            },
-            {
-              label: 'SpreadY',
-              to: '/uputstvo/spready',
-            },
-            {
-              label: 'JumpY',
-              to: '/uputstvo/jumpy',
-            },
-            {
-              label: 'SpaceY',
-              to: '/uputstvo/spacey',
-            },
-            {
-              label: 'Ažuriranje',
-              to: '/uputstvo/azuriranje',
-            },
-            {
-              label: 'Garancija',
-              to: '/uputstvo/garancija',
-            },
-            {
-              label: 'I to nije sve',
-              to: '/uputstvo/i-to-nije-sve',
-            },
-            {
-              label: 'Kontakt',
-              to: '/uputstvo/kontakt',
-            },
-          ],
-        },
         {
           type: 'search',
           position: 'right',

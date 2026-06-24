@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version next"
+  },
+  "sidebar_label": {
+    "message": "Security Certificates",
+    "description": "The sidebar label"
+  }
+}

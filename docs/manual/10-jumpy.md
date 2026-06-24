@@ -187,7 +187,7 @@ Ponavljanje ritmičkih obrazaca zahteva da dete ima razvijene određene motorič
 
 ### **Prati moj ritam**
 
-Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite RITAM. Na vrhu ekrana će se prikazati bela linija.
+Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite RITAM. Na vrhu panela će se prikazati bela linija.
 
 Cilj: imitacija pokreta i ponavljanje ritmičkog obrasca, razvoj perceptivnih sposobnosti, razvoj pažnje i preciznost izvođenja.
 

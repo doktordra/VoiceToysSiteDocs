@@ -1,0 +1,22 @@
+.pdfWrap {
+  width: 100%;
+}
+
+.frame {
+  width: 100%;
+  height: calc(100vh - var(--ifm-navbar-height) - 0.75rem);
+  border: 0;
+  display: block;
+  margin: 0;
+}
+
+.pdfWrap:fullscreen {
+  width: 100vw;
+  height: 100vh;
+  background: #fff;
+}
+
+.pdfWrap:fullscreen .frame {
+  width: 100vw;
+  height: 100vh;
+}

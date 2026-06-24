@@ -1,0 +1,12 @@
+---
+title: EMV-Zertifikat
+hide_title: true
+hide_table_of_contents: true
+---
+
+import PdfEmbed from '@site/src/components/PdfEmbed';
+
+<PdfEmbed
+  src="/PDF_certification/EMC.pdf"
+  title="EMC PDF"
+/>

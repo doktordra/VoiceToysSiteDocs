@@ -1,78 +1,88 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
-/**
- * Creating a sidebar enables you to:
- - create an ordered group of docs
- - render a sidebar for each doc of that group
- - provide next/previous navigation
-
- The sidebars can be generated from the filesystem, or explicitly defined here.
-
- Create as many sidebars as you want.
- */
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
-    'manual/uvod',
+    {
+      type: 'link',
+      label: 'VoiceToys dokumentacija',
+      href: '/',
+    },
     {
       type: 'category',
-      label: 'VoiceToys uređaji',
+      label: 'Priručnik',
+      collapsed: true,
       items: [
+        { type: 'link', label: 'Uvod', href: '/docs/manual/uvod' },
         {
           type: 'category',
-          label: 'JumpY',
-          link: {type: 'doc', id: 'manual/jumpy'},
+          label: 'Uređaji',
+          collapsed: false,
           items: [
-            {type: 'link', label: 'Reakcija', href: '/docs/manual/jumpy#reakcija'},
-            {type: 'link', label: 'Reakcija senzor', href: '/docs/manual/jumpy#reakcija-senzor'},
-            {type: 'link', label: 'Igra tapšanja', href: '/docs/manual/jumpy#igra-tap%C5%A1anja'},
-            {type: 'link', label: 'Razlike', href: '/docs/manual/jumpy#razlike'},
-            {type: 'link', label: 'Ritmički obrazac', href: '/docs/manual/jumpy#ritmi%C4%8Dki-obrazac'},
+            { type: 'link', label: 'VibeY', href: '/docs/manual/vibey' },
+            { type: 'link', label: 'SpreadY', href: '/docs/manual/spready' },
+            { type: 'link', label: 'JumpY', href: '/docs/manual/jumpy' },
+            { type: 'link', label: 'SpaceY', href: '/docs/manual/spacey' },
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Uputstvo',
+      collapsed: true,
+      items: [
+        { type: 'link', label: 'Hvala na poverenju', href: '/uputstvo' },
+        {
+          type: 'category',
+          label: 'Opšte',
+          collapsed: false,
+          items: [
+            { type: 'link', label: 'Opšte informacije', href: '/uputstvo/opste-informacije' },
+            { type: 'link', label: 'Mobilna aplikacija', href: '/uputstvo/mobilna-aplikacija' },
           ],
         },
         {
           type: 'category',
-          label: 'SpreadY',
-          link: {type: 'doc', id: 'manual/spready'},
+          label: 'Uređaji',
+          collapsed: false,
           items: [
-            {type: 'link', label: 'Mikrofon', href: '/docs/manual/spready#mikrofon'},
-            {type: 'link', label: 'Memorija', href: '/docs/manual/spready#memorija'},
-            {type: 'link', label: 'Ručno', href: '/docs/manual/spready#spready-ru%C4%8Dno'},
+            { type: 'link', label: 'VibeY', href: '/uputstvo/vibey' },
+            { type: 'link', label: 'SpreadY', href: '/uputstvo/spready' },
+            { type: 'link', label: 'JumpY', href: '/uputstvo/jumpy' },
+            { type: 'link', label: 'SpaceY', href: '/uputstvo/spacey' },
           ],
         },
         {
           type: 'category',
-          label: 'VibeY',
-          link: {type: 'doc', id: 'manual/vibey'},
+          label: 'Podrška',
+          collapsed: false,
           items: [
-            {type: 'link', label: 'Oboji sliku', href: '/docs/manual/vibey#oboji-sliku'},
-            {type: 'link', label: 'Zovem te', href: '/docs/manual/vibey#zovem-te'},
-            {type: 'link', label: 'Pričaj mi priču', href: '/docs/manual/vibey#pri%C4%8Daj-mi-pri%C4%8Du'},
-            {type: 'link', label: 'Prati vibraciju', href: '/docs/manual/vibey#prati-vibraciju'},
-            {type: 'link', label: 'Pogodi i uradi', href: '/docs/manual/vibey#pogodi-i-uradi'},
+            { type: 'link', label: 'Ažuriranje', href: '/uputstvo/azuriranje' },
+            { type: 'link', label: 'Garancija', href: '/uputstvo/garancija' },
+            { type: 'link', label: 'I to nije sve', href: '/uputstvo/i-to-nije-sve' },
+            { type: 'link', label: 'Kontakt', href: '/uputstvo/kontakt' },
           ],
         },
-        {
-          type: 'category',
-          label: 'SpaceY',
-          link: {type: 'doc', id: 'manual/spacey'},
-          items: [
-            {type: 'link', label: 'Potraga za zvukom', href: '/docs/manual/spacey#potraga-za-zvukom'},
-            {type: 'link', label: 'Pogodi gde je', href: '/docs/manual/spacey#pogodi-gde-je'},
-            {type: 'link', label: 'Umanjeno ili uvećano', href: '/docs/manual/spacey#umanjeno-ili-uve%C4%87ano'},
-            {type: 'link', label: 'Ko je i šta radi?', href: '/docs/manual/spacey#ko-je-i-%C5%A1ta-radi'},
-            {type: 'link', label: 'Opiši zvuk', href: '/docs/manual/spacey#opi%C5%A1i-zvuk'},
-            {type: 'link', label: 'Nacrtaj šta čuješ', href: '/docs/manual/spacey#nacrtaj-%C5%A1ta-%C4%8Duje%C5%A1'},
-            {type: 'link', label: 'Zvučna priča', href: '/docs/manual/spacey#zvu%C4%8Dna-pri%C4%8Da'},
-            {type: 'link', label: 'Zajedno pričamo priču', href: '/docs/manual/spacey#zajedno-pri%C4%8Damo-pri%C4%8Du'},
-            {type: 'link', label: 'Izbaci uljeza', href: '/docs/manual/spacey#izbaci-uljeza'},
-            {type: 'link', label: 'Gde je greška?', href: '/docs/manual/spacey#gde-je-gre%C5%A1ka'},
-            {type: 'link', label: 'Prati svoju boju', href: '/docs/manual/spacey#prati-svoju-boju'},
-            {type: 'link', label: 'Ulovi mačku', href: '/docs/manual/spacey#ulovi-ma%C4%8Dku'},
-            {type: 'link', label: 'Moroov refleks', href: '/docs/manual/spacey#moroov-refleks'},
-          ],
-        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Sertifikati',
+      collapsed: true,
+      items: [
+        { type: 'link', label: 'EMC', href: '/bezbednost/emc' },
+        { type: 'link', label: 'LVD', href: '/bezbednost/lvd' },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Testimonials',
+      collapsed: true,
+      items: [
+        { type: 'link', label: 'Buzganovic (SR) — zapažanja sa tretmana', href: '/Testimonials/Buzganovic%20zapa%C5%BEanja%20sa%20tretmana.pdf' },
+        { type: 'link', label: 'Logo-centar (SR) — zapažanja sa tretmana', href: '/Testimonials/Logo-centar%20zapa%C5%BEanja%20sa%20tretmana.pdf' },
+        { type: 'link', label: 'OŠ Miloje Pavlović (SR) — pismo preporuke', href: '/Testimonials/O%C5%A0%20Miloje%20Pavlovi%C4%87%20-%20pismo%20preporuke.pdf' },
+        { type: 'link', label: 'Оберіг (UK) — recommendation letter', href: '/Testimonials/%D0%9A%D0%97_%D0%9B%D0%9E%D0%A0_%D0%91%D0%B0%D0%B3%D0%B0%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D1%84%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B8%CC%86_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE_%D1%80%D0%B5%D0%B0%D0%B1%D1%96%D0%BB%D1%96%D1%82%D0%B0%D1%86%D1%96%D0%B8%CC%86%D0%BD%D0%B8%D0%B8%CC%86_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%C2%AB%D0%9E%D0%B1%D0%B5%D1%80%D1%96%D0%B3%C2%BB.pdf' },
       ],
     },
   ],

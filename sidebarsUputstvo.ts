@@ -1,102 +1,91 @@
-import fs from 'node:fs';
-import path from 'node:path';
-import GithubSlugger from 'github-slugger';
-import type {SidebarsConfig, SidebarItem} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
-type UputstvoDoc = {
-  file: string;
-  id: string;
-  title: string;
-  sidebarPosition: number;
-  slug?: string;
-  headings: Array<{label: string; slug: string}>;
-};
-
-function stripInlineMarkdown(text: string): string {
-  return text
-    .replace(/`([^`]+)`/g, '$1')
-    .replace(/\*\*([^*]+)\*\*/g, '$1')
-    .replace(/\*([^*]+)\*/g, '$1')
-    .replace(/_([^_]+)_/g, '$1')
-    .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1')
-    .replace(/<[^>]+>/g, '')
-    .trim();
-}
-
-function parseDoc(filePath: string): UputstvoDoc {
-  const content = fs.readFileSync(filePath, 'utf8');
-  const file = path.basename(filePath);
-  const id = file.replace(/^\d+-/, '').replace(/\.md$/, '');
-  const titleMatch = content.match(/\ntitle:\s*(.+)\n/);
-  const positionMatch = content.match(/\nsidebar_position:\s*(\d+)\n/);
-  const slugMatch = content.match(/\nslug:\s*(.+)\n/);
-
-  const slugger = new GithubSlugger();
-  const headings: Array<{label: string; slug: string}> = [];
-
-  for (const line of content.split(/\r?\n/)) {
-    const headingMatch = line.match(/^(##|###)\s+(.+)$/);
-    if (!headingMatch) continue;
-
-    const rawHeading = headingMatch[2].replace(/\s*#+\s*$/, '').trim();
-    const label = stripInlineMarkdown(rawHeading);
-    if (!label) continue;
-
-    headings.push({
-      label,
-      slug: slugger.slug(label),
-    });
-  }
-
-  return {
-    file,
-    id,
-    title: titleMatch ? titleMatch[1].trim() : id,
-    sidebarPosition: positionMatch ? Number(positionMatch[1]) : Number.MAX_SAFE_INTEGER,
-    slug: slugMatch ? slugMatch[1].trim() : undefined,
-    headings,
-  };
-}
-
-function buildDocRoute(doc: UputstvoDoc): string {
-  if (doc.slug === '/') return '/uputstvo/';
-  if (!doc.slug) return `/uputstvo/${doc.id}`;
-  return `/uputstvo/${doc.slug.replace(/^\//, '')}`;
-}
-
-function createSidebarItems(docsDir: string): SidebarItem[] {
-  const docs = fs
-    .readdirSync(docsDir)
-    .filter((name) => /^\d+.*\.md$/.test(name))
-    .map((name) => parseDoc(path.join(docsDir, name)))
-    .sort((a, b) => a.sidebarPosition - b.sidebarPosition || a.file.localeCompare(b.file));
-
-  return docs.map((doc) => {
-    if (doc.headings.length === 0) {
-      return doc.id;
-    }
-
-    const route = buildDocRoute(doc);
-    const tocItems = doc.headings.map((heading, index) => ({
-      type: 'link' as const,
-      key: `${doc.id}-toc-${index + 1}`,
-      label: heading.label,
-      href: encodeURI(`${route}#${heading.slug}`),
-    }));
-
-    return {
-      type: 'category' as const,
-      label: doc.title,
-      link: {type: 'doc' as const, id: doc.id},
+const sidebarsUputstvo: SidebarsConfig = {
+  uputstvoSidebar: [
+    {
+      type: 'link',
+      label: 'VoiceToys dokumentacija',
+      href: '/',
+    },
+    {
+      type: 'category',
+      label: 'Priručnik',
       collapsed: true,
-      collapsible: true,
-      items: tocItems,
-    };
-  });
-}
-
-const sidebars: SidebarsConfig = {
-  uputstvoSidebar: createSidebarItems(path.join(__dirname, 'uputstvo')),
+      items: [
+        { type: 'link', label: 'Uvod', href: '/docs/manual/uvod' },
+        {
+          type: 'category',
+          label: 'Uređaji',
+          collapsed: true,
+          items: [
+            { type: 'link', label: 'VibeY', href: '/docs/manual/vibey' },
+            { type: 'link', label: 'SpreadY', href: '/docs/manual/spready' },
+            { type: 'link', label: 'JumpY', href: '/docs/manual/jumpy' },
+            { type: 'link', label: 'SpaceY', href: '/docs/manual/spacey' },
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Uputstvo',
+      collapsed: false,
+      items: [
+        'uvod',
+        {
+          type: 'category',
+          label: 'Opšte',
+          collapsed: false,
+          items: [
+            'opste-informacije',
+            'mobilna-aplikacija',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Uređaji',
+          collapsed: false,
+          items: [
+            'vibey',
+            'spready',
+            'jumpy',
+            'spacey',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Podrška',
+          collapsed: false,
+          items: [
+            'azuriranje',
+            'garancija',
+            'i-to-nije-sve',
+            'kontakt',
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Sertifikati',
+      collapsed: true,
+      items: [
+        { type: 'link', label: 'EMC', href: '/bezbednost/emc' },
+        { type: 'link', label: 'LVD', href: '/bezbednost/lvd' },
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Testimonials',
+      collapsed: true,
+      items: [
+        { type: 'link', label: 'Buzganovic (SR) — zapažanja sa tretmana', href: '/Testimonials/Buzganovic%20zapa%C5%BEanja%20sa%20tretmana.pdf' },
+        { type: 'link', label: 'Logo-centar (SR) — zapažanja sa tretmana', href: '/Testimonials/Logo-centar%20zapa%C5%BEanja%20sa%20tretmana.pdf' },
+        { type: 'link', label: 'OŠ Miloje Pavlović (SR) — pismo preporuke', href: '/Testimonials/O%C5%A0%20Miloje%20Pavlovi%C4%87%20-%20pismo%20preporuke.pdf' },
+        { type: 'link', label: 'Оберіг (UK) — recommendation letter', href: '/Testimonials/%D0%9A%D0%97_%D0%9B%D0%9E%D0%A0_%D0%91%D0%B0%D0%B3%D0%B0%D1%82%D0%BE%D0%BF%D1%80%D0%BE%D1%84%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B8%CC%86_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE_%D1%80%D0%B5%D0%B0%D0%B1%D1%96%D0%BB%D1%96%D1%82%D0%B0%D1%86%D1%96%D0%B8%CC%86%D0%BD%D0%B8%D0%B8%CC%86_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%C2%AB%D0%9E%D0%B1%D0%B5%D1%80%D1%96%D0%B3%C2%BB.pdf' },
+      ],
+    },
+  ],
 };
 
-export default sidebars;
+export default sidebarsUputstvo;

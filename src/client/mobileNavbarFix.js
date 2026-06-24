@@ -19,6 +19,77 @@ function normalizeMobileNavbarPanel() {
   }
 }
 
+function getBestFullscreenTarget() {
+  const pdfTarget = document.querySelector('.plugin-id-bezbednost .pdfFullscreenTarget');
+  if (pdfTarget instanceof HTMLElement) {
+    return pdfTarget;
+  }
+  return document.documentElement;
+}
+
+async function toggleFullscreenMode() {
+  if (document.fullscreenElement) {
+    await document.exitFullscreen();
+    return;
+  }
+
+  const target = getBestFullscreenTarget();
+  await target.requestFullscreen();
+}
+
+function updateFullscreenButtonState() {
+  const button = document.getElementById('vt-navbar-fullscreen-btn');
+  if (!(button instanceof HTMLButtonElement)) return;
+
+  if (document.fullscreenElement) {
+    button.title = 'Izađi iz celog ekrana';
+    button.setAttribute('aria-label', 'Exit fullscreen');
+  } else {
+    button.title = 'Prikaži preko celog ekrana';
+    button.setAttribute('aria-label', 'Fullscreen');
+  }
+}
+
+function createFullscreenButton() {
+  const button = document.createElement('button');
+  button.id = 'vt-navbar-fullscreen-btn';
+  button.className = 'clean-btn navbar-fullscreen-btn';
+  button.type = 'button';
+  button.innerHTML = '<svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line><polyline points="3 9 3 3 9 3"></polyline><polyline points="21 15 21 21 15 21"></polyline><line x1="3" y1="3" x2="10" y2="10"></line><line x1="21" y1="21" x2="14" y2="14"></line></svg>';
+  return button;
+}
+
+function ensureNavbarFullscreenButton() {
+  const navbarRight = document.querySelector('.navbar .navbar__items--right');
+  if (!(navbarRight instanceof HTMLElement)) return;
+
+  let button = document.getElementById('vt-navbar-fullscreen-btn');
+  if (!(button instanceof HTMLButtonElement)) {
+    button = createFullscreenButton();
+  }
+
+  const printButton = navbarRight.querySelector('.navbar-print-btn');
+  if (printButton instanceof HTMLElement && printButton.parentElement === navbarRight) {
+    if (button.parentElement !== navbarRight || printButton.nextElementSibling !== button) {
+      printButton.insertAdjacentElement('afterend', button);
+    }
+  } else if (button.parentElement !== navbarRight) {
+    navbarRight.appendChild(button);
+  }
+
+  if (button.dataset.bound !== 'true') {
+    button.addEventListener('click', (event) => {
+      event.preventDefault();
+      toggleFullscreenMode().catch(() => {
+        // Browser may block fullscreen in some contexts.
+      });
+    });
+    button.dataset.bound = 'true';
+  }
+
+  updateFullscreenButtonState();
+}
+
 function getCurrentLocale() {
   const { pathname } = window.location;
   if (pathname.startsWith('/en/')) return 'en';
@@ -188,6 +259,11 @@ function moveMobileControlsBelowLogo() {
     controlsRow.appendChild(darkModeToggle);
   }
 
+  const fullscreenButton = document.getElementById('vt-navbar-fullscreen-btn');
+  if (fullscreenButton instanceof HTMLElement && fullscreenButton.parentElement !== controlsRow) {
+    controlsRow.appendChild(fullscreenButton);
+  }
+
   const languageListItem = Array.from(sidebar.querySelectorAll('li')).find((li) => {
     const text = (li.textContent || '').toLowerCase();
     return (
@@ -207,7 +283,8 @@ function moveMobileControlsBelowLogo() {
 }
 
 function normalizeMobileNavbarPanelWithRetry(retries = 4) {
-  normalizeMobileNavbarPanel();
+  // normalizeMobileNavbarPanel();
+  ensureNavbarFullscreenButton();
   moveMobileControlsBelowLogo();
   if (retries <= 0) return;
   setTimeout(() => normalizeMobileNavbarPanelWithRetry(retries - 1), 80);
@@ -220,9 +297,19 @@ function initMobileNavbarFix() {
     return;
   }
 
+  let normalizeTimeout = null;
+  const scheduleNormalize = (delay = 0) => {
+    if (normalizeTimeout) {
+      clearTimeout(normalizeTimeout);
+    }
+    normalizeTimeout = setTimeout(() => {
+      normalizeMobileNavbarPanelWithRetry();
+    }, delay);
+  };
+
   const observer = new MutationObserver(() => {
     // Wait one tick so Docusaurus finishes sidebar panel transition state updates.
-    setTimeout(() => normalizeMobileNavbarPanelWithRetry(), 0);
+    scheduleNormalize(0);
   });
 
   observer.observe(nav, {
@@ -236,11 +323,39 @@ function initMobileNavbarFix() {
     if (!(target instanceof Element)) return;
     const toggle = target.closest('.navbar__toggle');
     if (!toggle) return;
-    setTimeout(() => normalizeMobileNavbarPanelWithRetry(), 0);
+    scheduleNormalize(0);
+  });
+
+  // Re-attach controls after in-app route changes and dynamic page transitions.
+  const appRoot = document.querySelector('#__docusaurus') || document.body;
+  const routeObserver = new MutationObserver(() => {
+    scheduleNormalize(30);
+  });
+  routeObserver.observe(appRoot, {
+    childList: true,
+    subtree: true,
+  });
+
+  document.addEventListener('click', (event) => {
+    const target = event.target;
+    if (!(target instanceof Element)) return;
+    const link = target.closest('a[href]');
+    if (!link) return;
+    scheduleNormalize(120);
+  });
+
+  window.addEventListener('resize', () => {
+    scheduleNormalize(0);
+  });
+
+  window.addEventListener('popstate', () => {
+    scheduleNormalize(30);
   });
 
   // Defensive pass for first sidebar open after hydration.
-  setTimeout(() => normalizeMobileNavbarPanelWithRetry(), 300);
+  scheduleNormalize(300);
+
+  document.addEventListener('fullscreenchange', updateFullscreenButtonState);
 }
 
 
@@ -303,6 +418,7 @@ function initArrowPaginationNavigation() {
 
 if (typeof window !== 'undefined') {
   window.__mobileNavbarFixLoaded = true;
+  window.__vtToggleFullscreen = toggleFullscreenMode;
   initArrowPaginationNavigation();
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initMobileNavbarFix, {

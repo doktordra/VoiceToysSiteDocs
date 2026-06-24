@@ -155,13 +155,54 @@ html {
   color: var(--ifm-navbar-link-hover-color);
 }
 
+.navbar-fullscreen-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.5rem;
+  color: var(--ifm-navbar-link-color);
+  opacity: 0.8;
+  transition: opacity 0.2s;
+  cursor: pointer;
+}
+
+.navbar-fullscreen-btn:hover {
+  opacity: 1;
+  color: var(--ifm-navbar-link-hover-color);
+}
+
 @media print {
   .navbar-print-btn,
+  .navbar-fullscreen-btn,
   .navbar__toggle,
   .navbar__search,
   .navbar__items--right {
     display: none !important;
   }
+}
+
+/* Bezbednost docs: use full right panel for PDF viewer */
+.plugin-id-bezbednost .theme-doc-markdown {
+  max-width: none;
+  margin: 0;
+}
+
+.plugin-id-bezbednost main .container {
+  max-width: 100%;
+}
+
+.plugin-id-bezbednost .theme-doc-breadcrumbs,
+.plugin-id-bezbednost .theme-doc-footer,
+.plugin-id-bezbednost .pagination-nav {
+  display: none;
+}
+
+.plugin-id-bezbednost .vtPdfFrame {
+  width: 100%;
+  height: calc(100vh - var(--ifm-navbar-height) - 0.75rem);
+  border: 0;
+  display: block;
+  margin: 0;
 }
 .plugin-id-uputstvo .theme-doc-markdown {
   max-width: 78ch;
@@ -459,14 +500,7 @@ html {
     border-top: 1px solid rgba(17, 86, 115, 0.1);
   }
 
-  /* On docs routes, keep the primary mobile navbar panel in view. */
-  .navbar-sidebar__items--show-secondary > .navbar-sidebar__item:first-child {
-    margin-left: var(--ifm-navbar-sidebar-width) !important;
-  }
 
-  .navbar-sidebar__items--show-secondary > .navbar-sidebar__item:nth-child(2) {
-    display: none !important;
-  }
 
   .plugin-id-uputstvo .theme-doc-markdown {
     font-size: 1rem;
