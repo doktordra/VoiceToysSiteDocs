@@ -513,3 +513,77 @@ html {
     border-radius: 10px;
   }
 }
+
+/* ── Dark Mode Global Overrides ── */
+[data-theme='dark'] {
+  --ifm-background-color: #0d161d;
+  --ifm-color-primary: #349ac3;
+  --ifm-color-primary-dark: #2c84a7;
+  --ifm-color-primary-darker: #297c9d;
+  --ifm-color-primary-darkest: #226681;
+  --ifm-color-primary-light: #48a6cd;
+  --ifm-color-primary-lighter: #52abd1;
+  --ifm-color-primary-lightest: #6dbcdb;
+  
+  /* EPUB (Pages) brand tokens for dark mode */
+  --vt-blue: #4ea5e0;
+  --vt-table-alt: #16232d;
+  --vt-rule: #465f70;
+  --vt-gray: #a0aab0;
+}
+
+[data-theme='dark'] .navbar {
+  background: rgba(13, 22, 29, 0.9);
+  border-bottom: 1px solid rgba(100, 180, 210, 0.12);
+}
+
+[data-theme='dark'] .mobile-language-trigger {
+  background: rgba(22, 35, 45, 0.8);
+  color: #6db8d4;
+  border-color: rgba(100, 180, 210, 0.22);
+}
+
+[data-theme='dark'] .mobile-language-icon {
+  border-color: rgba(109, 184, 212, 0.86);
+}
+
+[data-theme='dark'] .mobile-language-icon::before {
+  border-left-color: rgba(109, 184, 212, 0.82);
+}
+
+[data-theme='dark'] .mobile-language-icon::after {
+  border-top-color: rgba(109, 184, 212, 0.82);
+}
+
+[data-theme='dark'] .mobile-language-popup {
+  background: #16232d;
+  border-color: rgba(100, 180, 210, 0.22);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme='dark'] .mobile-language-option {
+  background: #16232d;
+  color: #6db8d4;
+}
+
+[data-theme='dark'] .mobile-language-option[aria-current='true'] {
+  background: rgba(100, 180, 210, 0.16);
+}
+
+[data-theme='dark'] .mobile-language-option + .mobile-language-option {
+  border-top-color: rgba(100, 180, 210, 0.12);
+}
+
+[data-theme='dark'] .mobile-sidebar-controls {
+  border-bottom-color: rgba(100, 180, 210, 0.12);
+}
+
+[data-theme='dark'] .footer {
+  background: #090f14;
+  border-top-color: rgba(100, 180, 210, 0.12);
+}
+
+[data-theme='dark'] .theme-doc-markdown th {
+  background: #1a2935;
+  color: #e2e8f0;
+}

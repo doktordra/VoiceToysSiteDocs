@@ -106,6 +106,11 @@ const config: Config = {
   clientModules: ['./src/client/mobileNavbarFix.js'],
 
   themeConfig: {
+    docs: {
+      sidebar: {
+        autoCollapseCategories: true,
+      },
+    },
     image: 'img/Ylogo.jpg',
     metadata: [
       {
@@ -134,6 +139,7 @@ const config: Config = {
       logo: {
         alt: 'VoiceToys Logo',
         src: '/img/VoiceToysLOGO.png',
+        srcDark: '/img/VoiceToysLogoBELI.png',
       },
       items: [
         {
