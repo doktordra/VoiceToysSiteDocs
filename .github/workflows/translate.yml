@@ -1,0 +1,81 @@
+name: Translate Docs via LLM
+
+on:
+  workflow_dispatch:
+    inputs:
+      locale:
+        description: 'Kod jezika na koji se prevodi (npr. pl, fr, es, it)'
+        required: true
+        type: string
+      plugin:
+        description: 'Koji deo dokumentacije prevodimo?'
+        required: true
+        type: choice
+        default: 'all'
+        options:
+          - all
+          - uputstvo
+          - docs
+          - bezbednost
+      provider:
+        description: 'Koji LLM provajder želiš da koristiš?'
+        required: true
+        default: 'gemini'
+        type: choice
+        options:
+          - gemini
+          - claude
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozitorijuma
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Instalacija zavisnosti
+        run: npm ci
+
+      - name: Generisanje strukture za novi jezik
+        run: npx docusaurus write-translations --locale ${{ github.event.inputs.locale }}
+
+      - name: Pokretanje masovnog LLM prevoda (${{ github.event.inputs.locale }})
+        env:
+          TRANSLATE_PROVIDER: ${{ github.event.inputs.provider }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.plugin }}" = "all" ]; then
+            npm run translate:docs -- --plugin docs --locale ${{ github.event.inputs.locale }}
+            npm run translate:docs -- --plugin uputstvo --locale ${{ github.event.inputs.locale }}
+            npm run translate:docs -- --plugin bezbednost --locale ${{ github.event.inputs.locale }}
+          else
+            npm run translate:docs -- --plugin ${{ github.event.inputs.plugin }} --locale ${{ github.event.inputs.locale }}
+          fi
+
+      - name: Kopiranje standardnih slika u novi locale (prepisivanje)
+        run: |
+          mkdir -p i18n/${{ github.event.inputs.locale }}/docusaurus-plugin-content-docs-uputstvo/current/images
+          cp i18n/en/docusaurus-plugin-content-docs-uputstvo/current/images/* i18n/${{ github.event.inputs.locale }}/docusaurus-plugin-content-docs-uputstvo/current/images/ || true
+
+      - name: Commit & Push prevoda u repozitorijum
+        run: |
+          git config user.name "VoiceToys LLM Bot"
+          git config user.email "actions@github.com"
+          git add i18n/${{ github.event.inputs.locale }}/
+          git add scripts/.translate-cache/
+          
+          # Ako ima promena - napravi commit
+          git diff-index --quiet HEAD || git commit -m "Auto-prevod na jezik: ${{ github.event.inputs.locale }} (preko ${{ github.event.inputs.provider }})"
+          
+          # Push nazad na main
+          git push origin HEAD:main

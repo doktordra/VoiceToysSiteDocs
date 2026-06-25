@@ -1,0 +1,126 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.pregledSidebar.category.Priručnik": {
+    "message": "Podręcznik",
+    "description": "The label for category 'Priručnik' in sidebar 'pregledSidebar'"
+  },
+  "sidebar.pregledSidebar.category.manual-devices": {
+    "message": "Urządzenia",
+    "description": "The label for category 'Uređaji' in sidebar 'pregledSidebar'"
+  },
+  "sidebar.pregledSidebar.category.Uputstvo": {
+    "message": "Instrukcja",
+    "description": "The label for category 'Uputstvo' in sidebar 'pregledSidebar'"
+  },
+  "sidebar.pregledSidebar.category.Opšte": {
+    "message": "Ogólne",
+    "description": "The label for category 'Opšte' in sidebar 'pregledSidebar'"
+  },
+  "sidebar.pregledSidebar.category.uputstvo-devices": {
+    "message": "Urządzenia",
+    "description": "The label for category 'Uređaji' in sidebar 'pregledSidebar'"
+  },
+  "sidebar.pregledSidebar.category.Podrška": {
+    "message": "Wsparcie",
+    "description": "The label for category 'Podrška' in sidebar 'pregledSidebar'"
+  },
+  "sidebar.pregledSidebar.category.Sertifikati": {
+    "message": "Certyfikaty",
+    "description": "The label for category 'Sertifikati' in sidebar 'pregledSidebar'"
+  },
+  "sidebar.pregledSidebar.category.Testimonials": {
+    "message": "Testimonials",
+    "description": "The label for category 'Testimonials' in sidebar 'pregledSidebar'"
+  },
+  "sidebar.pregledSidebar.link.Uvod": {
+    "message": "Wprowadzenie",
+    "description": "The label for link 'Uvod' in sidebar 'pregledSidebar', linking to '/docs/manual/uvod'"
+  },
+  "sidebar.pregledSidebar.link.manual-vibey": {
+    "message": "VibeY",
+    "description": "The label for link 'VibeY' in sidebar 'pregledSidebar', linking to '/docs/manual/vibey'"
+  },
+  "sidebar.pregledSidebar.link.manual-spready": {
+    "message": "SpreadY",
+    "description": "The label for link 'SpreadY' in sidebar 'pregledSidebar', linking to '/docs/manual/spready'"
+  },
+  "sidebar.pregledSidebar.link.manual-jumpy": {
+    "message": "JumpY",
+    "description": "The label for link 'JumpY' in sidebar 'pregledSidebar', linking to '/docs/manual/jumpy'"
+  },
+  "sidebar.pregledSidebar.link.manual-spacey": {
+    "message": "SpaceY",
+    "description": "The label for link 'SpaceY' in sidebar 'pregledSidebar', linking to '/docs/manual/spacey'"
+  },
+  "sidebar.pregledSidebar.link.Hvala na poverenju": {
+    "message": "Dziękujemy za zaufanie",
+    "description": "The label for link 'Hvala na poverenju' in sidebar 'pregledSidebar', linking to '/uputstvo'"
+  },
+  "sidebar.pregledSidebar.link.Opšte informacije": {
+    "message": "Informacje ogólne",
+    "description": "The label for link 'Opšte informacije' in sidebar 'pregledSidebar', linking to '/uputstvo/opste-informacije'"
+  },
+  "sidebar.pregledSidebar.link.Mobilna aplikacija": {
+    "message": "Aplikacja mobilna",
+    "description": "The label for link 'Mobilna aplikacija' in sidebar 'pregledSidebar', linking to '/uputstvo/mobilna-aplikacija'"
+  },
+  "sidebar.pregledSidebar.link.uputstvo-vibey": {
+    "message": "VibeY",
+    "description": "The label for link 'VibeY' in sidebar 'pregledSidebar', linking to '/uputstvo/vibey'"
+  },
+  "sidebar.pregledSidebar.link.uputstvo-spready": {
+    "message": "SpreadY",
+    "description": "The label for link 'SpreadY' in sidebar 'pregledSidebar', linking to '/uputstvo/spready'"
+  },
+  "sidebar.pregledSidebar.link.uputstvo-jumpy": {
+    "message": "JumpY",
+    "description": "The label for link 'JumpY' in sidebar 'pregledSidebar', linking to '/uputstvo/jumpy'"
+  },
+  "sidebar.pregledSidebar.link.uputstvo-spacey": {
+    "message": "SpaceY",
+    "description": "The label for link 'SpaceY' in sidebar 'pregledSidebar', linking to '/uputstvo/spacey'"
+  },
+  "sidebar.pregledSidebar.link.Ažuriranje": {
+    "message": "Aktualizacja",
+    "description": "The label for link 'Ažuriranje' in sidebar 'pregledSidebar', linking to '/uputstvo/azuriranje'"
+  },
+  "sidebar.pregledSidebar.link.Garancija": {
+    "message": "Gwarancja",
+    "description": "The label for link 'Garancija' in sidebar 'pregledSidebar', linking to '/uputstvo/garancija'"
+  },
+  "sidebar.pregledSidebar.link.I to nije sve": {
+    "message": "I to nie wszystko",
+    "description": "The label for link 'I to nije sve' in sidebar 'pregledSidebar', linking to '/uputstvo/i-to-nije-sve'"
+  },
+  "sidebar.pregledSidebar.link.Kontakt": {
+    "message": "Kontakt",
+    "description": "The label for link 'Kontakt' in sidebar 'pregledSidebar', linking to '/uputstvo/kontakt'"
+  },
+  "sidebar.pregledSidebar.link.EMC": {
+    "message": "EMC",
+    "description": "The label for link 'EMC' in sidebar 'pregledSidebar', linking to '/bezbednost/emc'"
+  },
+  "sidebar.pregledSidebar.link.LVD": {
+    "message": "LVD",
+    "description": "The label for link 'LVD' in sidebar 'pregledSidebar', linking to '/bezbednost/lvd'"
+  },
+  "sidebar.pregledSidebar.link.Buzganovic (SR) — zapažanja sa tretmana": {
+    "message": "Buzganović (SR) — obserwacje z terapii",
+    "description": "The label for link 'Buzganovic (SR) — zapažanja sa tretmana' in sidebar 'pregledSidebar', linking to 'pathname:///Testimonials/Buzganovic1.pdf'"
+  },
+  "sidebar.pregledSidebar.link.Logo-centar (SR) — zapažanja sa tretmana": {
+    "message": "Logo-centar (SR) — obserwacje z terapii",
+    "description": "The label for link 'Logo-centar (SR) — zapažanja sa tretmana' in sidebar 'pregledSidebar', linking to 'pathname:///Testimonials/Logo-centar1.pdf'"
+  },
+  "sidebar.pregledSidebar.link.OŠ Miloje Pavlović (SR) — pismo preporuke": {
+    "message": "Szkoła Podstawowa Miloje Pavlović (SR) — list polecający",
+    "description": "The label for link 'OŠ Miloje Pavlović (SR) — pismo preporuke' in sidebar 'pregledSidebar', linking to 'pathname:///Testimonials/OS_MilojePavlovic1.pdf'"
+  },
+  "sidebar.pregledSidebar.link.Оберіг (UK) — recommendation letter": {
+    "message": "Оберіг (UA) — list polecający",
+    "description": "The label for link 'Оберіг (UK) — recommendation letter' in sidebar 'pregledSidebar', linking to 'pathname:///Testimonials/KZ_LOR1.pdf'"
+  }
+}

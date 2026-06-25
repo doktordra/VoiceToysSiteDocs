@@ -77,7 +77,7 @@ function loadDotEnv() {
 loadDotEnv();
 
 const PROVIDER = (process.env.TRANSLATE_PROVIDER || "gemini").toLowerCase();
-const LANG_NAME = { en: "English", de: "German (Deutsch)" };
+const LANG_NAME = { en: "English", de: "German (Deutsch)", pl: "Polish (Polski)" };
 
 function systemPrompt(tl) {
   const lang = LANG_NAME[tl] || tl;
@@ -135,11 +135,29 @@ async function callClaude(text, tl) {
 }
 
 async function callLLM(text, tl) {
+  await throttle();
   if (PROVIDER === "claude" || PROVIDER === "anthropic") return callClaude(text, tl);
   return callGemini(text, tl);
 }
 
-async function translateWithRetry(text, tl, retries = 4) {
+// Proaktivni throttle: drži razmak između zahteva da ne probijemo RPM limit
+// besplatnog nivoa (Gemini free: ~15/min). Podesivo preko env GEMINI_RPM.
+const RPM = Number(process.env.GEMINI_RPM || 12);
+const MIN_INTERVAL_MS = Math.max(0, Math.ceil(60000 / Math.max(1, RPM)));
+let lastCallAt = 0;
+async function throttle() {
+  const wait = lastCallAt + MIN_INTERVAL_MS - Date.now();
+  if (wait > 0) await new Promise((r) => setTimeout(r, wait));
+  lastCallAt = Date.now();
+}
+
+// Izvuci preporučeni retryDelay (sekunde) iz 429 odgovora, ako postoji.
+function parseRetryDelaySec(message) {
+  const m = String(message).match(/"retryDelay"\s*:\s*"(\d+)s"/);
+  return m ? Number(m[1]) : null;
+}
+
+async function translateWithRetry(text, tl, retries = 6) {
   let lastError = null;
   for (let i = 0; i < retries; i += 1) {
     try {
@@ -148,7 +166,13 @@ async function translateWithRetry(text, tl, retries = 4) {
       throw new Error("Prazan odgovor modela");
     } catch (error) {
       lastError = error;
-      await new Promise((resolve) => setTimeout(resolve, 600 * (i + 1)));
+      const msg = String(error);
+      const is429 = msg.includes("429") || /rate|quota|RESOURCE_EXHAUSTED/i.test(msg);
+      const retrySec = parseRetryDelaySec(msg);
+      const delay = is429
+        ? (retrySec ? retrySec * 1000 + 1000 : 30000)
+        : 600 * (i + 1);
+      await new Promise((resolve) => setTimeout(resolve, delay));
     }
   }
   throw lastError;

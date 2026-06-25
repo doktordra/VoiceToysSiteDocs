@@ -75,6 +75,41 @@ const DICT = {
     'Оберіг (UK) — recommendation letter':
       'Оберіг (UA) — Empfehlungsschreiben',
   },
+  pl: {
+    'Priručnik': 'Podręcznik',
+    'Uređaji': 'Urządzenia',
+    'Uputstvo': 'Instrukcja',
+    'Opšte': 'Ogólne',
+    'Podrška': 'Wsparcie',
+    'Sertifikati': 'Certyfikaty',
+    'VoiceToys dokumentacija': 'Dokumentacja VoiceToys',
+    'Uvod': 'Wprowadzenie',
+    'Hvala na poverenju': 'Dziękujemy za zaufanie',
+    'Opšte informacije': 'Informacje ogólne',
+    'Mobilna aplikacija': 'Aplikacja mobilna',
+    'Ažuriranje': 'Aktualizacja',
+    'Garancija': 'Gwarancja',
+    'I to nije sve': 'I to nie wszystko',
+    'Kontakt': 'Kontakt',
+    // Footer
+    'Dokumentacija': 'Dokumentacja',
+    'Brza Navigacija': 'Szybka nawigacja',
+    'Priručnik (Uvod)': 'Podręcznik (Wprowadzenie)',
+    'Uputstvo (Početak)': 'Instrukcja (Pierwsze kroki)',
+    'Početna': 'Strona główna',
+    'Pretraga': 'Wyszukiwanie',
+    'Copyright © 2026 VoiceToys. Sva prava zadržana.':
+      'Copyright © 2026 VoiceToys. Wszelkie prawa zastrzeżone.',
+    // Testimonials
+    'Buzganovic (SR) — zapažanja sa tretmana':
+      'Buzganović (SR) — obserwacje z terapii',
+    'Logo-centar (SR) — zapažanja sa tretmana':
+      'Logo-centar (SR) — obserwacje z terapii',
+    'OŠ Miloje Pavlović (SR) — pismo preporuke':
+      'Szkoła Podstawowa Miloje Pavlović (SR) — list polecający',
+    'Оберіг (UK) — recommendation letter':
+      'Оберіг (UA) — list polecający',
+  },
 };
 
 // Files (relative to i18n/<locale>/) whose `message` values should be translated.
@@ -89,7 +124,7 @@ const FILES = [
 const root = process.cwd();
 let changedTotal = 0;
 
-for (const locale of ['en', 'de']) {
+for (const locale of ['en', 'de', 'pl']) {
   const dict = DICT[locale];
   for (const rel of FILES) {
     const file = path.join(root, 'i18n', locale, rel);

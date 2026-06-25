@@ -52,7 +52,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'sr',
-    locales: ['sr', 'en', 'de'],
+    locales: ['sr', 'en', 'de', 'pl'],
   },
 
   presets: [
@@ -105,7 +105,7 @@ const config: Config = {
         indexDocs: true,
         indexPages: true,
         indexBlog: false,
-        language: ['en', 'de'],
+        language: ['en', 'de', 'pl'],
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
       },
