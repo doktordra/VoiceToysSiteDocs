@@ -1,21 +1,24 @@
 ---
-title: Dobrodošli
+title: Vielen Dank für Ihr Vertrauen!
 sidebar_position: 1
 slug: /
 hide_table_of_contents: true
 ---
-Hvala na poverenju!
+# Das Voice-Toys-System wurde mit dem Wunsch entwickelt, dass die Nutzer es lieben!
 
-Uređaj SpreadY u toku rada Namenjen je za rad u logopedskoj i defektološkoj praksi, ali se može koristiti u radu sa korisnicima svih uzrasta i nivoa razvoja.
+<FigureBlock
+  src="/voice-toys/images/viber_image_2019-11-04_14-58-02.jpg"
+  alt="Kinderhaus"
+  imagePosition="right"
+>
 
-Razvijan je sa ljubavlju i željom da se uklopi u proces rada tako da ga ne ometa, već da motiviše, ubrza napredovanje i olakša rad terapeuta.
+Es ist für die Arbeit in der logopädischen und heilpädagogischen Praxis gedacht, kann aber auch in der Arbeit mit Nutzern jeden Alters und jeder Entwicklungsstufe eingesetzt werden.
 
-Dizajniran je da bude lak za upotrebu, vizuelno sveden, jednostavnih oblika i jasnih, živih boja, neobičan, ali prirodan i human. Napravljen je od neškodljivih, kvalitetnih materijala.
+Es wurde mit Liebe und dem Wunsch entwickelt, sich so in den Arbeitsprozess einzufügen, dass es ihn nicht stört, sondern motiviert, den Fortschritt beschleunigt und die Arbeit der Therapeuten erleichtert.
 
-Kontroliše se bežično, originalnom aplikacijom razvijenom za Android i iOS uređaje.
+Es ist so gestaltet, dass es einfach zu bedienen ist, visuell reduziert, mit schlichten Formen und klaren, lebendigen Farben, ungewöhnlich, aber natürlich und menschlich. Es ist aus unbedenklichen, hochwertigen Materialien gefertigt.
 
-Zasnovan je na mikrokontrolerima kojima se veoma lako, bežično ažurira operativni sistem. Zahvaljujući tome, uređaji se mogu modifikovati i obogatiti dodatnim funkcijama prema zahtevima korisnika. Pozivamo vas da svojim idejama učestvujete u razvoju i napretku ovog jedinstvenog sistema!
+Die Steuerung erfolgt drahtlos über eine eigens für Android- und iOS-Geräte entwickelte App.
 
-Sistem Voice Toys je napravljen sa željom da ga korisnici zavole
-
-![viber_image_2019-11-04_14-58-02](/voice-toys/images/viber_image_2019-11-04_14-58-02.jpg)
+Es basiert auf Mikrocontrollern, deren Betriebssystem sich sehr leicht drahtlos aktualisieren lässt. Dadurch können die Geräte je nach Nutzeranforderungen modifiziert und um zusätzliche Funktionen erweitert werden. Wir laden Sie ein, sich mit Ihren Ideen an der Entwicklung und dem Fortschritt dieses einzigartigen Systems zu beteiligen!
+</FigureBlock>

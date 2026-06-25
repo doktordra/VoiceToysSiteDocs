@@ -26,6 +26,15 @@ const config: Config = {
     },
   },
 
+  // Use a single, shared browser-storage namespace across all locales so that
+  // the dark/light mode (and other UI prefs) are GLOBAL, not remembered per
+  // language. With future.v4 the namespace would otherwise default to a hash of
+  // url + (localized) baseUrl, giving a different `theme` key for /, /en/, /de/.
+  storage: {
+    type: 'localStorage',
+    namespace: false,
+  },
+
   // Set the production url of your site here
   url: 'https://docs.voicetoys.rs',       // Vaš glavni domen
   baseUrl: '/',            // Kosa crta na početku i kraju

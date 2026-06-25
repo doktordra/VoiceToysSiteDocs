@@ -1,130 +1,167 @@
 ---
 title: VibeY
-sidebar_position: 4
-hide_table_of_contents: true
----
-![VibeYsolo2](/voice-toys/images/VibeYsolo2.png)
-
+sidebar_position: 3
 ---
 
-### Specifikacije uređaja - VibeY
 
-Prečnik 121mm, visina 60mm, PET-G ekstrudirani akril.
+# Device specifications
 
-![VibeY](/voice-toys/images/image-26.png)
 
-![VibeYAsset 1](/voice-toys/images/VibeYAsset_1.png)
+<FigureBlock
+  src="/voice-toys/images/VibeYsolo2.png"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
 
-| Napajanje | DC, 5V, 3A |
-| --- | --- |
-| Konektor | USB-C |
-| Dimenzije | Prečnik 121mm<br />Visina 60 mm |
-| Baterija | Li-Ion 18650 |
-| Mreže | Wi-Fi, Bluetooth |
-| Kućište | PET-G<br />ekstrudirani akril |
+
+| Power supply | DC, 5V, 3A                      |
+| --------- | ------------------------------- |
+| Connector  | USB-C                           |
+| Dimensions | Diameter 121mm<br />Height 60 mm |
+| Battery  | Li-Ion 18650                    |
+| Networks     | Wi-Fi, Bluetooth                |
+| Housing   | PET-G<br />extruded acrylic   |
+</FigureBlock>
 
 ---
 
-### 2 - 1: Opis uređaja i bezbednosne napomene
+### Device description and safety notes
 
-VibeY je vibrotaktilna, svetleća kutija, namenjena za stimulaciju glasanja i kontrolu visine i intenziteta glasa. Iako je namenjena da se pomoću nje osete vibracije, ne sme se davati deci na samostalno rukovanje! Detaljna podešavanja uređaja se vrše putem mobilne aplikacije VoiceToys.
+**VibeY** is a vibrotactile, glowing box, intended for the stimulation of vocalization and the control of voice pitch and intensity. Although it is intended for feeling vibrations through it, **it must not be given to children for independent handling!** Detailed settings of the device are made via the VoiceToys mobile application.
 
-### 2 - 2: Puštanje uređaja u rad
+### Putting the device into operation
 
-Uređaj se pokreće se stavljanjem prekidača koji se nalazi sa donje strane uređaja u poziciju 1. Nakon uključivanja, logotip na kućištu počinje da sija, LED svetlo sa gornje strane prikaže animaciju svetlima i uređaj na kratko zavibrira. Ovaj efekat se može isključiti putem mobilne aplikacije, što je objašnjeno u sledećem poglavlju. Vaš uređaj VibeY je sada spreman za rad.
+The device is started by setting the switch located on the underside of the device to position 1. After turning on, the logo on the housing begins to glow, the LED light on the top side shows an animation of lights and the device vibrates briefly. This effect can be turned off via the mobile application, which is explained in the following chapter. Your **VibeY** device is now ready for operation.
 
-Ukoliko logotip promeni boju u žuto, to znači da je baterija oslabila, a ukoliko počne da treperi crveno, baterija je na kritično niskom nivou i treba je odmah napuniti. Stanje baterija možete kontrolisati i pomoću mobilne aplikacije.
+If the logo changes color to yellow, it means that the battery has weakened, and if it starts to flash red, the battery is at a critically low level and should be charged immediately. You can also monitor the battery status using the mobile application.
 
-Na donjoj strani uređaja se takođe nalaze i tri otvora za ulaz zvuka u unutrašnjost uređaja. Ne pokrivajte ih i ne stavljajte uređaj na meku površinu koja može apsorbovati zvuk!
+On the underside of the device there are also three openings for the entry of sound into the interior of the device. Do not cover them and do not place the device on a soft surface that can absorb sound!
 
-*Uvodne napomene: VibeY, donja strana uređaja.*
 
-### 2 - 3: Punjenje baterije uređaja
 
-Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću USB-C konektora sa donje strane uređaja. Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
+### Charging the device battery
+
+The device contains a lithium-ion battery that is charged with a voltage of 5V/3A, using the USB-C connector on the **underside of the device.** After connecting the voltage, the logo indicates charging by emitting red, yellow or green color, in accordance with the battery status. When it glows constantly green, the charging process is complete.
 
 ![vibey-removebg-preview](/voice-toys/images/vibey-removebg-preview.png)
 
-*Prekidač za uključivanje uređaja i USB-C konektor za punjenje baterije uređaja.*
+***VibeY**, underside of the device. The switch, USB-C input and the sound-entry openings are visible.*
 
 ---
+### Application home screen for controlling the **VibeY** device
 
-<ScreenshotCallout
+<FigureBlock
 	src="/voice-toys/images/screenshots/sr/VibeY_poc_etni_ekran.jpg"
-	alt="Početni ekran aplikacije namenjen kontroli uređaja VibeY"
-	title="Početni ekran aplikacije namenjen kontroli uređaja"
-	items={[
-		{label: 'Naziv uređaja, informacije o sistemu i pomoć'},
-		{label: 'Klizači za podešavanje vibracije ili svetla', description: '(opisano na sledećoj strani)'},
-		{label: 'Indikator stanja napunjenosti baterije', description: '(pojavljuje se kada su uređaj i aplikacija povezani)'},
-		{label: 'Trenutno učitani preset i + dugme za pravljenje novog preseta od trenutnih podešavanja'},
-		{label: 'Kartice za izbor prikaza klizača za podešavanje vibracije ili svetla'},
-		{label: 'Izbor preseta i povratak na glavnu stranu'},
-		{label: 'Tasteri za uključivanje i isključivanje vibracije/svetla'},
-		{label: 'Vizuelna reprezentacija uključene vibracije/svetla'},
-	]}
-/>
+	alt="Application home screen for controlling the VibeY device"
+>
+*Application home screen for controlling the **VibeY** device*
+
+
+Device name, system information and help
+
+Sliders for adjusting vibration or light (described on the following page)
+
+Battery charge status indicator (appears when the device and
+application are connected)
+
+Currently loaded preset and the + button for creating a new preset from
+the current settings
+
+Tabs for selecting the display of sliders for adjusting vibration or light
+
+Preset selection and return to the main page
+
+Buttons for turning vibration/light on and off
+
+Visual representation of the active vibration/light
+</FigureBlock>
+
 
 ---
 
-### 2 - 4: Funkcije mobilne aplikacije za uređaj VibeY
+### Mobile application functions for the **VibeY** device
 
-Nakon pokretanja, uređaj radi u po parametrima koji su postavljeni prilikom prethodnog korišćenja. Ukoliko imate potrebu da prilagođavate parametre osetljivosti ili isključite vibraciju ili svetlo, možete to učiniti pomoću mobilne aplikacije.
+After launching, the device operates according to the parameters that were set during the previous use. If you have a need to adjust sensitivity parameters or turn off the vibration or light, you can do so using the mobile application.
 
-Uključite uređaj, pa na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju "VibeY " nakon što se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, uređaj će na kratko emitovati plavo svetlo, na telefonu će se pojaviti ekran prikazan na slici na prethodnoj strani, a kontrole će preuzeti stanje koje je trenutno aktivno u uređaju.
+Turn on the device, then on the application's home screen (shown on page 7) select the option **VibeY** after its symbol turns green. If the connection is successful, the device will briefly emit blue light, the screen shown in the image on the previous page will appear on the phone, and the controls will take on the state that is currently active in the device.
 
-Nakon odabira opcije "VibeY " na početnom ekranu aplikacije, ušli ste u ekran sa prikazima funkcije mobilne aplikacije za uređaj "VibeY ".
+After selecting the option **VibeY** on the application's home screen, you have entered the screen displaying the mobile application's functions for the **VibeY** device.
 
-U gornjem žutom polju ekrana možete videti naziv uređaja, informacije o sistemu i pomoć.
+In the upper yellow field of the screen you can see the device name, system information and help.
 
-Pritiskom na simbol zupčanika u gornjem žutom polju pristupićete ekranu sa informacijama o uređaju (na slici), gde možete videti da li je Vaš uređaj ažuriran, odnosno da li je u njega učitana poslednja verzija softvera.
 
-Pomoću klizača u sekciji "Boja logotipa" možete izabrati boju kojom će sijati logotip Vašeg uređaja.
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/zupcanik_VibeY.jpg"
+	alt="zupcanik VibeY"
+	caption=""
+>
+*Screen view after pressing the gear symbol*
 
-Pomoću klizača u sekciji "Intenzitet logotipa" možete odrediti jačinu kojom će sijati logotip Vašeg uređaja.
+**By pressing the gear symbol** in the upper yellow field you will access the screen with device information (in the image), where you can see whether your device is updated, that is, whether the latest software version has been loaded into it.
 
-Pritiskom na simbol u sekciji "Uvod" možete uključiti ili isključiti svetla i vibraciju koji se javljauju svaki put kada uključite Vaš uređaj.
+Using the slider in the **"Logo color"** section you can choose the color in which your device's logo will glow.
 
-Pritiskom na bilo koji deo ekrana osenčen sivom bojom se vraćate na početni ekran za uređaj "VibeY ".
+Using the slider in the **"Logo intensity"** section you can determine the intensity with which your device's logo will glow.
 
-![zupcanik VibeY](/voice-toys/images/screenshots/sr/zupcanik_VibeY.jpg)
+By pressing the symbol in the **"Intro"** section you can turn on or off the lights and vibration that appear every time you turn on your device.
 
-*Prikaz ekrana nakon pritiska na simbol zupčanika: detaljne informacije o uređaju i funkcije mobilne aplikacije.*
+By pressing any part of the screen shaded gray you return to the home screen for the **VibeY** device.
 
----
-
-Pritiskom na simbol znaka pitanja pojaviće se ekran sa tekstom koji će Vam pomoći da se podsetite osnovnih funkcija aplikacije za uređaj "VibeY " (slika levo). Tekst možete pomerati na dole kako bi ga pročitali do kraja.
-
-U dnu ekrana se nalazi taster "Pogledaj video". Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja "VibeY ".
-
-Pritiskom na taster "X" vraćate se na početni ekran uređaja "VibeY ".
-
-U gornjoj polovini početnog ekrana se nalazi polje "Izaberite ili kreirajte preset". Pritiskom na ovo polje će Vam se prikazati ekran u čijem donjem delu se nalaze kartice sa nazivima "Podrazumevani" i "Korisnički" (slika desno). Pod podrazumevanim presetima se nalaze fabrički podešene svetlosne i vibrirajuće reakcije Vašeg uređaja koje su opisane nazivima ispod slike svakog od njih. U korisničkim presetima se nalaze ona podešavanja koja ste sami kreirali i dali im imena. Način kreiranja i pamćenja podešavanja pogledajte na strani 19.
-
-Ispod polja "Izaberite i kreirajte preset" se nalazi slika sa vizuelnom reprezentacijom upaljene ili ugašene vibracije odnosno svetla, kao i tasteri za njihovo uključivanje i isključivanje.
-
-![VibeY](/voice-toys/images/screenshots/sr/VibeY_.jpg)
-
-![VibeY preseti](/voice-toys/images/screenshots/sr/VibeY_preseti.jpg)
-
-*Prikaz ekrana nakon pritiska na simbol znaka pitanja i na polje "Izaberite ili kreirajte preset".*
+</FigureBlock>
 
 ---
 
-Pritiskom na taster "Kontrole" koji se nalazi u donjem levom uglu ekrana se vraćate na početni ekran u čijem donjem delu će se prikazati klizači sa kontrolama za podešavanje nivoa zvuka, osetljivosti i kašnjenja reakcije Vašeg uređaja "VibeY ". Prikaz ovog ekrana možete videti na slici desno.
+<FigureBlock
+	src="/voice-toys/images/screenshots/sr/VibeY_.jpg"
+	alt="zupcanik VibeY"
+	imagePosition="right"
+>
 
-Tasteri Vibracija i Svetlo, koji se nalaze u središnjem delu ekrana, uključuju ili isključuju reakciju uređaja svetlom odnosno vibracijom. Njihov intenzitet i brzina reakcije mogu se odvojeno podešavati pomoću klizača u donjem polju. Kartice Vibracija i Svetlo koji se nalaze u donjoj polovini ekrana određuju na koji tip reakcije utičemo, birajući set aktivnih klizača.
+*Screen view after pressing the question mark symbol.*
 
-Nivo zvuka je prag osetljivosti uređaja na zvuk kojim možete izolovati eventualnu ambijentalnu buku. Njime zadajete nivo zvuka preko kojeg uređaj počinje da reaguje vibracijom ili svetlom. Ako birate veće vrednosti, za reakciju će biće potreban viši nivo zvuka. Manje vrednosti će dati reakciju i na najtiše zvukove u prostoru.
+**By pressing the question mark symbol** a screen will appear with text that will help you recall the basic functions of the application for the **VibeY** device (image below). You can scroll the text in order to read it to the end.
 
-Osetljivost određuje intenzitet reakcije uređaja na promenu nivoa zvuka. Ukoliko ga menjate ka manjim vrednostima, reakcija vibracije ili svetla na promenu zvuka će biti blaža. Što su vrednosti više, potreban je veći nivo zvuka da bi uređaj vibrirao ili sijao jačim intenzitetom.
+At the bottom of the screen there is a "Watch video" button. By pressing this button you will access a detailed video tutorial that will show you the complete instructions for using your **VibeY** device.
 
-Kašnjenje je vreme odlaganja reakcije svetlom ili vibracijom na zvučnu pobudu.
+By pressing the **"X"** button you return to the home screen of the **VibeY** device.
 
-Pritiskom na taster "Preseti" u donjem levom uglu ekrana, vraćate se na ekran koji je opisan na prethodnoj strani i koji je identičan klikom na sekciju "Izaberite ili kreirajte preset".
+</FigureBlock>
 
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg žutog polja ekrana aplikacije.
+---
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/VibeY_preseti.jpg"
+  alt="VibeY_preseti"
+  imagePosition="left"
+>
+*Screen view after pressing the "Select or create a preset" field*
 
-![VibeY kontrole](/voice-toys/images/screenshots/sr/VibeY_kontrole.jpg)
+In the upper half of the home screen there is a field **"Select or create a preset"**. By pressing this field, a screen will be shown to you in whose lower part there are tabs with the names "Default" and "User" (image right). Under the default presets are the factory-set light and vibration reactions of your device, which are described by the names below the image of each of them. In the user presets are those settings that you created yourself and gave names to. See the way of creating and storing settings on page 19.
 
-*Prikaz ekrana nakon pritiska na polje "Kontrole" i detaljne funkcije mobilne aplikacije.*
+Below the "**Select and create a preset**" field there is an image with a visual representation of the turned-on or turned-off vibration or light, as well as buttons for turning them on and off.
+
+</FigureBlock>
+
+---
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/VibeY_kontrole.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+*Screen view after pressing the "Controls" field*
+
+By pressing the "Controls" button located in the lower left corner of the screen, you return to the home screen, in whose lower part sliders will be shown with controls for adjusting the sound level, sensitivity and reaction delay of your "**VibeY**" device. You can see the view of this screen in the image on the right.
+
+The **buttons** Vibration and Light, which are located in the central part of the screen, turn the device's reaction with light or vibration on or off. Their intensity and reaction speed can be adjusted separately using the sliders in the lower field. The **tabs** Vibration and Light, which are located in the lower half of the screen, determine which type of reaction we are affecting, by selecting the set of active sliders.
+
+Sound level is the threshold of the device's sensitivity to sound by which you can isolate any ambient noise. With it you set the sound level above which the device begins to react with vibration or light. If you choose higher values, a higher sound level will be needed for a reaction. Lower values will give a reaction even to the quietest sounds in the space.
+
+Sensitivity determines the intensity of the device's reaction to a change in sound level. If you change it toward lower values, the vibration or light reaction to the sound change will be milder. The higher the values, the higher the sound level needed for the device to vibrate or glow with greater intensity.
+
+Delay is the time of postponement of the light or vibration reaction to the sound stimulus.
+
+By pressing the "Presets" button in the lower left corner of the screen, you return to the screen that is described on the previous page and that is identical to clicking on the "Select or create a **preset**" section.
+
+You can always return to the home screen of the "VoiceToys" application by pressing the button with the house image, located in the middle of the lower yellow field of the application screen.
+
+</FigureBlock>

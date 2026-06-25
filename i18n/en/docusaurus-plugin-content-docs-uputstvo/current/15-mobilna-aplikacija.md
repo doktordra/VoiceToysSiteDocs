@@ -1,26 +1,26 @@
 ---
-title: Mobilna aplikacija
+title: Mobile application
 sidebar_position: 3
 ---
 
-### Namena i instalacija
+# Purpose and installation
 
-### 1 - 1: Namena
+### Purpose
 
-Mobilna aplikacija "VoiceToys" je namenjena za kontrolu, pamćenje parametara i ažuriranje uređaja.
+The "VoiceToys" mobile application is intended for controlling, storing parameters and updating the devices.
 
-### 1 - 2: Instalacija
+### Installation
 
-Ukoliko koristite Android uređaj, aplikaciju možete preuzeti sa Google Play Store-a, odnosno skeniranjem QR koda na kutiji u kojoj ste dobili uređaj.
+If you use an Android device, you can download the application from the Google Play Store, that is, by scanning the QR code on the box in which you received the device.
 
-Za instalaciju aplikacije potrebna su odobrenja za korišćenje lokacije i bluetooth- a. Prilikom instaliranja, dobićete notifikacije na kojima je potrebno da odobrite pristup traženim funkcijama telefona. Nakon odobrenja, aplikacija se instalira na uobičajeni način i može se naći među ostalim aplikacijama na vašem uređaju, pod imenom VoiceToys i sa našim logotipom.
+To install the application, permissions for the use of location and bluetooth are required. During installation, you will receive notifications on which you need to grant access to the requested phone functions. After granting permission, the application is installed in the usual way and can be found among the other applications on your device, under the name VoiceToys and with our logo.
 
-**Tokom upotrebe neophodno je da bluetooth komunikacija, notifikacije i lokacija na vašem telefonu budu uključene.**
+**During use, it is necessary that bluetooth communication, notifications and location on your phone are turned on.**
 
-### 1 - 3: Početni ekran
+### Home screen
 
-Nakon pokretanja aplikacije počinje pretraga uređaja raspoloživih za povezivanje. **Nakon završene pretrage, zelenim okvirom biće istaknute slike prisutnih, odnosno uključenih uređaja kojima možete pristupiti. Pritiskom na sliku željenog uređaja, povezujete se sa njim i prelazite na ekran za kontrolu istog.** Pritiskom na logo VoiceToys dolazite na naš sajt gde možete naći kontakt za podršku i sve potrebne informacije. Nakon završene pretrage uređaja, možete ponoviti proces pritiskom na simbol koji prikazuje lupu.
+After launching the application, the search for devices available for connection begins. **Once the search is complete, the images of present, that is, turned-on devices that you can access will be highlighted with a green frame. By pressing the image of the desired device, you connect to it and move to the screen for controlling it.** By pressing the VoiceToys logo you arrive at our website, where you can find support contacts and all the necessary information. After the device search is complete, you can repeat the process by pressing the symbol showing a magnifying glass.
 
 ![Screenshot_2024-04-22-11-26-23-93_3a220c2fb963ee2deb62bf32156943f2](/voice-toys/images/screenshots/sr/Screenshot_2024-04-22-11-26-23-93_3a220c2fb963ee2deb62bf32156943f2.jpg)
 
-*Početni ekran mobilne aplikacije. Uređaj **JumpY** spreman za povezivanje.*
+*Home screen of the mobile application. The **JumpY** device ready for connection.*

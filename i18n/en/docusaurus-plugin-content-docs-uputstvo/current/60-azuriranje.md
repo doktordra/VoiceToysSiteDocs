@@ -1,51 +1,66 @@
 ---
-title: Automatsko ažuriranje uređaja
+title: Automatic device update
 sidebar_position: 8
 ---
-![Screenshot_2024-04-30-16-32-32-42_3a220c2fb963ee2deb62bf32156943f2(1)](/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-32-32-42_3a220c2fb963ee2deb62bf32156943f2_1_.jpg)
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-32-32-42_3a220c2fb963ee2deb62bf32156943f2_1_.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
 
-![VibeYsolo2](/voice-toys/images/image-168.png)
+*If an update is available, this screen will appear to you*
 
-*U dva jednostavna koraka vaš mobilni uređaj preuzima ažuriranje sa VoiceToys cloud-a, zatim se povezuje na Wi-Fi mrežu VoiceToys uređaja i automatski ga ažurira. Na ilustraciji je prikazan VibeY, ali isti postupak važi i za ostale VoiceToys uređaje.*
+# What is a device update?
 
----
+VoiceToys are digitally controlled devices - they contain a microcontroller that has its own program - the **firmware**.
 
-### Šta je ažuriranje uređaja?
+Updating the **firmware** enables us to improve them with new functions and correct any deficiencies in the old ones. With that, this user manual will also be updated and changed. When a new version of the **firmware** is available, the application will notify you and offer the update.
 
-VoiceToys su digitalno kontrolisani uređaji - sadrže mikrokontroler koji ima svoj program - firmware.
+If the update is not mandatory, you can postpone it for later by pressing the "cancel" button. If it is a necessary update, you must carry it out before continuing your work.
 
-Ažuriranje firmware-a nam omogućava da ih unapređujemo novim funkcijama i ispravljamo eventualne nedostatke u starim. Samim tim, i ovo korisničko uputstvo će biti ažurirano i menjano. Kada je dostupna nova verzija firmware-a, aplikacija će vas obavestiti i ponuditi ažuriranje.
+In two simple steps your mobile device downloads the update from the VoiceToys cloud, then connects to the Wi-Fi network of the VoiceToys device and updates it automatically.
 
-Ako ažuriranje nije obavezno, možete ga odložiti za kasnije pritiskom na taster "otkaži". Ako je u pitanju neophodno ažuriranje, morate ga sprovesti pre nego što nastavite rad.
+</FigureBlock>
 
-### Tok ažuriranja
+### **1 - Start and download of the update** 
 
-### 1 - Početak i preuzimanje ažuriranja - Nakon pritiska na
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-32-56-77_3a220c2fb963ee2deb62bf32156943f2.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+After pressing the **Update** button, the new **firmware** is downloaded from the internet into the memory of your mobile device. **For this step it is necessary that the device is connected to the internet.**
+</FigureBlock>
 
-![Screenshot_2024-04-30-16-32-56-77_3a220c2fb963ee2deb62bf32156943f2](/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-32-56-77_3a220c2fb963ee2deb62bf32156943f2.jpg)
 
-![Settings_(iOS)](/voice-toys/images/Settings__iOS_.png)
+After the update has been downloaded, your VoiceToys device enters Update mode, that is, it becomes a Wi-Fi access point. The device stops its usual operation and blue lights are seen on it.
 
-taster Ažuriraj, novi firmware se sa interneta preuzima u memoriju vašeg mobilnog uređaja. Za ovaj korak neophodno je da uređaj bude povezan na internet.
 
-Nakon što je ažuriranje preuzeto, vaš VoiceToys uređaj ulazi u Update režim, odnosno postaje Wi-Fi pristupna tačka.
+### 2 - Connecting to the WiFi of the VoiceToys device
 
-Uređaj prestaje sa uobičajenim radom i na njemu se vide plava svetla.
 
-### 2 - Povezivanje na WiFi VoiceToys uređaja - Android
 
-mobilni uređaji će vas automatski odvesti do WiFi podešavanja vašeg telefona, dok na iPhone uređajima to morate uraditi ručno, tako što ćete pokrenuti Settings vašeg uređaja i odabrati opciju WiFi. Ukoliko WiFi na vašem telefonu nije uključen, uključite ga.
+<FigureBlock
+  src="/voice-toys/images/Screenshot_2024-04-30-16-33-11-09_41a74ddf68be21faad2fbbb691b15143.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+Android mobile devices will automatically take you to the WiFi settings of your phone, while on iPhone devices you must do this manually, by launching the Settings of your device and selecting the WiFi option. If the WiFi on your phone is not turned on, turn it on. **In the list of WiFi networks find the VoiceToys update network** of your device and connect to it: 
+</FigureBlock>
 
-Detaljno objašnjenje SETTINGS WIFI
+### 3 - Sending the Firmware to the VoiceToys device
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-33-30-11_3a220c2fb963ee2deb62bf32156943f2.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+After you have connected to the VoiceToys update network, return to the VoiceToys application, where the following notification will await you: 
+</FigureBlock>
 
----
-
-U listi WiFi mreža pronađite VoiceToys update mrežu vašeg uređaja i povežite se na nju: Nakon što ste se povezali na VoiceToys update mrežu, vratite se u VoiceToys aplikaciju, gde će vas dočekati sledeće obaveštenje: e Od ovog trenutka potrebno je samo da sačekate da se ažuriranje pošalje iz telefona u uređaj. Ne isključujte ga dok se automatski ne pokrene ponovo. Nakon toga, proces je završen!
-
-Detaljno objašnjenje
-
-![Screenshot_2024-04-30-16-33-11-09_41a74ddf68be21faad2fbbb691b15143](/voice-toys/images/Screenshot_2024-04-30-16-33-11-09_41a74ddf68be21faad2fbbb691b15143.jpg)
-
-![Screenshot_2024-04-30-16-33-30-11_3a220c2fb963ee2deb62bf32156943f2](/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-33-30-11_3a220c2fb963ee2deb62bf32156943f2.jpg)
-
-![viber_image_2024-05-10_16-13-31-345](/voice-toys/images/screenshots/sr/viber_image_2024-05-10_16-13-31-345.png)
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/viber_image_2024-05-10_16-13-31-345.png"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+From this moment you only need to wait for the update to be sent from the phone to the device. Do not turn it off until it automatically restarts. After that, the process is complete!
+</FigureBlock>

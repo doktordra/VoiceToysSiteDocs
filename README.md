@@ -77,6 +77,50 @@ ide u `i18n/en/docusaurus-plugin-content-docs/current/manual/00-uvod.md`.
 > ponovo napisati prema novoj strukturi izvora (npr. naslovna je prešla sa običnog
 > markdowna na kartice — stari `.md` prevod više nije odgovarao).
 
+### Pametno (AI) prevođenje sadržaja
+
+Za prevod sadržajnih `.md`/`.mdx` fajlova koristi se `scripts/translate-docs.mjs` —
+sistem koji **čuva strukturu** (frontmatter, `<FigureBlock>` i drugi JSX, tabele,
+kod-blokove, slike, linkove) i šalje **samo prozni tekst** modelu. Time se izbegava
+da se prevod „raspadne” na MDX/JSX strukturi.
+
+```bash
+# prevedi uputstvo na nemački
+npm run translate:docs -- --plugin uputstvo --locale de
+
+# ponovo prevedi sve (zaobiđi keš)
+npm run translate:docs -- --plugin uputstvo --locale en --force
+```
+
+Opcije: `--plugin <docs|uputstvo|bezbednost|pregled>`, `--locale <en|de>`, `--force`.
+Prevodi se upisuju u `i18n/<locale>/<plugin>/current/` (vidi tabelu iznad).
+
+**Provajder (LLM).** Bira se preko `TRANSLATE_PROVIDER` (podrazumevano `gemini`):
+
+| Provajder | `TRANSLATE_PROVIDER` | Potreban ključ                       |
+| --------- | -------------------- | ------------------------------------ |
+| Gemini    | `gemini` (default)   | `GEMINI_API_KEY` ili `GOOGLE_API_KEY`|
+| Claude    | `claude`             | `ANTHROPIC_API_KEY` ili `CLAUDE_API_KEY`|
+
+Ključevi se mogu staviti u `.env` u korenu repo-a (učitava se automatski; `.env`
+je u `.gitignore`):
+
+```bash
+TRANSLATE_PROVIDER=claude
+ANTHROPIC_API_KEY=sk-ant-...
+```
+
+> **Bez Google Translate.** Sistem koristi isključivo Gemini ili Claude (LLM),
+> nikada `translate.googleapis.com`.
+
+> **Slike sa relativnom putanjom** (`./images/...`) moraju da postoje i pored prevoda.
+> Pošto se prevod nalazi u `i18n/<locale>/<plugin>/current/`, iskopiraj referencirane
+> slike u `i18n/<locale>/<plugin>/current/images/` (apsolutne putanje tipa
+> `/voice-toys/images/...` i `/img/uputstvo/...` rade bez kopiranja).
+
+> **Keš.** Prevedeni segmenti se keširaju u `scripts/.translate-cache/sr-<locale>.json`
+> (u `.gitignore`) da se isti tekst ne prevodi dvaput. `--force` ignoriše keš.
+
 ### Prevod UI labela (meni, footer, sidebar kategorije)
 
 Labele menija/footer-a/sidebar kategorija se prevode kroz JSON fajlove. Generiši ih:

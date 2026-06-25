@@ -1,51 +1,66 @@
 ---
-title: Automatsko ažuriranje uređaja
+title: Automatische Geräteaktualisierung
 sidebar_position: 8
 ---
-![Screenshot_2024-04-30-16-32-32-42_3a220c2fb963ee2deb62bf32156943f2(1)](/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-32-32-42_3a220c2fb963ee2deb62bf32156943f2_1_.jpg)
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-32-32-42_3a220c2fb963ee2deb62bf32156943f2_1_.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
 
-![VibeYsolo2](/voice-toys/images/image-168.png)
+*Falls eine Aktualisierung verfügbar ist, erscheint Ihnen dieser Bildschirm*
 
-*U dva jednostavna koraka vaš mobilni uređaj preuzima ažuriranje sa VoiceToys cloud-a, zatim se povezuje na Wi-Fi mrežu VoiceToys uređaja i automatski ga ažurira. Na ilustraciji je prikazan VibeY, ali isti postupak važi i za ostale VoiceToys uređaje.*
+# Was ist eine Geräteaktualisierung?
 
----
+VoiceToys sind digital gesteuerte Geräte – sie enthalten einen Mikrocontroller, der sein eigenes Programm hat – die **Firmware**.
 
-### Šta je ažuriranje uređaja?
+Die Aktualisierung der **Firmware** ermöglicht es uns, die Geräte mit neuen Funktionen zu verbessern und eventuelle Mängel in den alten zu beheben. Damit wird auch dieses Benutzerhandbuch aktualisiert und geändert. Wenn eine neue Version der **Firmware** verfügbar ist, benachrichtigt Sie die App und bietet die Aktualisierung an.
 
-VoiceToys su digitalno kontrolisani uređaji - sadrže mikrokontroler koji ima svoj program - firmware.
+Wenn die Aktualisierung nicht verpflichtend ist, können Sie sie durch Drücken der Taste „Abbrechen“ auf später verschieben. Wenn es sich um eine notwendige Aktualisierung handelt, müssen Sie sie durchführen, bevor Sie die Arbeit fortsetzen.
 
-Ažuriranje firmware-a nam omogućava da ih unapređujemo novim funkcijama i ispravljamo eventualne nedostatke u starim. Samim tim, i ovo korisničko uputstvo će biti ažurirano i menjano. Kada je dostupna nova verzija firmware-a, aplikacija će vas obavestiti i ponuditi ažuriranje.
+In zwei einfachen Schritten lädt Ihr Mobilgerät die Aktualisierung aus der VoiceToys-Cloud herunter, verbindet sich dann mit dem Wi-Fi-Netzwerk des VoiceToys-Geräts und aktualisiert es automatisch.
 
-Ako ažuriranje nije obavezno, možete ga odložiti za kasnije pritiskom na taster "otkaži". Ako je u pitanju neophodno ažuriranje, morate ga sprovesti pre nego što nastavite rad.
+</FigureBlock>
 
-### Tok ažuriranja
+### **1 - Beginn und Herunterladen der Aktualisierung** 
 
-### 1 - Početak i preuzimanje ažuriranja - Nakon pritiska na
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-32-56-77_3a220c2fb963ee2deb62bf32156943f2.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+Nach dem Drücken der Taste **Aktualisieren** wird die neue **Firmware** aus dem Internet in den Speicher Ihres Mobilgeräts heruntergeladen. **Für diesen Schritt ist es notwendig, dass das Gerät mit dem Internet verbunden ist.**
+</FigureBlock>
 
-![Screenshot_2024-04-30-16-32-56-77_3a220c2fb963ee2deb62bf32156943f2](/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-32-56-77_3a220c2fb963ee2deb62bf32156943f2.jpg)
 
-![Settings_(iOS)](/voice-toys/images/Settings__iOS_.png)
+Nachdem die Aktualisierung heruntergeladen wurde, geht Ihr VoiceToys-Gerät in den Update-Modus über, das heißt, es wird zu einem Wi-Fi-Zugangspunkt. Das Gerät stellt den gewöhnlichen Betrieb ein, und an ihm sind blaue Lichter zu sehen.
 
-taster Ažuriraj, novi firmware se sa interneta preuzima u memoriju vašeg mobilnog uređaja. Za ovaj korak neophodno je da uređaj bude povezan na internet.
 
-Nakon što je ažuriranje preuzeto, vaš VoiceToys uređaj ulazi u Update režim, odnosno postaje Wi-Fi pristupna tačka.
+### 2 - Verbinden mit dem WiFi des VoiceToys-Geräts
 
-Uređaj prestaje sa uobičajenim radom i na njemu se vide plava svetla.
 
-### 2 - Povezivanje na WiFi VoiceToys uređaja - Android
 
-mobilni uređaji će vas automatski odvesti do WiFi podešavanja vašeg telefona, dok na iPhone uređajima to morate uraditi ručno, tako što ćete pokrenuti Settings vašeg uređaja i odabrati opciju WiFi. Ukoliko WiFi na vašem telefonu nije uključen, uključite ga.
+<FigureBlock
+  src="/voice-toys/images/Screenshot_2024-04-30-16-33-11-09_41a74ddf68be21faad2fbbb691b15143.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+Android-Mobilgeräte führen Sie automatisch zu den WiFi-Einstellungen Ihres Telefons, während Sie dies auf iPhone-Geräten manuell tun müssen, indem Sie die Einstellungen Ihres Geräts öffnen und die Option WiFi auswählen. Falls das WiFi an Ihrem Telefon nicht eingeschaltet ist, schalten Sie es ein. **Finden Sie in der Liste der WiFi-Netzwerke das VoiceToys-Update-Netzwerk** Ihres Geräts und verbinden Sie sich damit: 
+</FigureBlock>
 
-Detaljno objašnjenje SETTINGS WIFI
+### 3 - Senden der Firmware an das VoiceToys-Gerät
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-33-30-11_3a220c2fb963ee2deb62bf32156943f2.jpg"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+Nachdem Sie sich mit dem VoiceToys-Update-Netzwerk verbunden haben, kehren Sie zur VoiceToys-App zurück, wo Sie die folgende Benachrichtigung erwartet: 
+</FigureBlock>
 
----
-
-U listi WiFi mreža pronađite VoiceToys update mrežu vašeg uređaja i povežite se na nju: Nakon što ste se povezali na VoiceToys update mrežu, vratite se u VoiceToys aplikaciju, gde će vas dočekati sledeće obaveštenje: e Od ovog trenutka potrebno je samo da sačekate da se ažuriranje pošalje iz telefona u uređaj. Ne isključujte ga dok se automatski ne pokrene ponovo. Nakon toga, proces je završen!
-
-Detaljno objašnjenje
-
-![Screenshot_2024-04-30-16-33-11-09_41a74ddf68be21faad2fbbb691b15143](/voice-toys/images/Screenshot_2024-04-30-16-33-11-09_41a74ddf68be21faad2fbbb691b15143.jpg)
-
-![Screenshot_2024-04-30-16-33-30-11_3a220c2fb963ee2deb62bf32156943f2](/voice-toys/images/screenshots/sr/Screenshot_2024-04-30-16-33-30-11_3a220c2fb963ee2deb62bf32156943f2.jpg)
-
-![viber_image_2024-05-10_16-13-31-345](/voice-toys/images/screenshots/sr/viber_image_2024-05-10_16-13-31-345.png)
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/viber_image_2024-05-10_16-13-31-345.png"
+  alt="zupcanik VibeY"
+  imagePosition="right"
+>
+Ab diesem Moment müssen Sie nur noch warten, bis die Aktualisierung vom Telefon an das Gerät gesendet wird. Schalten Sie es nicht aus, bis es sich automatisch neu startet. Danach ist der Vorgang abgeschlossen!
+</FigureBlock>

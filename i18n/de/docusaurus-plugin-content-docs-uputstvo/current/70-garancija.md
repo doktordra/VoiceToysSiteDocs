@@ -1,23 +1,23 @@
 ---
-title: Garancija, održavanje i servis
+title: Garantie, Wartung und Service
 sidebar_position: 9
 ---
-### Garancija
+### Garantie
 
-VoiceToys D.O.O. kao autor i proizvođač sistema VoiceToys svakom korisniku daje punu garanciju u trajanju od 24 mesecai nakon kupovine proizvoda.
+VoiceToys D.O.O. gewährt als Autor und Hersteller des VoiceToys-Systems jedem Benutzer **eine volle Garantie von 24 Monaten** nach dem Kauf des Produkts.
 
-Ukoliko se u roku od 24 meseca od datuma prodaje pojavi bilo kakva tehnička nepravilnost, uređaj će bez naknade i u najkraćem vremenskom roku biti zamenjen novim.
+Falls innerhalb von 24 Monaten ab dem Verkaufsdatum irgendeine technische Unregelmäßigkeit auftritt, wird das Gerät kostenlos und in kürzester Frist durch ein neues ersetzt.
 
-Nakon isteka garantnog roka, ili u slučaju fizičkog oštećenja ili posledica rukovanja suprotno ovom uputstvu, otklonićemo svaki eventualni kvar na vašim uređajima uz minimalnu moguću nadoknadu za servis i rezervne delove.
+Nach Ablauf der Garantiefrist oder im Falle einer physischen Beschädigung oder von Folgen einer Handhabung entgegen dieser Anleitung beheben wir jeden eventuellen Defekt an Ihren Geräten gegen eine minimal mögliche Vergütung für Service und Ersatzteile.
 
-### Održavanje
+### Wartung
 
-VoiceToys uređaji ne zahtevaju nikakvo posebno održavanje, osim čišćenja mekanom krpom i blagim sredstvima za dezinfekciju.
+VoiceToys-Geräte erfordern keinerlei besondere Wartung, außer der Reinigung mit einem weichen Tuch und milden Desinfektionsmitteln.
 
-### Servis
+### Service
 
-Servis uređaja vrši isključivo proizvođač - VoiceToys D.O.O.
+Der Service der Geräte wird ausschließlich vom Hersteller – VoiceToys D.O.O. – durchgeführt.
 
-Molimo vas da se u slučaju problema obratite direktno nama i da ne pokušavate sami da popravljate uređaje.
+Bitte wenden Sie sich im Falle eines Problems direkt an uns und versuchen Sie nicht, die Geräte selbst zu reparieren.
 
-Osim uređaja "JumpY", u svima su litijumske baterije koje vremenom gube svoj kapacitet. Ukoliko primetite značajno smanjenje u vremenu trajanja baterije, zatražite zamenu u našem servisu. Nije predviđeno da bateriju menja korisnik.
+Außer im Gerät „JumpY“ befinden sich in allen Lithium-Batterien, die mit der Zeit ihre Kapazität verlieren. Falls Sie eine erhebliche Verringerung der Batterielaufzeit bemerken, fordern Sie einen Austausch in unserem Service an. Es ist nicht vorgesehen, dass der Benutzer die Batterie wechselt.

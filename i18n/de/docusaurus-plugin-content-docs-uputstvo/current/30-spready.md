@@ -2,240 +2,249 @@
 title: SpreadY
 sidebar_position: 5
 ---
-![Spreads1.9](/voice-toys/images/Spreads1_9.png)
+# Gerätespezifikationen
+
+
+<FigureBlock
+  src="/voice-toys/images/Spreads1_9.png"
+  alt="Zahnrad VibeY"
+  imagePosition="right"
+>
+*Anordnung der SpreadY-Säulen nach Farben*
+
+
+| Stromversorgung | DC, 5V, 3A                                             |
+| --------- | ------------------------------------------------------ |
+| Anschluss  | USB-C                                                  |
+| Abmessungen | Durchmesser 121 mm<br />Höhe 340 mm                       |
+| Batterie  | Li-Ion 18650                                           |
+| Gehäuse   | PET-G<br />Acrylstab 20 mm Durchmesser, 40 cm<br />Länge |
+
+</FigureBlock>
 
 ---
 
-specifikacije uređaja Prečnik 121mm Visina 340 mm PET-G Akrilni štap 20mm prečnik, 40cm dužina *na slici je prikazan jedan uređaj za koji važi specifikacija.
+### Systembeschreibung und Sicherheitshinweise
 
-komplet podrazumeva 5 uređaja različitih boja.
+**SpreadY** ist ein multifunktionales System, das aus 5 leuchtenden Säulen besteht. Sie sind für die visuelle Identifikation der Schallausbreitung, als Memory-Spiel bzw. zum Erlernen der Addition sowie für die Analyse und Synthese von Wörtern und Sätzen durch Einschalten einzelner Säulen gedacht. Die Auswahl der Funktionen und detaillierte Geräteeinstellungen werden über die mobile App VoiceToys vorgenommen.
 
-![SpreadY](/voice-toys/images/image-55.png)
+### Inbetriebnahme des Systems
 
-![SpreadYAsset 4](/voice-toys/images/SpreadYAsset_4.png)
+Die **SpreadY**-Säulen werden so verwendet, dass sie im Raum so angeordnet werden, dass die **blaue** Säule der Schallquelle am nächsten ist. Die übrigen Säulen werden in der folgenden Reihenfolge aufgereiht: **grün, gelb, rot, grau**. Die Säulen werden in Betrieb genommen, indem der Schalter an der Unterseite des Geräts in die Position 1 gebracht wird.
 
-| Napajanje | DC, 5V, 3A |
-| --- | --- |
-| Konektor | USB-C |
-| Dimenzije | Prečnik 121mm<br />Visina 340 mm |
-| Baterija | Li-Ion 18650 |
-| Mreže | Wi-Fi, Bluetooth |
-| Kućište | PET-G<br />Akrilni štap 20mm prečnik, 40cm<br />dužina |
+Nach dem Einschalten beginnt das Logo am Gehäuse zu leuchten. Die Geräte verbinden sich automatisch, ohne jegliche zusätzliche Einstellung, und reagieren sofort nach dem Einschalten auf Schall. Die blaue Säule ist die Hauptsäule, in ihr befindet sich das Mikrofon, sie sendet das Signal an die übrigen und sie verbindet sich mit der mobilen App.
 
----
+Es ist notwendig, dass die **blaue** Säule aktiv ist, damit auch die übrigen funktionieren können und damit sich die App verbindet!
 
-### 3 -1: Opis sistema i bezbednosne napomene
+Wenn das Logo seine Farbe auf Gelb ändert, bedeutet das, dass die Batterie schwächer geworden ist, und wenn es rot zu blinken beginnt, ist die Batterie auf einem kritisch niedrigen Stand und muss sofort aufgeladen werden.
 
-SpreadY je multifunkcionalni sistem koji se sastoji od 5 svetlećih stubića. Namenjeni su za vizuelnu identifikaciju rasprostiranja zvuka, kao igra memorije odnosno učenje sabiranja i za analizu i sintezu reči i rečenice uključivanjem individualnih stubića. Izbor funkcija i detaljna podešavanja uređaja se vrše putem mobilne aplikacije VoiceToys.
+Den Batteriestand können Sie auch über die mobile App kontrollieren. An der Unterseite des blauen Geräts befinden sich außerdem drei Öffnungen für den Schalleintritt ins Innere des **Geräts**. Verdecken Sie sie nicht und stellen Sie das Gerät nicht auf eine weiche Oberfläche, die Schall absorbieren kann!
 
-### 3-2: Puštanje sistema u rad
+### Aufladen der Gerätebatterie
 
-SpreadY stubići se koriste tako što se rasporede u prostoru tako da plavi stubić bude najbliži izvoru zvuka. Ostali stubići se ređaju po sledećem redosledu: zeleni, žuti, crveni, sivi. Stubići se puštaju u rad stavljanjem prekidača sa donje strane uređaja u poziciju 1.
+Das Gerät enthält eine Lithium-Ionen-Batterie, die mit einer **Spannung von 5V/3A über einen USB-C-Anschluss an der Unterseite des Geräts** geladen wird. Nach Anschluss der Spannung zeigt das Logo den Ladevorgang an, indem es entsprechend dem Batteriestand rot, gelb oder grün leuchtet. Wenn es konstant grün leuchtet, ist der Ladevorgang abgeschlossen.
 
-Nakon uključivanja, logotip na kućištu počinje da sija. Uređaji se povezuju automatski, bez ikakvog dodatnog podešavanja i reaguju na zvuk odmah nakon uključivanja. Plavi stubić je glavni, u njemu je mikrofon, on šalje signal ostalima i on se povezuje sa mobilnom aplikacijom.
+![Spready-removebg-preview|200](/voice-toys/images/Spready-removebg-preview.png)
 
-Neophodno je da plavi stubić bude aktivan da bi i ostali mogli da funkcionišu i da bi se aplikacija povezala!
-
-Ukoliko logotip promeni boju u žuto, to znači da je baterija oslabila, a ukoliko počne da treperi crveno, baterija je na kritično niskom nivou i treba je odmah napuniti.
-
-Stanje baterija možete kontrolisati i pomoću mobilne aplikacije. Na donjoj strani plavog uređaja se takođe nalaze i tri otvora za ulaz zvuka u unutrašnjost uređaja. Ne pokrivajte ih i ne stavljajte uređaj na meku površinu koja može apsorbovati zvuk!
-
-### 3 - 3: Punjenje baterije uređaja
-
-Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću USB-C konektora sa donje strane uređaja. Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
-
-![Spready-removebg-preview](/voice-toys/images/Spready-removebg-preview.png)
-
-![Spreads1.9](/voice-toys/images/Spreads1_9.png)
-
-*Uvodne informacije o uređaju: raspored SpreadY stubića po bojama, donja strana uređaja, USB-C priključak za punjenje i prekidač.*
+*Unterseite des Geräts, USB-C-Anschluss zum Laden und Schalter.*
 
 ---
 
-### 3 - 4: Funkcije mobilne aplikacije za uređaj SpreadY
+### Funktionen der mobilen App für das Gerät SpreadY
 
-Biranje režima rada i fina podešavanja uređaja se vrše pomoću aplikacije VoiceToys. Pre nego što pokrenete mobilnu aplikaciju, obavezno uključite plavi stubić jer se u njemu nalazi bluetooth prijemnik pomoću kojeg uređaj komunicira sa telefonom. Uređaji se povezuju automatski, bez ikakvog dodatnog podešavanja i reaguju na zvuk odmah nakon uključivanja.
+Die Auswahl des Betriebsmodus und die Feineinstellungen des Geräts werden über die App VoiceToys vorgenommen. Bevor Sie die mobile App starten, schalten Sie unbedingt die **blaue** Säule ein, da sich in ihr der Bluetooth-Empfänger befindet, über den das Gerät mit dem Telefon kommuniziert. Die Geräte verbinden sich automatisch, ohne jegliche zusätzliche Einstellung, und reagieren sofort nach dem Einschalten auf Schall.
 
-Nakon što uključite uređaj, na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju "SpreadY " kada se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, logotip plavog stubića će trepnuti dva puta, a mobilna aplikacija će preuzeti podešavanja uređaja i prikazati vrednosti prema kojima on trenutno reaguje.
+Nachdem Sie das Gerät eingeschaltet haben, wählen Sie auf dem Startbildschirm der App die Option **SpreadY**, sobald ihr Symbol grün geworden ist. Wenn die Verbindung erfolgreich ist, blinkt das Logo der blauen Säule zweimal, und die mobile App übernimmt die Geräteeinstellungen und zeigt die Werte an, nach denen es aktuell reagiert.
 
-U gornjem plavom polju ekrana aplikacije možete videti naziv uređaja i tastere za informacije o sistemu i pomoć.
+Im oberen blauen Feld des App-Bildschirms sehen Sie den Gerätenamen sowie die Tasten für Systeminformationen und Hilfe.
 
-Pritiskom na simbol zupčanika u gornjem plavom polju pristupićete ekranu sa informacijama o uređaju, gde možete videti da li je Vaš uređaj ažuriran, odnosno da li je u njega učitana poslednja verzija softvera.
+**Durch Antippen des Zahnradsymbols** im oberen blauen Feld gelangen Sie zum Bildschirm mit Geräteinformationen, wo Sie sehen können, ob Ihr Gerät aktualisiert ist, also ob die neueste Softwareversion darauf geladen wurde.
 
-Pritiskom na bilo koji deo ekrana osenčen sivom bojom se vraćate na ekran za uređaj "SpreadY ".
-
-Pritiskom na simbol znaka pitanja pojaviće se ekran sa tekstom koji će Vam pomoći da se podsetite osnovnih funkcija "SpreadY " aplikacije (slika desno). Tekst možete pomerati na dole kako bi ga pročitali do kraja. U dnu ekrana se nalazi taster "Pogledaj video". Pritiskom na ovaj taster ćete pristupiti detaljnom video uputstvu koje će Vam prikazati kompletno uputstvo za korišćenje Vašeg uređaja "SpreadY ".
-
-Pritiskom na taster "X" vraćate se na ekran uređaja "SpreadY ", u onom režimu u kom ste ga prethodno koristili.
-
-![SpreadY help](/voice-toys/images/screenshots/sr/SpreadY_help.jpg)
-
-*Funkcije mobilne aplikacije: prikaz ekrana nakon pritiska na simbol znaka pitanja.*
+Durch Antippen eines beliebigen grau schattierten Teils des Bildschirms kehren Sie zum Bildschirm für das Gerät **SpreadY** zurück.
 
 ---
 
-### 3 - 5: Režimi rada uređaja SpreadY i njihova namena
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_help.jpg"
+  alt="SpreadY help"
+  imagePosition="right"
+>
+*Bildschirmansicht nach dem Antippen des Fragezeichensymbols*
 
-Sistem SpreadY nudi tri režima rada, sa sledećim predloženim namenama:
+**Durch Antippen des Fragezeichensymbols** erscheint ein Bildschirm mit Text, der Ihnen hilft, sich an die grundlegenden Funktionen der **SpreadY**-App zu erinnern (Bild rechts). Den Text können Sie nach unten verschieben, um ihn bis zum Ende zu lesen. Am unteren Rand des Bildschirms befindet sich die Schaltfläche „Video ansehen". Durch Antippen dieser Schaltfläche gelangen Sie zu einer detaillierten Videoanleitung, die Ihnen die vollständige Anleitung zur Benutzung Ihres Geräts **SpreadY** zeigt.
 
-### 1 - Režim: Mikrofon (reakcija na zvuk)
+Durch Antippen der Schaltfläche **„X"** kehren Sie zum Bildschirm des Geräts **SpreadY** zurück, in dem Modus, in dem Sie es zuvor verwendet haben.
 
-![SpreadY režim](/voice-toys/images/screenshots/sr/SpreadY_rez_im.jpg)
+</FigureBlock>
 
-Namena: Vizuelna identifikacija rasprostiranja zvuka
-
-### 2 - Režim: Memorija (korisnik podešava parametre)
-
-Namena: Igra memorije i učenje sabiranja
-
-### 3 - Režim: Ručno (korisnik uključuje stubiće po želji)
-
-Namena: Analiza i sinteza reči i rečenice Izbor režima se vrši pritiskom na taster "Režim" koji se nalazi u desnom uglu donjeg plavog polja ekrana aplikacije. Na slici desno možete videti prikaz ekrana nakon pritiska na taster "Režim". Kada dodirnete natpis sa željenim režimom pojaviće se ekran namenjen detaljnom podešavanju tog režima.
-
-U nastavku su obrazloženi načini pristupa i korišćenja svakog od navedenih režima.
-
-*Režimi rada uređaja SpreadY: prikaz ekrana nakon pritiska na taster "Režim".*
 
 ---
 
-![SpreadY zvuk](/voice-toys/images/screenshots/sr/SpreadY_zvuk.jpg)
+### Betriebsmodi des Geräts SpreadY und ihr Verwendungszweck
 
-*Režim Mikrofon - početni ekran: indikatori baterije, preset opcije, klizači, izbor prikaza i informacije o sistemu.*
+Das System SpreadY bietet drei Betriebsmodi mit folgenden vorgeschlagenen Verwendungszwecken:
+
+| Modus | Funktionsweise |    Verwendungszweck
+| -------- | ----------------------------------- | -------------------------------------------- |
+|  Mikrofon | Reaktion auf Schall                    | Visuelle Identifikation der Schallausbreitung    |
+|   Memory | Benutzer stellt Parameter ein         | Memory-Spiel und Erlernen der Addition       |  
+| Manuell    | Benutzer schaltet Säulen nach Wunsch ein | Analyse und Synthese von Wörtern und Sätzen         |    
+
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_rez_im.jpg"
+  alt="Zahnrad VibeY"
+  imagePosition="right"
+>
+*Betriebsmodi des Geräts SpreadY: Bildschirmansicht nach dem Antippen der Taste **Modus***
+
+Die Auswahl des Modus erfolgt durch Antippen der Taste **„Modus"**, die sich in der rechten Ecke des unteren blauen Felds des App-Bildschirms befindet. Im Bild rechts sehen Sie die Bildschirmansicht nach dem Antippen der Taste **„Modus"**. Wenn Sie die Beschriftung mit dem gewünschten Modus berühren, erscheint ein Bildschirm zur detaillierten Einstellung dieses Modus.
+
+Im Folgenden werden die Zugriffs- und Verwendungsweisen jedes der genannten Modi erläutert.
+</FigureBlock>
+
+## Modus **Mikrofon**
+
+
+Nachdem Sie durch Antippen der Taste „MODUS" in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus zur visuellen Identifikation des Schallpegels durch Antippen der Taste „Mikrofon".
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_zvuk.jpg"
+  alt="SpreadY mikrofon"
+  imagePosition="left"
+>
+*Modus Mikrofon – Startbildschirm: Batterieanzeigen, Preset-Optionen, Schieberegler, Anzeigeauswahl und Systeminformationen.*
+
+
+Die visuelle Darstellung des Schalls kann analog oder digital sein. Die Tasten zur Auswahl der visuellen Schalldarstellung „Analog" und „Digital" befinden sich in der Mitte des App-Bildschirms. Im analogen Modus leuchten alle Säulen gemeinsam, und die Leuchtintensität hängt vom Schallpegel ab. Im digitalen Modus leuchten die Säulen immer mit maximaler Intensität, sobald der Schall den für jede einzelne definierten Pegel überschreitet, und sie werden je nach Schallpegel nacheinander einzeln beleuchtet.
+
+Die Einstellung von Schallpegel, Empfindlichkeit und Abfall im analogen bzw. von Schallpegel, Empfindlichkeit und Lichtintensität in der digitalen Art der visuellen Schalldarstellung erfolgt über die Schieberegler, die sich in der unteren Hälfte des App-Bildschirms im Abschnitt **„Einstellungen"** befinden.
+
+Der Schallpegel ist die Schwelle, die der Schallpegel überschreiten muss, um eine Lichtreaktion auszulösen. Geräusche unterhalb dieses Pegels werden ignoriert. Falls nötig, stellen Sie ihn entsprechend dem Geräuschpegel in Ihrem Raum so ein, dass sich die **blaue** Säule nicht einschaltet, wenn niemand spricht.
+
+Die Empfindlichkeit ist die Empfindlichkeit des Systems gegenüber der Änderung des Schallpegels.
+
+Wenn Sie sie zu höheren Werten hin ändern, wird das System empfindlicher und lässt sich leichter anregen. Indem Sie den Schieberegler zu niedrigeren Werten hin bewegen, ist ein höherer Schallpegel erforderlich, damit das Gerät anspringt, also damit sich die Lichter einschalten.
+
+Der Abfall bestimmt den Abfall der Lichtintensität von der blauen bis zur grauen Säule.
+
+**Die Lichtintensität** stellt die Leuchtstärke der Lichtsäulen ein. Je weiter Sie sie zu höheren Werten hin bewegen, desto stärker leuchten die Lichtsäulen.
+
+Wenn Sie die Parameter Schallpegel, Empfindlichkeit, Lichtintensität oder Abfall ändern, **können Sie Ihre Einstellungen speichern** auf die Weise, die auf der nächsten Seite beschrieben ist.
+
+</FigureBlock>
+---
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_preseti.jpg"
+  alt="SpreadY preseti"
+  imagePosition="right"
+>
+*Modus Mikrofon – Einstellungen: Bildschirmansicht nach dem Antippen der Taste **„Presets"**.*
+
+In der linken Ecke des unteren blauen Felds der App befindet sich die Taste **„Presets"**. Durch Antippen dieser Taste sieht der untere Teil des App-Bildschirms wie im Bild rechts aus.
+
+In dieser Ansicht des unteren Teils des App-Bildschirms befinden sich zwei Reiter mit den Namen **„Standard"** und **„Benutzer"**.
+
+Unter dem Reiter **„Standard"** befinden sich vorab erstellte Betriebseinstellungen. Jede dieser Einstellungen ist unter einem bestimmten Namen gespeichert, der eine Beschreibung der Funktionsweise des Systems darstellt, wenn die gewählte Einstellung aktiviert wird.
+
+Unter dem Reiter **„Benutzer"** befinden sich die Einstellungen, die Sie gespeichert haben. Die Art, von Ihnen erstellte Einstellungen zu speichern, ist folgende: Falls Sie einen der angebotenen Parameter geändert haben, **können Sie Ihre Einstellungen speichern**, indem Sie die Taste antippen, die sich im oberen Teil des Bildschirms befindet.
+
+Auf dem Bildschirm erscheint eine Tastatur. Geben Sie einen Namen für die erstellte Einstellung ein und speichern Sie sie.
+
+Ihre gespeicherten **Einstellungen finden Sie**, indem Sie die Taste **„Presets"** antippen, die sich in der linken Ecke des unteren blauen Felds des App-Bildschirms befindet, und anschließend den Reiter **„Benutzer"**.
+
+Es werden alle Einstellungen angezeigt, die Sie bisher gespeichert haben.
+
+Tippen Sie einfach auf eine der Tasten mit dem Namen einer gespeicherten Einstellung, und das System übernimmt sofort diese Einstellungen und arbeitet weiter nach ihnen.
+
+Sie können jederzeit zum Startbildschirm der App **„VoiceToys"** zurückkehren, indem Sie die Taste mit dem Häuschen-Bild antippen, die sich in der Mitte des unteren blauen Felds des App-Bildschirms befindet.
+</FigureBlock>
+
+## Modus Memory – Einstellungen
+
+**3-7:** Nachdem Sie durch Antippen der Taste **„MODUS"** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus des Memory-Spiels und des Erlernens der Addition durch Antippen der Taste **„Memory"**. Es erscheint der auf der vorherigen Seite gezeigte Bildschirm, in dessen oberem blauen Feld Sie den Modus sehen können, in dem sich das Gerät befindet, sowie die Tasten für Systeminformationen und Hilfe. Funktion und Verwendung dieser Tasten sind auf Seite 15 beschrieben.
+
+Das Memory-Spiel erzeugt Folgen von Zufallszahlen von 1 bis 5 und zeigt sie durch das Beleuchten der Säulen an. Durch Einstellen der Parameter, die über die App erfolgt, können Sie den Schwierigkeitsgrad des Spiels festlegen. Die Einstellung der Parameter erfolgt über die Schieberegler, die sich im unteren Teil des Bildschirms befinden, dessen Aussehen auf der vorherigen Seite gezeigt ist.
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_memorija_1.jpg"
+  alt="Zahnrad VibeY"
+  imagePosition="right"
+>
+*Modus Memory – Bildschirm der Spielparameter: Serien, Anzeige, Pause, Anzahl der Säulen, Intensität und Befehle.*
+
+**Die Anzahl der Serien** bestimmt, wie viele Serien des Säulenaufleuchtens es im Laufe eines Spiels geben wird. Die kleinste Anzahl an Serien ist 1, die größte 10.
+
+**Die maximale Größe** gibt an, wie viele Säulen wir während einer Serie verwenden. Wir können festlegen, dass nur eine einzige aufleuchtet, bis hin zu allen fünf Säulen. Einmal eingestellt, bleibt dieser Parameter in allen Serien gleich.
+
+**Die Anzeigedauer** gibt die Zeit an, während der die Säulen leuchten werden. Die Zeit ist in Sekunden angegeben.
+
+**Die Pausendauer** gibt die Zeit an, während der die Säulen zwischen zwei Serien ausgeschaltet sein werden. Die Zeit ist in Sekunden angegeben.
+
+**Die Lichtintensität** bestimmt die Leuchtstärke, mit der die Säulen beleuchtet werden.
+
+Wenn Sie die Parameter Schallpegel, Empfindlichkeit, Lichtintensität oder Abfall ändern, können Sie Ihre Einstellungen auf die Weise speichern, die auf Seite 19 beschrieben ist.
+
+Unter den Schiebereglern zur Einstellung der Spielparameter befinden sich die Tasten PLAY ▶️, REPEAT 🔁 und PFEIL 🔽. Ihr Zweck wird auf der nächsten Seite erläutert.
+</FigureBlock>
+Im unteren blauen Feld des App-Bildschirms befindet sich die Taste „Presets", deren Verwendung auf Seite 19 beschrieben ist. Sie können jederzeit zum Startbildschirm der App „VoiceToys" zurückkehren, indem Sie die Taste mit dem Häuschen-Bild antippen, die sich in der Mitte des unteren blauen Felds des App-Bildschirms befindet.
+
+---
+## Modus Memory – Funktionsprinzip
+
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_memorija_2-2.jpg"
+  alt="SpreadY memorija"
+  imagePosition="right"
+>
+Das Spiel starten Sie durch Antippen der Taste ▶️. Die Säulen beginnen aufzuleuchten, und auf dem Bildschirm wird das Schema angezeigt, nach dem sie aufgeleuchtet sind. Das Aussehen dieses Bildschirms ist im Bild rechts gezeigt.
+
+Die Zahlen in der linken Spalte geben die Nummer der Serie des Säulenaufleuchtens an. In diesem Beispiel war das Spiel auf 5 Serien begrenzt. Die Zahlen in der rechten Spalte geben an, wie viele Säulen in dieser Serie aufgeleuchtet waren. In diesem Beispiel waren in der ersten Serie 3 Säulen aufgeleuchtet, in der zweiten ebenfalls 3, in der dritten 2 und in der vierten und fünften je eine.
+
+Die Zahlen in der unteren Reihe geben an, wie viele Säulen einer bestimmten Farbe insgesamt während des Spielverlaufs aufgeleuchtet waren. In diesem Beispiel waren es insgesamt 2 **blaue**, 3 grüne, 1 gelbe, je 2 rote und graue. Die Zahl 10 in der rechten Ecke gibt an, wie viele Säulen insgesamt während des Spiels aufgeleuchtet waren.
+
+Die farbigen Felder kennzeichnen die Säulen einer bestimmten Farbe, die während jeder der Serien aufgeleuchtet sind. In diesem Beispiel waren in der ersten Serie die grüne, gelbe und graue Säule aufgeleuchtet, in der zweiten die **blaue**, rote und graue, und so weiter.
+
+Die App bestimmt durch Zufallsauswahl, welche Säulen in welcher Serie aufleuchten und wie viele Säulen in welcher Serie aufleuchten, im Verhältnis zur vorgegebenen maximalen Anzeigegröße, die mit dem auf der vorherigen Seite beschriebenen Parameter eingestellt wird.
+
+Durch Antippen der Taste ▶️ starten Sie ein neues Spiel mit denselben zuvor vorgegebenen Parametern.
+
+Durch Antippen der Taste 🔁 wiederholen Sie das vorherige Spiel mit denselben vorgegebenen Parametern.
+
+Wenn Sie die Parameter ändern möchten, erscheinen durch Antippen der Taste 🔽 die Schieberegler zur Steuerung der Spielparameter. Sie können sie durch erneutes Antippen derselben Taste wieder entfernen.
+</FigureBlock>
 
 ---
 
-### 3-6: Nakon što ste pritiskom na taster "REŽIM" ušli u meni
+### Modus **Manuell**
 
-za izbor režima rada uređaja, režim vizuelne identifikacije nivoa zvuka birate pritiskom na taster " Mikrofon". Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
 
-Vizuelna reprezentacija zvuka može biti analogna ili digitalna. Tasteri za izbor vizuelne reprezentacije zvuka "Analogno" i "Digitalno" se nalaze u sredini ekrana aplikacije. U analognom režimu sijaju svi stubići zajedno, a intenzitet sijanja zavisi od nivoa zvuka. U digitalnom režimu stubići uvek sijaju maksimalnim intenzitetom kada zvuk pređe nivo koji je definisan za svaki od njih, a osvetljavaju se jedan po jedan, u zavisnosti od nivoa zvuka.
+<FigureBlock
+  src="/voice-toys/images/screenshots/sr/SpreadY_ruc_no.jpg"
+  alt="Zahnrad VibeY"
+  imagePosition="right"
+>
+*Modus **Manuell**: Batterieanzeigen, Intensität, Aktivierung der Säulen und Modussteuerung.*
 
-Podešavanje nivoa zvuka, osetljivosti i opadanja u analognom, odnosno nivoa zvuka, osetljivosti i intenziteta svetla u digitalnom načinu vizuelne reprezentacije zvuka, se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji "Podešavanja".
+Nachdem Sie durch Antippen der Taste **„MODUS"** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus des Memory-Spiels und des Erlernens der Addition durch Antippen der Taste **„Manuell"**. Es erscheint der auf der vorherigen Seite gezeigte Bildschirm, in dessen oberem blauen Feld Sie den Modus sehen können, in dem sich das Gerät befindet, sowie die Tasten für Systeminformationen und Hilfe. Funktion und Verwendung dieser Tasten sind auf Seite 15 beschrieben.
 
-Nivo zvuka je prag koji nivo zvuka mora da pređe da bi izazvao svetlosnu reakciju. Zvukovi ispod ovog nivoa su ignorisani. Ukoliko vam je potrebno, podesite ga prema nivou buke u vašem prostoru tako da se plavi stubić ne uključuje kada niko ne govori.
+Wir weisen darauf hin, dass auch in diesem Fall dieselbe Säulenanordnung wie für den Modus „Mikrofon" gilt – **blau**, **grün, gelb, rot, grau**, wie es auch auf dem App-Bildschirm dargestellt ist.
 
-Osetljivost je osetljivost sistema na promenu nivoa zvuka.
+Für die Analyse und Synthese von Wörtern und Sätzen werden Zubehörteile verwendet – Halter, die auf die leuchtenden Stäbe gesetzt werden und in die Sie Karten mit Buchstaben oder Bildern stecken können. Die Karten sind nicht Teil des Systems **„VoiceToys"** und werden nicht mit den SpreadY-Säulen geliefert.
 
-Ukoliko ga menjate ka većim vrednostima, sistem postaje osetljiviji, i moguće ga je lakše pobuditi. Pomerajući klizač ka manjim vrednostima, potreban je viši nivo zvuka da bi se uređaj pokrenuo, odnosno da bi se svetla upalila.
+Die Einstellung der Leuchtintensität erfolgt über den Schieberegler „Lichtintensität". Sie bezieht sich auf alle Säulen.
 
-Opadanje određuje opadanje intenziteta svetla od plavog do sivog stubića.
+Die Festlegung der Art der Aktivierung und Anzeige der eingeschalteten Säulen wird durch Auswahl einer der im folgenden Abschnitt dargestellten Optionen eingestellt.
 
-Intenzitet svetla podešava jačinu sijanja svetlosnih stubića. Što ga više pomerate ka većim vrednostima, svetlosni stubići će sijati jače.
+**Eine** kennzeichnet die Option, bei der nur eine einzige Säule aufleuchtet und eingeschaltet bleibt. Die Säule können wir einschalten, indem wir auf das Feld tippen, das mit der Farbe derjenigen Säule umrandet ist, die wir einschalten möchten. Ein farbiges Feld zeigt an, dass die Säule dieser Farbe eingeschaltet ist. Wir können wählen, welche Säule wir einschalten möchten, und wenn wir die nächste Säule einschalten, erlischt die vorherige. Die Säulen können wir der Reihe nach von der blauen bis zur grauen und zurück einschalten, indem wir die Tasten LINKS ⬅️ und RECHTS ➡️ antippen, und die Säulen schalten wir durch Antippen der Taste ↻ aus.
 
-Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, svoja podešavanja možete zapamtiti na način koji je opisan na sledećoj strani.
+**Beliebige** kennzeichnet die Option, bei der wir durch Antippen des Felds, das mit der Farbe der Säule umrandet ist, die wir einschalten möchten, eine oder mehrere Säulen einschalten. Die Säule schalten wir durch erneutes Antippen des farbigen Felds aus.
 
-*Režim Mikrofon: podešavanja.*
+**Zufällig** kennzeichnet die Option, bei der die App nach einem Zufallsmuster eine Säule einschaltet. Die Säule leuchtet nach dem Antippen der Taste PLAY ▶️ auf, und wir schalten sie aus und sind für das nächste Aufleuchten bereit durch Antippen der Taste ↻. Ein farbiges Feld zeigt an, welche Säule eingeschaltet ist.
+</FigureBlock>
 
----
 
-U levom uglu donjeg plavog polja aplikacije se nalazi taster "Preseti". Pritiskom na ovaj taster donji deo ekrana aplikacije izgleda kao na slici desno.
 
-U ovakvom izgledu donjeg dela ekrana aplikacije se nalaze dve kartice, sa nazivima "Podrazumevani" i "Korisnički".
 
-Pod karticom "Podrazumevani" se nalaze postavke rada koje su unapred kreirane. Svaka od ovih postavki je zapamćena pod određenim imenom koje predstavlja opis načina rada sistema kada se aktivira izabrana postavka.
-
-Pod karticom "Korisnički" se nalaze postavke koje ste zapamtili. Način pamćenja postavki koje ste kreirali je sledeći: U slučaju da ste vršili izmenu bilo kog od ponuđenih parametara, svoja podešavanja možete zapamtiti pritiskom na taster koji se nalazi u gornjem delu ekrana.
-
-Na ekranu će se pojaviti tastatura. Upišite ime za kreirano podešavanje i sačuvajte.
-
-Vaša zapamćena podešavanja možete pronaći pritiskom na taster "Preseti" koji se nalazi u levom uglu donjeg plavog polja ekrana aplikacije, a zatim na karticu "Korisnički".
-
-Prikazaće se sva podešavanja koja ste do sada zapamtili.
-
-Jednostavno kliknite na neki od tastera sa imenom zapamćenog podešavanja i sistem će odmah preuzeti ta podešavanja i dalje raditi po njima.
-
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
-
-![SpreadY preseti](/voice-toys/images/screenshots/sr/SpreadY_preseti.jpg)
-
-*Režim Mikrofon - podešavanja: prikaz ekrana nakon pritiska na taster "Preseti".*
-
----
-
-![SpreadY memorija 1](/voice-toys/images/screenshots/sr/SpreadY_memorija_1.jpg)
-
-*Režim Memorija - ekran parametara igre: serije, ekspozicija, pauza, broj stubića, intenzitet i komande.*
-
----
-
-### 3-7: Nakon što ste pritiskom na taster "REŽIM" ušli u meni
-
-za izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster " Memorija". Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
-
-Igra memorije generiše nizove slučajnih brojeva od 1 do 5 i prikazuje ih osvetljavanjem stubića. Podešavanjem parametara, koje se obavlja pomoću aplikacije, možete odrediti nivo kompleksnosti igre. Podešavanje parametara se vrši pomoću klizača koji se nalaze u donjem delu ekrana čiji je izgled prikazan na prethodnoj strani.
-
-Broj serija određuje koliko serija paljenja stubića će biti u toku jedne igre. Najmanji broj serija je 1, a najveći 10.
-
-Maksimalna veličina označava koliko stubića ćemo koristiti tokom jedne serije. Možemo odrediti da se upali samo jedan, pa sve do svih pet stubića. Kada se jednom podesi, ovaj parametar ostaje isti u svim serijama.
-
-Trajanje prikaza označava vreme tokom kog će stubići biti upaljeni. Vreme je izraženo u sekundama.
-
-Trajanje pauze označava vreme tokom kog će stubići biti ugašeni između dve serije. Vreme je izraženo u sekundama.
-
-Intenzitet svetla određuje jačinu svetla kojim će stubići biti osvetljeni.
-
-Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, svoja podešavanja možete zapamtiti na način koji je opisan na strani 19.
-
-Ispod klizača za podešavanje parametara igre nalaze se taster PLAY, REPEAT i STRELICA. Njihova namena je objašnjena na sledećoj strani.
-
-U donjem plavom polju ekrana aplikacije je taster "Preseti", čija je upotreba opisana na strani 19. Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
-
-*Režim Memorija: podešavanja.*
-
----
-
-Igru pokrećete pritiskom na taster. Stubići će početi da se pale, a na ekranu će se prikazivati šema po kojoj su se palili. Izgled ovog ekrana je prikazan na slici desno.
-
-Brojevi u levoj koloni označavaju broj serije paljenja stubića. U ovom primeru igra je bila ograničena na 5 serija.
-
-Brojevi desnoj koloni označavaju koliko stubića je bilo upaljeno u toj seriji. U ovom primeru u prvoj seriji su bila upaljena 3 stubića, u drugoj takođe 3, u trećoj 2, a u četvrtoj i petoj po jedan.
-
-Brojevi u donjem redu označavaju koliko stubića određene boje je ukupno bilo upaljeno tokom trajanja igre. U ovom primeru plavih je ukupno bilo 2, zelenih 3, žutih 1, crvenih i sivih po 2. Broj 10 u desnom uglu označava koliko je ukupno stubića bilo upaljeno tokom igre.
-
-Obojena polja označavaju stubiće određene boje koji su se palili tokom svake od serija. U ovom primeru u prvoj seriji su bili upaljeni zeleni, žuti i sivi stubić, u drugoj plavi, crveni i sivi, i tako redom.
-
-Aplikacija slučajnim odabirom određuje koji stubići će se paliti u kojoj seriji, i koliko stubića će se paliti u kojoj seriji u odnosu na zadatu maksimalnu veličinu prikaza koja se podešava parametrom opisanim na prethodnoj strani.
-
-Pritiskom na taster pokrećete novu igru sa istim parametrima koji su prethodno zadati.
-
-Pritiskom na taster ponavljate prethodnu igru, sa istim zadatim parametrima.
-
-Ukoliko želite da promenite parametre, pritiskom na taster će se pojaviti klizači za kontrolu parametara igre.
-
-Njih možete ukloniti ponovnim pritiskom na isti taster.
-
-![SpreadY memorija 2](/voice-toys/images/screenshots/sr/SpreadY_memorija_2-2.jpg)
-
-*Režim Memorija - princip rada: prikaz ekrana nakon pritiska na taster "PLAY".*
-
----
-
-![SpreadY ručno](/voice-toys/images/screenshots/sr/SpreadY_ruc_no.jpg)
-
-*Režim Ručno - početni ekran: indikatori baterije, intenzitet, aktivacija stubića i kontrole režima.*
-
----
-
-### 3-8: Nakon što ste pritiskom na taster "REŽIM" ušli u meni
-
-za izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster " Ručno". Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
-
-Napominjemo da se i u ovom slučaju primenjuje raspored stubića kao i za režim "Mikrofon" - plavi, zeleni, žuti, crveni, sivi, kako je i prikazano na ekranu aplikacije.
-
-Za analizu i sintezu reči i rečenica koriste se dodaci - nosači koji se postavljaju na svetleće šipke, u koje možete staviti kartice sa slovima ili slikama. Kartice nisu deo sistema "VoiceToys" i ne dolaze uz stubiće SpreadY.
-
-Podešavanje intenziteta sijanja se vrši klizačem " Intenzitet svetla". Odnosi se na sve stubiće.
-
-Određivanje načina aktivacije i prikaza upaljenih stubića se podešava izborom jedne od opcija koje su prikazane u narednoj sekciji.
-
-Jedan označava opciju u kojoj će se paliti i ostati upaljen samo jedan stubić. Stubić možemo upaliti pritiskom na polje koje je oivičeno bojom onog stubića koji želimo da upalimo. Obojeno polje označava da je stubić te boje upaljen. Možemo izabrati koji stubić želimo da upalimo, a kada upalimo naredni stubić - prethodni će se ugasiti.
-
-Stubiće možemo paliti redom od plavog do sivog i nazad pritiskom na tastere LEVO i DESNO, a stubiće gasimo pritiskom na taster.
-
-Bilo koji označava opciju u kojoj pritiskom na polje koje je oivičeno bojom stubića koji želimo da upalimo palimo jedan ili više stubića. Stubić gasimo ponovnim pritiskom na obojeno polje.
-
-Nasumično označava opciju u kojoj će aplikacija slučajnim uzorkom upaliti jedan stubić. Stubić će se upaliti nakon pritiska na taster PLAY, a ugasićemo ga i biti spremni za naredno paljenje pritiskom na taster. Obojeno polje označava koji stubić je upaljen.
-
-Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
-
-*Režim Ručno: podešavanje i način rada.*
+Sie können jederzeit zum Startbildschirm der App **„VoiceToys"** zurückkehren, indem Sie die Taste mit dem Häuschen-Bild antippen, die sich in der Mitte des unteren blauen Felds des App-Bildschirms befindet.

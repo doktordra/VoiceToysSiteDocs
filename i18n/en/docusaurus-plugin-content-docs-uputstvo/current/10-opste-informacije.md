@@ -1,110 +1,96 @@
 ---
-title: Opšte informacije
+title: General information
 sidebar_position: 2
 hide_table_of_contents: true
 ---
-bezbednost pre svega!
+# VoiceToys are not toys, even though they are called that.
 
-VoiceToys nisu igračke, iako se tako zovu.
+**Safety first!**
 
-VoiceToys uređaje nemojte davati deci na samostalno korišćenje!
+All VoiceToys devices are made of harmless materials and without sharp edges, in order to minimize the risk of injury. The devices are intended to be operated by therapists. **Do not give them to children for independent use!** Except for the **VibeY** device, which produces vibrations and is intended to be touched by the user, do not place the other devices in users' hands, in order to avoid accidental damage. Pay particular attention to the speakers from the **SpaceY** system, because their emitting surfaces are made of soft wood. Grip and hold them exclusively by the plastic part!
 
-Svi VoiceToys uređaji su napravljeni od neškodljivih materijala i bez oštrih ivica kako bi se minimizovala opasnost od povreda. Uređaji su namenjeni da njima rukuju terapeuti. Osim uređaja VibeY, koji proizvodi vibracije i namenjen je da ga korisnik dodiruje, ostale uređajte nemojte davati korisnicima u ruke kako bi se izbegla slučajna oštećenja. Posebno obratite pažnju na zvučnike iz sistema SpaceY, jer su njihove emitujuće površine napravljene od mekanog drveta. Hvatajte ih i držite isključivo za plastični deo!
+**Note on safety and user responsibility** 
 
-Napomena o sigurnosti i odgovornosti korisnika Ovo uputstvo je namenjeno da vam pomogne u pravilnoj i sigurnoj upotrebi ovog elektronskog uređaja. Pre korišćenja uređaja, pažljivo pročitajte ovo uputstvo i pridržavajte se svih navedenih smernica. Proizvođač ne snosi odgovornost za nepropisnu upotrebu uređaja ili posledice koje mogu proisteći iz iste.
+This manual is intended to help you with the correct and safe use of this electronic device. Before using the device, read this manual carefully and follow all the stated guidelines. The manufacturer bears no responsibility for improper use of the device or for consequences that may arise from it.
 
-VAŽNO!!! Uređaje ne pokušavajte da popravljate sami, niti da ih iz bilo kog razloga otvarate ili rasklapate!
+**IMPORTANT!!! Do not attempt to repair the devices yourself, nor to open or disassemble them for any reason!**
 
-U slučaju bilo kakvog problema sa bilo kojim delom sistema, kvara ili loma, obratite se direktno proizvođaču ili vašem lokalnom predstavniku od kog ste nabavili uređaj.
+In case of any problem with any part of the system, malfunction or breakage, contact the manufacturer directly or your local representative from whom you obtained the device. **The wireless devices from the VoiceToys system contain rechargeable lithium-ion batteries, which in case of incorrect handling can cause a fire!** Do not expose them to high temperatures or to direct sunlight! The devices must not come into contact with water!
 
-Bežični uređaji iz sistema VoiceToys sadrže punjive litijum-jonske baterije, koje u slučaju pogrešnog rukavanja mogu izazvati požar! Ne izlažite ih visokim temperaturama niti direktnoj sunčevoj svetlosti! Uređaji ne smeju doći u kontakt s vodom!
+**Disposal and recycling** 
 
-Odlaganje i reciklaža Kućišta uređaja su napravljen od PET-G plastike, aluminijuma i klirita. Sadrže i razne elektronske komponente i litijum-jonske baterije. U slučaju kraja životnog ciklusa, nemojte ih bacati u komunalni otpad, već se obratite vašem lokalnom reciklažnom centru ili direktno proizvođaču uređaja.
+The device housings are made of PET-G plastic, aluminum and cast acrylic. They also contain various electronic components and lithium-ion batteries. At the end of their life cycle, do not throw them into municipal waste, but contact your local recycling center or the device manufacturer directly.
 
 ---
 
-### Pregled sistema
+### System overview
 
-Sistem VoiceToys sastoji se od četiri grupe uređaja i mobilne aplikacije. SpreadY čini 5 višenamenskih međusobno bežično povezanih stubića. Prevashodno su namenjeni vizuelnoj reprezentaciji prostiranja glasa u prostoru, ali se kroz mobilnu aplikaciju mogu aktivirati i druge funkcionalnosti (igra memorije, analiza i sinteza reči i rečenica, itd.).
-
-JumpY je svetlosni panel koji pokazuje nivo zvuka ili reaguje na promenu udaljenosti objekta od bežičnog senzora koji dolazi uz uređaj. Namenjen je za vizuelnu reprezentaciju jačine zvuka i senzomotornu stimulaciju i vežbanje, korišćenjem originalnih igara koje se aktiviraju putem mobilne aplikacije.
-
-VibeY je vibrotaktilni uređaj koji reaguje na intentzitet i visinu zvuka proizvodeći nežna svetla duginih boja i blage vibracije. Namenjen je za stimulaciju glasanja i kontrolu visine i intenziteta glasa. Osetljivost se može kontrolisati mobilnom aplikacijom.
-
-SpaceY su 5 pametnih zvučnika koji služe za identifikaciju i lokalizaciju zvuka u prostoru. Kontrolišu se isključivo mobilnom aplikacijom.
-
-### Uređaji iz sistema VoiceToys
-
-Koji su elementi sistema i čemu su namenjeni?
+The VoiceToys system consists of four groups of devices and a mobile application.
 
 ![VoiceToys_System](/voice-toys/images/VoiceToys_System.png)
 
----
+*Devices from the VoiceToys system*
 
-### Sadržaj i bezbednosne napomene
+**SpreadY** is made up of 5 multifunctional, wirelessly interconnected columns. They are primarily intended for the visual representation of the spreading of the voice in space, but other functionalities can also be activated through the mobile application (memory game, analysis and synthesis of words and sentences, etc.).
 
-### Šta je u kutiji?
+**JumpY** is a light panel that shows the sound level or reacts to the change in the distance of an object from the wireless sensor that comes with the device. It is intended for the visual representation of sound intensity and for sensorimotor stimulation and exercise, using original games that are activated via the mobile application.
 
-Sistem VoiceToys dolazi u dve kutije. U jednoj su zapakovani bežični uređaji iz sistema, kao posebni uređaji, svaki u svojoj posebnoj kutiji, označenoj po bojama:
+**VibeY** is a vibrotactile device that reacts to the intensity and pitch of sound by producing gentle rainbow-colored lights and mild vibrations. It is intended for the stimulation of vocalization and the control of voice pitch and intensity. The sensitivity can be controlled with the mobile application.
 
-- 1 komad - VibeY
-- 5 komada - SpaceY (plava, žuta, zelena, crvena, siva)
-- 5 komada - SpreadY (plava, žuta, zelena, crvena, siva)
-
-Uz njih dolaze i dodatne komponente za rad:
-
-- 5 komada providnih šipki za SpreadY
-- 5 komada nosača za kartice za SpreadY
-- 1 kabl za punjenje
-
-U drugoj kutiji dolazi uređaj JumpY, sa pripadajućim napajanjem i senzorom udaljenost - JumpY Senzor, koji se takođe tretira kao bežični uređaj.
-
-### Raspakivanje i postavljanje za rad
-
-Bežične uređaje izvadite iz kutije i postavite u horizontalni položaj. Kutije odložite na bezbedno mesto, za slučaj budućeg transporta ili odlaganja. Ukoliko smatrate da vam nisu potrebne, možete ih vratiti proizvođaču na reciklažu.
-
-Uređaj JumpY se postavlja na zid, prema uputstvu u poglavlju namenjenom detaljnim informacijama o njemu.
-
-### Napajanje uređaja i električna bezbednost
-
-Svi uređaji se napajaju standardnim USB punjačima od 5V/3A pomoću kabla sa USB-C priključkom. Ne koristite neispravne ili oštećene kablove, već samo one koji su vam isporučeni uz uređaj ili adekvatne kvalitetne zamene. Tokom punjenja NE OSTAVLJAJTE UREĐAJE BEZ NADZORA! U slučaju eventualne pojave neuobičajeno visoke temperature uređaja, pojave dima ili neuobičajenih mirisa uređaj ODMAH isključite iz struje i odložite na mesto na kom ne može izazvati požar! Bežični uređaji se pune i namenjeni su za rad bez priključenog napajanja, dok uređaj JumpY mora da bude konstantno priključen na napajanje jer ne sadrži baterije.
-
-### Objašnjenje simbola
-
-- Uređaj je sertifikovan za bezbednost po standardima za tržište Republike Srbije.
-- Uređaj je sertifikovan za bezbednost po standardima za tržište Evropske Unije.
-- Uređaj ne bacajte u komunalni otpad, već ga reciklirajte ili pošaljite proizvođaču.
+**SpaceY** are 5 smart speakers that serve for the identification and localization of sound in space. They are controlled exclusively with the mobile application.
 
 ---
 
-### Upozorenja
+### What is in the box?
 
-- OPREZ: Baterija u uređaju nije zamenjiva i njena zamena može izazvati rizik. Ne pokušavajte da je zamenite ili isključite.
+The VoiceToys system comes in two boxes. In one are packed the **wireless** devices from the system, as separate devices, each in its own separate box, marked by colors:
 
-- UPOZORENJE: Postoji rizik od eksplozije ili povrede ako je uređaj izložen provodnim materijalima, tečnosti, vatri ili visokoj temperaturi (iznad 40°C).
+- 1 piece - **VibeY**
+- 5 pieces - **SpaceY** (blue, yellow, green, red, gray)
+- 5 pieces - **SpreadY** (blue, yellow, green, red, gray)
 
-- UPOZORENJE: Uređaj mora biti napajan eksternim napajanjem koje je usklađeno sa IEC/EN 62368-1 standardom i ispunjava ES1 i PS1 zahteve.
+Along with them come additional components for operation:
 
-- UPOZORENJE: Opasnost od strujnog udara ili požara. Uređaj punite isključivo isporučenim USB punjačem. USB kabl mora biti povezan na sertifikovani laptop/PC ili sertifikovani mini USB punjač.
+- 5 pieces of transparent rods for **SpreadY**
+- 5 pieces of card holders for **SpreadY**
+- 1 charging cable
 
-- UPOZORENJE: NE otvarajte kućište uređaja. Ukoliko se utvrdi da je kućište otvoreno, garancija prestaje da važi.
+In the second box comes the **JumpY** device, with its accompanying power supply and distance sensor - **JumpY** **Sensor**, which is also treated as a **wireless** device.
 
-| Oznaka / Sign | Značenje |
-| --- | --- |
-| ⚠️ Upozorenje | Pokazuje mogućnost ozbiljne fizičke povrede ako se uputstva iz ovog priručnika ne prate pravilno. |
-| ▲ Oprez | Pokazuje mogućnost fizičke povrede ili materijalne štete ako se uputstva ne prate pravilno. |
-| 🚫 Zabranjeno | Precrtani krug pokazuje da je nešto zabranjeno. Objašnjenje zabrane nalazi se pored simbola. |
-| 🚫📦 | Nije dozvoljeno rasklapanje! |
-| ❗ | OPREZ: Baterija u uređaju nije zamenjiva i njena zamena može izazvati rizik. Ne pokušavajte da je<br />zamenite ili isključite. |
-| ❗ | OPREZ: Proizvodi nisu namenjeni za upotrebu u zapaljivim ili eksplozivnim okruženjima. |
-| ⚡ | UPOZORENJE: Postoji rizik od eksplozije ili povrede ako je uređaj izložen provodnim materijalima,<br />tečnosti, vatri ili visokoj temperaturi (iznad 40°C). |
-| ❗ | UPOZORENJE: Ne koristite uređaj u vlažnom okruženju. Zaštitite ga od prodora tečnosti. |
-| ▲ | UPOZORENJE: Uređaj mora biti napajan eksternim napajanjem koje je usklađeno sa IEC/EN 62368-1<br />standardom i ispunjava ES1 i PS1 zahteve. |
-| 🚫🔌 | UPOZORENJE: Opasnost od strujnog udara ili požara. Uređaj punite isključivo isporučenim USB<br />punjačem. USB kabl mora biti povezan na sertifikovani laptop/PC ili sertifikovani mini USB punjač. |
-| 🚫🛠️ | UPOZORENJE: NE otvarajte kućište uređaja. Ukoliko se utvrdi da je kućište otvoreno, garancija prestaje<br />da važi. |
+### Unpacking and setting up for operation
+
+Take the wireless devices out of the box and place them in a horizontal position. Store the boxes in a safe place, in case of future transport or storage. If you consider that you do not need them, you can return them to the manufacturer for recycling.
+
+The **JumpY** device is mounted on the wall, according to the instructions in the chapter devoted to detailed information about it.
+
+### Powering the devices and electrical safety
+
+All devices are powered by standard 5V/3A USB chargers using a cable with a USB-C connector. Do not use faulty or damaged cables, but only those supplied with the device or adequate quality replacements. During charging, DO NOT LEAVE THE DEVICES UNATTENDED! In case an unusually high device temperature occurs, smoke appears or unusual odors appear, IMMEDIATELY disconnect the device from the power and place it in a location where it cannot cause a fire! The wireless devices are charged and are intended to operate without connected power, while the **JumpY** device must be constantly connected to power because it does not contain batteries.
+
+### Explanation of symbols
+
+| ![AAA\|103](/img/uputstvo/3A.png)   | The device is certified for safety according to the standards for the market of the Republic of Serbia.   |
+| ------------------------------ | ---------------------------------------------------------------------------------- |
+| ![AAA\|105](./images/CE.png)   | The device is certified for safety according to the standards for the market of the European Union.     |
+| ![AAA\|95](./images/Trash.png) | Do not throw the device into municipal waste, but recycle it or send it to the manufacturer |
 
 ---
 
-### Mobilna aplikacija - namena i instalacija
+### Warnings
+<div class="table-warning">
 
-Sadržaj o mobilnoj aplikaciji je izdvojen u posebno poglavlje: [Mobilna aplikacija](./15-mobilna-aplikacija.md).
+| Mark / Sign | Meaning                                                                                                                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚠️ Warning | Indicates the possibility of serious physical injury if the instructions in this manual are not followed correctly.                                                                                       |
+| ▲ Caution       | Indicates the possibility of physical injury or material damage if the instructions are not followed correctly.                                                                                             |
+| 🚫 Forbidden | A crossed-out circle indicates that something is forbidden. The explanation of the prohibition is located next to the symbol.                                                                                                            |
+| 🚫📦          | Disassembly is not permitted!                                                                                                                                                                            |
+| ❗             | **CAUTION:** The battery in the device is not replaceable and replacing it may pose a risk. Do not attempt to<br />replace or disconnect it.                                                                     |
+| ❗             | **CAUTION:** The products are not intended for use in flammable or explosive environments.                                                                                                              |
+| ⚡             | **WARNING:** There is a risk of explosion or injury if the device is exposed to conductive materials,<br />liquid, fire or high temperature (above 40°C).                                        |
+| ❗             | **WARNING:** Do not use the device in a damp environment. Protect it from the ingress of liquid.                                                                                                              |
+| ▲             | **WARNING:** The device must be powered by an external power supply that complies with the IEC/EN 62368-1<br />standard and meets the ES1 and PS1 requirements.                                                        |
+| 🚫🔌          | **WARNING:** Danger of electric shock or fire. Charge the device exclusively with the supplied USB<br />charger. The USB cable must be connected to a certified laptop/PC or a certified mini USB charger. |
+| 🚫🛠️         | **WARNING:** Do NOT open the device housing. If it is determined that the housing has been opened, the warranty becomes<br />void.                                                                                |
+
+</div>

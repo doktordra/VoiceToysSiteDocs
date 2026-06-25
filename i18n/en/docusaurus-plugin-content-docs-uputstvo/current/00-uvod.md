@@ -1,21 +1,24 @@
 ---
-title: Dobrodošli
+title: Thank you for your trust!
 sidebar_position: 1
 slug: /
 hide_table_of_contents: true
 ---
-Hvala na poverenju!
+# The Voice Toys system was created with the wish that users will come to love it!
 
-Uređaj SpreadY u toku rada Namenjen je za rad u logopedskoj i defektološkoj praksi, ali se može koristiti u radu sa korisnicima svih uzrasta i nivoa razvoja.
+<FigureBlock
+  src="/voice-toys/images/viber_image_2019-11-04_14-58-02.jpg"
+  alt="Decja kuca"
+  imagePosition="right"
+>
 
-Razvijan je sa ljubavlju i željom da se uklopi u proces rada tako da ga ne ometa, već da motiviše, ubrza napredovanje i olakša rad terapeuta.
+It is intended for use in speech therapy and special education practice, but it can also be used when working with users of all ages and developmental levels.
 
-Dizajniran je da bude lak za upotrebu, vizuelno sveden, jednostavnih oblika i jasnih, živih boja, neobičan, ali prirodan i human. Napravljen je od neškodljivih, kvalitetnih materijala.
+It was developed with love and with the wish to fit into the work process so that it does not disrupt it, but rather motivates, accelerates progress and makes the therapist's work easier.
 
-Kontroliše se bežično, originalnom aplikacijom razvijenom za Android i iOS uređaje.
+It is designed to be easy to use, visually clean, with simple shapes and clear, vivid colors — unusual, yet natural and humane. It is made of harmless, high-quality materials.
 
-Zasnovan je na mikrokontrolerima kojima se veoma lako, bežično ažurira operativni sistem. Zahvaljujući tome, uređaji se mogu modifikovati i obogatiti dodatnim funkcijama prema zahtevima korisnika. Pozivamo vas da svojim idejama učestvujete u razvoju i napretku ovog jedinstvenog sistema!
+It is controlled wirelessly, through an original application developed for Android and iOS devices.
 
-Sistem Voice Toys je napravljen sa željom da ga korisnici zavole
-
-![viber_image_2019-11-04_14-58-02](/voice-toys/images/viber_image_2019-11-04_14-58-02.jpg)
+It is based on microcontrollers whose operating system can be very easily updated wirelessly. Thanks to this, the devices can be modified and enriched with additional functions according to users' requirements. We invite you to take part with your ideas in the development and advancement of this unique system!
+</FigureBlock>

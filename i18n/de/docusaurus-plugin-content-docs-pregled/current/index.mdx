@@ -6,6 +6,7 @@ hide_table_of_contents: true
 ---
 
 import styles from '../../../../nav-preview/index.module.css';
+import Link from '@docusaurus/Link';
 
 <div className={styles.landing}>
 
@@ -13,46 +14,46 @@ import styles from '../../../../nav-preview/index.module.css';
 
   <div className={styles.grid}>
 
-    <div className={styles.card} data-color="blue">
+    <div className={styles.card} data-color="yellow">
       <h2 className={styles.cardTitle}>Handbuch</h2>
       <p className={styles.cardDesc}>Spiele und Aktivitäten für jedes VoiceToys-Gerät. Autoren: Milanka Trpčević und Jovan Marković</p>
       <div className={styles.cardLinks}>
-        <a href="/docs/manual/uvod" className={styles.btnPrimary}>Einführung ins System</a>
+        <Link to="/docs/manual/uvod" className={styles.btnPrimary}>Einführung ins System</Link>
         <div className={styles.btnGroup}>
-          <a href="/docs/manual/vibey" className={styles.btnSecondary}>VibeY</a>
-          <a href="/docs/manual/spready" className={styles.btnSecondary}>SpreadY</a>
-          <a href="/docs/manual/jumpy" className={styles.btnSecondary}>JumpY</a>
-          <a href="/docs/manual/spacey" className={styles.btnSecondary}>SpaceY</a>
+          <Link to="/docs/manual/vibey" className={styles.btnSecondary}>VibeY</Link>
+          <Link to="/docs/manual/spready" className={styles.btnSecondary}>SpreadY</Link>
+          <Link to="/docs/manual/jumpy" className={styles.btnSecondary}>JumpY</Link>
+          <Link to="/docs/manual/spacey" className={styles.btnSecondary}>SpaceY</Link>
         </div>
       </div>
     </div>
 
-    <div className={styles.card} data-color="teal">
+    <div className={styles.card} data-color="blue">
       <h2 className={styles.cardTitle}>Anleitung</h2>
       <p className={styles.cardDesc}>Ausführliche Anleitung zur Verwendung der VoiceToys-Geräte.</p>
       <div className={styles.cardLinks}>
-        <a href="/uputstvo" className={styles.btnPrimary}>Loslegen</a>
+        <Link to="/uputstvo" className={styles.btnPrimary}>Loslegen</Link>
         <div className={styles.btnGroup}>
-          <a href="/uputstvo/opste-informacije" className={styles.btnSecondary}>Allg. Infos</a>
-          <a href="/uputstvo/mobilna-aplikacija" className={styles.btnSecondary}>App</a>
-          <a href="/uputstvo/azuriranje" className={styles.btnSecondary}>Updates</a>
-          <a href="/uputstvo/kontakt" className={styles.btnSecondary}>Kontakt</a>
+          <Link to="/uputstvo/opste-informacije" className={styles.btnSecondary}>Allg. Infos</Link>
+          <Link to="/uputstvo/mobilna-aplikacija" className={styles.btnSecondary}>App</Link>
+          <Link to="/uputstvo/azuriranje" className={styles.btnSecondary}>Updates</Link>
+          <Link to="/uputstvo/kontakt" className={styles.btnSecondary}>Kontakt</Link>
         </div>
       </div>
     </div>
 
-    <div className={styles.card} data-color="slate">
+    <div className={styles.card} data-color="red">
       <h2 className={styles.cardTitle}>Zertifikate</h2>
       <p className={styles.cardDesc}>Offizielle Sicherheitsdokumentation und Zertifikate für alle Geräte des VoiceToys-Systems.</p>
       <div className={styles.cardLinks}>
         <div className={styles.btnGroup}>
-          <a href="/bezbednost/emc" className={styles.btnPrimary}>EMC-Zertifikat</a>
-          <a href="/bezbednost/lvd" className={styles.btnPrimary}>LVD-Zertifikat</a>
+          <Link to="/bezbednost/emc" className={styles.btnPrimary}>EMC-Zertifikat</Link>
+          <Link to="/bezbednost/lvd" className={styles.btnPrimary}>LVD-Zertifikat</Link>
         </div>
       </div>
     </div>
 
-    <div className={styles.card} data-color="amber">
+    <div className={styles.card} data-color="green">
       <h2 className={styles.cardTitle}>Erfahrungsberichte</h2>
       <p className={styles.cardDesc}>Originale Empfehlungsschreiben und Beobachtungen von Einrichtungen und Therapeuten, die VoiceToys verwenden.</p>
       <div className={styles.cardLinks}>

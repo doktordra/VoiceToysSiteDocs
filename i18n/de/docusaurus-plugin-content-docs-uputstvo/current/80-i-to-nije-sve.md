@@ -1,14 +1,17 @@
 ---
-title: I to nije sve!
+title: Und das ist noch nicht alles!
 sidebar_position: 10
 ---
-Od svog početka, VoiceToys se razvijao, rastao, menjao i napredovao kroz komunikaciju sa onima koji ga koriste.
 
-Shvatili smo da su njegove mogućnosti i načini primene praktično neograničeni, i zato smo ga koncipirali kao platformu koja može da se unapređuje i obogaćuje novim funkcionalnostima po željama i idejama svojih korisnika.
+# VoiceToys entwickelt und verändert sich dank Ihnen.
 
-Ponosni smo što zajedno sa vama stvaramo inovaciju koja predstavlja kreativnost domaćih inženjera i terapeuta.
+Von seinen Anfängen an hat sich VoiceToys durch die Kommunikation mit denjenigen, die es verwenden, entwickelt, ist gewachsen, hat sich verändert und Fortschritte gemacht.
 
-Zato vas pozivamo da nam se javite sa vašim idejama i učestvujete u daljem razvoju VoiceToys-a!
+Wir haben erkannt, dass seine Möglichkeiten und Anwendungsweisen praktisch unbegrenzt sind, und deshalb haben wir es als eine Plattform konzipiert, die nach den Wünschen und Ideen ihrer Benutzer verbessert und mit neuen Funktionen bereichert werden kann.
+
+Wir sind stolz darauf, gemeinsam mit Ihnen eine Innovation zu schaffen, die die Kreativität heimischer Ingenieure und Therapeuten darstellt.
+
+Deshalb laden wir Sie ein, sich mit Ihren Ideen bei uns zu melden und an der weiteren Entwicklung von VoiceToys teilzunehmen!
 
 ![DSCN7176](/voice-toys/images/image-178.png)
 
@@ -17,5 +20,3 @@ Zato vas pozivamo da nam se javite sa vašim idejama i učestvujete u daljem raz
 ![IMG20230426183846](/voice-toys/images/image-180.png)
 
 ![IMG20230509131326](/voice-toys/images/image-181.png)
-
-*VoiceToys se razvija i menja zahvaljujući vama.*
