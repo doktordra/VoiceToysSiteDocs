@@ -1,0 +1,70 @@
+---
+id: index
+title: VoiceToys Dokumentation
+hide_title: true
+hide_table_of_contents: true
+---
+
+import styles from '../../../../nav-preview/index.module.css';
+
+<div className={styles.landing}>
+
+
+
+  <div className={styles.grid}>
+
+    <div className={styles.card} data-color="blue">
+      <h2 className={styles.cardTitle}>Handbuch</h2>
+      <p className={styles.cardDesc}>Spiele und Aktivitäten für jedes VoiceToys-Gerät. Autoren: Milanka Trpčević und Jovan Marković</p>
+      <div className={styles.cardLinks}>
+        <a href="/docs/manual/uvod" className={styles.btnPrimary}>Einführung ins System</a>
+        <div className={styles.btnGroup}>
+          <a href="/docs/manual/vibey" className={styles.btnSecondary}>VibeY</a>
+          <a href="/docs/manual/spready" className={styles.btnSecondary}>SpreadY</a>
+          <a href="/docs/manual/jumpy" className={styles.btnSecondary}>JumpY</a>
+          <a href="/docs/manual/spacey" className={styles.btnSecondary}>SpaceY</a>
+        </div>
+      </div>
+    </div>
+
+    <div className={styles.card} data-color="teal">
+      <h2 className={styles.cardTitle}>Anleitung</h2>
+      <p className={styles.cardDesc}>Ausführliche Anleitung zur Verwendung der VoiceToys-Geräte.</p>
+      <div className={styles.cardLinks}>
+        <a href="/uputstvo" className={styles.btnPrimary}>Loslegen</a>
+        <div className={styles.btnGroup}>
+          <a href="/uputstvo/opste-informacije" className={styles.btnSecondary}>Allg. Infos</a>
+          <a href="/uputstvo/mobilna-aplikacija" className={styles.btnSecondary}>App</a>
+          <a href="/uputstvo/azuriranje" className={styles.btnSecondary}>Updates</a>
+          <a href="/uputstvo/kontakt" className={styles.btnSecondary}>Kontakt</a>
+        </div>
+      </div>
+    </div>
+
+    <div className={styles.card} data-color="slate">
+      <h2 className={styles.cardTitle}>Zertifikate</h2>
+      <p className={styles.cardDesc}>Offizielle Sicherheitsdokumentation und Zertifikate für alle Geräte des VoiceToys-Systems.</p>
+      <div className={styles.cardLinks}>
+        <div className={styles.btnGroup}>
+          <a href="/bezbednost/emc" className={styles.btnPrimary}>EMC-Zertifikat</a>
+          <a href="/bezbednost/lvd" className={styles.btnPrimary}>LVD-Zertifikat</a>
+        </div>
+      </div>
+    </div>
+
+    <div className={styles.card} data-color="amber">
+      <h2 className={styles.cardTitle}>Erfahrungsberichte</h2>
+      <p className={styles.cardDesc}>Originale Empfehlungsschreiben und Beobachtungen von Einrichtungen und Therapeuten, die VoiceToys verwenden.</p>
+      <div className={styles.cardLinks}>
+        <div className={styles.btnGroup}>
+          <a href="pathname:///Testimonials/Buzganovic1.pdf" className={styles.btnSecondary}>Buzganovic (SR)</a>
+          <a href="pathname:///Testimonials/Logo-centar1.pdf" className={styles.btnSecondary}>Logo-centar (SR)</a>
+          <a href="pathname:///Testimonials/OS_MilojePavlovic1.pdf" className={styles.btnSecondary}>OŠ Miloje Pavlović (SR)</a>
+          <a href="pathname:///Testimonials/KZ_LOR1.pdf" className={styles.btnSecondary}>Оберіг (UA)</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>

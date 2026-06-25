@@ -1,0 +1,130 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Priručnik": {
+    "message": "Handbuch",
+    "description": "The label for category 'Priručnik' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.manual-devices": {
+    "message": "Geräte",
+    "description": "The label for category 'Uređaji' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Uputstvo": {
+    "message": "Anleitung",
+    "description": "The label for category 'Uputstvo' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Opšte": {
+    "message": "Allgemein",
+    "description": "The label for category 'Opšte' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.uputstvo-devices": {
+    "message": "Geräte",
+    "description": "The label for category 'Uređaji' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Podrška": {
+    "message": "Support",
+    "description": "The label for category 'Podrška' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Sertifikati": {
+    "message": "Zertifikate",
+    "description": "The label for category 'Sertifikati' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Testimonials": {
+    "message": "Testimonials",
+    "description": "The label for category 'Testimonials' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.link.VoiceToys dokumentacija": {
+    "message": "VoiceToys Dokumentation",
+    "description": "The label for link 'VoiceToys dokumentacija' in sidebar 'tutorialSidebar', linking to '/'"
+  },
+  "sidebar.tutorialSidebar.link.Hvala na poverenju": {
+    "message": "Danke für Ihr Vertrauen",
+    "description": "The label for link 'Hvala na poverenju' in sidebar 'tutorialSidebar', linking to '/uputstvo'"
+  },
+  "sidebar.tutorialSidebar.link.Opšte informacije": {
+    "message": "Allgemeine Informationen",
+    "description": "The label for link 'Opšte informacije' in sidebar 'tutorialSidebar', linking to '/uputstvo/opste-informacije'"
+  },
+  "sidebar.tutorialSidebar.link.Mobilna aplikacija": {
+    "message": "Mobile App",
+    "description": "The label for link 'Mobilna aplikacija' in sidebar 'tutorialSidebar', linking to '/uputstvo/mobilna-aplikacija'"
+  },
+  "sidebar.tutorialSidebar.link.uputstvo-vibey": {
+    "message": "VibeY",
+    "description": "The label for link 'VibeY' in sidebar 'tutorialSidebar', linking to '/uputstvo/vibey'"
+  },
+  "sidebar.tutorialSidebar.link.uputstvo-spready": {
+    "message": "SpreadY",
+    "description": "The label for link 'SpreadY' in sidebar 'tutorialSidebar', linking to '/uputstvo/spready'"
+  },
+  "sidebar.tutorialSidebar.link.uputstvo-jumpy": {
+    "message": "JumpY",
+    "description": "The label for link 'JumpY' in sidebar 'tutorialSidebar', linking to '/uputstvo/jumpy'"
+  },
+  "sidebar.tutorialSidebar.link.uputstvo-spacey": {
+    "message": "SpaceY",
+    "description": "The label for link 'SpaceY' in sidebar 'tutorialSidebar', linking to '/uputstvo/spacey'"
+  },
+  "sidebar.tutorialSidebar.link.Ažuriranje": {
+    "message": "Aktualisierung",
+    "description": "The label for link 'Ažuriranje' in sidebar 'tutorialSidebar', linking to '/uputstvo/azuriranje'"
+  },
+  "sidebar.tutorialSidebar.link.Garancija": {
+    "message": "Garantie",
+    "description": "The label for link 'Garancija' in sidebar 'tutorialSidebar', linking to '/uputstvo/garancija'"
+  },
+  "sidebar.tutorialSidebar.link.I to nije sve": {
+    "message": "Und das ist noch nicht alles",
+    "description": "The label for link 'I to nije sve' in sidebar 'tutorialSidebar', linking to '/uputstvo/i-to-nije-sve'"
+  },
+  "sidebar.tutorialSidebar.link.Kontakt": {
+    "message": "Kontakt",
+    "description": "The label for link 'Kontakt' in sidebar 'tutorialSidebar', linking to '/uputstvo/kontakt'"
+  },
+  "sidebar.tutorialSidebar.link.EMC": {
+    "message": "EMC",
+    "description": "The label for link 'EMC' in sidebar 'tutorialSidebar', linking to '/bezbednost/emc'"
+  },
+  "sidebar.tutorialSidebar.link.LVD": {
+    "message": "LVD",
+    "description": "The label for link 'LVD' in sidebar 'tutorialSidebar', linking to '/bezbednost/lvd'"
+  },
+  "sidebar.tutorialSidebar.link.Buzganovic (SR) — zapažanja sa tretmana": {
+    "message": "Buzganović (SR) — Behandlungsnotizen",
+    "description": "The label for link 'Buzganovic (SR) — zapažanja sa tretmana' in sidebar 'tutorialSidebar', linking to 'pathname:///Testimonials/Buzganovic1.pdf'"
+  },
+  "sidebar.tutorialSidebar.link.Logo-centar (SR) — zapažanja sa tretmana": {
+    "message": "Logo-centar (SR) — Behandlungsnotizen",
+    "description": "The label for link 'Logo-centar (SR) — zapažanja sa tretmana' in sidebar 'tutorialSidebar', linking to 'pathname:///Testimonials/Logo-centar1.pdf'"
+  },
+  "sidebar.tutorialSidebar.link.OŠ Miloje Pavlović (SR) — pismo preporuke": {
+    "message": "Grundschule Miloje Pavlović (SR) — Empfehlungsschreiben",
+    "description": "The label for link 'OŠ Miloje Pavlović (SR) — pismo preporuke' in sidebar 'tutorialSidebar', linking to 'pathname:///Testimonials/OS_MilojePavlovic1.pdf'"
+  },
+  "sidebar.tutorialSidebar.link.Оберіг (UK) — recommendation letter": {
+    "message": "Оберіг (UA) — Empfehlungsschreiben",
+    "description": "The label for link 'Оберіг (UK) — recommendation letter' in sidebar 'tutorialSidebar', linking to 'pathname:///Testimonials/KZ_LOR1.pdf'"
+  },
+  "sidebar.tutorialSidebar.doc.Uvod": {
+    "message": "Einführung",
+    "description": "The label for the doc item 'Uvod' in sidebar 'tutorialSidebar', linking to the doc manual/uvod"
+  },
+  "sidebar.tutorialSidebar.doc.manual-vibey": {
+    "message": "VibeY",
+    "description": "The label for the doc item 'VibeY' in sidebar 'tutorialSidebar', linking to the doc manual/vibey"
+  },
+  "sidebar.tutorialSidebar.doc.manual-spready": {
+    "message": "SpreadY",
+    "description": "The label for the doc item 'SpreadY' in sidebar 'tutorialSidebar', linking to the doc manual/spready"
+  },
+  "sidebar.tutorialSidebar.doc.manual-jumpy": {
+    "message": "JumpY",
+    "description": "The label for the doc item 'JumpY' in sidebar 'tutorialSidebar', linking to the doc manual/jumpy"
+  },
+  "sidebar.tutorialSidebar.doc.manual-spacey": {
+    "message": "SpaceY",
+    "description": "The label for the doc item 'SpaceY' in sidebar 'tutorialSidebar', linking to the doc manual/spacey"
+  }
+}

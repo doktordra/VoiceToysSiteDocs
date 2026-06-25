@@ -1,0 +1,38 @@
+{
+  "link.title.Dokumentacija": {
+    "message": "Documentation",
+    "description": "The title of the footer links column with title=Dokumentacija in the footer"
+  },
+  "link.title.Brza Navigacija": {
+    "message": "Quick Navigation",
+    "description": "The title of the footer links column with title=Brza Navigacija in the footer"
+  },
+  "link.item.label.Priručnik (Uvod)": {
+    "message": "Manual (Introduction)",
+    "description": "The label of footer link with label=Priručnik (Uvod) linking to /docs/manual/uvod"
+  },
+  "link.item.label.Uputstvo (Početak)": {
+    "message": "Guide (Getting Started)",
+    "description": "The label of footer link with label=Uputstvo (Početak) linking to /uputstvo"
+  },
+  "link.item.label.Početna": {
+    "message": "Home",
+    "description": "The label of footer link with label=Početna linking to /"
+  },
+  "link.item.label.Priručnik": {
+    "message": "Manual",
+    "description": "The label of footer link with label=Priručnik linking to /docs/manual/uvod"
+  },
+  "link.item.label.Uputstvo": {
+    "message": "Guide",
+    "description": "The label of footer link with label=Uputstvo linking to /uputstvo"
+  },
+  "link.item.label.Pretraga": {
+    "message": "Search",
+    "description": "The label of footer link with label=Pretraga linking to /search"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 VoiceToys. All rights reserved.",
+    "description": "The footer copyright"
+  }
+}
