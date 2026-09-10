@@ -152,6 +152,11 @@ const config: Config = {
       },
       items: [
         {
+          href: 'https://voicetoys.rs',
+          label: 'Nazad na VoiceToys',
+          position: 'left',
+        },
+        {
           type: 'search',
           position: 'right',
         },
