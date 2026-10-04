@@ -18,7 +18,7 @@ sidebar_position: 20
 - **[Zapamti boju i pojam](#zapamti-boju-i-pojam)**
 - **[Sabiranje](#sabiranje)**
 - **[Oboji prema modelu](#oboji-prema-modelu)**
-- **[Brain gym](#brain-gym)**
+- **[Leva–desna](#levadesna)**
 - **[Uhvati boju](#uhvati-boju)**
 - **[Putevi dana](#putevi-dana)**
 - **[Od glasa do reči](#od-glasa-do-reči)**
@@ -51,8 +51,7 @@ Ovaj režim je pogodan za situacije kada radite na:
 -   vokalizaciji,
 -   kontroli intenziteta, ritma i trajanja glasa,
 -   prepoznavanje i otklanjanje štetnih obrazaca upotrebe glasa (kao što je vrištanje i produkovanje glasnih zvukova pri igri),
--   smanjene izdržljivosti glasa,
--   raznih oblika disfonije,
+-   rada na glasu kod dece sa poremećajima glasa, u okviru tretmana koji vodi stručnjak,
 -   poremećaja pažnje.
 
   
@@ -112,7 +111,7 @@ Ovaj režim je pogodan za situacije kada radite na razvoju:
 
 ### **Zapamti boju i pojam**
 
-Cilj: razvoj pažnje i koncentarcije kroz diferencijaciju i imenovanje boja i pojmova
+Cilj: razvoj pažnje i koncentracije kroz diferencijaciju i imenovanje boja i pojmova
 
 Opis: Detetu ponudimo unapred pripremljene kartice u bojama baza stubića. Zatim mu objasnimo da će neki od stubića zasijati i isključiti se. Počnite sa jednostavnim kombinacijama koje uključuju samo jednu seriju i manji broj stubića. Zadatak je da dete memoriše koji su stubići svetleli i da po toj šemi poređa kartice u zadatim bojama ispred sebe.
 
@@ -135,16 +134,18 @@ Cilj: razvoj fine motorike, grafomotorike i pažnje
 Opis: Ispred deteta su papir i bojice. Objasnite detetu da će pojedini stubići zasvetleti, a da se ono potrudi da ih zapamti. Zatim aktivirajte svetla u režimu memorije. Počnite sa jednostavnim kombinacijama koje uključuju samo jednu seriju i manji broj stubića, a zatim postepeno otežavajte zadatke prilagođavajući ih sposobnostima deteta. Kada se stubići ugase, dete crta na papiru onoliko krugova koliko je stubića svetlelo i boji ih prema zadatom modelu.
 
   
-### **Brain gym**
+### **Leva–desna**
+
+U ranijim verzijama priručnika ova igra se zvala „Brain gym“.
 
 Cilj: razvoj fine motorike, bilateralne koordinacije, vizuelne percepcije, pažnje, koncentracije
 
-Opis: rasporedite 5 stubića ispred deteta i na njih postavite kartice (iz priloga X). Na svakoj od kartica prikazani su oblici: krug, kvadrat, pravougaonik, zvezda i “zekine uši”.  
-Pripremite detetu papir (iz priloga) na kojem su sa leve strane kružići u bojama baza stubića, a sa desne oblici.  
+Opis: rasporedite 5 stubića ispred deteta i na njih postavite kartice ([Prilog 3](#prilog-3)). Na svakoj od kartica prikazani su oblici: krug, kvadrat, pravougaonik, zvezda i “zekine uši”.  
+Pripremite detetu radni list ([Prilog 3](#prilog-3)) na kojem su sa leve strane kružići u bojama baza stubića, a sa desne oblici.  
 Kada se na nekom od stubića uključi svetlo, igra počinje. Zadatak je da dete zapamti koja boja baze se aktivirala, kao i oblik koji je prikazan na kartici. Zatim na papiru pronađe krug odgovarajuće boje i dodirne ga levim kažiprstom, a oblik koji se nalazi na kartici upaljenog stubića dodirne desnim kažiprstom.
 
   
-Varijacija: Rasporedite stubiće i kartice kao u prethodnoj igri. U ovoj igri simboli predstavljaju šaku u različitim položajima:
+Varijacija: Rasporedite stubiće i kartice kao u prethodnoj igri. U ovoj igri simboli predstavljaju šaku u različitim položajima (legenda je u [Prilogu 3](#prilog-3)):
 
 \- kvadrat - dlan okrenut na dole sa skupljenim prstima  
 \- zvezda - rašireni prsti,  
@@ -217,7 +218,7 @@ Varijacije: Igru možete nadograđivati i menjati tako što:
 -   možete da razložite reč na slogove ili slogove spajate u reči (prvo kraće, a zatim duže) i time razvijate početno čitanje.
 -   postavljate pitanja tipa: Koji glas čuješ na početku? Koji na kraju?
 -   zadate novu reč i tražite od deteta da zameni prvi glas u reči (npr pas, dete izgovori novu reč gas), kako bi vežbao diskriminaciju glasova
--   ukoliko prepoznaje grafeme, dete ređa kartice sa odgovarajućim slovima na stubiće, dok ne sastavi zadatu reč.
+-   ukoliko prepoznaje grafeme, dete bira kartice sa odgovarajućim slovima, a terapeut ih ređa na stubiće, dok dete ne sastavi zadatu reč.
 
   
   
@@ -268,7 +269,7 @@ Ove igre se, u odnosu na postavljene zadatke, mogu igrati u režimu “Ručno”
 
 Cilj: razvoj vizuelne percepcije, pažnje i memorije
 
-Opis: Za ovu igru su nam potrebne slike sa povezanim značenjem (npr kišobran i oblak sa kišom; kašika i tanjir…), od kojih je po jedna iz para na stubiću, a ostale su izmešane ispred deteta. Dete bira sliku i uparuje je sa onom na stubiću. Za svako ispravno rešenje, dobija svetlosni signal kao potvrdu.  
+Opis: Za ovu igru su nam potrebne slike sa povezanim značenjem (npr kišobran i oblak sa kišom; kašika i tanjir…), od kojih je po jedna iz para na stubiću, a ostale su izmešane ispred deteta. Dete bira sliku i stavlja je ispred stubića na kom je slika sa kojom čini par. Za svako ispravno rešenje, dobija svetlosni signal kao potvrdu.  
 
 ### **Lopta pod stopalima**
 
@@ -293,7 +294,7 @@ Dete može imati dodatne izazove tako što će:
   
 Cilj: Razvijanje logičkog mišljenja i memorije, ovladavanje pojmovima i njihovim povezivanjem u logički sled, razvoj koordinacije pokreta, koncentracije, orijentacije u prostoru.  
   
-Opis: Rasporedite stubiće linearno na udaljenosti koja omogućava detetu slobodno kretanje. Prethodno razgovaramo sa detetom o danima u nedelji, koji su radni dani, a šta je vikend. Utvrdimo koje su detetove nedeljne rutine (sredom i petkom dolazi kod logopeda, ponedeljkom i četvrtkom ide na sport, kojim danima ide u vrtić, kod bake i sl.). Nakon toga dete nacrta ili pronađe gotove kartice koje može da poveže sa svojim dnevnim rutinama i okači ih na stubiće. Potrebno je da se dete kreće od jednog stubića do drugog i pri tom izgovara pojmove koji prate logički sled, a slike mu pomažu u prisećanju o danima u nedelji. Za svaki tačan odgovor terapeut uključuje stubić.
+Opis: Rasporedite stubiće linearno na udaljenosti koja omogućava detetu slobodno kretanje. Prethodno razgovaramo sa detetom o danima u nedelji, koji su radni dani, a šta je vikend. Utvrdimo koje su detetove nedeljne rutine (sredom i petkom dolazi kod logopeda, ponedeljkom i četvrtkom ide na sport, kojim danima ide u vrtić, kod bake i sl.). Nakon toga dete nacrta ili pronađe gotove kartice koje može da poveže sa svojim dnevnim rutinama, a terapeut ih kači na stubiće. Potrebno je da se dete kreće od jednog stubića do drugog i pri tom izgovara pojmove koji prate logički sled, a slike mu pomažu u prisećanju o danima u nedelji. Za svaki tačan odgovor terapeut uključuje stubić.
 
 Prilagođavanje: Tokom igre procenjujemo sposobnosti dece i prilagođavamo zahteve shodno tome. Menjamo načine kretanja od jednog do drugog stubića, brzinu kretanja, razdaljlinu između stubića, uključivanje dodatnih vizuelnih stimulusa ili različitih rekvizita koje mogu otežati kretanje deteta (lagano kotrlja loptu po podu).
 
@@ -302,3 +303,17 @@ Prilagođavanje: Tokom igre procenjujemo sposobnosti dece i prilagođavamo zaht
 Cilj: prelazak srednje linije tela
 
 Opis: Unapred pripremite 5 krugova u bojama stubića i zalepite ih na zid u visini prilagođenoj detetu. Ono stoji leđima okrenuto zidu i drži loptu obema rukama. Naspram njega su stubići čija se svetla nasumično uključuju i signaliziraju mu da reaguje. Nakon što identifikuje boju, dete se okreće prema zidu (ne pomerajući stopala), usmerava loptu ka krugu odgovarajuće boje i dodirne ga. Nakon toga se vraća u početni položaj spremno za sledeći zadatak.
+
+## Prilozi
+
+Kartice su veličine 60 × 60 mm; veličinu uskladite sa nosačima kartica. Svi prilozi priručnika mogu se preuzeti kao [PDF za štampu](pathname:///manual-prilozi/VoiceToys-prilozi-prirucnika.pdf).
+
+### Prilog 3
+
+Kartice oblika, radni list i legenda za igru „Leva–desna“.
+
+![Prilog 3: kartice oblika krug, kvadrat, pravougaonik, zvezda i zekine uši](/img/manual/prilozi/prilog3-kartice-oblika.png)
+
+![Prilog 3: radni list, levo krugovi u bojama baza stubića, desno oblici](/img/manual/prilozi/prilog3-radni-list.png)
+
+![Prilog 3: legenda položaja šake za varijantu igre](/img/manual/prilozi/prilog3-legenda.png)

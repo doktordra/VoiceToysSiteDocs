@@ -83,7 +83,7 @@ Vizuelna reprezentacija uključene vibracije/svetla
 
 Nakon pokretanja, uređaj radi u po parametrima koji su postavljeni prilikom prethodnog korišćenja. Ukoliko imate potrebu da prilagođavate parametre osetljivosti ili isključite vibraciju ili svetlo, možete to učiniti pomoću mobilne aplikacije.
 
-Uključite uređaj, pa na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju  **VibeY** nakon što se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, uređaj će na kratko emitovati plavo svetlo, na telefonu će se pojaviti ekran prikazan na slici na prethodnoj strani, a kontrole će preuzeti stanje koje je trenutno aktivno u uređaju.
+Uključite uređaj, pa na početnom ekranu aplikacije (opisan u poglavlju [Mobilna aplikacija](/uputstvo/mobilna-aplikacija#početni-ekran)) odaberite opciju  **VibeY** nakon što se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, uređaj će na kratko emitovati plavo svetlo, na telefonu će se pojaviti ekran prikazan na slici na prethodnoj strani, a kontrole će preuzeti stanje koje je trenutno aktivno u uređaju.
 
 Nakon odabira opcije **VibeY**  na početnom ekranu aplikacije, ušli ste u ekran sa prikazima funkcije mobilne aplikacije za uređaj **VibeY**.
 
@@ -135,7 +135,7 @@ Pritiskom na taster **"X"** vraćate se na početni ekran uređaja **VibeY**.
 >
 *Prikaz ekrana nakon pritiska na polje "Izaberite ili kreirajte preset"*
 
-U gornjoj polovini početnog ekrana se nalazi polje **"Izaberite ili kreirajte preset**". Pritiskom na ovo polje će Vam se prikazati ekran u čijem donjem delu se nalaze kartice sa nazivima "Podrazumevani" i "Korisnički" (slika desno). Pod podrazumevanim presetima se nalaze fabrički podešene svetlosne i vibrirajuće reakcije Vašeg uređaja koje su opisane nazivima ispod slike svakog od njih. U korisničkim presetima se na laze ona podešavanja koja ste sami kreirali i dali im imena. Način kreiranja i pamćenja podešavanja pogledajte na strani 19.
+U gornjoj polovini početnog ekrana se nalazi polje **"Izaberite ili kreirajte preset**". Pritiskom na ovo polje će Vam se prikazati ekran u čijem donjem delu se nalaze kartice sa nazivima "Podrazumevani" i "Korisnički" (slika desno). Pod podrazumevanim presetima se nalaze fabrički podešene svetlosne i vibrirajuće reakcije Vašeg uređaja koje su opisane nazivima ispod slike svakog od njih. U korisničkim presetima se nalaze ona podešavanja koja ste sami kreirali i dali im imena. Način kreiranja i pamćenja podešavanja opisan je u poglavlju [SpreadY, režim Mikrofon](/uputstvo/spready#režim-mikrofon).
 
 Ispod polja "**Izaberite i kreirajte preset**" se nalazi slika sa vizuelnom reprezentacijom upaljene ili ugašene vibracije odnosno svetla, kao i tasteri za njihovo uključivanje i isključivanje.
 

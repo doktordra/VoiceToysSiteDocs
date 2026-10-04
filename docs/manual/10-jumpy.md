@@ -8,9 +8,11 @@ sidebar_position: 10
 ### **Poglavlja**
 - **[Reakcija](#reakcija)**
 - **[Reakcija senzor](#reakcija-senzor)**
-- **[Igra tapšanja](#igra-tapšanja)**
+- **[Refleks (igra tapšanja)](#refleks-igra-tapšanja)**
 - **[Razlike](#razlike)**
 - **[Ritmički obrazac](#ritmički-obrazac)**
+- **[Fonetika](#fonetika)**
+- **[Snoezelen](#snoezelen)**
 
 ### **Aktivnosti**
 - **[Koja je tvoja boja?](#koja-je-tvoja-boja)**
@@ -26,12 +28,14 @@ Raspolaže sa nekoliko režima rada koje omogućavaju terapeutu da kod deteta po
 
 Režimi rada koje nudi ovaj uređaj su:
 
--   REAKCIJA          
--   IGRA TAPŠANJA         
+-   REAKCIJA (izvor: mikrofon ili senzor udaljenosti)
+-   SNOEZELEN
+-   REFLEKS (igra tapšanja)
 -   RAZLIKE
--   RITMIČKI OBRAZAC        
--   FONETIKA         i         
--   SNOEZELEN.                            
+-   RITMIČKI OBRAZAC
+-   FONETIKA
+
+Nazivi režima odgovaraju nazivima u aplikaciji.                            
 
   
 ## **REAKCIJA**
@@ -113,7 +117,13 @@ Prilagođavanje: Dok dete skače na trambolini, možete mu dodavati različite 
 -   nabraja ko sve skače/puzi/leti…
 -   izgovara reči koje imaju suprotno značenje od onih koje izgovori terapeut itd  (zavisno od vaše kreativnosti i cilja koji želite da postignete).
 
-Napomena: Pre izvođenja ovih igara potrebno je proceniti da li je detetu dovoljno razvijena psihomotorika da uz stručnu pomoć može bezbedno da izvodi pokrete koji se zahtevaju od njega. Takođe, neophodno je uzeti u obzir senzorni status deteta i dozirati izlaganje stimulusima u skladu sa tim.  
+Napomena: Pre izvođenja ovih igara potrebno je proceniti da li je detetu dovoljno razvijena psihomotorika da uz stručnu pomoć može bezbedno da izvodi pokrete koji se zahtevaju od njega. Takođe, neophodno je uzeti u obzir senzorni status deteta i dozirati izlaganje stimulusima u skladu sa tim.
+
+:::warning[Bezbednost]
+
+Trambolina nije deo sistema VoiceToys. Koristite trambolinu namenjenu terapijskom radu, uz stalni nadzor i bezbedan prostor oko nje. Za igre sa kretanjem, skakanjem i loptom panel JumpY mora biti pričvršćen na zid.
+
+:::  
 
   
 ### **Blizu daleko**
@@ -127,15 +137,17 @@ Opis: Dete stane ispred panela, a naspram senzora (tako da on može da registru
 Igra omogućava deci da kroz interakciju sa tehnologijom dožive fizičko kretanje i prostornu percepciju na vrlo konkretan način. Kroz kretanje i praćenje svetlosnih reakcija, dete uči kako da kontroliše svoje pokrete, razvijajući ne samo veštine motorike i prostorne orijentacije, već i kognitivne veštine kao što su pažnja, koncentracija, prepoznavanje obrazaca i uzročno - posledičnih veza.
 
   
-## **IGRA TAPŠANJA**
+## **REFLEKS (IGRA TAPŠANJA)**
 
-Igra tapšanja je originalna igra u kojoj uređaj reaguje samo na zvukove sa brzim skokom intenziteta (tapšanje rukama, udarac palicom o doboš, loptom o pod, olovkom o sto i sl.). Osmišljena je tako da kod korisnika podstiče razvoj i vežbanje krupne motorike, pažnje, koncentracije, strpljenja, sposobnosti odlaganja reakcija i socijalnih veština.
+Refleks, poznat i kao igra tapšanja, originalna je igra u kojoj uređaj reaguje samo na zvukove sa brzim skokom intenziteta (tapšanje rukama, udarac palicom o doboš, loptom o pod, olovkom o sto i sl.). Osmišljena je tako da kod korisnika podstiče razvoj i vežbanje krupne motorike, pažnje, koncentracije, strpljenja, sposobnosti odlaganja reakcija i socijalnih veština.
 
-U praksi se pokazalo da je ova igra efikasna kod starije dece prosečnih ili viših intelektualnih sposobnosti. Takođe, prepoznata je kao dobro motivaciono sredstvo za rad sa decom koja su motorički aktivnija, rasejane pažnje, sa problemima u ponašanju.
+Igra je posebno pogodna za stariju decu prosečnih ili viših intelektualnih sposobnosti, a dobro je motivaciono sredstvo i za rad sa decom koja su motorički aktivnija, rasejane pažnje ili sa problemima u ponašanju.
+
+Igra se pojedinačno i u grupi. Kada je uključen senzor udaljenosti, panel ne reaguje na zvuk: umesto pljeska, dete odgovara prelaskom ruke preko senzora.
 
 ### **Individualna igra tapšanja**
 
-Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite IGRA TAPŠANJA. Na panelu će se prikazati zadata crvena linija i bela linija koja se kreće od vrha ka dnu i nazad.
+Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite REFLEKS. Na panelu će se prikazati zadata crvena linija i bela linija koja se kreće od vrha ka dnu i nazad.
 
 Cilj: koordinacija pokreta i preciznost izvođenja, razvijanje pažnje i koncentracije.
 
@@ -161,7 +173,7 @@ Uputstva su ista kao u prethodnim igrama. Umesto tapšanja, dete može da korist
 
 Ovo je originalna igra u kojoj uređaj reaguje samo na zvukove sa brzim skokom intenziteta (tapšanje rukama, udarac palicom o doboš, loptom o pod, olovkom o sto i sl.). Osmišljena je tako da kod korisnika podstiče razvoj i vežbanje krupne motorike, pažnje, koncentracije, strpljenja, sposobnosti odlaganja reakcija i socijalnih veština.
 
-U praksi se pokazalo da je ova igra efikasna kod starije dece prosečnih ili viših intelektualnih sposobnosti. Takođe, prepoznata je kao dobro motivaciono sredstvo za rad sa decom koja su motorički aktivnija, rasejane pažnje, sa problemima u ponašanju.
+Igra je posebno pogodna za stariju decu prosečnih ili viših intelektualnih sposobnosti, a dobro je motivaciono sredstvo i za rad sa decom koja su motorički aktivnija, rasejane pažnje ili sa problemima u ponašanju.
 
 Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite opciju REŽIM (u donjem desnom uglu) i izaberite RAZLIKE. Na panelu će se prikazati dva svetleća polja slučajno odabranih boja.
 
@@ -169,29 +181,47 @@ Cilj: detekcija i diskriminacija boja.
 
 Opis igre: Za individualnu igru, dete stoji ispred panela. Kada na panelu prepozna polja iste boje, potrebno je da proizvede JEDAN snažan pljesak rukama, a kada vidi RAZLIČITE boje – zaplješće DVA puta. Uspešno izvođenje biće nagrađeno zelenim svetlom i zvukom aplauza. Promašaj će biti označen crvenim svetlom i zvukom koji označava neuspešan pokušaj. Nakon odgovora, automatski se pojavljuju nove zadate boje.
 
-Uređaj reaguje na bilo koji zvuk sa brzim skokom intenziteta, tako da dete kao odgovor umesto tapšanja može koristiti udarac palice o doboš, olovke o sto, štapić o tvrdu površinu i sl.  
+Uređaj reaguje na bilo koji zvuk sa brzim skokom intenziteta, tako da dete kao odgovor umesto tapšanja može koristiti udarac palice o doboš, olovke o sto, štapić o tvrdu površinu i sl. Kada je uključen senzor udaljenosti, umesto pljeska dete prelazi rukom preko senzora: jednom za iste boje, dva puta za različite.  
   
 Kada deca ovladaju igrom i razviju dobru motoriku i koordinaciju pokreta, možete preći na zahtevniji izazov uz pomoć lopte. Ovaj korak uključuje brže i preciznije izvođenje dva uzastopna tapkanja, što predstavlja složeniji zadatak u odnosu na prethodni.
 
 Prilagođavanje uređaja: Ako ima previše buke u prostoriji, JumpY će je „čuti“ i reagovati na nju bez uticaja igrača. U tom slučaju, prilagodite osetljivost pomeranjem klizača ulevo dok ne pronađete odgovarajući nivo osetljivosti. Ako JumpY ne reaguje na pljeskanje, prilagodite osetljivost pomeranjem klizača udesno. Na drugom klizaču, u donjem delu ekrana aplikacije, možete podesiti koliko vremena igrač ima za izvođenje dvostrukog aplauza.
 
-Ovu igru, kao i prethodnu, možete igrati sa grupom dece.
+Ovu igru, kao i prethodnu, možete igrati pojedinačno i sa grupom dece.
 
 ## **RITMIČKI OBRAZAC**
 
 “Ritmički obrazac” je originalna igra u kojoj uređaj reaguje samo na zvukove sa brzim skokom intenziteta (tapšanje rukama, udarac palicom o doboš, loptom o pod, olovkom o sto i sl.). Osmišljena je tako da kod korisnika podstiče razvoj i vežbanje krupne motorike, pažnje, koncentracije, strpljenja, sposobnosti odlaganja reakcija i socijalnih veština.
 
-U praksi se pokazalo da je ova igra efikasna kod starije dece prosečnih ili viših intelektualnih sposobnosti. Takođe, prepoznata je kao dobro motivaciono sredstvo za rad sa decom koja su motorički aktivnija, rasejane pažnje, sa problemima u ponašanju.
+Igra je posebno pogodna za stariju decu prosečnih ili viših intelektualnih sposobnosti, a dobro je motivaciono sredstvo i za rad sa decom koja su motorički aktivnija, rasejane pažnje ili sa problemima u ponašanju.
 
 Ponavljanje ritmičkih obrazaca zahteva da dete ima razvijene određene motoričke, kognitivne, jezičke i socijalne veštine. Ovi aspekti razvoja moraju biti na odgovarajućem nivou kako bi dete uspešno izvodilo aktivnost, usklađujući svoje pokrete sa auditivnim i vizuelnim signalima i nalozima.
 
 ### **Prati moj ritam**
 
-Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite RITAM. Na vrhu panela će se prikazati bela linija.
+Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite RITMIČKI OBRAZAC. Na vrhu panela će se prikazati bela linija.
 
 Cilj: imitacija pokreta i ponavljanje ritmičkog obrasca, razvoj perceptivnih sposobnosti, razvoj pažnje i preciznost izvođenja.
 
-Opis igre: Za individualnu igru - dete stoji ispred panela, a terapeut snažno udari dlanom o dlan kako bi pokrenuo belu liniju sa vrha panela. Zatim formira jednostavan ritmički obrazac tapšanjem kako bi detetu postavio zadatak. Pri svakoj registraciji ponovljenog zvuka, na panelu će ostati plava linija. Kada se bela linija spusti do dna panela, a zadatak je postavljen, ona se vraća na početnu poziciju spremna za pokretanje. Nakon toga terapeut podstiče dete da ponovi zadati ritam, tako što vizuelno prati kada će se bela linija poklopiti sa plavom i u tom trenutku proizvede zvuk.
+Opis igre: Za individualnu igru - dete stoji ispred panela, a terapeut snažno udari dlanom o dlan kako bi pokrenuo belu liniju sa vrha panela. Zatim formira jednostavan ritmički obrazac tapšanjem kako bi detetu postavio zadatak. Pri svakoj registraciji ponovljenog zvuka, na panelu će ostati plava linija. Kada se bela linija spusti do dna panela, a zadatak je postavljen, ona se vraća na početnu poziciju spremna za pokretanje. Nakon toga terapeut podstiče dete da ponovi zadati ritam, tako što vizuelno prati kada će se bela linija poklopiti sa plavom i u tom trenutku proizvede zvuk. Kada je uključen senzor udaljenosti, ritam se zadaje i ponavlja prelaskom ruke preko senzora umesto tapšanjem.
 
 Prilagođavanje (ako je potrebno): Možete prilagoditi težinu igre pomoću sivog klizača u donjem delu ekrana aplikacije. Opcija LAKO će učiniti plavo polje većim, što će dati više vremena za reakciju deteta i omogućiti mu da bude uspešno. Opcija TEŠKO otežava igru tako što se plavo polje smanjuje. Ako se bela linija kreće prebrzo, možete je usporiti pomoću klizača BRZINA. Ako je u prostoriji previše buke, prilagodite OSETLJIVOST pomeranjem klizača ulevo ili udesno dok ne pronađete odgovarajući nivo.  
 Pored toga, možete promeniti smer kretanja linije nagore ili nadole.
+
+## **FONETIKA**
+
+Režim FONETIKA namenjen je vežbanju formanata i sibilanata. Panel reaguje na glas preko ugrađenog mikrofona.
+
+Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite FONETIKA. Pomoću klizača u donjem delu ekrana podešavate Prag formanata, Prag sibilanata i Osetljivost. Detaljan opis podešavanja nalazi se u [Uputstvu za upotrebu](/uputstvo/jumpy#fonetika).
+
+## **SNOEZELEN**
+
+Režim SNOEZELEN prikazuje umirujuća raznobojna svetla.
+
+Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite SNOEZELEN. U aplikaciji birate šaru (osam načina prikaza), brzinu promene svetala i broj boja. Za umirujuću upotrebu koristite sporu brzinu.
+
+:::warning[Fotosenzitivnost]
+
+Brze promene svetla mogu izazvati napad kod osoba sa fotosenzitivnom epilepsijom. Kod dece sa epilepsijom ili ranijom reakcijom na trepćuće svetlo režim SNOEZELEN koristite samo uz odobrenje lekara koji leči dete, sa smanjenim intenzitetom i sporom brzinom. Vidi [upozorenja u Uputstvu za upotrebu](/uputstvo/opste-informacije#upozorenja).
+
+:::

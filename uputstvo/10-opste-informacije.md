@@ -7,7 +7,7 @@ hide_table_of_contents: true
 
 **Bezbednost pre svega!**
 
-Svi VoiceToys uređaji su napravljeni od neškodljivih materijala i bez oštrih ivica kako bi se minimizovala opasnost od povreda. Uređaji su namenjeni da njima rukuju terapeuti. **Nemojte ih davati deci na samostalno korišćenje!** Osim uređaja **VibeY**, koji proizvodi vibracije i namenjen je da ga korisnik dodiruje, ostale uređajte nemojte davati korisnicima u ruke kako bi se izbegla slučajna oštećenja. Posebno obratite pažnju na zvučnike iz sistema **SpaceY**, jer su njihove emitujuće površine napravljene od mekanog drveta. Hvatajte ih i držite isključivo za plastični deo!
+Svi VoiceToys uređaji su napravljeni od neškodljivih materijala i bez oštrih ivica kako bi se minimizovala opasnost od povreda. Uređaji su namenjeni da njima rukuju terapeuti. **Nemojte ih davati deci na samostalno korišćenje!** Osim uređaja **VibeY**, koji proizvodi vibracije i namenjen je da ga korisnik dodiruje, ostale uređaje nemojte davati korisnicima u ruke kako bi se izbegla slučajna oštećenja. Kartice i slike na uređaje i u nosače kartica stavlja terapeut; dete ih bira i stavlja ispred uređaja. Posebno obratite pažnju na zvučnike iz sistema **SpaceY**, jer su njihove emitujuće površine napravljene od mekanog drveta. Hvatajte ih i držite isključivo za plastični deo!
 
 **Napomena o sigurnosti i odgovornosti korisnika** 
 
@@ -19,7 +19,7 @@ U slučaju bilo kakvog problema sa bilo kojim delom sistema, kvara ili loma, obr
 
 **Odlaganje i reciklaža** 
 
-Kućišta uređaja su napravljen od PET-G plastike, aluminijuma i klirita. Sadrže i razne elektronske komponente i litijum-jonske baterije. U slučaju kraja životnog ciklusa, nemojte ih bacati u komunalni otpad, već se obratite vašem lokalnom reciklažnom centru ili direktno proizvođaču uređaja.
+Kućišta uređaja su napravljena od PET-G plastike, aluminijuma i klirita. Sadrže i razne elektronske komponente i litijum-jonske baterije. U slučaju kraja životnog ciklusa, nemojte ih bacati u komunalni otpad, već se obratite vašem lokalnom reciklažnom centru ili direktno proizvođaču uređaja.
 
 ---
 
@@ -84,6 +84,8 @@ Svi uređaji se napajaju standardnim USB punjačima od 5V/3A pomoću kabla sa US
 | ⚠️ Upozorenje | Pokazuje mogućnost ozbiljne fizičke povrede ako se uputstva iz ovog priručnika ne prate pravilno.                                                                                                       |
 | ▲ Oprez       | Pokazuje mogućnost fizičke povrede ili materijalne štete ako se uputstva ne prate pravilno.                                                                                                             |
 | 🚫 Zabranjeno | Precrtani krug pokazuje da je nešto zabranjeno. Objašnjenje zabrane nalazi se pored simbola.                                                                                                            |
+| ⚠️             | **UPOZORENJE — FOTOSENZITIVNOST:** Uređaji VoiceToys emituju svetlosne efekte, uključujući promenljiva i trepćuća svetla. Kod osoba sa fotosenzitivnom epilepsijom ili sklonošću ka napadima svetlosni efekti mogu izazvati napad. Pre rada proverite sa roditeljem ili starateljem i u dokumentaciji deteta da li postoji epilepsija ili ranija reakcija na trepćuće svetlo. Ako postoji, svetlosne efekte koristite samo uz odobrenje lekara koji leči dete, sa smanjenim intenzitetom, bez najbržih podešavanja (najveća brzina u režimu Snoezelen, najmanja inercija ili opadanje), u osvetljenoj prostoriji i na većoj udaljenosti od panela JumpY. Odmah prekinite rad i isključite svetla ako primetite trzaje, ukočen pogled, ubrzano treptanje, dezorijentaciju ili gubitak svesti, i potražite medicinsku pomoć. |
+| ⚠️             | **UPOZORENJE — SENZORNA PREOSETLJIVOST:** Pre upotrebe stručno lice procenjuje da li je dete preosetljivo na svetlo, zvuk ili vibraciju i prema tome prilagođava funkcije uređaja. Počnite najnižim intenzitetom. Ako dete pokazuje znake preopterećenja, isključite svetlo, zvuk ili vibraciju i sačekajte da se smiri. |
 | 🚫📦          | Nije dozvoljeno rasklapanje!                                                                                                                                                                            |
 | ❗             | **OPREZ:** Baterija u uređaju nije zamenjiva i njena zamena može izazvati rizik. Ne pokušavajte da je<br />zamenite ili isključite.                                                                     |
 | ❗             | **OPREZ:** Proizvodi nisu namenjeni za upotrebu u zapaljivim ili eksplozivnim okruženjima.                                                                                                              |

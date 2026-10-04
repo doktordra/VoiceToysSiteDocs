@@ -27,7 +27,7 @@ VibeY je pogodan za rad na razvoju:
 
 Tehnička uputstva: Nakon što uključite uređaj, otvorite aplikaciju i uđite u sekciju uređaja VibeY kada njegov simbol/fotografija zasvetli zeleno.
 
-Prilagođavanje uređaja (ako je potrebno): Ako ima previše buke u prostoriji, VibeY može reagovati na nju. U tom slučaju, putem aplikacije prilagodite prag reakcije uređaja na zvuk pomeranjem klizača NIVO ZVUKA tako da okolina ne aktivira svetlo i vibraciju uređaja. Na isti način, pomoću odgovarajućih klizača, možemo prilagoditi i osetljivost i kašnjenje reakcije uređeja na zvuk. Ove kontrole se nalaze u donjem delu ekrana aplikacije.
+Prilagođavanje uređaja (ako je potrebno): Ako ima previše buke u prostoriji, VibeY može reagovati na nju. U tom slučaju, putem aplikacije prilagodite prag reakcije uređaja na zvuk pomeranjem klizača NIVO ZVUKA tako da okolina ne aktivira svetlo i vibraciju uređaja. Na isti način, pomoću odgovarajućih klizača, možemo prilagoditi i osetljivost i kašnjenje reakcije uređaja na zvuk. Ove kontrole se nalaze u donjem delu ekrana aplikacije.
 
 PREDLOG IGARA:
 
@@ -42,7 +42,7 @@ Ukoliko se dogodi da se dete preplavi stimulusima, isključite svetla/vibraciju,
   
 Cilj: Kontrola visine glasa, vizuelna percepcija, fina motorika
 
-Opis: Kada dete uoči povezanost između visine glasa i boja koje se prikazuju na uređaju, možete mu ponuditi nekoliko kontura slika (prilog 1) da ih postavi na VibeY. Potrebno je da imenuje i "oboji" objekat sa slike ispevavanjem zadatog pojma, tako da visina glasa pokrene odgovarajuću boju svetla.
+Opis: Kada dete uoči povezanost između visine glasa i boja koje se prikazuju na uređaju, možete mu ponuditi nekoliko kontura slika ([Prilog 1](#prilog-1)). Dete bira konturu, a terapeut je postavlja na VibeY. Potrebno je da imenuje i "oboji" objekat sa slike ispevavanjem zadatog pojma, tako da visina glasa pokrene odgovarajuću boju svetla.
 
 Pored toga, terapeut može konture istog objekta nacrtati na belom papiru i ponuditi detetu da je oboji bojom koja se pojavila na displeju.
 
@@ -50,9 +50,9 @@ Pored toga, terapeut može konture istog objekta nacrtati na belom papiru i ponu
 
 Cilj: Razumevanje naloga, onomatopeja
 
-Opis: Pripremite različite figure životinja čije oglašavanje želite da dete imitira. Predložite detetu da postavi određenu životinju na kutiju (npr kravu), a zatim ga podstičite da se oglašava onomatopejom koja odgovara figuri, različitom visinom glasa kako bi aktiviralo različite boje svetala. Složeniji zahtev je da na ovo nadovežete vežbanje imenica ili glagola izvedenih iz onomatopeje: Muuu. Čuje se mukanje. Krava muče.
+Opis: Pripremite različite figure životinja čije oglašavanje želite da dete imitira. Predložite detetu da izabere određenu životinju (npr. kravu), koju terapeut zatim postavlja na kutiju, pa ga podstičite da se oglašava onomatopejom koja odgovara figuri, različitom visinom glasa kako bi aktiviralo različite boje svetala. Složeniji zahtev je da na ovo nadovežete vežbanje imenica ili glagola izvedenih iz onomatopeje: Muuu. Čuje se mukanje. Krava muče.
 
-Varijacija: Sa istim ciljem možete da kombinujete VibeY sa SpaceY zvučnicima. Detetu pustite zvuk, utvrdite da li ga je identifikovalo i podstaknete ga da imenuje ono što je čulo. Zatim  mu ponudite da pronađe figuru koja odgovara zvuku i stavi na VibeY, a zatim oponaša onomatopejom.
+Varijacija: Sa istim ciljem možete da kombinujete VibeY sa SpaceY zvučnicima. Detetu pustite zvuk, utvrdite da li ga je identifikovalo i podstaknete ga da imenuje ono što je čulo. Zatim mu ponudite da pronađe figuru koja odgovara zvuku. Terapeut stavlja figuru na VibeY, a dete oponaša onomatopejom.
 
 Prilagođavanje: Igru možete da organizujete sa drugim očiglednim sredstvima ili vizuelnim materijalom (različite kartice sa slikama).
 
@@ -82,4 +82,26 @@ Varijacija: Ukoliko dete vlada pojmovima i ima razvijenu lateralizovanost, konkr
   
 Cilj: prepoznavanje simboličkog prikaza i izvršavanje motornih naloga
 
-Opis: sa detetom analizirate simbole prikazane na slikama (prilog 3) koji predstavljaju određeni motorni nalog (puckanje prstima, pljeskanje rukama, udaranje nogom o pod...). Zatim dete stavlja jednu po jednu sliku na VibeY, licem okrenutim ka kutiji, tako da ne može da vidi simbol. Kada glasno pita "Šta je na slici?" svetlo prosijava kroz papir i dete prepoznaje prikaz. Zadatak je da dete verbalizuje i izvrši radnju koju je prethodno prepoznalo na slici.
+Opis: sa detetom analizirate simbole prikazane na slikama ([Prilog 2](#prilog-2)) koji predstavljaju određeni motorni nalog (puckanje prstima, pljeskanje rukama, udaranje nogom o pod...). Zatim dete bira jednu po jednu sliku, a terapeut je stavlja na VibeY licem okrenutim ka kutiji, tako da dete ne vidi simbol. Kada glasno pita "Šta je na slici?" svetlo prosijava kroz papir i dete prepoznaje prikaz. Zadatak je da dete verbalizuje i izvrši radnju koju je prethodno prepoznalo na slici.
+
+## Prilozi
+
+Prilozi se štampaju na običnom papiru (80 g/m²), da svetlo uređaja prosija kroz njega. Kartice su veličine 90 × 90 mm. Svi prilozi priručnika mogu se preuzeti kao [PDF za štampu](pathname:///manual-prilozi/VoiceToys-prilozi-prirucnika.pdf).
+
+### Prilog 1
+
+Konture za igru „Oboji sliku“.
+
+![Prilog 1: konture sunca, jabuke, kuće i ribe](/img/manual/prilozi/prilog1-konture-1.png)
+
+![Prilog 1: konture cveta, drveta, kišobrana i oblaka](/img/manual/prilozi/prilog1-konture-2.png)
+
+### Prilog 2
+
+Simboli za igru „Pogodi i uradi“.
+
+Terapeut stavlja karticu na VibeY licem ka kutiji, pa dete simbol vidi kroz papir, kao u ogledalu. Zato na karticama nema teksta.
+
+![Prilog 2: simboli pljesni rukama, lupi nogom o pod, pucni prstima, podigni ruke](/img/manual/prilozi/prilog2-simboli-1.png)
+
+![Prilog 2: simboli raširi ruke, čučni, skoči, dodirni glavu](/img/manual/prilozi/prilog2-simboli-2.png)
