@@ -18,14 +18,14 @@ sidebar_position: 20
 - **[Remember Color and Concept](#remember-color-and-concept)**
 - **[Addition](#addition)**
 - **[Color by Model](#color-by-model)**
-- **[Brain Gym](#brain-gym)**
+- **[Left–Right](#leftright)**
 - **[Catch the Color](#catch-the-color)**
 - **[Paths of the Day](#paths-of-the-day)**
 - **[From Voice to Word](#from-voice-to-word)**
 - **[Build/Take Apart Word](#buildtake-apart-word)**
 - **[Building Sentences](#building-sentences)**
 - **[My Finger, Your Stick](#my-finger-your-stick)**
-- **[Who It Belongs To](#who-it-belongs-to)**
+- **[Who It Belongs To](#what-it-belongs-to)**
 - **[Ball Under Feet](#ball-under-feet)**
 - **[Follow the Sequence](#follow-the-sequence)**
 - **[Touch the Circle](#touch-the-circle)**
@@ -50,8 +50,7 @@ This mode is suitable for situations when working on:
 -   vocalization,
 -   controlling sound intensity, rhythm and duration,
 -   recognizing and eliminating harmful voice use patterns (such as screaming and producing loud sounds while playing),
--   reduced voice endurance,
--   various forms of dysphonia,
+-   voice work with children who have voice disorders, as part of treatment led by a professional,
 -   attention disorders.
 
 Technical Instructions: After turning on the sticks, open the app and enter the SpreadY device section when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select MICROPHONE.
@@ -132,25 +131,25 @@ Goal: development of fine motor skills, graphomotor skills and attention
 
 Description: In front of the child are paper and colored pencils. Explain to the child that individual sticks will light up and they should try to remember them. Then activate the lights in memory mode. Start with simple combinations that include only one series and a smaller number of sticks, then gradually increase the task difficulty by adapting it to the child's abilities. When the sticks turn off, the child draws as many circles as there were lit sticks and colors them according to the set model.
 
-### **Brain Gym**
+### **Left–Right**
 
 Goal: development of fine motor skills, bilateral coordination, visual perception, attention, concentration
 
-Description: arrange 5 sticks in front of the child and place cards on them (from appendix X). Each of the cards shows shapes: circle, square, rectangle, star, and "bunny ears".
-Prepare paper for the child (from appendix) on which are circles on the left side in the colors of stick bases, and on the right shapes.
-When the light turns on on one of the sticks, the game begins. The task is for the child to memorize which base color was activated and what shape is shown on the card. Then on the paper find a circle of the appropriate color and touch it with the left index finger, and the shape found on the card of the lit stick touch with the right index finger.
+Description: Arrange 5 sticks in front of the child and place the shape cards on them ([Appendix 3](#appendix-3)): circle, square, rectangle, star and “bunny ears”. Each shape also stands for a hand position, which is used in the variation of the game:
 
-Variation: Arrange the sticks and cards as in the previous game. In this game, symbols represent a hand in different positions:
-
-\- square - palm turned down with closed fingers
-\- star - spread fingers,
-\- rectangle - hand with extended fingers resting on the little finger and side of the palm,
-\- circle - fist,
+\- square - palm turned down with closed fingers,  
+\- star - spread fingers,  
+\- rectangle - hand with extended fingers resting on the little finger and the side of the palm,  
+\- circle - fist,  
 \- bunny ears - two fingers extended and spread, other fingers closed in a fist.
 
-When the light turns on on one of the sticks, the game begins. The task is for the child to memorize which base color was activated and what shape is shown on the card. Then on the paper find a circle of the appropriate color and touch it with the left index finger. Form the right hand according to the corresponding shape shown on the card.
+Prepare a worksheet for the child ([Appendix 3](#appendix-3)). On the left side are circles in the colors of the stick bases, in the order in which the sticks are set up (blue, green, yellow, red, grey), and on the right side the shapes from the cards.
 
-![image1.png](/img/manual/image1.png)
+![Worksheet for the Left–Right game: circles in the colors of the stick bases on the left, shapes on the right](/img/manual/spready-leva-desna.png)
+
+When the light turns on on one of the sticks, the game begins. The task is for the child to memorize which base color was activated and what shape is shown on the card. Then the child finds a circle of the matching color on the paper and touches it with the left index finger, and touches the shape from the card on the lit stick with the right index finger.
+
+Variation: Arrange the sticks and cards as in the basic game. When the light turns on on one of the sticks, the child finds the circle of the matching color on the paper and touches it with the left index finger, and puts the right hand into the position that the shape on the card of the lit stick stands for (the list of positions is in the game description).
 
 ### **Catch the Color**
 
@@ -213,7 +212,7 @@ Variations: You can upgrade and modify the game by:
 -   breaking the word down into syllables or combining syllables into words (first shorter, then longer) and thus developing early reading.
 -   asking questions like: Which sound do you hear at the beginning? Which at the end?
 -   giving a new word and asking the child to replace the first sound in the word (for example, dog, the child says a new word cat), to practice sound discrimination
--   if the child recognizes graphemes, arrange cards with corresponding letters on the sticks, until you assemble the given word.
+-   if the child recognizes graphemes, the child chooses cards with the corresponding letters and the therapist arranges them on the sticks, until the child assembles the given word.
 
 ### **Build/Take Apart Word**
 
@@ -262,7 +261,7 @@ These games, according to the set tasks, can be played in "Manual" mode or in "M
 
 Goal: development of visual perception, attention and memory
 
-Description: For this game we need pictures with related meanings (for example, umbrella and cloud with rain; spoon and plate...), where one from each pair is on the stick, and the rest are mixed in front of the child. The child picks a picture and matches it with the one on the stick. For each correct solution, the child receives a light signal as confirmation.
+Description: For this game we need pictures with related meanings (for example, umbrella and cloud with rain; spoon and plate...), where one from each pair is on the stick, and the rest are mixed in front of the child. The child picks a picture and places it in front of the stick that holds its matching pair. For each correct solution, the child receives a light signal as confirmation.
 
 ### **Ball Under Feet**
 
@@ -286,7 +285,7 @@ The child can face additional challenges by:
 
 Goal: Developing logical thinking and memory, mastering concepts and their connection in a logical sequence, developing movement coordination, concentration, spatial orientation.
 
-Description: Arrange the sticks linearly at a distance that allows the child to move freely. Previously we talk with the child about the days of the week, which are working days, and what is the weekend. We establish what are the child's weekly routines (Wednesday and Friday they come to the speech-language pathologist, Monday and Thursday they do sports, which days they go to kindergarten, to grandma, etc.). After that, the child draws or finds ready-made cards that they can connect with their daily routines and hang them on sticks. The child needs to move from one stick to another and while doing so, say the concepts that follow a logical sequence, and the pictures help them remember the days of the week. For each correct answer, the therapist turns on the stick.
+Description: Arrange the sticks linearly at a distance that allows the child to move freely. Previously we talk with the child about the days of the week, which are working days, and what is the weekend. We establish what are the child's weekly routines (Wednesday and Friday they come to the speech-language pathologist, Monday and Thursday they do sports, which days they go to kindergarten, to grandma, etc.). After that, the child draws or finds ready-made cards that they can connect with their daily routines, and the therapist hangs them on the sticks. The child needs to move from one stick to another and while doing so, say the concepts that follow a logical sequence, and the pictures help them remember the days of the week. For each correct answer, the therapist turns on the stick.
 
 Adjustment: During the game we assess the abilities of the children and adapt the requirements accordingly. We change the ways of moving from one to another stick, the speed of movement, the distance between sticks, the inclusion of additional visual stimuli or different props that can make the child's movement more difficult (lightly rolling a ball on the floor).
 
@@ -295,3 +294,15 @@ Adjustment: During the game we assess the abilities of the children and adapt th
 Goal: midline crossing
 
 Description: Previously prepare 5 circles in stick colors and stick them on a wall at a height adjusted to the child. The child stands with their back to the wall and holds a ball with both hands. Opposite them are sticks whose lights randomly turn on and signal for them to react. After identifying the color, the child turns toward the wall (without moving their feet), aims the ball at the circle of the appropriate color and touches it. After that, they return to the starting position ready for the next task.
+
+## Appendices
+
+The default card size is 60 × 60 mm. The holder is closed only at the bottom, so it takes both smaller and larger cards; adjust the size to the children you work with. All appendices of the manual can be downloaded as a [PDF for printing](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf). The labels on the appendix pages are in Serbian.
+
+### Appendix 3
+
+Shape cards and worksheet for the “Left–Right” game.
+
+![Appendix 3: shape cards circle, square, rectangle, star and bunny ears](/img/manual/prilozi/prilog3-kartice-oblika.png)
+
+![Appendix 3: worksheet, circles in the colors of the stick bases on the left, shapes on the right](/img/manual/prilozi/prilog3-radni-list.png)

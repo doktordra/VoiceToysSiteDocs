@@ -12,7 +12,15 @@ After the expiry of the warranty period, or in case of physical damage or conseq
 
 ### Maintenance
 
-VoiceToys devices do not require any special maintenance, except cleaning with a soft cloth and mild disinfectants.
+VoiceToys devices do not require any special maintenance, except regular cleaning.
+
+- Clean the devices while they are switched off.
+- For regular cleaning use a soft microfiber cloth, lightly moistened with water and a little neutral detergent, then wipe the devices with a dry cloth.
+- Wipe VibeY after every child who has touched it.
+- When disinfection is needed (saliva, visible dirt, infectious illness), use only 70% isopropyl alcohol applied to the cloth, never directly to the device.
+- Do not use ethanol-based products (most ready-made disinfecting wipes), products containing ammonia (glass cleaners), acetone, thinners or abrasive products. They damage the acrylic parts and can cause cracks.
+- Do not moisten the wooden surfaces of the SpaceY speakers; wipe them with a dry cloth only.
+- Liquid must not get into the microphone openings, the switch or the USB-C port.
 
 ### Service
 

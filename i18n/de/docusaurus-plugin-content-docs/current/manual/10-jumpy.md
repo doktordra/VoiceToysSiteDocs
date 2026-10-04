@@ -8,9 +8,11 @@ sidebar_position: 10
 ### **Kapitel**
 - **[Reaktion](#reaktion)**
 - **[Sensorreaktivität](#sensorreaktivität)**
-- **[Klatschspiel](#klatschspiel)**
+- **[Klatschspiel (Reflex)](#klatschspiel-reflex)**
 - **[Unterschiede](#unterschiede)**
-- **[Rhythmisches Muster](#rhythmisches-muster)**
+- **[Rhythmusmuster](#rhythmusmuster)**
+- **[Phonetik](#phonetik)**
+- **[Snoezelen](#snoezelen)**
 
 ### **Aktivitäten**
 - **[Welche Farbe ist deine?](#welche-farbe-ist-deine)**
@@ -25,12 +27,13 @@ JumpY ist ein LED-Panel, das Geräusche oder Bewegungen erkennt und diese dann v
 
 Die Betriebsmodi, die dieses Gerät bietet, sind:
 
--   REAKTION
--   KLATSCHSPIEL
--   UNTERSCHIEDE
--   RHYTHMISCHES MUSTER
--   PHONETIK und
+-   REAKTION (Quelle: Mikrofon oder Abstandssensor)
 -   SNOEZELEN
+-   KLATSCHSPIEL (Reflex)
+-   UNTERSCHIEDE
+-   RHYTHMUSMUSTER
+-   PHONETIK
+
 
 ## **REAKTION**
 
@@ -108,6 +111,12 @@ Anpassung: Während das Kind auf dem Trampolin springt, können Sie verschiedene
 
 Hinweis: Vor diesen Spielen muss bewertet werden, ob das Kind eine ausreichend entwickelte Psychomotorik hat, um mit fachkundiger Hilfe die erforderlichen Bewegungen sicher auszuführen. Außerdem müssen Sie den sensorischen Status des Kindes berücksichtigen und die Reizexposition entsprechend dosieren.
 
+:::warning[Sicherheit]
+
+Das Trampolin ist nicht Teil des VoiceToys-Systems. Verwenden Sie ein für die therapeutische Arbeit bestimmtes Trampolin, unter ständiger Aufsicht und mit ausreichend sicherem Freiraum. Für Spiele mit Bewegung, Springen und Ball muss das JumpY-Panel an der Wand befestigt sein.
+
+:::
+
 ### **Nah Fern**
 
 Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und geben Sie JumpY ein, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODE (in der unteren rechten Ecke) und wählen Sie REAKTION. Oben auf dem Bildschirm sehen Sie zwei Bilder in Kreisen. Auf dem rechten Bild wird die Option FELDER angezeigt (falls nicht, klicken Sie auf dieses Bild und wählen Sie FELDER). Richten Sie den Sensor dann so aus, dass die Kreisöffnungen auf die Wand ausgerichtet sind, schalten Sie ihn ein und warten Sie, bis er die Entfernung misst. Die Anzeige ist ein konstantes Leuchten auf dem Sensorbulb.
@@ -118,11 +127,13 @@ Beschreibung: Das Kind steht vor dem Panel, gegenüber dem Sensor (damit er Bewe
 
 Das Spiel ermöglicht es Kindern, physische Bewegung und räumliche Wahrnehmung auf sehr konkrete Weise durch Interaktion mit Technologie zu erleben. Durch Bewegung und Verfolgung von Lichtreaktionen lernt das Kind, seine Bewegungen zu kontrollieren und entwickelt nicht nur motorische und räumliche Orientierungsfähigkeiten, sondern auch kognitive Fähigkeiten wie Aufmerksamkeit, Konzentration, Mustererkennung und Ursache-Wirkungs-Beziehungen.
 
-## **KLATSCHSPIEL**
+## **KLATSCHSPIEL (REFLEX)**
 
-Das Klatschspiel ist ein originelles Spiel, bei dem das Gerät nur auf Geräusche mit schnellen Intensitätssprüngen reagiert (Handklatschen, Drumstick-Schlag auf einer Trommel, Ballschlag auf dem Boden, Bleistiftschlag auf einem Tisch usw.). Es ist darauf ausgelegt, grobmotorische Fähigkeiten, Aufmerksamkeit, Konzentration, Geduld, Fähigkeit zur Verzögerung von Reaktionen und soziale Fähigkeiten bei Benutzern zu fördern und zu trainieren.
+Das Klatschspiel, auch als Reflex bekannt, ist ein originelles Spiel, bei dem das Gerät nur auf Geräusche mit schnellen Intensitätssprüngen reagiert (Handklatschen, Drumstick-Schlag auf einer Trommel, Ballschlag auf dem Boden, Bleistiftschlag auf einem Tisch usw.). Es ist darauf ausgelegt, grobmotorische Fähigkeiten, Aufmerksamkeit, Konzentration, Geduld, Fähigkeit zur Verzögerung von Reaktionen und soziale Fähigkeiten bei Benutzern zu fördern und zu trainieren.
 
-In der Praxis hat sich gezeigt, dass es wirksam mit älteren Kindern mit durchschnittlichen oder überdurchschnittlichen intellektuellen Fähigkeiten funktioniert. Es ist auch als gutes Motivationsmittel für die Arbeit mit Kindern erkannt, die motorisch aktiver sind, zerstreute Aufmerksamkeit haben und Verhaltenssprobleme haben.
+Das Spiel eignet sich besonders für ältere Kinder mit durchschnittlichen oder überdurchschnittlichen intellektuellen Fähigkeiten und ist auch ein gutes Motivationsmittel für die Arbeit mit Kindern, die motorisch aktiver sind, eine zerstreute Aufmerksamkeit oder Verhaltensprobleme haben.
+
+Das Spiel wird einzeln und in der Gruppe gespielt. Wenn der Abstandssensor eingeschaltet ist, reagiert das Panel nicht auf Schall: Statt zu klatschen, antwortet das Kind, indem es mit der Hand über den Sensor fährt.
 
 ### **Individuelles Klatschspiel**
 
@@ -150,7 +161,7 @@ Die Anleitung ist dieselbe wie in den vorherigen Spielen. Anstatt zu klatschen, 
 
 Dies ist ein originelles Spiel, bei dem das Gerät nur auf Geräusche mit schnellen Intensitätssprüngen reagiert (Handklatschen, Drumstick-Schlag auf einer Trommel, Ballschlag auf dem Boden, Bleistiftschlag auf einem Tisch usw.). Es ist darauf ausgelegt, grobmotorische Fähigkeiten, Aufmerksamkeit, Konzentration, Geduld, Fähigkeit zur Verzögerung von Reaktionen und soziale Fähigkeiten bei Benutzern zu fördern und zu trainieren.
 
-In der Praxis hat sich gezeigt, dass es wirksam mit älteren Kindern mit durchschnittlichen oder überdurchschnittlichen intellektuellen Fähigkeiten funktioniert. Es ist auch als gutes Motivationsmittel für die Arbeit mit Kindern erkannt, die motorisch aktiver sind, zerstreute Aufmerksamkeit haben und Verhaltenssprobleme haben.
+Das Spiel eignet sich besonders für ältere Kinder mit durchschnittlichen oder überdurchschnittlichen intellektuellen Fähigkeiten und ist auch ein gutes Motivationsmittel für die Arbeit mit Kindern, die motorisch aktiver sind, eine zerstreute Aufmerksamkeit oder Verhaltensprobleme haben.
 
 Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und geben Sie den Bereich des JumpY-Geräts ein, wenn sein Symbol/Foto grün leuchtet. Klicken Sie dann auf die Option MODE (in der unteren rechten Ecke) und wählen Sie UNTERSCHIEDE. Zwei leuchtende Felder zufällig ausgewählter Farben werden auf dem Panel angezeigt.
 
@@ -158,29 +169,47 @@ Ziel: Farberkennung und -unterscheidung.
 
 Spielbeschreibung: Für ein Einzelspiel steht das Kind vor dem Panel. Wenn das Kind auf dem Panel Felder mit der gleichen Farbe erkennt, muss es EINEN starken Handschlag erzeugen, und wenn es VERSCHIEDENE Farben sieht, muss es ZWEIMAL klatschen. Die erfolgreiche Ausführung wird mit grünem Licht und Applausgeräusch belohnt. Ein Fehlschuss wird mit rotem Licht und einem Ton markiert, der einen fehlgeschlagenen Versuch anzeigt. Nach einer Antwort werden automatisch neue zugewiesene Farben angezeigt.
 
-Das Gerät reagiert auf jeden Ton mit schnellem Intensitätssprung, sodass das Kind anstelle des Klatschens als Reaktion einen Drumstickschlag auf eine Trommel, Bleistiftschlag auf einen Tisch, Stockschlag auf eine harte Oberfläche usw. verwenden kann.
+Das Gerät reagiert auf jeden Ton mit schnellem Intensitätssprung, sodass das Kind anstelle des Klatschens als Reaktion einen Drumstickschlag auf eine Trommel, Bleistiftschlag auf einen Tisch, Stockschlag auf eine harte Oberfläche usw. verwenden kann. Wenn der Abstandssensor eingeschaltet ist, fährt das Kind statt zu klatschen mit der Hand über den Sensor: einmal für gleiche Farben, zweimal für verschiedene.
 
 Wenn Kinder das Spiel beherrschen und gute motorische Fähigkeiten und Bewegungskoordination entwickeln, können Sie zu einer schwierigeren Aufgabe mit einem Ball übergehen. Dieser Schritt beinhaltet schnellere und präzisere Ausführung von zwei aufeinanderfolgenden Taps, was eine komplexere Aufgabe darstellt als die vorherige.
 
 Gerätenanpassung: Wenn im Raum zu viel Lärm ist, wird JumpY diesen "hören" und darauf reagieren, ohne den Spieler zu beeinflussen. Passen Sie in diesem Fall die Empfindlichkeit an, indem Sie den Schieberegler nach links verschieben, bis Sie die passende Empfindlichkeit finden. Wenn JumpY nicht auf Klatschen reagiert, passen Sie die Empfindlichkeit an, indem Sie den Schieberegler nach rechts verschieben. Am zweiten Schieberegler unten auf dem App-Bildschirm können Sie festlegen, wie viel Zeit der Spieler für die Ausführung eines doppelten Klatschens hat.
 
-Sie können dieses Spiel wie das vorherige mit einer Gruppe von Kindern spielen.
+Sie können dieses Spiel wie das vorherige einzeln und mit einer Gruppe von Kindern spielen.
 
-## **RHYTHMISCHES MUSTER**
+## **RHYTHMUSMUSTER**
 
 "Rhythmisches Muster" ist ein originelles Spiel, bei dem das Gerät nur auf Geräusche mit schnellen Intensitätssprüngen reagiert (Handklatschen, Drumstick-Schlag auf einer Trommel, Ballschlag auf dem Boden, Bleistiftschlag auf einem Tisch usw.). Es ist darauf ausgelegt, grobmotorische Fähigkeiten, Aufmerksamkeit, Konzentration, Geduld, Fähigkeit zur Verzögerung von Reaktionen und soziale Fähigkeiten bei Benutzern zu fördern und zu trainieren.
 
-In der Praxis hat sich gezeigt, dass es wirksam mit älteren Kindern mit durchschnittlichen oder überdurchschnittlichen intellektuellen Fähigkeiten funktioniert. Es ist auch als gutes Motivationsmittel für die Arbeit mit Kindern erkannt, die motorisch aktiver sind, zerstreute Aufmerksamkeit haben und Verhaltenssprobleme haben.
+Das Spiel eignet sich besonders für ältere Kinder mit durchschnittlichen oder überdurchschnittlichen intellektuellen Fähigkeiten und ist auch ein gutes Motivationsmittel für die Arbeit mit Kindern, die motorisch aktiver sind, eine zerstreute Aufmerksamkeit oder Verhaltensprobleme haben.
 
 Das Wiederholen rhythmischer Muster erfordert, dass das Kind über bestimmte motorische, kognitive, Sprach- und Sozialfähigkeiten verfügt. Diese Entwicklungsaspekte müssen auf einem angemessenen Niveau sein, damit das Kind die Aktivität erfolgreich ausführen kann und seine Bewegungen mit akustischen und visuellen Signalen und Anweisungen koordiniert.
 
 ### **Folge meinem Rhythmus**
 
-Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und geben Sie den Bereich des JumpY-Geräts ein, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODE (in der unteren rechten Ecke) und wählen Sie RHYTHMUS. Oben auf dem Panel wird eine weiße Linie angezeigt.
+Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und geben Sie den Bereich des JumpY-Geräts ein, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODE (in der unteren rechten Ecke) und wählen Sie RHYTHMUSMUSTER. Oben auf dem Panel wird eine weiße Linie angezeigt.
 
 Ziel: Bewegungsimitation und Wiederholung rhythmischer Muster, Entwicklung perceptiver Fähigkeiten, Entwicklung von Aufmerksamkeit und Ausführungsgenauigkeit.
 
-Spielbeschreibung: Für ein Einzelspiel steht das Kind vor dem Panel, während der Therapeut seine Handfläche gegen die Handfläche schlägt, um die weiße Linie vom oberen Ende des Panels zu bewegen. Dann bilden sie ein einfaches rhythmisches Muster, indem sie klatschen, um eine Aufgabe für das Kind zu setzen. Jedes Mal, wenn ein Schall registriert wird, bleibt eine blaue Linie auf dem Panel. Wenn die weiße Linie zum unteren Ende des Panels absteigt und die Aufgabe gestellt wird, kehrt sie in die Ausgangsposition zurück, bereit zu bewegen. Danach ermutigt der Therapeut das Kind, den eingestellten Rhythmus zu wiederholen, verfolgt visuell, wann sich die weiße Linie mit der blauen deckt, und erzeugt in diesem Moment einen Ton.
+Spielbeschreibung: Für ein Einzelspiel steht das Kind vor dem Panel, während der Therapeut seine Handfläche gegen die Handfläche schlägt, um die weiße Linie vom oberen Ende des Panels zu bewegen. Dann bilden sie ein einfaches rhythmisches Muster, indem sie klatschen, um eine Aufgabe für das Kind zu setzen. Jedes Mal, wenn ein Schall registriert wird, bleibt eine blaue Linie auf dem Panel. Wenn die weiße Linie zum unteren Ende des Panels absteigt und die Aufgabe gestellt wird, kehrt sie in die Ausgangsposition zurück, bereit zu bewegen. Danach ermutigt der Therapeut das Kind, den eingestellten Rhythmus zu wiederholen, verfolgt visuell, wann sich die weiße Linie mit der blauen deckt, und erzeugt in diesem Moment einen Ton. Wenn der Abstandssensor eingeschaltet ist, wird der Rhythmus statt durch Klatschen durch Überstreichen des Sensors mit der Hand vorgegeben und wiederholt.
 
 Anpassung (falls erforderlich): Sie können die Spielschwierigkeit mit dem grauen Schieberegler unten auf dem App-Bildschirm anpassen. Die Option EINFACH macht das blaue Feld größer, gibt mehr Zeit für die Reaktion des Kindes und ermöglicht Erfolg. Die Option SCHWIERIG macht das Spiel schwieriger, indem sie das blaue Feld verkleinert. Wenn sich die weiße Linie zu schnell bewegt, können Sie sie mit dem Schieberegler GESCHWINDIGKEIT verlangsamen. Wenn im Raum zu viel Lärm ist, passen Sie die EMPFINDLICHKEIT an, indem Sie den Schieberegler nach links oder rechts verschieben, bis Sie die passende Empfindlichkeit finden.
 Außerdem können Sie die Bewegungsrichtung der Linie nach oben oder unten ändern.
+
+## **PHONETIK**
+
+Der Modus PHONETIK dient zum Üben von Formanten und Zischlauten. Das Panel reagiert über das eingebaute Mikrofon auf die Stimme.
+
+Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und gehen in den Bereich des JumpY-Geräts, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODUS (in der unteren rechten Ecke) und wählen Sie PHONETIK. Mit den Schiebereglern im unteren Teil des Bildschirms stellen Sie die Formantenschwelle, die Zischlautschwelle und die Empfindlichkeit ein. Eine ausführliche Beschreibung der Einstellungen finden Sie in der [Gebrauchsanleitung](/uputstvo/jumpy#phonetik).
+
+## **SNOEZELEN**
+
+Der Modus SNOEZELEN zeigt beruhigende, bunte Lichter.
+
+Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und gehen in den Bereich des JumpY-Geräts, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODUS (in der unteren rechten Ecke) und wählen Sie SNOEZELEN. In der App wählen Sie das Muster (acht Darstellungsarten), die Geschwindigkeit des Lichtwechsels und die Anzahl der Farben. Für eine beruhigende Anwendung wählen Sie eine langsame Geschwindigkeit.
+
+:::warning[Lichtempfindlichkeit]
+
+Schnelle Lichtwechsel können bei Menschen mit photosensibler Epilepsie einen Anfall auslösen. Bei Kindern mit Epilepsie oder einer früheren Reaktion auf blinkendes Licht verwenden Sie den Modus SNOEZELEN nur mit Zustimmung des behandelnden Arztes, mit verringerter Intensität und langsamer Geschwindigkeit. Siehe die [Warnhinweise in der Gebrauchsanleitung](/uputstvo/opste-informacije#warnhinweise).
+
+:::

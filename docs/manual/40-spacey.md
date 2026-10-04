@@ -20,11 +20,11 @@ sidebar_position: 40
 - **[Ulovi mačku](#ulovi-mačku)**
 - **[Moroov refleks](#moroov-refleks)**
 
-SpaceY je sistem od 5 bežičnih pametnih zvučnika. Omogućava korisnicima da identifikuju zvuk i precizno lokalizuju izvor zvuka, odnosno da odrede njegovu poziciju, smer i udaljenost. Kućišta su im obojena u čiste, jasne boje, zarad lakog raspoznavanja.  
+SpaceY je sistem od 5 bežičnih pametnih zvučnika. Omogućava korisnicima da identifikuju zvuk i precizno lokalizuju izvor zvuka, odnosno da odrede njegovu poziciju, smer i udaljenost. Kućišta su im obojena u čiste, jasne boje, zarad lakog raspoznavanja. Razvijen je prvenstveno za uvežbavanje identifikacije i prostorne lokalizacije zvuka kod dece sa oštećenim sluhom, a igre i podešavanja omogućavaju njegovu primenu u radu sa decom svih uzrasta i nivoa razvoja.  
 To je jedini sistem uređaja na VoiceToys platformi koji zahteva mobilnu aplikaciju i ne može da radi bez nje.  
 Zvuci su u aplikaciji predstavljeni ikonicama. Svaka od njih je uokvirena linijama u boji zvučnika.  
-Na raspolaganju je 105 zvučnih uzoraka grupisanih u zvučnim bankama. U samoj aplikaciji su uključene opcije za označavanje odgovora: OK i NIJE OK (predstavljene simbolima palca okrenutog na gore - sa zelenom pozadinom i palca okrenutog na dole - sa crvenom pozadinom) koje omogućavaju korisnicima da označe tačan ili netačan odgovor. Zvučnici na ove akcije reaguju generisanjem zvučnih i svetlosnih efekata. Ukoliko dete ne uspeva da lokalizuje izvor zvuka,  možete ga navesti na tačan odgovor korišćenjem tastera “Pomoć” koji aktivira svetlosni signal na onom zvučniku sa kog je emitovan zvuk.  
-Osim toga, aplikacija prati rezultate korisnika: brzinu poslenjeg odgovora, prosečnu vrednost svih odgovora, kao i tačnost (tačne i netačne odgovore), pružajući detaljan uvid u napredak korisnika.
+Na raspolaganju je 105 zvučnih uzoraka, grupisanih u 21 zvučnu banku po pet zvukova. U samoj aplikaciji su uključene opcije za označavanje odgovora: OK i NIJE OK (predstavljene simbolima palca okrenutog na gore - sa zelenom pozadinom i palca okrenutog na dole - sa crvenom pozadinom) koje omogućavaju korisnicima da označe tačan ili netačan odgovor. Zvučnici na ove akcije reaguju generisanjem zvučnih i svetlosnih efekata. Ukoliko dete ne uspeva da lokalizuje izvor zvuka,  možete ga navesti na tačan odgovor korišćenjem tastera “Pomoć” koji aktivira svetlosni signal na onom zvučniku sa kog je emitovan zvuk.  
+Osim toga, aplikacija prati rezultate korisnika: brzinu poslednjeg odgovora, prosečnu vrednost svih odgovora, kao i tačnost (tačne i netačne odgovore), pružajući detaljan uvid u napredak korisnika.
 
 Upotreba zvučnika se preporučuje za razvoj različitih auditivnih, jezičkih, kognitivnih i socijalnih veština, uključujući:
 
@@ -52,7 +52,7 @@ Može se koristiti kod dece koja imaju oštećen vid, zato što su im akustičke
 
 TEHNIČKA UPUTSTVA:
 
-Nakon uključivanja zvučnika, otvorite aplikaciju i odaberite SpaceY kada njen simbol na ekranu zasvetli zeleno. Zatim pritisnite dugme „Zvukovi“ (u donjem desnom uglu ekrana) i odaberite one koje želite da koristite. Na raspolaganju su zvuci različitih kategorija: životinje, vozila, kućni aparati, muzički instrumenti, zvukovi iz prirode, domaće životinje, zvukovi koje proizvodimo telom, ustima, emocije, slogovi i vokali.
+Nakon uključivanja zvučnika, otvorite aplikaciju i odaberite SpaceY kada njen simbol na ekranu zasvetli zeleno. Zatim pritisnite dugme „Zvukovi“ (u donjem desnom uglu ekrana) i odaberite one koje želite da koristite. Na raspolaganju su sledeće zvučne banke: životinje, vozila, kućni aparati, instrumenti, priroda, domaće životinje, divlje životinje, telo, usta, emocije, deset slogovnih banaka (suglasnici B, P, M, T, D i S, Z, Š, Č, Ž, svaki niz sa vokalima A, E, I, O, U) i glasovi.
 
 PREDLOG IGARA
 
@@ -73,7 +73,7 @@ Varijacija 3: Ukoliko je dete verbalno, potrebno je motivisati ga da sve naveden
   
 ### **Pogodi gde je**
 
-Cilj: Prazvoj pažnje, kao i auditivne i prostorne memorije
+Cilj: razvoj pažnje, kao i auditivne i prostorne memorije
 
 Opis: Terapeut raspoređuje zvučnike po prostoriji tako da okružuju dete sa različitih strana. U igri se aktiviraju nasumični nizovi zvukova sa različitih pozicija. Igrač treba da upamti i ponovi što više nizova, i to: samo niz zvukova koje je čuo, samo niz lokacija sa kojih se čuo zvuk, ili da ispravnim redosledom ponovi redosled zvukova i njihovih izvora.
 

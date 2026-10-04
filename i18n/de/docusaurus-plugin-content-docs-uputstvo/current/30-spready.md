@@ -163,7 +163,7 @@ Sie können jederzeit zum Startbildschirm der App **„VoiceToys"** zurückkehre
 
 ## Modus Memory – Einstellungen
 
-**3-7:** Nachdem Sie durch Antippen der Taste **„MODUS"** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus des Memory-Spiels und des Erlernens der Addition durch Antippen der Taste **„Memory"**. Es erscheint der auf der vorherigen Seite gezeigte Bildschirm, in dessen oberem blauen Feld Sie den Modus sehen können, in dem sich das Gerät befindet, sowie die Tasten für Systeminformationen und Hilfe. Funktion und Verwendung dieser Tasten sind auf Seite 15 beschrieben.
+**3-7:** Nachdem Sie durch Antippen der Taste **„MODUS"** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus des Memory-Spiels und des Erlernens der Addition durch Antippen der Taste **„Memory"**. Es erscheint der auf der vorherigen Seite gezeigte Bildschirm, in dessen oberem blauen Feld Sie den Modus sehen können, in dem sich das Gerät befindet, sowie die Tasten für Systeminformationen und Hilfe. Funktion und Verwendung dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-spready) beschrieben.
 
 Das Memory-Spiel erzeugt Folgen von Zufallszahlen von 1 bis 5 und zeigt sie durch das Beleuchten der Säulen an. Durch Einstellen der Parameter, die über die App erfolgt, können Sie den Schwierigkeitsgrad des Spiels festlegen. Die Einstellung der Parameter erfolgt über die Schieberegler, die sich im unteren Teil des Bildschirms befinden, dessen Aussehen auf der vorherigen Seite gezeigt ist.
 
@@ -184,11 +184,11 @@ Das Memory-Spiel erzeugt Folgen von Zufallszahlen von 1 bis 5 und zeigt sie durc
 
 **Die Lichtintensität** bestimmt die Leuchtstärke, mit der die Säulen beleuchtet werden.
 
-Wenn Sie die Parameter Schallpegel, Empfindlichkeit, Lichtintensität oder Abfall ändern, können Sie Ihre Einstellungen auf die Weise speichern, die auf Seite 19 beschrieben ist.
+Wenn Sie die Parameter Schallpegel, Empfindlichkeit, Lichtintensität oder Abfall ändern, können Sie Ihre Einstellungen auf die Weise speichern, die im Abschnitt [Modus Mikrofon](#modus-mikrofon) beschrieben ist.
 
 Unter den Schiebereglern zur Einstellung der Spielparameter befinden sich die Tasten PLAY ▶️, REPEAT 🔁 und PFEIL 🔽. Ihr Zweck wird auf der nächsten Seite erläutert.
 </FigureBlock>
-Im unteren blauen Feld des App-Bildschirms befindet sich die Taste „Presets", deren Verwendung auf Seite 19 beschrieben ist. Sie können jederzeit zum Startbildschirm der App „VoiceToys" zurückkehren, indem Sie die Taste mit dem Häuschen-Bild antippen, die sich in der Mitte des unteren blauen Felds des App-Bildschirms befindet.
+Im unteren blauen Feld des App-Bildschirms befindet sich die Taste „Presets", deren Verwendung im Abschnitt [Modus Mikrofon](#modus-mikrofon) beschrieben ist. Sie können jederzeit zum Startbildschirm der App „VoiceToys" zurückkehren, indem Sie die Taste mit dem Häuschen-Bild antippen, die sich in der Mitte des unteren blauen Felds des App-Bildschirms befindet.
 
 ---
 ## Modus Memory – Funktionsprinzip
@@ -227,7 +227,7 @@ Wenn Sie die Parameter ändern möchten, erscheinen durch Antippen der Taste �
 >
 *Modus **Manuell**: Batterieanzeigen, Intensität, Aktivierung der Säulen und Modussteuerung.*
 
-Nachdem Sie durch Antippen der Taste **„MODUS"** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus des Memory-Spiels und des Erlernens der Addition durch Antippen der Taste **„Manuell"**. Es erscheint der auf der vorherigen Seite gezeigte Bildschirm, in dessen oberem blauen Feld Sie den Modus sehen können, in dem sich das Gerät befindet, sowie die Tasten für Systeminformationen und Hilfe. Funktion und Verwendung dieser Tasten sind auf Seite 15 beschrieben.
+Nachdem Sie durch Antippen der Taste **„MODUS"** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus des Memory-Spiels und des Erlernens der Addition durch Antippen der Taste **„Manuell"**. Es erscheint der auf der vorherigen Seite gezeigte Bildschirm, in dessen oberem blauen Feld Sie den Modus sehen können, in dem sich das Gerät befindet, sowie die Tasten für Systeminformationen und Hilfe. Funktion und Verwendung dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-spready) beschrieben.
 
 Wir weisen darauf hin, dass auch in diesem Fall dieselbe Säulenanordnung wie für den Modus „Mikrofon" gilt – **blau**, **grün, gelb, rot, grau**, wie es auch auf dem App-Bildschirm dargestellt ist.
 

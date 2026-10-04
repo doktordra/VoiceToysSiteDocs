@@ -26,7 +26,7 @@ sidebar_position: 7
 
 ### Opis sistema i bezbednosne napomene
 
-SpaceY je sistem koji se sastoji od 5 pametnih zvučnika primarno namenjenih uvežbavanju identifikacije i prostorne lokalizacije zvuka kod osoba sa oštećenim sluhom. Povezuju se bežično, a napajaju se pomoću ugrađenih punjivih baterija. Kontrolišu se isključivo **VoiceToys** mobilnom aplikacijom. Emituju lako prepoznatljive zvukove razvrstane u grupe od po pet zvukova.
+SpaceY je sistem koji se sastoji od 5 pametnih zvučnika, razvijen prvenstveno za uvežbavanje identifikacije i prostorne lokalizacije zvuka kod osoba sa oštećenim sluhom. Igre i podešavanja omogućavaju njegovu primenu u radu sa decom svih uzrasta i nivoa razvoja. Povezuju se bežično, a napajaju se pomoću ugrađenih punjivih baterija. Kontrolišu se isključivo **VoiceToys** mobilnom aplikacijom. Emituju lako prepoznatljive zvukove razvrstane u grupe od po pet zvukova.
 
 ![SpaceYs.3](/voice-toys/images/image-135.png)
 
@@ -73,9 +73,9 @@ Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od **5V/3A, pomoću
 *Izgled ekrana aplikacije: grupe zvukova, kontrole reprodukcije, jačina zvuka, indikatori vremena i stanje baterije.*
 
 
-Nakon što uključite uređaj, na početnom ekranu aplikacije (prikazan na strani 7) odaberite opciju "SpaceY " kada se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, svetla na zvučnicima će se ugasiti i oni su spremni za rad.
+Nakon što uključite uređaj, na početnom ekranu aplikacije (opisan u poglavlju [Mobilna aplikacija](/uputstvo/mobilna-aplikacija#početni-ekran)) odaberite opciju "SpaceY " kada se njen simbol oboji zelenom bojom. Ukoliko je povezivanje uspešno, svetla na zvučnicima će se ugasiti i oni su spremni za rad.
 
-U gornjem zelenom polju ekrana aplikacije možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcije ovih tastera su objašnjene na strani 16. Odmah ispod njih se nalazi sekcija u kojoj možete videti stanje napunjenosti baterija za svaki od zvučnika.
+U gornjem zelenom polju ekrana aplikacije možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcije ovih tastera objašnjene su u poglavlju [SpreadY](/uputstvo/spready#funkcije-mobilne-aplikacije-za-uređaj-spready). Odmah ispod njih se nalazi sekcija u kojoj možete videti stanje napunjenosti baterija za svaki od zvučnika.
 
 U gornjem delu ekrana se nalaze sledeći tasteri:
 
@@ -112,7 +112,7 @@ U donjem delu ekrana se nalaze:
 
 - na pozicijama ispod plavog i žutog polja se nalaze polja zelene 👍 i  crvene 👎 boje koja služe za **ocenjivanje odgovora**. Tačan odgovor se ocenjuje pritiskom na zeleno, a netačan na crveno polje. Tom prilikom će se čuti karakteristični zvuci odobravanja zajedno sa šarenim svetlima koja emituje zvučnik iz kog je dolazio zadati zvuk za tačne, ili zvuk neodobravanja zajedno sa crvenim svetlom koje emituju svi zvučnici za netačne odgovore. Na tasterima će se pojaviti brojevi koji označavaju broj datih tačnih, odnosno pogrešnih odgovora.
 
-U donjem zelenom polju ekrana se nalazi taster "**Režim**".Pritiskom na ovaj taster će se pojaviti grupe zvukova koje možete da izaberete (životinje, vozila, kućni aparati, instrumenti i priroda). Izborom neke od grupa zvukova slike u donjem delu ekrana će se promeniti i pojaviće se slike iz grupe zvukova koje ste odabrali. Pritiskom na slike će se emitovati novi zvukovi koji odgovaraju slikama.
+U donjem zelenom polju ekrana se nalazi taster "**Režim**".Pritiskom na ovaj taster će se pojaviti zvučne banke koje možete da izaberete. Ima ih 21, po pet zvukova u svakoj: životinje, vozila, kućni aparati, instrumenti, priroda, domaće životinje, divlje životinje, telo, usta, emocije, deset slogovnih banaka (suglasnici B, P, M, T, D i S, Z, Š, Č, Ž, svaki niz sa vokalima A, E, I, O, U) i glasovi. Izborom neke od grupa zvukova slike u donjem delu ekrana će se promeniti i pojaviće se slike iz grupe zvukova koje ste odabrali. Pritiskom na slike će se emitovati novi zvukovi koji odgovaraju slikama.
 
 Pritiskom na taster sa simbolom kućice se vraćate na početni ekran **VoiceToys** aplikacije gde možete izabrati neki drugi uređaj iz sistema **VoiceToys** sa kojim želite da nastavite rad.
 </FigureBlock>

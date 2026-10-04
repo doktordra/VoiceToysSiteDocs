@@ -164,7 +164,7 @@ Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom n
 
 ## Režim Memorija - podešavanja
 
-**3-7:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Memorija"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
+**3-7:** Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Memorija"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera opisani su u odeljku [Funkcije mobilne aplikacije](#funkcije-mobilne-aplikacije-za-uređaj-spready).
 
 Igra memorije generiše nizove slučajnih brojeva od 1 do 5 i prikazuje ih osvetljavanjem stubića. Podešavanjem parametara, koje se obavlja pomoću aplikacije, možete odrediti nivo kompleksnosti igre. Podešavanje parametara se vrši pomoću klizača koji se nalaze u donjem delu ekrana čiji je izgled prikazan na prethodnoj strani.
 
@@ -185,11 +185,11 @@ Igra memorije generiše nizove slučajnih brojeva od 1 do 5 i prikazuje ih osvet
 
 **Intenzitet svetla** određuje jačinu svetla kojim će stubići biti osvetljeni.
 
-Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, svoja podešavanja možete zapamtiti na način koji je opisan na strani 19.
+Ukoliko promenite parametre nivoa zvuka, osetljivosti, intenziteta svetla ili opadanja, svoja podešavanja možete zapamtiti na način koji je opisan u odeljku [Režim Mikrofon](#režim-mikrofon).
 
 Ispod klizača za podešavanje parametara igre nalaze se taster PLAY ▶️ , REPEAT 🔁  i STRELICA 🔽 . Njihova namena je objašnjena na sledećoj strani.
 </FigureBlock>
-U donjem plavom polju ekrana aplikacije je taster "Preseti", čija je upotreba opisana na strani 19. Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
+U donjem plavom polju ekrana aplikacije je taster "Preseti", čija je upotreba opisana u odeljku [Režim Mikrofon](#režim-mikrofon). Uvek se možete vratiti na početni ekran "VoiceToys" aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg plavog polja ekrana aplikacije.
 
 ---
 ## Režim Memorija - princip rada
@@ -228,7 +228,7 @@ Ukoliko želite da promenite parametre, pritiskom na taster 🔽  će se pojavit
 >
 *Režim **Ručno**: indikatori baterije, intenzitet, aktivacija stubića i kontrole režima.*
 
-Nakon što ste pritiskom na taster **"REŽIM"** ušli u meniza izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Ručno"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera su opisani na strani 15.
+Nakon što ste pritiskom na taster **"REŽIM"** ušli u meniza izbor režima rada uređaja, režim igre memorije i učenja sabiranja birate pritiskom na taster **" Ručno"**. Pojaviće se ekran prikazan na prethodnoj strani, u čijem gornjem plavom polju možete videti režim u kom se uređaj nalazi i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera opisani su u odeljku [Funkcije mobilne aplikacije](#funkcije-mobilne-aplikacije-za-uređaj-spready).
 
 Napominjemo da se i u ovom slučaju primenjuje raspored stubića kao i za režim "Mikrofon" - **plavi**, **zeleni, žuti,crveni, sivi**, kako je i prikazano na ekranu aplikacije.
 

@@ -8,9 +8,11 @@ sidebar_position: 10
 ### **Sections**
 - **[Reaction](#reaction)**
 - **[Sensor Reaction](#sensor-reaction)**
-- **[Clapping Game](#clapping-game)**
+- **[Clap Game (Reflex)](#clap-game-reflex)**
 - **[Differences](#differences)**
 - **[Rhythmic Pattern](#rhythmic-pattern)**
+- **[Phonetics](#phonetics)**
+- **[Snoezelen](#snoezelen)**
 
 ### **Activities**
 - **[What's Your Color?](#whats-your-color)**
@@ -25,12 +27,13 @@ JumpY is an LED panel that detects sounds or movements and then displays them vi
 
 The operating modes offered by this device are:
 
--   REACTION
--   CLAPPING GAME
+-   REACTION (source: microphone or distance sensor)
+-   SNOEZELEN
+-   CLAP GAME (reflex)
 -   DIFFERENCES
 -   RHYTHMIC PATTERN
--   PHONETICS and
--   SNOEZELEN
+-   PHONETICS
+
 
 ## **REACTION**
 
@@ -108,6 +111,12 @@ Adjustment: While the child is jumping on the trampoline, you can add various ch
 
 Note: Before performing these games, it is necessary to assess whether the child has sufficiently developed psychomotor skills to safely perform the required movements with expert assistance. Also, it is necessary to consider the child's sensory status and dose stimulus exposure accordingly.
 
+:::warning[Safety]
+
+The trampoline is not part of the VoiceToys system. Use a trampoline intended for therapeutic work, with constant supervision and a safe space around it. For games involving movement, jumping and a ball, the JumpY panel must be fixed to the wall.
+
+:::
+
 ### **Close Far**
 
 Technical Instructions: After turning on the panel, open the app and enter JumpY when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select REACTION. At the top of the screen you will see two images in circles. On the right image the FIELDS option is displayed (if not, click on that image and select FIELDS). Then direct the sensor so that the circular openings are directed at the wall, turn it on and wait for it to measure distance, for which the indication is constant light on the sensor bulb.
@@ -118,15 +127,17 @@ Description: The child stands in front of the panel, opposite the sensor (so it 
 
 The game allows children to experience physical movement and spatial perception in a very concrete way through interaction with technology. Through movement and tracking light reactions, the child learns how to control their movements, developing not only motor and spatial orientation skills, but also cognitive skills such as attention, concentration, pattern recognition, and cause-and-effect relationships.
 
-## **CLAPPING GAME**
+## **CLAP GAME (REFLEX)**
 
-The Clapping Game is an original game in which the device responds only to sounds with rapid intensity jumps (hand clapping, drumstick strike on a drum, ball strike on the floor, pencil strike on a table, etc.). It is designed to stimulate and practice gross motor skills, attention, concentration, patience, ability to delay reactions, and social skills in users.
+The Clap game, also known as Reflex, is an original game in which the device responds only to sounds with rapid intensity jumps (hand clapping, drumstick strike on a drum, ball strike on the floor, pencil strike on a table, etc.). It is designed to stimulate and practice gross motor skills, attention, concentration, patience, ability to delay reactions, and social skills in users.
 
-In practice, it has proven effective with older children of average or above-average intellectual abilities. It is also recognized as a good motivational tool for working with children who are more motorically active, with scattered attention, and behavioral problems.
+The game is particularly suitable for older children of average or above-average intellectual abilities, and it is also a good motivational tool for working with children who are more motorically active, have scattered attention or behavioral problems.
+
+The game can be played individually and in a group. When the distance sensor is switched on, the panel does not respond to sound: instead of clapping, the child responds by passing a hand over the sensor.
 
 ### **Individual Clapping Game**
 
-Technical Instructions: After turning on the panel, open the app and enter the JumpY device section when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select CLAPPING GAME. A red line and a white line that moves from top to bottom and back will be displayed on the panel.
+Technical Instructions: After turning on the panel, open the app and enter the JumpY device section when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select CLAP GAME. A red line and a white line that moves from top to bottom and back will be displayed on the panel.
 
 Goal: coordination of movement and accuracy of execution, developing attention and concentration.
 
@@ -150,7 +161,7 @@ Instructions are the same as in previous games. Instead of clapping, the child c
 
 This is an original game in which the device responds only to sounds with rapid intensity jumps (hand clapping, drumstick strike on a drum, ball strike on the floor, pencil strike on a table, etc.). It is designed to stimulate and practice gross motor skills, attention, concentration, patience, ability to delay reactions, and social skills in users.
 
-In practice, it has proven effective with older children of average or above-average intellectual abilities. It is also recognized as a good motivational tool for working with children who are more motorically active, with scattered attention, and behavioral problems.
+The game is particularly suitable for older children of average or above-average intellectual abilities, and it is also a good motivational tool for working with children who are more motorically active, have scattered attention or behavioral problems.
 
 Technical Instructions: After turning on the panel, open the app and enter the JumpY device section when its symbol/photo lights up green. Then click the MODE option (in the lower right corner) and select DIFFERENCES. Two glowing fields of randomly selected colors will be displayed on the panel.
 
@@ -158,29 +169,47 @@ Goal: color detection and discrimination.
 
 Game Description: For an individual game, the child stands in front of the panel. When the child recognizes fields of the same color on the panel, they need to produce ONE strong hand clap, and when they see DIFFERENT colors – they need to clap TWICE. Successful execution will be rewarded with green light and applause sound. A miss will be marked with red light and a sound indicating an unsuccessful attempt. After a response, new assigned colors automatically appear.
 
-The device responds to any sound with rapid intensity jump, so the child can use a drumstick strike on a drum, pencil strike on a table, stick strike on a hard surface, etc., instead of clapping as a response.
+The device responds to any sound with rapid intensity jump, so the child can use a drumstick strike on a drum, pencil strike on a table, stick strike on a hard surface, etc., instead of clapping as a response. When the distance sensor is switched on, the child passes a hand over the sensor instead of clapping: once for the same colors, twice for different colors.
 
 When children master the game and develop good motor skills and movement coordination, you can move on to a more challenging task using a ball. This step involves faster and more precise execution of two consecutive taps, which represents a more complex task compared to the previous one.
 
 Device Adjustment: If there is too much noise in the room, JumpY will "hear" it and react to it without affecting the player. In this case, adjust the sensitivity by moving the slider to the left until you find the appropriate sensitivity level. If JumpY does not respond to clapping, adjust the sensitivity by moving the slider to the right. On the second slider, at the bottom of the app screen, you can set how much time the player has to execute a double clap.
 
-You can play this game, like the previous one, with a group of children.
+You can play this game, like the previous one, individually and with a group of children.
 
 ## **RHYTHMIC PATTERN**
 
 "Rhythmic Pattern" is an original game in which the device responds only to sounds with rapid intensity jumps (hand clapping, drumstick strike on a drum, ball strike on the floor, pencil strike on a table, etc.). It is designed to stimulate and practice gross motor skills, attention, concentration, patience, ability to delay reactions, and social skills in users.
 
-In practice, it has proven effective with older children of average or above-average intellectual abilities. It is also recognized as a good motivational tool for working with children who are more motorically active, with scattered attention, and behavioral problems.
+The game is particularly suitable for older children of average or above-average intellectual abilities, and it is also a good motivational tool for working with children who are more motorically active, have scattered attention or behavioral problems.
 
 Repeating rhythmic patterns requires that the child has developed certain motor, cognitive, language, and social skills. These aspects of development must be at an appropriate level for the child to successfully perform the activity, coordinating their movements with auditory and visual signals and instructions.
 
 ### **Follow My Rhythm**
 
-Technical Instructions: After turning on the panel, open the app and enter the JumpY device section when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select RHYTHM. A white line will be displayed at the top of the panel.
+Technical Instructions: After turning on the panel, open the app and enter the JumpY device section when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select RHYTHMIC PATTERN. A white line will be displayed at the top of the panel.
 
 Goal: imitation of movement and repetition of rhythmic pattern, development of perceptual abilities, development of attention and accuracy of execution.
 
-Game Description: For an individual game - the child stands in front of the panel while the therapist claps their palm strongly against their palm to move the white line from the top of the panel. Then they form a simple rhythmic pattern by clapping to set a task for the child. Each time a sound is registered, a blue line will remain on the panel. When the white line descends to the bottom of the panel and the task is set, it returns to the starting position ready to move. After that, the therapist encourages the child to repeat the set rhythm, visually tracking when the white line will coincide with the blue one and producing a sound at that moment.
+Game Description: For an individual game - the child stands in front of the panel while the therapist claps their palm strongly against their palm to move the white line from the top of the panel. Then they form a simple rhythmic pattern by clapping to set a task for the child. Each time a sound is registered, a blue line will remain on the panel. When the white line descends to the bottom of the panel and the task is set, it returns to the starting position ready to move. After that, the therapist encourages the child to repeat the set rhythm, visually tracking when the white line will coincide with the blue one and producing a sound at that moment. When the distance sensor is switched on, the rhythm is set and repeated by passing a hand over the sensor instead of clapping.
 
 Adjustment (if necessary): You can adjust the game difficulty using the gray slider at the bottom of the app screen. The EASY option will make the blue field larger, giving more time for the child's reaction and enabling success. The HARD option makes the game more difficult by shrinking the blue field. If the white line moves too quickly, you can slow it down using the SPEED slider. If there is too much noise in the room, adjust the SENSITIVITY by moving the slider left or right until you find the appropriate level.
 Besides that, you can change the direction of line movement up or down.
+
+## **PHONETICS**
+
+The PHONETICS mode is intended for practicing formants and sibilants. The panel responds to the voice through the built-in microphone.
+
+Technical Instructions: After turning on the panel, open the app and enter the JumpY device section when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select PHONETICS. Use the sliders at the bottom of the screen to adjust the Formant threshold, the Sibilant threshold and the Sensitivity. A detailed description of the settings is in the [User Guide](/uputstvo/jumpy#phonetics).
+
+## **SNOEZELEN**
+
+The SNOEZELEN mode displays soothing multicolored lights.
+
+Technical Instructions: After turning on the panel, open the app and enter the JumpY device section when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select SNOEZELEN. In the app you choose the pattern (eight display modes), the speed of the light changes and the number of colors. For soothing use, choose a slow speed.
+
+:::warning[Photosensitivity]
+
+Rapid light changes can trigger a seizure in people with photosensitive epilepsy. For children with epilepsy or an earlier reaction to flashing light, use the SNOEZELEN mode only with the approval of the child's treating physician, at reduced intensity and slow speed. See the [warnings in the User Guide](/uputstvo/opste-informacije#warnings).
+
+:::

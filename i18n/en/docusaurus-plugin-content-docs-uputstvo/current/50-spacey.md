@@ -26,7 +26,7 @@ sidebar_position: 7
 
 ### System description and safety notes
 
-SpaceY is a system consisting of 5 smart speakers primarily intended for practicing the identification and spatial localization of sound in persons with impaired hearing. They connect wirelessly, and are powered by built-in rechargeable batteries. They are controlled exclusively with the **VoiceToys** mobile application. They emit easily recognizable sounds sorted into groups of five sounds each.
+SpaceY is a system consisting of 5 smart speakers, developed primarily for practicing the identification and spatial localization of sound in persons with impaired hearing. Its games and settings allow it to be used in work with children of all ages and developmental levels. They connect wirelessly, and are powered by built-in rechargeable batteries. They are controlled exclusively with the **VoiceToys** mobile application. They emit easily recognizable sounds sorted into groups of five sounds each.
 
 ![SpaceYs.3](/voice-toys/images/image-135.png)
 
@@ -73,9 +73,9 @@ The device contains a lithium-ion battery that is charged with a voltage of **5V
 *Appearance of the application screen: sound groups, playback controls, volume, time indicators and battery status.*
 
 
-After turning on the device, on the application's home screen (shown on page 7) select the option "SpaceY" when its symbol turns green. If the connection is successful, the lights on the speakers will turn off and they are ready for operation.
+After turning on the device, on the application's home screen (described in the chapter [Mobile application](/uputstvo/mobilna-aplikacija#home-screen)) select the option "SpaceY" when its symbol turns green. If the connection is successful, the lights on the speakers will turn off and they are ready for operation.
 
-In the upper green field of the application screen you can see the device name and the buttons for system information and help. The functions of these buttons are explained on page 16. Immediately below them there is a section in which you can see the charge status of the batteries for each of the speakers.
+In the upper green field of the application screen you can see the device name and the buttons for system information and help. The functions of these buttons are explained in the chapter [SpreadY](/uputstvo/spready#mobile-application-functions-for-the-spready-device). Immediately below them there is a section in which you can see the charge status of the batteries for each of the speakers.
 
 In the upper part of the screen there are the following buttons:
 
@@ -112,7 +112,7 @@ In the lower part of the screen there are:
 
 - at the positions below the blue and yellow fields there are fields in the colors green 👍 and red 👎 that serve for **evaluating the answers**. A correct answer is evaluated by pressing the green, and an incorrect one by pressing the red field. On that occasion characteristic sounds of approval will be heard together with the colorful lights emitted by the speaker from which the given sound was coming, for correct answers, or a sound of disapproval together with the red light emitted by all the speakers for incorrect answers. On the buttons numbers will appear that indicate the number of given correct, that is, incorrect answers.
 
-In the lower green field of the screen there is the **"Mode"** button. By pressing this button the groups of sounds that you can select will appear (animals, vehicles, household appliances, instruments and nature). By selecting one of the sound groups the images in the lower part of the screen will change and images from the sound group you selected will appear. By pressing the images new sounds will be emitted that correspond to the images.
+In the lower green field of the screen there is the **"Mode"** button. By pressing this button the sound banks that you can select will appear. There are 21 of them, with five sounds in each: animals, vehicles, household appliances, instruments, nature, domestic animals, wild animals, body, mouth, emotions, ten syllable banks (the consonants B, P, M, T, D and S, Z, Š, Č, Ž, each series with the vowels A, E, I, O, U) and voices. By selecting one of the sound groups the images in the lower part of the screen will change and images from the sound group you selected will appear. By pressing the images new sounds will be emitted that correspond to the images.
 
 By pressing the button with the house symbol you return to the home screen of the **VoiceToys** application where you can select another device from the **VoiceToys** system with which you want to continue working.
 </FigureBlock>
