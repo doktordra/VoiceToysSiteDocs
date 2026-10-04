@@ -8,7 +8,7 @@ sidebar_position: 10
 ### **Sections**
 - **[Reaction](#reaction)**
 - **[Sensor Reaction](#sensor-reaction)**
-- **[Reflex (Clap Game)](#reflex-clap-game)**
+- **[Clap Game (Reflex)](#clap-game-reflex)**
 - **[Differences](#differences)**
 - **[Rhythmic Pattern](#rhythmic-pattern)**
 - **[Phonetics](#phonetics)**
@@ -29,7 +29,7 @@ The operating modes offered by this device are:
 
 -   REACTION (source: microphone or distance sensor)
 -   SNOEZELEN
--   REFLEX (clap game)
+-   CLAP GAME (reflex)
 -   DIFFERENCES
 -   RHYTHMIC PATTERN
 -   PHONETICS
@@ -127,9 +127,9 @@ Description: The child stands in front of the panel, opposite the sensor (so it 
 
 The game allows children to experience physical movement and spatial perception in a very concrete way through interaction with technology. Through movement and tracking light reactions, the child learns how to control their movements, developing not only motor and spatial orientation skills, but also cognitive skills such as attention, concentration, pattern recognition, and cause-and-effect relationships.
 
-## **REFLEX (CLAP GAME)**
+## **CLAP GAME (REFLEX)**
 
-Reflex, called Clap game in the app, is an original game in which the device responds only to sounds with rapid intensity jumps (hand clapping, drumstick strike on a drum, ball strike on the floor, pencil strike on a table, etc.). It is designed to stimulate and practice gross motor skills, attention, concentration, patience, ability to delay reactions, and social skills in users.
+The Clap game, also known as Reflex, is an original game in which the device responds only to sounds with rapid intensity jumps (hand clapping, drumstick strike on a drum, ball strike on the floor, pencil strike on a table, etc.). It is designed to stimulate and practice gross motor skills, attention, concentration, patience, ability to delay reactions, and social skills in users.
 
 The game is particularly suitable for older children of average or above-average intellectual abilities, and it is also a good motivational tool for working with children who are more motorically active, have scattered attention or behavioral problems.
 

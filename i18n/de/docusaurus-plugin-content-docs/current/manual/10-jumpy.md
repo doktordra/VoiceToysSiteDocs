@@ -8,7 +8,7 @@ sidebar_position: 10
 ### **Kapitel**
 - **[Reaktion](#reaktion)**
 - **[Sensorreaktivität](#sensorreaktivität)**
-- **[Reflex (Klatschspiel)](#reflex-klatschspiel)**
+- **[Klatschspiel (Reflex)](#klatschspiel-reflex)**
 - **[Unterschiede](#unterschiede)**
 - **[Rhythmusmuster](#rhythmusmuster)**
 - **[Phonetik](#phonetik)**
@@ -29,7 +29,7 @@ Die Betriebsmodi, die dieses Gerät bietet, sind:
 
 -   REAKTION (Quelle: Mikrofon oder Abstandssensor)
 -   SNOEZELEN
--   REFLEX (Klatschspiel)
+-   KLATSCHSPIEL (Reflex)
 -   UNTERSCHIEDE
 -   RHYTHMUSMUSTER
 -   PHONETIK
@@ -127,9 +127,9 @@ Beschreibung: Das Kind steht vor dem Panel, gegenüber dem Sensor (damit er Bewe
 
 Das Spiel ermöglicht es Kindern, physische Bewegung und räumliche Wahrnehmung auf sehr konkrete Weise durch Interaktion mit Technologie zu erleben. Durch Bewegung und Verfolgung von Lichtreaktionen lernt das Kind, seine Bewegungen zu kontrollieren und entwickelt nicht nur motorische und räumliche Orientierungsfähigkeiten, sondern auch kognitive Fähigkeiten wie Aufmerksamkeit, Konzentration, Mustererkennung und Ursache-Wirkungs-Beziehungen.
 
-## **REFLEX (KLATSCHSPIEL)**
+## **KLATSCHSPIEL (REFLEX)**
 
-Reflex, auch als Klatschspiel bekannt, ist ein originelles Spiel, bei dem das Gerät nur auf Geräusche mit schnellen Intensitätssprüngen reagiert (Handklatschen, Drumstick-Schlag auf einer Trommel, Ballschlag auf dem Boden, Bleistiftschlag auf einem Tisch usw.). Es ist darauf ausgelegt, grobmotorische Fähigkeiten, Aufmerksamkeit, Konzentration, Geduld, Fähigkeit zur Verzögerung von Reaktionen und soziale Fähigkeiten bei Benutzern zu fördern und zu trainieren.
+Das Klatschspiel, auch als Reflex bekannt, ist ein originelles Spiel, bei dem das Gerät nur auf Geräusche mit schnellen Intensitätssprüngen reagiert (Handklatschen, Drumstick-Schlag auf einer Trommel, Ballschlag auf dem Boden, Bleistiftschlag auf einem Tisch usw.). Es ist darauf ausgelegt, grobmotorische Fähigkeiten, Aufmerksamkeit, Konzentration, Geduld, Fähigkeit zur Verzögerung von Reaktionen und soziale Fähigkeiten bei Benutzern zu fördern und zu trainieren.
 
 Das Spiel eignet sich besonders für ältere Kinder mit durchschnittlichen oder überdurchschnittlichen intellektuellen Fähigkeiten und ist auch ein gutes Motivationsmittel für die Arbeit mit Kindern, die motorisch aktiver sind, eine zerstreute Aufmerksamkeit oder Verhaltensprobleme haben.
 
@@ -137,7 +137,7 @@ Das Spiel wird einzeln und in der Gruppe gespielt. Wenn der Abstandssensor einge
 
 ### **Individuelles Klatschspiel**
 
-Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und geben Sie den Bereich des JumpY-Geräts ein, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODE (in der unteren rechten Ecke) und wählen Sie KLATSCHSPIEL (in der englischen Version der App: CLAP GAME). Eine rote Linie und eine weiße Linie, die sich von oben nach unten und zurück bewegt, werden auf dem Panel angezeigt.
+Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und geben Sie den Bereich des JumpY-Geräts ein, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODE (in der unteren rechten Ecke) und wählen Sie KLATSCHSPIEL. Eine rote Linie und eine weiße Linie, die sich von oben nach unten und zurück bewegt, werden auf dem Panel angezeigt.
 
 Ziel: Bewegungskoordination und Ausführungsgenauigkeit, Entwicklung von Aufmerksamkeit und Konzentration.
 

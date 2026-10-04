@@ -272,7 +272,7 @@ Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkeh
 
 *Bildschirmansicht nach dem Aktivieren des Modus Klatschspiel*
 
-Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Klatschspiel durch Drücken der Taste **„Klatschspiel“** (in der englischen Version der App: **„Clap game“**). Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
+Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Klatschspiel durch Drücken der Taste **„Klatschspiel“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
 
 Die Einstellung der Empfindlichkeit des Geräts gegenüber Schall erfolgt über die Schieberegler, die sich in der unteren Hälfte des App-Bildschirms befinden, im Abschnitt **„Einstellungen“**.
 

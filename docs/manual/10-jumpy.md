@@ -8,7 +8,7 @@ sidebar_position: 10
 ### **Poglavlja**
 - **[Reakcija](#reakcija)**
 - **[Reakcija senzor](#reakcija-senzor)**
-- **[Refleks (igra tapšanja)](#refleks-igra-tapšanja)**
+- **[Igra tapšanja (refleks)](#igra-tapšanja-refleks)**
 - **[Razlike](#razlike)**
 - **[Ritmički obrazac](#ritmički-obrazac)**
 - **[Fonetika](#fonetika)**
@@ -30,7 +30,7 @@ Režimi rada koje nudi ovaj uređaj su:
 
 -   REAKCIJA (izvor: mikrofon ili senzor udaljenosti)
 -   SNOEZELEN
--   REFLEKS (igra tapšanja)
+-   IGRA TAPŠANJA (refleks)
 -   RAZLIKE
 -   RITMIČKI OBRAZAC
 -   FONETIKA
@@ -136,9 +136,9 @@ Opis: Dete stane ispred panela, a naspram senzora (tako da on može da registru
 Igra omogućava deci da kroz interakciju sa tehnologijom dožive fizičko kretanje i prostornu percepciju na vrlo konkretan način. Kroz kretanje i praćenje svetlosnih reakcija, dete uči kako da kontroliše svoje pokrete, razvijajući ne samo veštine motorike i prostorne orijentacije, već i kognitivne veštine kao što su pažnja, koncentracija, prepoznavanje obrazaca i uzročno - posledičnih veza.
 
   
-## **REFLEKS (IGRA TAPŠANJA)**
+## **IGRA TAPŠANJA (REFLEKS)**
 
-Refleks, poznat i kao igra tapšanja, originalna je igra u kojoj uređaj reaguje samo na zvukove sa brzim skokom intenziteta (tapšanje rukama, udarac palicom o doboš, loptom o pod, olovkom o sto i sl.). Osmišljena je tako da kod korisnika podstiče razvoj i vežbanje krupne motorike, pažnje, koncentracije, strpljenja, sposobnosti odlaganja reakcija i socijalnih veština.
+Igra tapšanja, poznata i kao Refleks, originalna je igra u kojoj uređaj reaguje samo na zvukove sa brzim skokom intenziteta (tapšanje rukama, udarac palicom o doboš, loptom o pod, olovkom o sto i sl.). Osmišljena je tako da kod korisnika podstiče razvoj i vežbanje krupne motorike, pažnje, koncentracije, strpljenja, sposobnosti odlaganja reakcija i socijalnih veština.
 
 Igra je posebno pogodna za stariju decu prosečnih ili viših intelektualnih sposobnosti, a dobro je motivaciono sredstvo i za rad sa decom koja su motorički aktivnija, rasejane pažnje ili sa problemima u ponašanju.
 
