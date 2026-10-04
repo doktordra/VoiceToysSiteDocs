@@ -8,7 +8,7 @@ sidebar_position: 10
 ### **Sections**
 - **[Reaction](#reaction)**
 - **[Sensor Reaction](#sensor-reaction)**
-- **[Reflex (Clapping Game)](#reflex-clapping-game)**
+- **[Reflex (Clap Game)](#reflex-clap-game)**
 - **[Differences](#differences)**
 - **[Rhythmic Pattern](#rhythmic-pattern)**
 - **[Phonetics](#phonetics)**
@@ -29,12 +29,11 @@ The operating modes offered by this device are:
 
 -   REACTION (source: microphone or distance sensor)
 -   SNOEZELEN
--   REFLEX (clapping game)
+-   REFLEX (clap game)
 -   DIFFERENCES
 -   RHYTHMIC PATTERN
 -   PHONETICS
 
-The mode names match the names in the app.
 
 ## **REACTION**
 
@@ -128,9 +127,9 @@ Description: The child stands in front of the panel, opposite the sensor (so it 
 
 The game allows children to experience physical movement and spatial perception in a very concrete way through interaction with technology. Through movement and tracking light reactions, the child learns how to control their movements, developing not only motor and spatial orientation skills, but also cognitive skills such as attention, concentration, pattern recognition, and cause-and-effect relationships.
 
-## **REFLEX (CLAPPING GAME)**
+## **REFLEX (CLAP GAME)**
 
-Reflex, also known as the Clapping Game, is an original game in which the device responds only to sounds with rapid intensity jumps (hand clapping, drumstick strike on a drum, ball strike on the floor, pencil strike on a table, etc.). It is designed to stimulate and practice gross motor skills, attention, concentration, patience, ability to delay reactions, and social skills in users.
+Reflex, called Clap game in the app, is an original game in which the device responds only to sounds with rapid intensity jumps (hand clapping, drumstick strike on a drum, ball strike on the floor, pencil strike on a table, etc.). It is designed to stimulate and practice gross motor skills, attention, concentration, patience, ability to delay reactions, and social skills in users.
 
 The game is particularly suitable for older children of average or above-average intellectual abilities, and it is also a good motivational tool for working with children who are more motorically active, have scattered attention or behavioral problems.
 
@@ -138,7 +137,7 @@ The game can be played individually and in a group. When the distance sensor is 
 
 ### **Individual Clapping Game**
 
-Technical Instructions: After turning on the panel, open the app and enter the JumpY device section when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select REFLEX. A red line and a white line that moves from top to bottom and back will be displayed on the panel.
+Technical Instructions: After turning on the panel, open the app and enter the JumpY device section when its symbol/photo lights up green. Then press the MODE button (in the lower right corner) and select CLAP GAME. A red line and a white line that moves from top to bottom and back will be displayed on the panel.
 
 Goal: coordination of movement and accuracy of execution, developing attention and concentration.
 

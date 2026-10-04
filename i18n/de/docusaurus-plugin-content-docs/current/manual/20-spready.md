@@ -133,25 +133,23 @@ Beschreibung: Vor dem Kind befinden sich Papier und Buntstifte. Erklären Sie de
 
 ### **Links–Rechts**
 
-In früheren Versionen des Handbuchs hieß dieses Spiel „Brain Gym“.
-
 Ziel: Entwicklung der Feinmotorik, bilateralen Koordination, visuellen Wahrnehmung, Aufmerksamkeit, Konzentration
 
-Beschreibung: Ordnen Sie 5 Stäbe vor dem Kind an und platzieren Sie Karten darauf ([Anlage 3](#anlage-3)). Auf jeder der Karten werden Formen gezeigt: Kreis, Quadrat, Rechteck, Stern und "Hasenohren".
-Bereiten Sie für das Kind ein Arbeitsblatt vor ([Anlage 3](#anlage-3)), auf dem auf der linken Seite Kreise in den Farben der Sockelbäse und auf der rechten Seite Formen stehen.
-Wenn sich das Licht auf einem der Stäbe einschaltet, beginnt das Spiel. Die Aufgabe besteht darin, dass das Kind sich merkt, welche Sockelbasisfarbe aktiviert wurde und welche Form auf der Karte angezeigt wird. Finden Sie dann auf dem Papier einen Kreis der entsprechenden Farbe und berühren Sie ihn mit dem linken Zeigefinger, und die Form auf der Karte des eingeschalteten Stabes berühren Sie mit dem rechten Zeigefinger.
+Beschreibung: Ordnen Sie 5 Stäbe vor dem Kind an und stecken Sie die Formkarten darauf ([Anlage 3](#anlage-3)): Kreis, Quadrat, Rechteck, Stern und „Hasenohren“. Jede Form steht außerdem für eine Handposition, die in der Spielvariante verwendet wird:
 
-Variation: Ordnen Sie die Stäbe und Karten wie im vorherigen Spiel an. In diesem Spiel stellen Symbole eine Hand in verschiedenen Positionen dar (die Legende finden Sie in [Anlage 3](#anlage-3)):
+\- Quadrat - Handfläche nach unten, Finger geschlossen,  
+\- Stern - gespreizte Finger,  
+\- Rechteck - Hand mit ausgestreckten Fingern, auf den kleinen Finger und die Handkante gestützt,  
+\- Kreis - Faust,  
+\- Hasenohren - zwei Finger ausgestreckt und gespreizt, die übrigen zur Faust geschlossen.
 
-\- Quadrat - Handfläche nach unten mit geschlossenen Fingern
-\- Stern - gespreizter Finger,
-\- Rechteck - Hand mit ausgestreckten Fingern, gestützt auf den kleinen Finger und die Seite der Handfläche,
-\- Kreis - Faust,
-\- Hasenohren - zwei Finger ausgestreckt und gespreizt, andere Finger zur Faust geschlossen.
+Bereiten Sie für das Kind ein Arbeitsblatt vor ([Anlage 3](#anlage-3)). Links stehen Kreise in den Farben der Stabsockel, in der Reihenfolge, in der die Stäbe aufgestellt werden (blau, grün, gelb, rot, grau), rechts die Formen von den Karten.
 
-Wenn sich das Licht auf einem der Stäbe einschaltet, beginnt das Spiel. Die Aufgabe besteht darin, dass das Kind sich merkt, welche Sockelbasisfarbe aktiviert wurde und welche Form auf der Karte angezeigt wird. Finden Sie dann auf dem Papier einen Kreis der entsprechenden Farbe und berühren Sie ihn mit dem linken Zeigefinger. Bilden Sie die rechte Hand nach der entsprechenden auf der Karte gezeigten Form.
+![Arbeitsblatt für das Spiel Links–Rechts: links Kreise in den Farben der Stabsockel, rechts Formen](/img/manual/spready-leva-desna.png)
 
-![image1.png](/img/manual/image1.png)
+Wenn sich das Licht auf einem der Stäbe einschaltet, beginnt das Spiel. Das Kind merkt sich, welche Sockelfarbe aufgeleuchtet hat und welche Form auf der Karte zu sehen ist. Dann sucht es auf dem Papier den Kreis in der passenden Farbe und berührt ihn mit dem linken Zeigefinger; die Form von der Karte des leuchtenden Stabes berührt es mit dem rechten Zeigefinger.
+
+Variante: Ordnen Sie Stäbe und Karten wie im Grundspiel an. Wenn sich das Licht auf einem der Stäbe einschaltet, sucht das Kind auf dem Papier den Kreis in der passenden Farbe und berührt ihn mit dem linken Zeigefinger; mit der rechten Hand bildet es die Position, für die die Form auf der Karte des leuchtenden Stabes steht (die Liste der Positionen steht in der Spielbeschreibung).
 
 ### **Fange die Farbe**
 
@@ -299,14 +297,12 @@ Beschreibung: Bereiten Sie zuvor 5 Kreise in Stabfarben vor und kleben Sie sie a
 
 ## Anlagen
 
-Die Karten sind 60 × 60 mm groß; passen Sie die Größe an die Kartenhalter an. Alle Anlagen des Handbuchs können als [PDF zum Ausdrucken](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf) heruntergeladen werden. Die Beschriftungen auf den Seiten der Anlagen sind auf Serbisch.
+Die Standardgröße der Karten ist 60 × 60 mm. Der Halter ist nur unten geschlossen und nimmt daher auch kleinere und größere Karten auf; passen Sie die Größe an die Kinder an, mit denen Sie arbeiten. Alle Anlagen des Handbuchs können als [PDF zum Ausdrucken](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf) heruntergeladen werden. Die Beschriftungen auf den Seiten der Anlagen sind auf Serbisch.
 
 ### Anlage 3
 
-Formkarten, Arbeitsblatt und Legende für das Spiel „Links–Rechts“.
+Formkarten und Arbeitsblatt für das Spiel „Links–Rechts“.
 
 ![Anlage 3: Formkarten Kreis, Quadrat, Rechteck, Stern und Hasenohren](/img/manual/prilozi/prilog3-kartice-oblika.png)
 
 ![Anlage 3: Arbeitsblatt, links Kreise in den Farben der Stabsockel, rechts Formen](/img/manual/prilozi/prilog3-radni-list.png)
-
-![Anlage 3: Legende der Handpositionen für die Spielvariante](/img/manual/prilozi/prilog3-legenda.png)

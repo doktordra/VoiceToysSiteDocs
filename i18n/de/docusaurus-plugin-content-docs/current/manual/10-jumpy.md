@@ -34,7 +34,6 @@ Die Betriebsmodi, die dieses Gerät bietet, sind:
 -   RHYTHMUSMUSTER
 -   PHONETIK
 
-Die Namen der Modi entsprechen den Bezeichnungen in der App.
 
 ## **REAKTION**
 
@@ -138,7 +137,7 @@ Das Spiel wird einzeln und in der Gruppe gespielt. Wenn der Abstandssensor einge
 
 ### **Individuelles Klatschspiel**
 
-Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und geben Sie den Bereich des JumpY-Geräts ein, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODE (in der unteren rechten Ecke) und wählen Sie REFLEX. Eine rote Linie und eine weiße Linie, die sich von oben nach unten und zurück bewegt, werden auf dem Panel angezeigt.
+Technische Anleitung: Nach dem Einschalten des Panels öffnen Sie die App und geben Sie den Bereich des JumpY-Geräts ein, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODE (in der unteren rechten Ecke) und wählen Sie KLATSCHSPIEL (in der englischen Version der App: CLAP GAME). Eine rote Linie und eine weiße Linie, die sich von oben nach unten und zurück bewegt, werden auf dem Panel angezeigt.
 
 Ziel: Bewegungskoordination und Ausführungsgenauigkeit, Entwicklung von Aufmerksamkeit und Konzentration.
 

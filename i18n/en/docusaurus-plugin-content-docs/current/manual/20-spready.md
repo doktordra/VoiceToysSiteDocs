@@ -133,25 +133,23 @@ Description: In front of the child are paper and colored pencils. Explain to the
 
 ### **Left–Right**
 
-In earlier versions of the manual this game was called “Brain Gym”.
-
 Goal: development of fine motor skills, bilateral coordination, visual perception, attention, concentration
 
-Description: arrange 5 sticks in front of the child and place cards on them ([Appendix 3](#appendix-3)). Each of the cards shows shapes: circle, square, rectangle, star, and "bunny ears".
-Prepare a worksheet for the child ([Appendix 3](#appendix-3)) on which are circles on the left side in the colors of stick bases, and on the right shapes.
-When the light turns on on one of the sticks, the game begins. The task is for the child to memorize which base color was activated and what shape is shown on the card. Then on the paper find a circle of the appropriate color and touch it with the left index finger, and the shape found on the card of the lit stick touch with the right index finger.
+Description: Arrange 5 sticks in front of the child and place the shape cards on them ([Appendix 3](#appendix-3)): circle, square, rectangle, star and “bunny ears”. Each shape also stands for a hand position, which is used in the variation of the game:
 
-Variation: Arrange the sticks and cards as in the previous game. In this game, symbols represent a hand in different positions (the legend is in [Appendix 3](#appendix-3)):
-
-\- square - palm turned down with closed fingers
-\- star - spread fingers,
-\- rectangle - hand with extended fingers resting on the little finger and side of the palm,
-\- circle - fist,
+\- square - palm turned down with closed fingers,  
+\- star - spread fingers,  
+\- rectangle - hand with extended fingers resting on the little finger and the side of the palm,  
+\- circle - fist,  
 \- bunny ears - two fingers extended and spread, other fingers closed in a fist.
 
-When the light turns on on one of the sticks, the game begins. The task is for the child to memorize which base color was activated and what shape is shown on the card. Then on the paper find a circle of the appropriate color and touch it with the left index finger. Form the right hand according to the corresponding shape shown on the card.
+Prepare a worksheet for the child ([Appendix 3](#appendix-3)). On the left side are circles in the colors of the stick bases, in the order in which the sticks are set up (blue, green, yellow, red, grey), and on the right side the shapes from the cards.
 
-![image1.png](/img/manual/image1.png)
+![Worksheet for the Left–Right game: circles in the colors of the stick bases on the left, shapes on the right](/img/manual/spready-leva-desna.png)
+
+When the light turns on on one of the sticks, the game begins. The task is for the child to memorize which base color was activated and what shape is shown on the card. Then the child finds a circle of the matching color on the paper and touches it with the left index finger, and touches the shape from the card on the lit stick with the right index finger.
+
+Variation: Arrange the sticks and cards as in the basic game. When the light turns on on one of the sticks, the child finds the circle of the matching color on the paper and touches it with the left index finger, and puts the right hand into the position that the shape on the card of the lit stick stands for (the list of positions is in the game description).
 
 ### **Catch the Color**
 
@@ -299,14 +297,12 @@ Description: Previously prepare 5 circles in stick colors and stick them on a wa
 
 ## Appendices
 
-The cards measure 60 × 60 mm; adjust the size to the card holders. All appendices of the manual can be downloaded as a [PDF for printing](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf). The labels on the appendix pages are in Serbian.
+The default card size is 60 × 60 mm. The holder is closed only at the bottom, so it takes both smaller and larger cards; adjust the size to the children you work with. All appendices of the manual can be downloaded as a [PDF for printing](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf). The labels on the appendix pages are in Serbian.
 
 ### Appendix 3
 
-Shape cards, worksheet and legend for the “Left–Right” game.
+Shape cards and worksheet for the “Left–Right” game.
 
 ![Appendix 3: shape cards circle, square, rectangle, star and bunny ears](/img/manual/prilozi/prilog3-kartice-oblika.png)
 
 ![Appendix 3: worksheet, circles in the colors of the stick bases on the left, shapes on the right](/img/manual/prilozi/prilog3-radni-list.png)
-
-![Appendix 3: legend of hand positions for the game variation](/img/manual/prilozi/prilog3-legenda.png)

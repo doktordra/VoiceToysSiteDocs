@@ -115,7 +115,7 @@ Das Lichtpanel mit Abstandssensor JumpY bietet mehrere Betriebsmodi mit den folg
 
 **Snoezelen** - Beruhigende, bunte Lichter
 
-**Reflex:** - Originalspiel zum Üben von Fokus, Geduld, Reaktionsgeschwindigkeit und Grobmotorik
+**Klatschspiel:** - Originalspiel zum Üben von Fokus, Geduld, Reaktionsgeschwindigkeit und Grobmotorik
 
 **Unterschiede:** - Übung zum Erkennen von Farben und der Begriffe gleich – verschieden
 
@@ -205,7 +205,7 @@ Die Einstellung von Schallpegel, Empfindlichkeit und Trägheit der visuellen Rep
 
 Wenn der Abstandssensor eingeschaltet wird, hört das Lichtpanel auf, auf Schall zu reagieren, und reagiert nur auf die Änderung der Entfernung zwischen dem Sensor und dem Objekt. Auf dem App-Bildschirm steht dann **„Entfernung“** und es wird das entsprechende Symbol angezeigt, und im unteren Bereich des Bildschirms erscheint der Schieberegler **Bereich**. Damit regulieren Sie die Empfindlichkeit der Lichtanzeige gegenüber der Änderung der Entfernung des Hindernisses vom Abstandssensor. Je kleiner der Wert auf dem Schieberegler, desto schneller reagieren die Lichter auf dem Panel und füllen den Bildschirm stärker.
 
-**Außerdem können Sie den Abstandssensor auch für die Spiele Reflex, Unterschiede und Rhythmusmuster verwenden. Dann ersetzt das Überstreichen des Sensors mit der Hand das Klatschen oder ein anderes lautes, scharfes Geräusch.**
+**Außerdem können Sie den Abstandssensor auch für die Spiele Klatschspiel, Unterschiede und Rhythmusmuster verwenden. Dann ersetzt das Überstreichen des Sensors mit der Hand das Klatschen oder ein anderes lautes, scharfes Geräusch.**
 
  Wenn der Abstandssensor ausgeschaltet wird, kehren die App und alle ihre Funktionen sowie das Lichtpanel automatisch in den Modus „Mikrofon“ zurück, das heißt, sie reagieren wieder auf Schall.
 
@@ -263,16 +263,16 @@ Falls Sie die Parameter Schallpegel, Empfindlichkeit oder Farbe ändern, können
 Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkehren, indem Sie die Taste mit dem Häuschen-Bild drücken, die sich in der Mitte des unteren roten Feldes des App-Bildschirms befindet.
 
 ---
-### Reflex
+### Klatschspiel
 <FigureBlock
 	src="/voice-toys/images/screenshots/sr/JumpY_igra_taps_anja.jpg"
 	alt="JumpY_igra_taps_anja)"
 	imagePosition="right"
 >
 
-*Bildschirmansicht nach dem Aktivieren des Reflex-Modus*
+*Bildschirmansicht nach dem Aktivieren des Modus Klatschspiel*
 
-Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Reflex (Klatschspiel) durch Drücken der Taste **„Reflex“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
+Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Klatschspiel durch Drücken der Taste **„Klatschspiel“** (in der englischen Version der App: **„Clap game“**). Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
 
 Die Einstellung der Empfindlichkeit des Geräts gegenüber Schall erfolgt über die Schieberegler, die sich in der unteren Hälfte des App-Bildschirms befinden, im Abschnitt **„Einstellungen“**.
 

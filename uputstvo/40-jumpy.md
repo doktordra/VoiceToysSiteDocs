@@ -115,7 +115,7 @@ Svetlosni panel sa senzorom udaljenosti JumpY nudi nekoliko režima rada, sa sle
 
 **Snoezelen**  - Umirujuća raznobojna svetla
 
-**Refleks:** - Originalna igra za vežbanje fokusa, strpljenja, brzine reakcije i krupne motorike
+**Igra tapšanja:** - Originalna igra za vežbanje fokusa, strpljenja, brzine reakcije i krupne motorike
 
 **Razlike:**  - Vežba raspoznavanja boja i pojmova isto - različito
 
@@ -205,7 +205,7 @@ Podešavanje nivoa zvuka, osetljivosti i inercije vizuelne reprezentacije zvuka 
 
 Kada se senzor udaljenosti uključi, svetlosni panel prestaje da reaguje na zvuk i reaguje samo na promenu distance između senzora i objekta, a na ekranu aplikacije je napisano **"Udaljenost"** i prikazan odgovarajući simbol, a u donjem delu ekrana pojavljuje se klizač **Raspon**. Njime regulišete osetljivost svetlosnog prikaza na promenu udaljenosti prepreke od senzora udaljenost. Što je manja vrednost na klizaču, svetla na panelu će reagovati brže i više ispunjavati ekran.
 
-**Takođe, senzor udaljenosti možete koristiti i za igre Refleks, Razlike i Ritmički obrazac. Tada prelazak ruke preko senzora zamenjuje pljesak ili drugi jak, oštar zvuk.**
+**Takođe, senzor udaljenosti možete koristiti i za igre Igra tapšanja, Razlike i Ritmički obrazac. Tada prelazak ruke preko senzora zamenjuje pljesak ili drugi jak, oštar zvuk.**
 
  Kada se senzor udaljenosti isključi aplikacija i sve njene funkcije, kao i svetlosni panel, automatski se vraćaju u režim "Mikrofon", odnosno ponovo reaguju na zvuk.
 
@@ -263,16 +263,16 @@ Ukoliko promenite parametre nivoa zvuka, osetljivosti ili boje, svoja podešavan
 Uvek se možete vratiti na početni ekran **"VoiceToys"** aplikacije pritiskom na taster sa slikom kućice, koji se nalazi u sredini donjeg crvenog polja ekrana aplikacije.
 
 ---
-### Refleks
+### Igra tapšanja
 <FigureBlock
 	src="/voice-toys/images/screenshots/sr/JumpY_igra_taps_anja.jpg"
 	alt="JumpY_igra_taps_anja)"
 	imagePosition="right"
 >
 
-*Prikaz ekrana nakon aktiviranja režima Refleks*
+*Prikaz ekrana nakon aktiviranja režima Igra tapšanja*
 
-Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Refleks (igra tapšanja) birate pritiskom na taster **"Refleks"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera opisani su u odeljku [Funkcije mobilne aplikacije](#funkcije-mobilne-aplikacije-za-uređaj-jumpy).
+Nakon što ste pritiskom na taster **"REŽIM"** ušli u meni za izbor režima rada uređaja, režim Igra tapšanja birate pritiskom na taster **"Igra tapšanja"**. Pojaviće se ekran prikazan na slici desno, u čijem gornjem crvenom polju možete videti naziv uređaja i tastere za informacije o sistemu i pomoć. Funkcija i način korišćenja ovih tastera opisani su u odeljku [Funkcije mobilne aplikacije](#funkcije-mobilne-aplikacije-za-uređaj-jumpy).
 
 Podešavanje osetljivosti uređaja na zvuk se vrši pomoću klizača koji se nalaze u donjoj polovini ekrana aplikacije, u sekciji **"Podešavanja"**.
 

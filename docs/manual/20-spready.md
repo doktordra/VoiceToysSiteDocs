@@ -136,26 +136,23 @@ Opis: Ispred deteta su papir i bojice. Objasnite detetu da će pojedini stubić
   
 ### **Leva–desna**
 
-U ranijim verzijama priručnika ova igra se zvala „Brain gym“.
-
 Cilj: razvoj fine motorike, bilateralne koordinacije, vizuelne percepcije, pažnje, koncentracije
 
-Opis: rasporedite 5 stubića ispred deteta i na njih postavite kartice ([Prilog 3](#prilog-3)). Na svakoj od kartica prikazani su oblici: krug, kvadrat, pravougaonik, zvezda i “zekine uši”.  
-Pripremite detetu radni list ([Prilog 3](#prilog-3)) na kojem su sa leve strane kružići u bojama baza stubića, a sa desne oblici.  
-Kada se na nekom od stubića uključi svetlo, igra počinje. Zadatak je da dete zapamti koja boja baze se aktivirala, kao i oblik koji je prikazan na kartici. Zatim na papiru pronađe krug odgovarajuće boje i dodirne ga levim kažiprstom, a oblik koji se nalazi na kartici upaljenog stubića dodirne desnim kažiprstom.
+Opis: Rasporedite 5 stubića ispred deteta i na njih postavite kartice sa oblicima ([Prilog 3](#prilog-3)): krug, kvadrat, pravougaonik, zvezda i „zekine uši“. Svaki oblik označava i jedan položaj šake, koji se koristi u varijaciji igre:
 
-  
-Varijacija: Rasporedite stubiće i kartice kao u prethodnoj igri. U ovoj igri simboli predstavljaju šaku u različitim položajima (legenda je u [Prilogu 3](#prilog-3)):
-
-\- kvadrat - dlan okrenut na dole sa skupljenim prstima  
+\- kvadrat - dlan okrenut na dole sa skupljenim prstima,  
 \- zvezda - rašireni prsti,  
 \- pravougaonik - šaka sa ispruženim prstima oslonjena na mali prst i bočni deo dlana,  
 \- krug - pesnica,  
 \- zekine uši - dva prsta ispružena i raširena, ostali prsti skupljeni u pesnicu.
 
-Kada se na nekom od stubića uključi svetlo, igra počinje. Zadatak je da dete zapamti koja boja baze se aktivirala, kao i oblik koji je prikazan na kartici. Zatim na papiru pronađe krug odgovarajuće boje i dodirne ga levim kažiprstom. Desnu šaku formira prema odgovarajućem obliku koji je prikazan na kartici.
+Pripremite detetu radni list ([Prilog 3](#prilog-3)). Na levoj strani su kružići u bojama baza stubića, poređani redom kojim se postavljaju stubići (plava, zelena, žuta, crvena, siva), a na desnoj oblici sa kartica.
 
-![image1.png](/img/manual/image1.png)
+![Radni list za igru Leva–desna: levo kružići u bojama baza stubića, desno oblici](/img/manual/spready-leva-desna.png)
+
+Kada se na nekom od stubića uključi svetlo, igra počinje. Zadatak je da dete zapamti koja boja baze se aktivirala, kao i oblik koji je prikazan na kartici. Zatim na papiru pronađe krug odgovarajuće boje i dodirne ga levim kažiprstom, a oblik koji se nalazi na kartici upaljenog stubića dodirne desnim kažiprstom.
+
+Varijacija: Rasporedite stubiće i kartice kao u osnovnoj igri. Kada se na nekom od stubića uključi svetlo, dete na papiru pronađe krug odgovarajuće boje i dodirne ga levim kažiprstom, a desnu šaku postavi u položaj koji označava oblik na kartici upaljenog stubića (spisak položaja je u opisu igre).
 
 ### **Uhvati boju**
 
@@ -306,14 +303,12 @@ Opis: Unapred pripremite 5 krugova u bojama stubića i zalepite ih na zid u visi
 
 ## Prilozi
 
-Kartice su veličine 60 × 60 mm; veličinu uskladite sa nosačima kartica. Svi prilozi priručnika mogu se preuzeti kao [PDF za štampu](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf).
+Podrazumevana veličina kartica je 60 × 60 mm. Nosač je odozdo zatvoren, pa prima i manje i veće kartice; veličinu prilagodite deci sa kojom radite. Svi prilozi priručnika mogu se preuzeti kao [PDF za štampu](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf).
 
 ### Prilog 3
 
-Kartice oblika, radni list i legenda za igru „Leva–desna“.
+Kartice oblika i radni list za igru „Leva–desna“.
 
 ![Prilog 3: kartice oblika krug, kvadrat, pravougaonik, zvezda i zekine uši](/img/manual/prilozi/prilog3-kartice-oblika.png)
 
 ![Prilog 3: radni list, levo krugovi u bojama baza stubića, desno oblici](/img/manual/prilozi/prilog3-radni-list.png)
-
-![Prilog 3: legenda položaja šake za varijantu igre](/img/manual/prilozi/prilog3-legenda.png)

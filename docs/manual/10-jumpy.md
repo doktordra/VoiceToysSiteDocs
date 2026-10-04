@@ -34,8 +34,7 @@ Režimi rada koje nudi ovaj uređaj su:
 -   RAZLIKE
 -   RITMIČKI OBRAZAC
 -   FONETIKA
-
-Nazivi režima odgovaraju nazivima u aplikaciji.                            
+                            
 
   
 ## **REAKCIJA**
@@ -147,7 +146,7 @@ Igra se pojedinačno i u grupi. Kada je uključen senzor udaljenosti, panel ne r
 
 ### **Individualna igra tapšanja**
 
-Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite REFLEKS. Na panelu će se prikazati zadata crvena linija i bela linija koja se kreće od vrha ka dnu i nazad.
+Tehnička uputstva: Nakon što uključite panel, otvorite aplikaciju i uđite u sekciju uređaja JumpY kada njen simbol/fotografija zasvetli zeleno. Zatim pritisnite dugme REŽIM (u donjem desnom uglu) i izaberite IGRA TAPŠANJA. Na panelu će se prikazati zadata crvena linija i bela linija koja se kreće od vrha ka dnu i nazad.
 
 Cilj: koordinacija pokreta i preciznost izvođenja, razvijanje pažnje i koncentracije.
 

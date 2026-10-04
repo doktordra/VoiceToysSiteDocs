@@ -115,7 +115,7 @@ The light panel with distance sensor JumpY offers several operating modes, with 
 
 **Snoezelen** - Soothing multicolored lights
 
-**Reflex:** - Original game for practicing focus, patience, reaction speed and gross motor skills
+**Clap game:** - Original game for practicing focus, patience, reaction speed and gross motor skills
 
 **Differences:** - Exercise in recognizing colors and the concepts same - different
 
@@ -205,7 +205,7 @@ The adjustment of the sound level, sensitivity and inertia of the visual represe
 
 When the distance sensor is turned on, the light panel stops reacting to sound and reacts only to the change in distance between the sensor and the object, and on the application screen **"Distance"** is written and the corresponding symbol is shown, and in the lower part of the screen the slider **Range** appears. With it you regulate the sensitivity of the light display to the change in distance of an obstacle from the distance sensor. The smaller the value on the slider, the faster the lights on the panel will react and the more they will fill the screen.
 
-**Also, you can use the distance sensor for the games Reflex, Differences and Rhythmic pattern as well. In that case, passing a hand over the sensor replaces the clap or another loud, sharp sound.**
+**Also, you can use the distance sensor for the games Clap game, Differences and Rhythmic pattern as well. In that case, passing a hand over the sensor replaces the clap or another loud, sharp sound.**
 
  When the distance sensor is turned off, the application and all its functions, as well as the light panel, automatically return to the "Microphone" mode, that is, they react to sound again.
 
@@ -263,16 +263,16 @@ If you change the parameters of sound level, sensitivity or color, you can save 
 You can always return to the home screen of the **"VoiceToys"** application by pressing the button with the house image, located in the middle of the lower red field of the application screen.
 
 ---
-### Reflex
+### Clap game
 <FigureBlock
 	src="/voice-toys/images/screenshots/sr/JumpY_igra_taps_anja.jpg"
 	alt="JumpY_igra_taps_anja)"
 	imagePosition="right"
 >
 
-*Screen view after activating the Reflex mode*
+*Screen view after activating the Clap game mode*
 
-After entering the menu for selecting the device's operating mode by pressing the **"MODE"** button, you select the Reflex (clapping game) mode by pressing the **"Reflex"** button. The screen shown in the image on the right will appear, in whose upper red field you can see the device name and the buttons for system information and help. The function and the way of using these buttons are described in the section [Mobile application functions](#mobile-application-functions-for-the-jumpy-device).
+After entering the menu for selecting the device's operating mode by pressing the **"MODE"** button, you select the Clap game mode by pressing the **"Clap game"** button. The screen shown in the image on the right will appear, in whose upper red field you can see the device name and the buttons for system information and help. The function and the way of using these buttons are described in the section [Mobile application functions](#mobile-application-functions-for-the-jumpy-device).
 
 The adjustment of the device's sensitivity to sound is done using the sliders located in the lower half of the application screen, in the **"Settings"** section.
 
