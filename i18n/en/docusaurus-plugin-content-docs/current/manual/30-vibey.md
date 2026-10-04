@@ -40,7 +40,7 @@ If the child becomes overwhelmed by stimuli, turn off the lights/vibration, stay
 
 Goal: Voice pitch control, visual perception, fine motor skills
 
-Description: When the child notices the connection between the pitch of their voice and the colors displayed on the device, you can offer them several picture outlines (appendix 1) to place on VibeY. They should name and "color" the object in the picture by singing the given word so that the pitch of their voice triggers the appropriate light color.
+Description: When the child notices the connection between the pitch of their voice and the colors displayed on the device, you can offer them several picture outlines ([Appendix 1](#appendix-1)). The child chooses an outline and the therapist places it on VibeY. They should name and "color" the object in the picture by singing the given word so that the pitch of their voice triggers the appropriate light color.
 
 Additionally, the therapist can draw outlines of the same object on white paper and offer the child to color them with the color that appeared on the display.
 
@@ -48,9 +48,9 @@ Additionally, the therapist can draw outlines of the same object on white paper 
 
 Goal: Understanding commands, onomatopoeia
 
-Description: Prepare various animal figures whose sounds you want the child to imitate. Suggest to the child that they place a certain animal on the box (e.g., a cow), and then encourage them to make sounds corresponding to the figure, with different voice pitches to activate different light colors. A more complex requirement is to follow this with practicing nouns or verbs derived from onomatopoeia: Mooo. You hear mooing. The cow moos.
+Description: Prepare various animal figures whose sounds you want the child to imitate. Suggest to the child that they choose a certain animal (e.g., a cow), which the therapist then places on the box, and encourage them to make sounds corresponding to the figure, with different voice pitches to activate different light colors. A more complex requirement is to follow this with practicing nouns or verbs derived from onomatopoeia: Mooo. You hear mooing. The cow moos.
 
-Variation: With the same goal, you can combine VibeY with SpaceY speakers. Play the child the sound, determine if they identified it, and encourage them to name what they heard. Then offer them to find the figure that corresponds to the sound and place it on VibeY, and then imitate it with onomatopoeia.
+Variation: With the same goal, you can combine VibeY with SpaceY speakers. Play the child the sound, determine if they identified it, and encourage them to name what they heard. Then offer them to find the figure that corresponds to the sound. The therapist places the figure on VibeY, and the child imitates it with onomatopoeia.
 
 Adjustment: You can organize the game with other obvious means or visual material (various cards with pictures).
 
@@ -78,4 +78,24 @@ Variation: If the child masters the concepts and has developed lateralization, s
 
 Goal: Recognition of symbolic representation and execution of motor commands
 
-Description: With the child, analyze the symbols shown in the pictures (appendix 3) which represent a certain motor command (snapping fingers, clapping hands, striking foot on the ground...). Then the child places one picture at a time on VibeY, facing the box, so they cannot see the symbol. When they loudly ask "What's in the picture?" the light shines through the paper and the child recognizes the image. The task is for the child to verbalize and execute the action they previously recognized in the picture.
+Description: With the child, analyze the symbols shown in the pictures ([Appendix 2](#appendix-2)) which represent a certain motor command (snapping fingers, clapping hands, striking foot on the ground...). Then the child chooses one picture at a time, and the therapist places it on VibeY facing the box, so the child cannot see the symbol. When they loudly ask "What's in the picture?" the light shines through the paper and the child recognizes the image. The task is for the child to verbalize and execute the action they previously recognized in the picture.
+
+## Appendices
+
+Print the appendices on ordinary paper (80 g/m²) so that the light of the device shines through. The cards measure 90 × 90 mm. All appendices of the manual can be downloaded as a [PDF for printing](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf). The labels on the appendix pages are in Serbian.
+
+### Appendix 1
+
+Outlines for the game "Color the Picture".
+
+![Appendix 1: outlines of a sun, apple, house and fish](/img/manual/prilozi/prilog1-konture-1.png)
+
+![Appendix 1: outlines of a flower, tree, umbrella and cloud](/img/manual/prilozi/prilog1-konture-2.png)
+
+### Appendix 2
+
+Symbols for the game "Guess and Do". The therapist places the card on VibeY facing the box, so the child sees the symbol through the paper, mirrored. That is why the cards carry no text.
+
+![Appendix 2: symbols clap your hands, stamp your foot, snap your fingers, raise your arms](/img/manual/prilozi/prilog2-simboli-1.png)
+
+![Appendix 2: symbols spread your arms, squat, jump, touch your head](/img/manual/prilozi/prilog2-simboli-2.png)

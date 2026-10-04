@@ -40,7 +40,7 @@ Wenn das Kind von Reizen überfordert wird, schalten Sie die Lichter/Vibration a
 
 Ziel: Stimmtonhöhenkontrolle, visuelle Wahrnehmung, Feinmotorik
 
-Beschreibung: Wenn das Kind die Verbindung zwischen der Tonhöhe seiner Stimme und den auf dem Gerät angezeigten Farben erkennt, können Sie ihm mehrere Bildkonturen (Anlage 1) zum Platzieren auf VibeY anbieten. Sie sollten das Objekt im Bild benennen und "färben", indem sie das angegebene Wort singen, damit die Tonhöhe ihrer Stimme die entsprechende Lichtfarbe auslöst.
+Beschreibung: Wenn das Kind die Verbindung zwischen der Tonhöhe seiner Stimme und den auf dem Gerät angezeigten Farben erkennt, können Sie ihm mehrere Bildkonturen anbieten ([Anlage 1](#anlage-1)). Das Kind wählt eine Kontur, und die Therapeutin bzw. der Therapeut legt sie auf VibeY. Sie sollten das Objekt im Bild benennen und "färben", indem sie das angegebene Wort singen, damit die Tonhöhe ihrer Stimme die entsprechende Lichtfarbe auslöst.
 
 Zusätzlich kann der Therapeut Konturen desselben Objekts auf Papier zeichnen und dem Kind anbieten, sie mit der Farbe zu färben, die auf dem Display erschien.
 
@@ -48,9 +48,9 @@ Zusätzlich kann der Therapeut Konturen desselben Objekts auf Papier zeichnen un
 
 Ziel: Verstehen von Befehlen, Onomatopoeia
 
-Beschreibung: Bereiten Sie verschiedene Tierfiguren vor, deren Geräusche das Kind nachahmen soll. Schlagen Sie dem Kind vor, eine bestimmte Tierfigur auf die Box zu stellen (z.B. eine Kuh), und ermutige es dann, Geräusche zu machen, die der Figur entsprechen, mit verschiedenen Stimmhöhen, um verschiedene Lichtfarben zu aktivieren. Eine komplexere Anforderung ist, dies mit der Übung von Substantiven oder Verben zu kombinieren, die sich aus Onomatopoeia ableiten: Muuu. Du hörst Muhen. Die Kuh muht.
+Beschreibung: Bereiten Sie verschiedene Tierfiguren vor, deren Geräusche das Kind nachahmen soll. Schlagen Sie dem Kind vor, eine bestimmte Tierfigur auszuwählen (z. B. eine Kuh), die Sie dann auf die Box stellen, und ermutigen Sie es, Geräusche zu machen, die der Figur entsprechen, mit verschiedenen Stimmhöhen, um verschiedene Lichtfarben zu aktivieren. Eine komplexere Anforderung ist, dies mit der Übung von Substantiven oder Verben zu kombinieren, die sich aus Onomatopoeia ableiten: Muuu. Du hörst Muhen. Die Kuh muht.
 
-Variation: Mit dem gleichen Ziel können Sie VibeY mit SpaceY-Lautsprechern kombinieren. Spielen Sie dem Kind den Ton ab, bestimmen Sie, ob sie ihn identifiziert haben, und ermutige sie, das zu nennen, was sie gehört haben. Biete ihr dann an, die Figur zu finden, die dem Ton entspricht, sie auf VibeY zu platzieren und sie dann mit Onomatopoeia nachzuahmen.
+Variation: Mit dem gleichen Ziel können Sie VibeY mit SpaceY-Lautsprechern kombinieren. Spielen Sie dem Kind den Ton ab, bestimmen Sie, ob sie ihn identifiziert haben, und ermutige sie, das zu nennen, was sie gehört haben. Bieten Sie ihm dann an, die Figur zu finden, die dem Ton entspricht. Sie stellen die Figur auf VibeY, und das Kind ahmt sie lautmalerisch nach.
 
 Anpassung: Sie können das Spiel mit anderen offensichtlichen Mitteln oder visuellen Materialien (verschiedene Karten mit Bildern) organisieren.
 
@@ -78,4 +78,24 @@ Variation: Wenn das Kind die Konzepte beherrscht und die Lateralisierung entwick
 
 Ziel: Erkennung symbolischer Darstellung und Ausführung motorischer Befehle
 
-Beschreibung: Analysieren Sie mit dem Kind die Symbole in den Bildern (Anlage 3), die einen bestimmten Motorbefehl darstellen (Finger schnipsen, Handklatschen, Fuß auf den Boden schlagen...). Dann platziert das Kind ein Bild nach dem anderen auf VibeY, mit Blick auf die Box, damit es das Symbol nicht sehen kann. Wenn es laut fragt "Was ist im Bild?" leuchtet das Licht durch das Papier und das Kind erkennt das Bild. Die Aufgabe besteht darin, dass das Kind die Aktion verbalisiert und ausführt, die es zuvor im Bild erkannt hat.
+Beschreibung: Analysieren Sie mit dem Kind die Symbole in den Bildern ([Anlage 2](#anlage-2)), die einen bestimmten Motorbefehl darstellen (Finger schnipsen, Handklatschen, Fuß auf den Boden schlagen...). Dann wählt das Kind ein Bild nach dem anderen, und Sie legen es mit der Bildseite zur Box auf VibeY, damit das Kind das Symbol nicht sehen kann. Wenn es laut fragt "Was ist im Bild?" leuchtet das Licht durch das Papier und das Kind erkennt das Bild. Die Aufgabe besteht darin, dass das Kind die Aktion verbalisiert und ausführt, die es zuvor im Bild erkannt hat.
+
+## Anlagen
+
+Drucken Sie die Anlagen auf normalem Papier (80 g/m²), damit das Licht des Geräts hindurchscheint. Die Karten sind 90 × 90 mm groß. Alle Anlagen des Handbuchs können als [PDF zum Ausdrucken](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf) heruntergeladen werden. Die Beschriftungen auf den Seiten der Anlagen sind auf Serbisch.
+
+### Anlage 1
+
+Konturen für das Spiel „Das Bild färben“.
+
+![Anlage 1: Konturen von Sonne, Apfel, Haus und Fisch](/img/manual/prilozi/prilog1-konture-1.png)
+
+![Anlage 1: Konturen von Blume, Baum, Regenschirm und Wolke](/img/manual/prilozi/prilog1-konture-2.png)
+
+### Anlage 2
+
+Symbole für das Spiel „Erraten und tun“. Sie legen die Karte mit der Bildseite zur Box auf VibeY, sodass das Kind das Symbol spiegelverkehrt durch das Papier sieht. Deshalb tragen die Karten keinen Text.
+
+![Anlage 2: Symbole in die Hände klatschen, mit dem Fuß stampfen, mit den Fingern schnipsen, Arme heben](/img/manual/prilozi/prilog2-simboli-1.png)
+
+![Anlage 2: Symbole Arme ausbreiten, in die Hocke gehen, springen, Kopf berühren](/img/manual/prilozi/prilog2-simboli-2.png)

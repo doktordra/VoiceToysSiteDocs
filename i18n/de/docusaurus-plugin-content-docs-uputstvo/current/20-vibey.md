@@ -83,7 +83,7 @@ Visuelle Darstellung der eingeschalteten Vibration/des eingeschalteten Lichts
 
 Nach dem Start arbeitet das Gerät mit den Parametern, die bei der vorherigen Nutzung eingestellt wurden. Falls Sie die Empfindlichkeitsparameter anpassen oder Vibration bzw. Licht ausschalten möchten, können Sie dies über die mobile App tun.
 
-Schalten Sie das Gerät ein und wählen Sie dann auf dem Startbildschirm der App (dargestellt auf Seite 7) die Option **VibeY**, nachdem ihr Symbol grün geworden ist. Wenn die Verbindung erfolgreich ist, gibt das Gerät kurz ein blaues Licht ab, auf dem Telefon erscheint der auf dem Bild auf der vorherigen Seite gezeigte Bildschirm, und die Bedienelemente übernehmen den im Gerät aktuell aktiven Zustand.
+Schalten Sie das Gerät ein und wählen Sie dann auf dem Startbildschirm der App (beschrieben im Kapitel [Mobile App](/uputstvo/mobilna-aplikacija#startbildschirm)) die Option **VibeY**, nachdem ihr Symbol grün geworden ist. Wenn die Verbindung erfolgreich ist, gibt das Gerät kurz ein blaues Licht ab, auf dem Telefon erscheint der auf dem Bild auf der vorherigen Seite gezeigte Bildschirm, und die Bedienelemente übernehmen den im Gerät aktuell aktiven Zustand.
 
 Nach Auswahl der Option **VibeY** auf dem Startbildschirm der App sind Sie in den Bildschirm mit den Funktionsdarstellungen der mobilen App für das Gerät **VibeY** gelangt.
 
@@ -135,7 +135,7 @@ Durch Antippen der Schaltfläche **„X"** kehren Sie zum Startbildschirm des Ge
 >
 *Bildschirmansicht nach dem Antippen des Felds „Preset auswählen oder erstellen"*
 
-In der oberen Hälfte des Startbildschirms befindet sich das Feld **„Preset auswählen oder erstellen"**. Durch Antippen dieses Felds wird Ihnen ein Bildschirm angezeigt, in dessen unterem Teil sich Reiter mit den Namen „Standard" und „Benutzer" befinden (Bild rechts). Unter den Standard-Presets befinden sich die werkseitig eingestellten Licht- und Vibrationsreaktionen Ihres Geräts, die durch die Namen unter dem Bild jedes einzelnen beschrieben werden. Unter den Benutzer-Presets befinden sich jene Einstellungen, die Sie selbst erstellt und benannt haben. Wie Sie Einstellungen erstellen und speichern, sehen Sie auf Seite 19.
+In der oberen Hälfte des Startbildschirms befindet sich das Feld **„Preset auswählen oder erstellen"**. Durch Antippen dieses Felds wird Ihnen ein Bildschirm angezeigt, in dessen unterem Teil sich Reiter mit den Namen „Standard" und „Benutzer" befinden (Bild rechts). Unter den Standard-Presets befinden sich die werkseitig eingestellten Licht- und Vibrationsreaktionen Ihres Geräts, die durch die Namen unter dem Bild jedes einzelnen beschrieben werden. Unter den Benutzer-Presets befinden sich jene Einstellungen, die Sie selbst erstellt und benannt haben. Wie Sie Einstellungen erstellen und speichern, ist im Kapitel [SpreadY, Modus Mikrofon](/uputstvo/spready#modus-mikrofon) beschrieben.
 
 Unter dem Feld **„Preset auswählen oder erstellen"** befindet sich ein Bild mit der visuellen Darstellung der ein- oder ausgeschalteten Vibration bzw. des Lichts sowie die Tasten zum Ein- und Ausschalten derselben.
 

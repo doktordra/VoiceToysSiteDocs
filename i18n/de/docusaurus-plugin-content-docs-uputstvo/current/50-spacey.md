@@ -26,7 +26,7 @@ sidebar_position: 7
 
 ### Systembeschreibung und Sicherheitshinweise
 
-SpaceY ist ein System, das aus 5 intelligenten Lautsprechern besteht, die in erster Linie für das Üben der Identifikation und räumlichen Lokalisierung von Schall bei Personen mit Hörschädigung gedacht sind. Sie werden drahtlos verbunden und über eingebaute wiederaufladbare Batterien mit Strom versorgt. Sie werden ausschließlich über die mobile App **VoiceToys** gesteuert. Sie geben leicht erkennbare Geräusche aus, die in Gruppen zu je fünf Geräuschen eingeteilt sind.
+SpaceY ist ein System aus 5 intelligenten Lautsprechern, das in erster Linie für das Üben der Identifikation und räumlichen Lokalisierung von Schall bei Personen mit Hörschädigung entwickelt wurde. Spiele und Einstellungen ermöglichen den Einsatz in der Arbeit mit Kindern jeden Alters und Entwicklungsstands. Sie werden drahtlos verbunden und über eingebaute wiederaufladbare Batterien mit Strom versorgt. Sie werden ausschließlich über die mobile App **VoiceToys** gesteuert. Sie geben leicht erkennbare Geräusche aus, die in Gruppen zu je fünf Geräuschen eingeteilt sind.
 
 ![SpaceYs.3](/voice-toys/images/image-135.png)
 
@@ -73,9 +73,9 @@ Das Gerät enthält eine Lithium-Ionen-Batterie, die mit einer Spannung von **5V
 *Aussehen des App-Bildschirms: Geräuschgruppen, Wiedergabesteuerung, Lautstärke, Zeitanzeigen und Batteriezustand.*
 
 
-Nachdem Sie das Gerät eingeschaltet haben, wählen Sie auf dem Startbildschirm der App (dargestellt auf Seite 7) die Option „SpaceY“, sobald sich ihr Symbol grün färbt. Wenn die Verbindung erfolgreich ist, erlöschen die Lichter an den Lautsprechern und sie sind betriebsbereit.
+Nachdem Sie das Gerät eingeschaltet haben, wählen Sie auf dem Startbildschirm der App (beschrieben im Kapitel [Mobile App](/uputstvo/mobilna-aplikacija#startbildschirm)) die Option „SpaceY“, sobald sich ihr Symbol grün färbt. Wenn die Verbindung erfolgreich ist, erlöschen die Lichter an den Lautsprechern und sie sind betriebsbereit.
 
-Im oberen grünen Feld des App-Bildschirms sehen Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe. Die Funktionen dieser Tasten werden auf Seite 16 erläutert. Unmittelbar darunter befindet sich ein Abschnitt, in dem Sie den Ladezustand der Batterien für jeden der Lautsprecher sehen können.
+Im oberen grünen Feld des App-Bildschirms sehen Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe. Die Funktionen dieser Tasten werden im Kapitel [SpreadY](/uputstvo/spready#funktionen-der-mobilen-app-für-das-gerät-spready) erläutert. Unmittelbar darunter befindet sich ein Abschnitt, in dem Sie den Ladezustand der Batterien für jeden der Lautsprecher sehen können.
 
 Im oberen Bereich des Bildschirms befinden sich die folgenden Tasten:
 
@@ -112,7 +112,7 @@ Im unteren Bereich des Bildschirms befinden sich:
 
 - an den Positionen unter dem blauen und gelben Feld befinden sich Felder in den Farben grün 👍 und rot 👎, die zur **Bewertung der Antworten** dienen. Eine richtige Antwort wird durch Drücken auf das grüne, eine falsche durch Drücken auf das rote Feld bewertet. Dabei sind charakteristische Geräusche der Zustimmung zusammen mit bunten Lichtern zu hören, die der Lautsprecher ausstrahlt, aus dem das vorgegebene Geräusch kam – bei richtigen Antworten, oder ein Geräusch der Ablehnung zusammen mit rotem Licht, das alle Lautsprecher ausstrahlen – bei falschen Antworten. Auf den Tasten erscheinen Zahlen, die die Anzahl der gegebenen richtigen bzw. falschen Antworten angeben.
 
-Im unteren grünen Feld des Bildschirms befindet sich die Taste **„Modus“**. Durch Drücken dieser Taste erscheinen die Geräuschgruppen, die Sie auswählen können (Tiere, Fahrzeuge, Haushaltsgeräte, Instrumente und Natur). Durch die Auswahl einer der Geräuschgruppen ändern sich die Bilder im unteren Bereich des Bildschirms, und es erscheinen Bilder aus der Geräuschgruppe, die Sie ausgewählt haben. Durch Drücken der Bilder werden neue Geräusche ausgegeben, die den Bildern entsprechen.
+Im unteren grünen Feld des Bildschirms befindet sich die Taste **„Modus“**. Durch Drücken dieser Taste erscheinen die Klangbänke, die Sie auswählen können. Es gibt 21, mit je fünf Geräuschen: Tiere, Fahrzeuge, Haushaltsgeräte, Instrumente, Natur, Haustiere, Wildtiere, Körper, Mund, Emotionen, zehn Silbenbänke (die Konsonanten B, P, M, T, D und S, Z, Š, Č, Ž, jede Reihe mit den Vokalen A, E, I, O, U) und Stimmen. Durch die Auswahl einer der Geräuschgruppen ändern sich die Bilder im unteren Bereich des Bildschirms, und es erscheinen Bilder aus der Geräuschgruppe, die Sie ausgewählt haben. Durch Drücken der Bilder werden neue Geräusche ausgegeben, die den Bildern entsprechen.
 
 Durch Drücken der Taste mit dem Häuschen-Symbol kehren Sie zum Startbildschirm der **VoiceToys**-App zurück, wo Sie ein anderes Gerät aus dem **VoiceToys**-System auswählen können, mit dem Sie die Arbeit fortsetzen möchten.
 </FigureBlock>

@@ -12,7 +12,15 @@ Nach Ablauf der Garantiefrist oder im Falle einer physischen Beschädigung oder 
 
 ### Wartung
 
-VoiceToys-Geräte erfordern keinerlei besondere Wartung, außer der Reinigung mit einem weichen Tuch und milden Desinfektionsmitteln.
+VoiceToys-Geräte erfordern keine besondere Wartung, außer der regelmäßigen Reinigung.
+
+- Reinigen Sie die Geräte im ausgeschalteten Zustand.
+- Verwenden Sie für die regelmäßige Reinigung ein weiches Mikrofasertuch, leicht mit Wasser und etwas Neutralreiniger befeuchtet, und wischen Sie die Geräte danach mit einem trockenen Tuch ab.
+- Wischen Sie VibeY nach jedem Kind ab, das das Gerät berührt hat.
+- Wenn eine Desinfektion nötig ist (Speichel, sichtbare Verschmutzung, ansteckende Krankheit), verwenden Sie ausschließlich 70-prozentigen Isopropylalkohol, aufgetragen auf das Tuch, niemals direkt auf das Gerät.
+- Verwenden Sie keine Mittel auf Ethanolbasis (die meisten fertigen Desinfektionstücher), keine ammoniakhaltigen Mittel (Glasreiniger), kein Aceton, keine Verdünner und keine Scheuermittel. Sie beschädigen die Acrylteile und können Risse verursachen.
+- Befeuchten Sie die Holzflächen der SpaceY-Lautsprecher nicht; wischen Sie sie nur mit einem trockenen Tuch ab.
+- Flüssigkeit darf nicht in die Mikrofonöffnungen, den Schalter oder den USB-C-Anschluss gelangen.
 
 ### Service
 

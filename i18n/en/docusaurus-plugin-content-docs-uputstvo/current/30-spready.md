@@ -164,7 +164,7 @@ You can always return to the home screen of the **"VoiceToys"** application by p
 
 ## Memory mode - settings
 
-**3-7:** After entering the menu for selecting the device's operating mode by pressing the **"MODE"** button, you select the mode of the memory game and learning addition by pressing the **"Memory"** button. The screen shown on the previous page will appear, in whose upper blue field you can see the mode the device is in and the buttons for system information and help. The function and the way of using these buttons are described on page 15.
+**3-7:** After entering the menu for selecting the device's operating mode by pressing the **"MODE"** button, you select the mode of the memory game and learning addition by pressing the **"Memory"** button. The screen shown on the previous page will appear, in whose upper blue field you can see the mode the device is in and the buttons for system information and help. The function and the way of using these buttons are described in the section [Mobile application functions](#mobile-application-functions-for-the-spready-device).
 
 The memory game generates sequences of random numbers from 1 to 5 and displays them by lighting up the columns. By adjusting the parameters, which is done using the application, you can determine the level of complexity of the game. The adjustment of the parameters is done using the sliders located in the lower part of the screen, whose layout is shown on the previous page.
 
@@ -185,11 +185,11 @@ The memory game generates sequences of random numbers from 1 to 5 and displays t
 
 **Light intensity** determines the intensity of the light with which the columns will be lit.
 
-If you change the parameters of sound level, sensitivity, light intensity or decay, you can save your settings in the way described on page 19.
+If you change the parameters of sound level, sensitivity, light intensity or decay, you can save your settings in the way described in the section [Microphone mode](#microphone-mode).
 
 Below the sliders for adjusting the game parameters there are the PLAY ▶️ , REPEAT 🔁  and ARROW 🔽 buttons. Their purpose is explained on the following page.
 </FigureBlock>
-In the lower blue field of the application screen is the "Presets" button, whose use is described on page 19. You can always return to the home screen of the "VoiceToys" application by pressing the button with the house image, located in the middle of the lower blue field of the application screen.
+In the lower blue field of the application screen is the "Presets" button, whose use is described in the section [Microphone mode](#microphone-mode). You can always return to the home screen of the "VoiceToys" application by pressing the button with the house image, located in the middle of the lower blue field of the application screen.
 
 ---
 ## Memory mode - principle of operation
@@ -228,7 +228,7 @@ If you want to change the parameters, by pressing the 🔽 button the sliders fo
 >
 ***Manual** mode: battery indicators, intensity, column activation and mode controls.*
 
-After entering the menu for selecting the device's operating mode by pressing the **"MODE"** button, you select the mode of the memory game and learning addition by pressing the **"Manual"** button. The screen shown on the previous page will appear, in whose upper blue field you can see the mode the device is in and the buttons for system information and help. The function and the way of using these buttons are described on page 15.
+After entering the menu for selecting the device's operating mode by pressing the **"MODE"** button, you select the mode of the memory game and learning addition by pressing the **"Manual"** button. The screen shown on the previous page will appear, in whose upper blue field you can see the mode the device is in and the buttons for system information and help. The function and the way of using these buttons are described in the section [Mobile application functions](#mobile-application-functions-for-the-spready-device).
 
 We note that in this case too, the same arrangement of columns applies as for the "Microphone" mode - **blue**, **green, yellow, red, gray**, as is also shown on the application screen.
 

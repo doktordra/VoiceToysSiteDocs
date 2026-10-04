@@ -20,10 +20,10 @@ sidebar_position: 40
 - **[Fange die Katze](#fange-die-katze)**
 - **[Moro-Reflex](#moro-reflex)**
 
-SpaceY ist ein System aus 5 drahtlosen intelligenten Lautsprechern. Es ermöglicht Benutzern, Geräusche zu identifizieren und die Klangquelle präzise zu lokalisieren, d.h. ihre Position, Richtung und Entfernung zu bestimmen. Die Gehäuse sind in klaren, deutlichen Farben gefärbt, um eine einfache Erkennung zu ermöglichen.
+SpaceY ist ein System aus 5 drahtlosen intelligenten Lautsprechern. Es ermöglicht Benutzern, Geräusche zu identifizieren und die Klangquelle präzise zu lokalisieren, d.h. ihre Position, Richtung und Entfernung zu bestimmen. Die Gehäuse sind in klaren, deutlichen Farben gefärbt, um eine einfache Erkennung zu ermöglichen. Es wurde in erster Linie für das Üben der Identifikation und räumlichen Lokalisierung von Schall bei Kindern mit Hörschädigung entwickelt; Spiele und Einstellungen ermöglichen den Einsatz in der Arbeit mit Kindern jeden Alters und Entwicklungsstands.
 Es ist das einzige System von Geräten auf der VoiceToys-Plattform, das eine mobile App erfordert und ohne sie nicht funktioniert.
 Geräusche in der App werden durch Symbole dargestellt. Jedes wird durch Linien in der Lautsprecherfarbe eingerahmt.
-Es stehen 105 Klangmuster zur Verfügung, die in Klangbänken gruppiert sind. Die App selbst enthält Optionen zum Markieren von Antworten: OK und NICHT OK (dargestellt durch Daumen hoch - mit grünem Hintergrund und Daumen runter - mit rotem Hintergrund), mit denen Benutzer korrekte oder falsche Antworten markieren können. Lautsprecher reagieren auf diese Aktionen durch Erzeugung von Schall- und Lichteffekten. Wenn das Kind die Klangquelle nicht lokalisieren kann, können Sie es mit der Schaltfläche "Hilfe" zur korrekten Antwort führen, die ein Lichtsignal auf dem Lautsprecher aktiviert, von dem der Klang emittiert wurde.
+Es stehen 105 Klangmuster zur Verfügung, gruppiert in 21 Klangbänke mit je fünf Geräuschen. Die App selbst enthält Optionen zum Markieren von Antworten: OK und NICHT OK (dargestellt durch Daumen hoch - mit grünem Hintergrund und Daumen runter - mit rotem Hintergrund), mit denen Benutzer korrekte oder falsche Antworten markieren können. Lautsprecher reagieren auf diese Aktionen durch Erzeugung von Schall- und Lichteffekten. Wenn das Kind die Klangquelle nicht lokalisieren kann, können Sie es mit der Schaltfläche "Hilfe" zur korrekten Antwort führen, die ein Lichtsignal auf dem Lautsprecher aktiviert, von dem der Klang emittiert wurde.
 Außerdem verfolgt die App Benutzerergebnisse: die Geschwindigkeit der letzten Antwort, den Durchschnittswert aller Antworten sowie die Genauigkeit (korrekte und falsche Antworten) und bietet einen detaillierten Einblick in die Benutzerfortschritte.
 
 Die Verwendung von Lautsprechern wird für die Entwicklung verschiedener auditorischer, sprachlicher, kognitiver und sozialer Fähigkeiten empfohlen, einschließlich:
@@ -52,7 +52,7 @@ Es kann bei Kindern mit Sehbehinderung eingesetzt werden, da auditorische Fähig
 
 TECHNISCHE ANLEITUNG:
 
-Nach dem Einschalten der Lautsprecher öffnen Sie die App und wählen Sie SpaceY, wenn sein Symbol auf dem Bildschirm grün leuchtet. Drücken Sie dann die Schaltfläche "Klänge" (in der unteren rechten Ecke des Bildschirms) und wählen Sie die gewünschten aus. Es gibt Geräusche aus verschiedenen Kategorien: Tiere, Fahrzeuge, Haushaltsgeräte, Musikinstrumente, Geräusche aus der Natur, Haustiere, Geräusche, die vom Körper erzeugt werden, Mund, Emotionen, Silben und Vokale.
+Nach dem Einschalten der Lautsprecher öffnen Sie die App und wählen Sie SpaceY, wenn sein Symbol auf dem Bildschirm grün leuchtet. Drücken Sie dann die Schaltfläche "Klänge" (in der unteren rechten Ecke des Bildschirms) und wählen Sie die gewünschten aus. Folgende Klangbänke stehen zur Verfügung: Tiere, Fahrzeuge, Haushaltsgeräte, Instrumente, Natur, Haustiere, Wildtiere, Körper, Mund, Emotionen, zehn Silbenbänke (die Konsonanten B, P, M, T, D und S, Z, Š, Č, Ž, jede Reihe mit den Vokalen A, E, I, O, U) und Stimmen.
 
 SPIELVORSCHLÄGE
 

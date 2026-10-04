@@ -18,7 +18,7 @@ sidebar_position: 20
 - **[Farbe und Konzept merken](#farbe-und-konzept-merken)**
 - **[Addition](#addition)**
 - **[Nach Modell färben](#nach-modell-färben)**
-- **[Gehirn Gym](#gehirn-gym)**
+- **[Links–Rechts](#linksrechts)**
 - **[Fange die Farbe](#fange-die-farbe)**
 - **[Wege des Tages](#wege-des-tages)**
 - **[Von Stimme zu Wort](#von-stimme-zu-wort)**
@@ -50,8 +50,7 @@ Dieser Modus eignet sich für Situationen, wenn Sie arbeiten an:
 -   Vokalisierung,
 -   Kontrolle von Schallintensität, Rhythmus und Dauer,
 -   Erkennung und Beseitigung schädlicher Stimmgebungsmuster (wie Schreien und laute Töne während des Spiels),
--   reduzierte Stimmdauer,
--   verschiedene Formen von Dysphonie,
+-   Stimmarbeit mit Kindern mit Stimmstörungen, im Rahmen einer von einer Fachkraft geleiteten Behandlung,
 -   Aufmerksamkeitsstörungen.
 
 Technische Anleitung: Nach dem Einschalten der Stäbe öffnen Sie die App und geben Sie den Bereich des SpreadY-Geräts ein, wenn sein Symbol/Foto grün leuchtet. Drücken Sie dann die Taste MODE (in der unteren rechten Ecke) und wählen Sie MIKROFON.
@@ -132,15 +131,17 @@ Ziel: Entwicklung der Feinmotorik, Grafomotorik und Aufmerksamkeit
 
 Beschreibung: Vor dem Kind befinden sich Papier und Buntstifte. Erklären Sie dem Kind, dass einzelne Stäbe leuchten und es versuchen sollte, sie sich zu merken. Aktivieren Sie dann die Lichter im Speichermodus. Beginnen Sie mit einfachen Kombinationen, die nur eine Serie und eine kleinere Anzahl von Stäben umfassen, und erhöhen Sie dann schrittweise die Aufgabenschwierigkeit. Wenn die Stäbe ausschalten, zeichnet das Kind so viele Kreise, wie Stäbe leuchteten, und färbt sie nach dem vorgegebenen Muster ein.
 
-### **Gehirn Gym**
+### **Links–Rechts**
+
+In früheren Versionen des Handbuchs hieß dieses Spiel „Brain Gym“.
 
 Ziel: Entwicklung der Feinmotorik, bilateralen Koordination, visuellen Wahrnehmung, Aufmerksamkeit, Konzentration
 
-Beschreibung: Ordnen Sie 5 Stäbe vor dem Kind an und platzieren Sie Karten darauf (aus Anlage X). Auf jeder der Karten werden Formen gezeigt: Kreis, Quadrat, Rechteck, Stern und "Hassenohren".
-Bereiten Sie Papier für das Kind vor (aus Anlage), auf dem auf der linken Seite Kreise in den Farben der Sockelbäse und auf der rechten Seite Formen stehen.
+Beschreibung: Ordnen Sie 5 Stäbe vor dem Kind an und platzieren Sie Karten darauf ([Anlage 3](#anlage-3)). Auf jeder der Karten werden Formen gezeigt: Kreis, Quadrat, Rechteck, Stern und "Hasenohren".
+Bereiten Sie für das Kind ein Arbeitsblatt vor ([Anlage 3](#anlage-3)), auf dem auf der linken Seite Kreise in den Farben der Sockelbäse und auf der rechten Seite Formen stehen.
 Wenn sich das Licht auf einem der Stäbe einschaltet, beginnt das Spiel. Die Aufgabe besteht darin, dass das Kind sich merkt, welche Sockelbasisfarbe aktiviert wurde und welche Form auf der Karte angezeigt wird. Finden Sie dann auf dem Papier einen Kreis der entsprechenden Farbe und berühren Sie ihn mit dem linken Zeigefinger, und die Form auf der Karte des eingeschalteten Stabes berühren Sie mit dem rechten Zeigefinger.
 
-Variation: Ordnen Sie die Stäbe und Karten wie im vorherigen Spiel an. In diesem Spiel stellen Symbole eine Hand in verschiedenen Positionen dar:
+Variation: Ordnen Sie die Stäbe und Karten wie im vorherigen Spiel an. In diesem Spiel stellen Symbole eine Hand in verschiedenen Positionen dar (die Legende finden Sie in [Anlage 3](#anlage-3)):
 
 \- Quadrat - Handfläche nach unten mit geschlossenen Fingern
 \- Stern - gespreizter Finger,
@@ -213,7 +214,7 @@ Variationen: Sie können das Spiel durch Folgendes verbessern und ändern:
 -   Zerlegung des Wortes in Silben oder Kombination von Silben zu Wörtern (zuerst kürzere, dann längere) und dadurch Förderung des frühen Lesens.
 -   Fragen wie: Welchen Laut hörst du am Anfang? Welcher am Ende?
 -   Geben Sie ein neues Wort vor und fordern Sie das Kind auf, den ersten Laut im Wort zu ersetzen (beispielsweise Hund wird das Kind ein neues Wort Katze sagen), um die Lautdiskriminierung zu üben
--   wenn das Kind Grapheme erkennt, Karten mit entsprechenden Buchstaben auf den Stäben anordnen, bis Sie das angegebene Wort zusammensetzen.
+-   wenn das Kind Grapheme erkennt, wählt es Karten mit den entsprechenden Buchstaben aus und der Therapeut ordnet sie auf den Stäben an, bis das Kind das angegebene Wort zusammengesetzt hat.
 
 ### **Zusammensetzen/Auseinandernehmen Wort**
 
@@ -262,7 +263,7 @@ Diese Spiele können je nach den eingestellten Aufgaben im "Manuell"- oder "Spei
 
 Ziel: Entwicklung der visuellen Wahrnehmung, Aufmerksamkeit und Gedächtnis
 
-Beschreibung: Für dieses Spiel benötigen wir Bilder mit verwandten Bedeutungen (beispielsweise Regenschirm und Wolke mit Regen; Löffel und Teller...), wobei eines aus jedem Paar auf dem Stab ist, und der Rest ist vor dem Kind vermischt. Das Kind wählt ein Bild aus und gleicht es mit dem Bild auf dem Stab ab. Für jede richtige Lösung erhält das Kind ein Lichtsignal als Bestätigung.
+Beschreibung: Für dieses Spiel benötigen wir Bilder mit verwandten Bedeutungen (beispielsweise Regenschirm und Wolke mit Regen; Löffel und Teller...), wobei eines aus jedem Paar auf dem Stab ist, und der Rest ist vor dem Kind vermischt. Das Kind wählt ein Bild aus und legt es vor den Stab, auf dem sich das passende Gegenstück befindet. Für jede richtige Lösung erhält das Kind ein Lichtsignal als Bestätigung.
 
 ### **Ball unter Füßen**
 
@@ -286,7 +287,7 @@ Das Kind kann mit zusätzlichen Herausforderungen konfrontiert werden:
 
 Ziel: Entwicklung logischen Denkens und Gedächtnis, Beherrschung von Konzepten und ihrer Verbindung in einer logischen Reihenfolge, Entwicklung der Bewegungskoordination, Konzentration, räumliche Orientierung.
 
-Beschreibung: Ordnen Sie die Stäbe linear in einem Abstand an, der dem Kind freie Bewegung ermöglicht. Zuvor sprechen wir mit dem Kind über die Wochentage, welche Arbeitstage sind, und was das Wochenende ist. Wir stellen fest, welche wöchentlichen Routinen das Kind hat (Mittwoch und Freitag kommen sie zum Logopäden, Montag und Donnerstag treiben sie Sport, an welchen Tagen gehen sie in den Kindergarten, zu Oma, usw.). Danach zeichnet das Kind oder findet Karten vor, die es mit ihren täglichen Routinen verbinden und an Stäben aufhängen kann. Das Kind muss sich von einem Stab zum anderen bewegen und dabei die Konzepte sagen, die einer logischen Reihenfolge folgen, und die Bilder helfen ihnen, sich an die Wochentage zu erinnern. Für jede richtige Antwort schaltet der Therapeut das Stäbchen ein.
+Beschreibung: Ordnen Sie die Stäbe linear in einem Abstand an, der dem Kind freie Bewegung ermöglicht. Zuvor sprechen wir mit dem Kind über die Wochentage, welche Arbeitstage sind, und was das Wochenende ist. Wir stellen fest, welche wöchentlichen Routinen das Kind hat (Mittwoch und Freitag kommen sie zum Logopäden, Montag und Donnerstag treiben sie Sport, an welchen Tagen gehen sie in den Kindergarten, zu Oma, usw.). Danach zeichnet das Kind Karten oder sucht fertige Karten aus, die es mit seinen täglichen Routinen verbinden kann, und der Therapeut hängt sie an die Stäbe. Das Kind muss sich von einem Stab zum anderen bewegen und dabei die Konzepte sagen, die einer logischen Reihenfolge folgen, und die Bilder helfen ihnen, sich an die Wochentage zu erinnern. Für jede richtige Antwort schaltet der Therapeut das Stäbchen ein.
 
 Anpassung: Während des Spiels bewerten wir die Fähigkeiten der Kinder und passen die Anforderungen entsprechend an. Wir ändern die Wege von einem Stab zum anderen, die Bewegungsgeschwindigkeit, den Abstand zwischen Stäben, die Einbeziehung zusätzlicher visueller Reize oder verschiedener Requisiten, die die Bewegung des Kindes erschweren können (leichtes Rollen eines Balls auf dem Boden).
 
@@ -295,3 +296,17 @@ Anpassung: Während des Spiels bewerten wir die Fähigkeiten der Kinder und pass
 Ziel: Mittellinie überqueren
 
 Beschreibung: Bereiten Sie zuvor 5 Kreise in Stabfarben vor und kleben Sie sie auf eine Wand in einer Höhe, die an das Kind angepasst ist. Das Kind steht mit dem Rücken zur Wand und hält einen Ball mit beiden Händen. Ihnen gegenüber sind Stäbe, deren Lichter sich zufällig einschalten und Sie auffordern, darauf zu reagieren. Nach der Farberkennung dreht sich das Kind zur Wand hin (ohne die Füße zu bewegen), zielt mit dem Ball auf den Kreis der entsprechenden Farbe und berührt ihn. Danach kehrt das Kind in die Ausgangsposition zurück, bereit für die nächste Aufgabe.
+
+## Anlagen
+
+Die Karten sind 60 × 60 mm groß; passen Sie die Größe an die Kartenhalter an. Alle Anlagen des Handbuchs können als [PDF zum Ausdrucken](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf) heruntergeladen werden. Die Beschriftungen auf den Seiten der Anlagen sind auf Serbisch.
+
+### Anlage 3
+
+Formkarten, Arbeitsblatt und Legende für das Spiel „Links–Rechts“.
+
+![Anlage 3: Formkarten Kreis, Quadrat, Rechteck, Stern und Hasenohren](/img/manual/prilozi/prilog3-kartice-oblika.png)
+
+![Anlage 3: Arbeitsblatt, links Kreise in den Farben der Stabsockel, rechts Formen](/img/manual/prilozi/prilog3-radni-list.png)
+
+![Anlage 3: Legende der Handpositionen für die Spielvariante](/img/manual/prilozi/prilog3-legenda.png)

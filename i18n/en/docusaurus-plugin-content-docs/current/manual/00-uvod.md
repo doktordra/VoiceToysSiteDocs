@@ -10,25 +10,32 @@ Since speech development disorders are often accompanied by slower psychomotor d
 
 VT devices represent a powerful stimulation tool that, through its design philosophy and functions, attracts children's attention. The combination of play and technology motivates children to actively participate in treatment, to more easily acquire new knowledge and skills, and helps the therapist achieve desired results. During treatment, the therapist provides instructions, guides, controls the flow, and monitors outcomes, maintaining a clear perspective and documenting progress. The child, as an active participant in the therapeutic process, repeats activities and establishes control over their performance.
 
-According to sensory integration theory, developed by Jean Ayres, children have an innate need to integrate sensory information to feel safe and stable in their bodies, and to effectively respond to environmental changes. She also emphasizes that when children experience sound, light, and tactile stimuli simultaneously, their ability to recognize and process these stimuli becomes stronger and faster. This increases the efficiency and accuracy of perceptual reactions, which directly impacts speech and communication abilities. For example, children who can perceive the rhythmic characteristics of sound through light and vibration signals often develop more quickly in the precision of using tempo and intonation in speech.
+The VoiceToys system is based on real-time feedback: the child's voice, sound or movement immediately receives a visible, audible or tactile response from the device. Such feedback makes voice features that a child otherwise finds hard to follow (loudness, pitch, duration, rhythm) perceivable, helps the child notice the link between their behaviour and its effect, and supports repetition and self-control. Visual feedback on the voice is an established part of voice and speech therapy practice, and multisensory stimulation is used in sensory integration (A. Jean Ayres) and Snoezelen approaches. The devices are a tool in the hands of a professional; the choice of goals and activities and the assessment of progress remain the therapist's professional decision.
 
 Through practice, we are familiar with how long the process of acquiring knowledge and skills takes, especially in children with developmental difficulties. Since children learn best when motivated, VT devices allow them to enjoy learning unconsciously of the goal being set, making the entire process easier and results visible.
 
-Why is it important to combine all VT system devices in therapeutic and educational work?
+**Why combine the devices?**
 
-In the context of VARK (Visual, Auditory, Read/write, and Kinesthetic/sensory) model by Neil Fleming, the advantage of the VT system is that it is suitable for different learning styles, making it a universal tool for working with children. Combining and selecting the functions offered by VoiceToys allows us to adapt to each child individually, and children show the greatest ability to acquire information when learning methods are tailored to their individual needs.
+Children differ in which channel attracts them and which is accessible to them: one child responds to light, another to vibration, another to sound in space. Combining the devices allows the same goal, for example control of voice loudness or auditory attention, to be set through different channels and forms of play, keeps motivation up and lets the task become gradually more complex.
 
 VT devices that emit sound signals help children recognize and imitate sounds, words, and phrases, while additional visual support enables them to better process and integrate content through visual presentations.
 
 By combining VT devices with cards containing pictures, words, and texts, we stimulate children to acquire new information by recognizing the displayed content. Games in which the child actively participates, moves, and manipulates objects, encourage the development of basic motor skills and enable their integration into daily activities, thereby contributing to the overall psychomotor development and functional adaptation of the child.
 
-When we sum up all these possibilities, the VoiceToys system allows the child to discover and acquire new content in various ways that are characteristic of them. The devices arouse children's interest and they become motivated and open to new experiences and impressions. Based on the survey we conducted, we determined that therapists most frequently use VT devices in their treatments for speech and language development, improvement of sensory abilities, visual and auditory attention, motor and social skills.
+When we sum up all these possibilities, the VoiceToys system allows the child to discover and acquire new content in various ways that are characteristic of them. The devices arouse children's interest and they become motivated and open to new experiences and impressions.
 
-VT devices can provide great support during testing of children. Coming for an assessment is a completely unknown, new experience that can cause discomfort. For this reason, specialists are expected to be more engaged in order to obtain a deeper insight into the child's developmental profile/status. With VT devices, children spontaneously react, communicate, and have the opportunity to express themselves without the pressure of formal testing.
-
-The VT system enables assessment of multiple developmental aspects – from auditory perception, through motor coordination, to language and social skills development. Testing becomes more enjoyable and the child responds to set tasks in a way that is closer to everyday circumstances. All of this provides a more realistic insight into their abilities.
+During assessment, the devices can help establish contact and motivation and offer an opportunity for informal observation of the child: coming to an assessment is a new experience for a child, and with the devices the child reacts and communicates more spontaneously. The devices are not a test, do not provide standardised results and do not replace standardised assessment instruments.
 
 This manual describes the functions and provides game suggestions for each of the 4 devices that make up the interactive multifunctional VoiceToys platform - VibeY, SpaceY, SpreadY, and JumpY. It is designed so that therapists get initial ideas for using VT devices, which they can later develop and adapt to their therapeutic process needs. The proposed games are simple and inspired by everyday practice.
 
-BEFORE USING ANY OF THESE DEVICES, IT IS NECESSARY THAT A QUALIFIED PROFESSIONAL (SPEECH-LANGUAGE PATHOLOGIST, SPECIAL EDUCATOR, PSYCHOLOGIST, OR OTHER SPECIALIST WORKING WITH CHILD DEVELOPMENT) ASSESS POSSIBLE RISKS TO THE CHILD!
-SPECIAL ATTENTION SHOULD BE PAID TO WHETHER THE CHILD IS HYPERSENSITIVE TO LIGHT OR SOUND AND ADAPT THE DEVICE'S FUNCTIONS AND WORKING METHOD ACCORDINGLY!
+:::danger[Before use]
+
+Before using any of these devices, a qualified professional (speech-language pathologist, special educator, psychologist or other specialist working with child development) must assess possible risks to the child. Pay special attention to whether the child is hypersensitive to light, sound or vibration, and adapt the device's functions and way of working accordingly.
+
+:::
+
+:::warning[Photosensitivity]
+
+VoiceToys devices emit light effects, including changing and flashing lights. In people with photosensitive epilepsy or a tendency to seizures, light effects can trigger a seizure. Before working, check with the parent or guardian and in the child's records whether there is epilepsy or an earlier reaction to flashing light. A detailed warning is in the [User Guide](/uputstvo/opste-informacije#warnings).
+
+:::

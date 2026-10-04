@@ -34,7 +34,7 @@ Das Lichtpanel ist für keinerlei physischen Kontakt mit dem Benutzer vorgesehen
 
 ### Inbetriebnahme des Systems
 
-Das JumpY-Panel ist für die Wandmontage vorgesehen. Die Montageanleitung befindet sich auf der nächsten Seite. Falls Sie es häufig umstellen müssen, können Sie es auf eigene Verantwortung auch ohne Befestigung verwenden. Das JumpY-Panel ist das einzige VoiceToys-Gerät, das während des Betriebs an das Stromnetz angeschlossen sein muss. Stellen Sie deshalb vor der Verwendung sicher, dass sich eine Stromquelle in der Nähe befindet. Das Gerät wird über ein Kabel mit USB-C-Anschluss mit Strom versorgt. Der Anschluss befindet sich an der unteren rechten Seite des Lichtpanels, unmittelbar unter dem Schalter.
+Das JumpY-Panel ist für die Wandmontage vorgesehen. Die Montageanleitung folgt weiter unten. Falls Sie es häufig umstellen müssen, können Sie es auf eigene Verantwortung auch ohne Befestigung verwenden. Stellen Sie ein nicht befestigtes Panel so auf, dass es nicht umkippen kann: mit der ganzen Unterkante auf dem Boden, an die Wand gelehnt, außerhalb der Laufwege der Kinder. Für Spiele mit Bewegung, Springen und Ball muss das Panel an der Wand befestigt sein. Das JumpY-Panel ist das einzige VoiceToys-Gerät, das während des Betriebs an das Stromnetz angeschlossen sein muss. Stellen Sie deshalb vor der Verwendung sicher, dass sich eine Stromquelle in der Nähe befindet. Das Gerät wird über ein Kabel mit USB-C-Anschluss mit Strom versorgt. Der Anschluss befindet sich an der unteren rechten Seite des Lichtpanels, unmittelbar unter dem Schalter.
 
 Schließen Sie damit einen handelsüblichen USB-Adapter, **mindestens 5V/3A**, an das Stromnetz an. Schalten Sie den Schalter ein. Das Gerät initialisiert sich, indem es rotes Licht ausstrahlt. Nach einer kurzen Initialisierungsphase beginnt das Gerät zu arbeiten, und zwar in jenem Modus, in dem es bei der vorherigen Verwendung gearbeitet hat.
 
@@ -78,7 +78,7 @@ Die Auswahl der Betriebsmodi und die Feineinstellungen des Geräts werden über 
 
 
 
-Nachdem Sie das Gerät eingeschaltet haben, wählen Sie auf dem Startbildschirm der App (dargestellt auf Seite 7) die Option „JumpY“, sobald sich ihr Symbol grün färbt. Wenn die Verbindung erfolgreich ist, strahlt das Lichtpanel kurz blaues Licht aus, und die mobile App übernimmt die Einstellungen des Geräts und zeigt die Werte an, mit denen es derzeit arbeitet.
+Nachdem Sie das Gerät eingeschaltet haben, wählen Sie auf dem Startbildschirm der App (beschrieben im Kapitel [Mobile App](/uputstvo/mobilna-aplikacija#startbildschirm)) die Option „JumpY“, sobald sich ihr Symbol grün färbt. Wenn die Verbindung erfolgreich ist, strahlt das Lichtpanel kurz blaues Licht aus, und die mobile App übernimmt die Einstellungen des Geräts und zeigt die Werte an, mit denen es derzeit arbeitet.
 
 Im oberen roten Feld des App-Bildschirms sehen Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe.
 
@@ -134,7 +134,7 @@ Im Folgenden werden die Zugriffs- und Verwendungsweisen jedes der genannten Modi
 
  - Reaktion auf Schall
   
-Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus der visuellen Identifikation von Schallpegel und Entfernung durch Drücken der Taste **„Reaktion“**. Es erscheint der auf Seite 27 dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind auf Seite 26 beschrieben.
+Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus der visuellen Identifikation von Schallpegel und Entfernung durch Drücken der Taste **„Reaktion“**. Es erscheint der auf dem Bild unten dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
 
 <FigureBlock
 	src="/voice-toys/images/screenshots/sr/JumpY_mikrofon-1.jpg"
@@ -205,7 +205,7 @@ Die Einstellung von Schallpegel, Empfindlichkeit und Trägheit der visuellen Rep
 
 Wenn der Abstandssensor eingeschaltet wird, hört das Lichtpanel auf, auf Schall zu reagieren, und reagiert nur auf die Änderung der Entfernung zwischen dem Sensor und dem Objekt. Auf dem App-Bildschirm steht dann **„Entfernung“** und es wird das entsprechende Symbol angezeigt, und im unteren Bereich des Bildschirms erscheint der Schieberegler **Bereich**. Damit regulieren Sie die Empfindlichkeit der Lichtanzeige gegenüber der Änderung der Entfernung des Hindernisses vom Abstandssensor. Je kleiner der Wert auf dem Schieberegler, desto schneller reagieren die Lichter auf dem Panel und füllen den Bildschirm stärker.
 
-**Außerdem können Sie den Abstandssensor auch für die Spiele Reflex, Gleich/verschieden und Rhythmusmuster verwenden.**
+**Außerdem können Sie den Abstandssensor auch für die Spiele Reflex, Unterschiede und Rhythmusmuster verwenden. Dann ersetzt das Überstreichen des Sensors mit der Hand das Klatschen oder ein anderes lautes, scharfes Geräusch.**
 
  Wenn der Abstandssensor ausgeschaltet wird, kehren die App und alle ihre Funktionen sowie das Lichtpanel automatisch in den Modus „Mikrofon“ zurück, das heißt, sie reagieren wieder auf Schall.
 
@@ -243,7 +243,7 @@ Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkeh
 
 *Bildschirmansicht nach dem Aktivieren des Snoezelen-Modus.*
 
-Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Snoezelen-Modus des beruhigenden Lichts durch Drücken der Taste **„Snoezelen“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind auf Seite 26 beschrieben.
+Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Snoezelen-Modus des beruhigenden Lichts durch Drücken der Taste **„Snoezelen“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
 
 Die Einstellung der Farbkombination, der Geschwindigkeit und der Anzahl der angezeigten Farben erfolgt über die Schieberegler, die sich in der unteren Hälfte des App-Bildschirms befinden, im Abschnitt **„Einstellungen“**.
 
@@ -258,7 +258,7 @@ Die Einstellung der Farbkombination, der Geschwindigkeit und der Anzahl der ange
 
 </FigureBlock>
 
-Falls Sie die Parameter Schallpegel, Empfindlichkeit oder Farbe ändern, können Sie Ihre Einstellungen speichern und auf die auf Seite 19 beschriebene Weise darauf zugreifen.
+Falls Sie die Parameter Schallpegel, Empfindlichkeit oder Farbe ändern, können Sie Ihre Einstellungen speichern und auf die im Kapitel [SpreadY, Modus Mikrofon](/uputstvo/spready#modus-mikrofon) beschriebene Weise darauf zugreifen.
 
 Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkehren, indem Sie die Taste mit dem Häuschen-Bild drücken, die sich in der Mitte des unteren roten Feldes des App-Bildschirms befindet.
 
@@ -272,7 +272,7 @@ Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkeh
 
 *Bildschirmansicht nach dem Aktivieren des Reflex-Modus*
 
-Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Klatschspiel durch Drücken der Taste **„Reflex“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind auf Seite 26 beschrieben.
+Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Reflex (Klatschspiel) durch Drücken der Taste **„Reflex“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
 
 Die Einstellung der Empfindlichkeit des Geräts gegenüber Schall erfolgt über die Schieberegler, die sich in der unteren Hälfte des App-Bildschirms befinden, im Abschnitt **„Einstellungen“**.
 
@@ -285,7 +285,7 @@ Die Einstellung der Empfindlichkeit des Geräts gegenüber Schall erfolgt über 
 
 </FigureBlock>
 
-Falls Sie die Parameter Schallpegel, Empfindlichkeit oder Farbe ändern, können Sie **Ihre **Einstellungen speichern** und auf sie zugreifen** auf die auf Seite 19 beschriebene Weise.
+Falls Sie die Parameter Schallpegel, Empfindlichkeit oder Farbe ändern, können Sie **Ihre **Einstellungen speichern** und auf sie zugreifen** auf die im Kapitel [SpreadY, Modus Mikrofon](/uputstvo/spready#modus-mikrofon) beschriebene Weise.
 
 Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkehren, indem Sie die Taste mit dem Häuschen-Bild drücken, die sich in der Mitte des unteren roten Feldes des App-Bildschirms befindet.
 
@@ -300,7 +300,7 @@ Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkeh
 
 *Bildschirmansicht nach dem Aktivieren des Modus Unterschiede.*
 
-Nachdem Sie durch Drücken der Taste „MODUS“ in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Unterschiede – Übung zum Erkennen von Farben durch Drücken der Taste **„Unterschiede“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind auf Seite 26 beschrieben.
+Nachdem Sie durch Drücken der Taste „MODUS“ in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Unterschiede – Übung zum Erkennen von Farben durch Drücken der Taste **„Unterschiede“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
 
 Die Einstellung der Empfindlichkeit des Geräts gegenüber Schall erfolgt über die Schieberegler, die sich in der unteren Hälfte des App-Bildschirms befinden, im Abschnitt **„Einstellungen“. Empfindlichkeit** stellt die Empfindlichkeit des Systems gegenüber einem plötzlichen Anstieg des Schallpegels dar. Dieser plötzliche Anstieg wird durch das Erzeugen eines lauten, scharfen Geräuschs hervorgerufen – Klatschen, Aufstampfen mit dem Fuß, Aufschlagen eines Stifts auf den Tisch, eines Balls auf den Boden, eines Schlags auf die Trommel usw. Weitere Informationen zur Spielweise finden Sie durch Drücken des **Fragezeichen**-Symbols im rechten Teil des oberen roten Feldes.
 
@@ -311,7 +311,7 @@ Die Einstellung der Empfindlichkeit des Geräts gegenüber Schall erfolgt über 
 
 </FigureBlock>
 
-Falls Sie die Parameter Schallpegel, Empfindlichkeit oder Farbe ändern, können Sie Ihre Einstellungen speichern und auf die auf Seite 19 beschriebene Weise darauf zugreifen.
+Falls Sie die Parameter Schallpegel, Empfindlichkeit oder Farbe ändern, können Sie Ihre Einstellungen speichern und auf die im Kapitel [SpreadY, Modus Mikrofon](/uputstvo/spready#modus-mikrofon) beschriebene Weise darauf zugreifen.
 
 Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkehren, indem Sie die Taste mit dem Häuschen-Bild drücken, die sich in der Mitte des unteren roten Feldes des App-Bildschirms befindet.
 
@@ -320,7 +320,7 @@ Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkeh
 
 
 
-Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Erkennen und Wiederholen von Rhythmusmustern durch Drücken der Taste **„Rhythmusmuster“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind auf Seite 26 beschrieben.
+Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Erkennen und Wiederholen von Rhythmusmustern durch Drücken der Taste **„Rhythmusmuster“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
 
 <FigureBlock
 	src="/voice-toys/images/screenshots/sr/JumpY_ritmic_ki_obrazac-1.jpg"
@@ -348,7 +348,7 @@ Auf dem Schieberegler mit den Bezeichnungen **Leicht-Mittel-Schwer** wählen wir
 
 </FigureBlock>
 
-Falls Sie einen der Parameter ändern, können Sie Ihre Einstellungen speichern und auf die auf Seite 19 beschriebene Weise darauf zugreifen.
+Falls Sie einen der Parameter ändern, können Sie Ihre Einstellungen speichern und auf die im Kapitel [SpreadY, Modus Mikrofon](/uputstvo/spready#modus-mikrofon) beschriebene Weise darauf zugreifen.
 
 Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkehren, indem Sie die Taste mit dem Häuschen-Bild drücken, die sich in der Mitte des unteren roten Feldes des App-Bildschirms befindet.
 
@@ -364,7 +364,7 @@ Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkeh
 
 *Bildschirmansicht nach dem Aktivieren des Modus Phonetik.*
 
-Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Phonetik – Üben von Formanten und Zischlauten durch Drücken der Taste **„Phonetik“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind auf Seite 26 beschrieben.
+Nachdem Sie durch Drücken der Taste **„MODUS“** in das Menü zur Auswahl des Betriebsmodus des Geräts gelangt sind, wählen Sie den Modus Phonetik – Üben von Formanten und Zischlauten durch Drücken der Taste **„Phonetik“**. Es erscheint der auf dem rechten Bild dargestellte Bildschirm, in dessen oberem roten Feld Sie den Namen des Geräts und die Tasten für Systeminformationen und Hilfe sehen können. Funktion und Verwendungsweise dieser Tasten sind im Abschnitt [Funktionen der mobilen App](#funktionen-der-mobilen-app-für-das-gerät-jumpy) beschrieben.
 
 Im mittleren Bereich des Bildschirms befindet sich ein Bild, das anzeigt, in welchem Betriebsmodus sich das Gerät befindet.
 
@@ -378,6 +378,6 @@ Auf dem Schieberegler mit der Bezeichnung **Zischlautschwelle** wählen wir die 
 
 **Lichtintensität** stellt die Leuchtstärke des Bildschirms ein; auf diese Funktion greifen Sie über die Zahnrad-Taste im oberen roten Feld zu.
 </FigureBlock>
-Falls Sie einen der Parameter ändern, können Sie Ihre Einstellungen speichern und auf die auf Seite 19 beschriebene Weise darauf zugreifen.
+Falls Sie einen der Parameter ändern, können Sie Ihre Einstellungen speichern und auf die im Kapitel [SpreadY, Modus Mikrofon](/uputstvo/spready#modus-mikrofon) beschriebene Weise darauf zugreifen.
 
 Sie können jederzeit zum Startbildschirm der **„VoiceToys“**-App zurückkehren, indem Sie die Taste mit dem Häuschen-Bild drücken, die sich in der Mitte des unteren roten Feldes des App-Bildschirms befindet.

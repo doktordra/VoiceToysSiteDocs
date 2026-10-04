@@ -86,7 +86,7 @@ Opis: sa detetom analizirate simbole prikazane na slikama ([Prilog 2](#prilog-2
 
 ## Prilozi
 
-Prilozi se štampaju na običnom papiru (80 g/m²), da svetlo uređaja prosija kroz njega. Kartice su veličine 90 × 90 mm. Svi prilozi priručnika mogu se preuzeti kao [PDF za štampu](pathname:///manual-prilozi/VoiceToys-prilozi-prirucnika.pdf).
+Prilozi se štampaju na običnom papiru (80 g/m²), da svetlo uređaja prosija kroz njega. Kartice su veličine 90 × 90 mm. Svi prilozi priručnika mogu se preuzeti kao [PDF za štampu](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf).
 
 ### Prilog 1
 

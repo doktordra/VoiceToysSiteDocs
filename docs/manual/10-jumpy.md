@@ -123,7 +123,7 @@ Napomena: Pre izvođenja ovih igara potrebno je proceniti da li je detetu dovol
 
 Trambolina nije deo sistema VoiceToys. Koristite trambolinu namenjenu terapijskom radu, uz stalni nadzor i bezbedan prostor oko nje. Za igre sa kretanjem, skakanjem i loptom panel JumpY mora biti pričvršćen na zid.
 
-:::  
+:::
 
   
 ### **Blizu daleko**

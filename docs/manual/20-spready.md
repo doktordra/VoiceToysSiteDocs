@@ -306,7 +306,7 @@ Opis: Unapred pripremite 5 krugova u bojama stubića i zalepite ih na zid u visi
 
 ## Prilozi
 
-Kartice su veličine 60 × 60 mm; veličinu uskladite sa nosačima kartica. Svi prilozi priručnika mogu se preuzeti kao [PDF za štampu](pathname:///manual-prilozi/VoiceToys-prilozi-prirucnika.pdf).
+Kartice su veličine 60 × 60 mm; veličinu uskladite sa nosačima kartica. Svi prilozi priručnika mogu se preuzeti kao [PDF za štampu](/manual-prilozi/VoiceToys-prilozi-prirucnika.pdf).
 
 ### Prilog 3
 

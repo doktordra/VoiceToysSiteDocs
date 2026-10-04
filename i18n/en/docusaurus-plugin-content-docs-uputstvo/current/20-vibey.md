@@ -83,7 +83,7 @@ Visual representation of the active vibration/light
 
 After launching, the device operates according to the parameters that were set during the previous use. If you have a need to adjust sensitivity parameters or turn off the vibration or light, you can do so using the mobile application.
 
-Turn on the device, then on the application's home screen (shown on page 7) select the option **VibeY** after its symbol turns green. If the connection is successful, the device will briefly emit blue light, the screen shown in the image on the previous page will appear on the phone, and the controls will take on the state that is currently active in the device.
+Turn on the device, then on the application's home screen (described in the chapter [Mobile application](/uputstvo/mobilna-aplikacija#home-screen)) select the option **VibeY** after its symbol turns green. If the connection is successful, the device will briefly emit blue light, the screen shown in the image on the previous page will appear on the phone, and the controls will take on the state that is currently active in the device.
 
 After selecting the option **VibeY** on the application's home screen, you have entered the screen displaying the mobile application's functions for the **VibeY** device.
 
@@ -135,7 +135,7 @@ By pressing the **"X"** button you return to the home screen of the **VibeY** de
 >
 *Screen view after pressing the "Select or create a preset" field*
 
-In the upper half of the home screen there is a field **"Select or create a preset"**. By pressing this field, a screen will be shown to you in whose lower part there are tabs with the names "Default" and "User" (image right). Under the default presets are the factory-set light and vibration reactions of your device, which are described by the names below the image of each of them. In the user presets are those settings that you created yourself and gave names to. See the way of creating and storing settings on page 19.
+In the upper half of the home screen there is a field **"Select or create a preset"**. By pressing this field, a screen will be shown to you in whose lower part there are tabs with the names "Default" and "User" (image right). Under the default presets are the factory-set light and vibration reactions of your device, which are described by the names below the image of each of them. In the user presets are those settings that you created yourself and gave names to. The way of creating and storing settings is described in the chapter [SpreadY, Microphone mode](/uputstvo/spready#microphone-mode).
 
 Below the "**Select and create a preset**" field there is an image with a visual representation of the turned-on or turned-off vibration or light, as well as buttons for turning them on and off.
 
