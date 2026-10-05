@@ -106,13 +106,13 @@ In the lower part of the screen there are:
 	imagePosition="right"
 >
 
-*Screen view after pressing the "Mode" button.*
+*Screen view after pressing the "Sounds" button.*
 
 - if you want to change the arrangement of the sounds, press one of the arrows ⬅️ or ➡️ located above the blue, that is, the yellow field. The images will swap places, and the speakers will react according to the new arrangement.
 
 - at the positions below the blue and yellow fields there are fields in the colors green 👍 and red 👎 that serve for **evaluating the answers**. A correct answer is evaluated by pressing the green, and an incorrect one by pressing the red field. On that occasion characteristic sounds of approval will be heard together with the colorful lights emitted by the speaker from which the given sound was coming, for correct answers, or a sound of disapproval together with the red light emitted by all the speakers for incorrect answers. On the buttons numbers will appear that indicate the number of given correct, that is, incorrect answers.
 
-In the lower green field of the screen there is the **"Mode"** button. By pressing this button the sound banks that you can select will appear. There are 21 of them, with five sounds in each: animals, vehicles, household appliances, instruments, nature, domestic animals, wild animals, body, mouth, emotions, ten syllable banks (the consonants B, P, M, T, D and S, Z, Š, Č, Ž, each series with the vowels A, E, I, O, U) and voices. By selecting one of the sound groups the images in the lower part of the screen will change and images from the sound group you selected will appear. By pressing the images new sounds will be emitted that correspond to the images.
+In the lower green field of the screen there is the **"Sounds"** button. By pressing this button the sound banks that you can select will appear. There are 21 of them, with five sounds in each: animals, vehicles, household appliances, instruments, nature, domestic animals, wild animals, body, mouth, emotions, ten syllable banks (the consonants B, P, M, T, D and S, Z, Š, Č, Ž, each series with the vowels A, E, I, O, U) and voices. By selecting one of the sound groups the images in the lower part of the screen will change and images from the sound group you selected will appear. By pressing the images new sounds will be emitted that correspond to the images.
 
 By pressing the button with the house symbol you return to the home screen of the **VoiceToys** application where you can select another device from the **VoiceToys** system with which you want to continue working.
 </FigureBlock>
