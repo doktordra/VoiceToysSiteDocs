@@ -90,33 +90,46 @@ function ensureNavbarFullscreenButton() {
   updateFullscreenButtonState();
 }
 
+// Jezici sajta: kod, oznaka na dugmetu, pun naziv i reči po kojima se prepoznaje link.
+// Novi jezik se dodaje samo ovde (i u i18n.locales u docusaurus.config.ts).
+const LOCALES = [
+  { code: 'sr', label: 'SR', title: 'Srpski', match: ['srpski', 'serbian'] },
+  { code: 'en', label: 'EN', title: 'English', match: ['english'] },
+  { code: 'de', label: 'DE', title: 'Deutsch', match: ['deutsch', 'german'] },
+  { code: 'pl', label: 'PL', title: 'Polski', match: ['polski', 'polish'] },
+];
+const DEFAULT_LOCALE = 'sr';
+
+function findLocale(code) {
+  return LOCALES.find((locale) => locale.code === code) || LOCALES[0];
+}
+
 function getCurrentLocale() {
   const { pathname } = window.location;
-  if (pathname.startsWith('/en/')) return 'en';
-  if (pathname === '/en') return 'en';
-  if (pathname.startsWith('/de/')) return 'de';
-  if (pathname === '/de') return 'de';
-  return 'sr';
+  const match = LOCALES.find(
+    (locale) =>
+      locale.code !== DEFAULT_LOCALE &&
+      (pathname === `/${locale.code}` || pathname.startsWith(`/${locale.code}/`)),
+  );
+  return match ? match.code : DEFAULT_LOCALE;
 }
 
 function getLocaleLabel(locale) {
-  if (locale === 'en') return 'EN';
-  if (locale === 'de') return 'DE';
-  return 'SR';
+  return findLocale(locale).label;
 }
 
 function getLocaleTitle(locale) {
-  if (locale === 'en') return 'English';
-  if (locale === 'de') return 'Deutsch';
-  return 'Srpski';
+  return findLocale(locale).title;
 }
 
 function detectLocaleFromLabel(value) {
   const normalized = (value || '').trim().toLowerCase();
-  if (normalized === 'en' || normalized.includes('english')) return 'en';
-  if (normalized === 'de' || normalized.includes('deutsch') || normalized.includes('german')) return 'de';
-  if (normalized === 'sr' || normalized.includes('srpski') || normalized.includes('serbian')) return 'sr';
-  return null;
+  if (!normalized) return null;
+  const match = LOCALES.find(
+    (locale) =>
+      normalized === locale.code || locale.match.some((word) => normalized.includes(word)),
+  );
+  return match ? match.code : null;
 }
 
 function getExistingLocaleLinks(sidebar) {
@@ -147,10 +160,8 @@ function buildLocalePath(targetLocale) {
   const currentLocale = getCurrentLocale();
   let pathWithoutLocale = pathname;
 
-  if (currentLocale === 'en' && pathWithoutLocale.startsWith('/en/')) {
-    pathWithoutLocale = pathWithoutLocale.slice(3);
-  } else if (currentLocale === 'de' && pathWithoutLocale.startsWith('/de/')) {
-    pathWithoutLocale = pathWithoutLocale.slice(3);
+  if (currentLocale !== DEFAULT_LOCALE && pathWithoutLocale.startsWith(`/${currentLocale}`)) {
+    pathWithoutLocale = pathWithoutLocale.slice(currentLocale.length + 1);
   }
 
   if (!pathWithoutLocale.startsWith('/')) {
@@ -158,7 +169,7 @@ function buildLocalePath(targetLocale) {
   }
 
   const localizedPath =
-    targetLocale === 'sr' ? pathWithoutLocale : `/${targetLocale}${pathWithoutLocale}`;
+    targetLocale === DEFAULT_LOCALE ? pathWithoutLocale : `/${targetLocale}${pathWithoutLocale}`;
 
   return `${localizedPath}${search}${hash}`;
 }
@@ -188,6 +199,19 @@ function ensureLanguageSwitcher(controlsRow, sidebar) {
 
   const currentLocale = getCurrentLocale();
   const existingLocaleLinks = getExistingLocaleLinks(sidebar);
+  const options = LOCALES.map((item) => ({
+    code: item.code,
+    href: existingLocaleLinks[item.code] || buildLocalePath(item.code),
+  }));
+  // Gradimo dugme i spisak samo kad se nešto promeni. Ranije su se ponovo
+  // pravili posle svake promene na stranici, pa su linkovi stalno nestajali
+  // i ponovo se pojavljivali, i tap na jezik je ponekad promašivao.
+  const signature = `${currentLocale}|${options.map((o) => `${o.code}=${o.href}`).join(',')}`;
+  if (switcher.dataset.signature === signature && popup.childElementCount === LOCALES.length) {
+    bindSwitcher(switcher, trigger);
+    return;
+  }
+  switcher.dataset.signature = signature;
   trigger.replaceChildren();
   const icon = document.createElement('span');
   icon.className = 'mobile-language-icon';
@@ -199,9 +223,9 @@ function ensureLanguageSwitcher(controlsRow, sidebar) {
   trigger.append(icon, label);
 
   popup.replaceChildren();
-  ['sr', 'en', 'de'].forEach((locale) => {
+  options.forEach(({ code: locale, href }) => {
     const link = document.createElement('a');
-    link.href = existingLocaleLinks[locale] || buildLocalePath(locale);
+    link.href = href;
     link.textContent = getLocaleLabel(locale);
     link.title = getLocaleTitle(locale);
     link.className = 'mobile-language-option';
@@ -211,6 +235,10 @@ function ensureLanguageSwitcher(controlsRow, sidebar) {
     popup.appendChild(link);
   });
 
+  bindSwitcher(switcher, trigger);
+}
+
+function bindSwitcher(switcher, trigger) {
   if (!switcher.dataset.bound) {
     trigger.addEventListener('click', (event) => {
       event.preventDefault();
@@ -271,7 +299,8 @@ function moveMobileControlsBelowLogo() {
       text.includes('language') ||
       text.includes('jezik') ||
       text.includes('језик') ||
-      text.includes('sprache')
+      text.includes('sprache') ||
+      text.includes('język')
     );
   });
 
