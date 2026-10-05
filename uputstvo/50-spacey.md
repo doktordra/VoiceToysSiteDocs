@@ -106,13 +106,13 @@ U donjem delu ekrana se nalaze:
 	imagePosition="right"
 >
 
-*Izgled ekrana nakon pritska na taster "Režim.*
+*Izgled ekrana nakon pritiska na taster "Zvukovi".*
 
 - ukoliko želite da promenite raspored zvukova, pritisnite neku od strelica ⬅️ ili ➡️koje se nalaze iznad plavog, odnosno žutog polja. Slike će zameniti mesta, i zvučnici će reagovati prema novom rasporedu.
 
 - na pozicijama ispod plavog i žutog polja se nalaze polja zelene 👍 i  crvene 👎 boje koja služe za **ocenjivanje odgovora**. Tačan odgovor se ocenjuje pritiskom na zeleno, a netačan na crveno polje. Tom prilikom će se čuti karakteristični zvuci odobravanja zajedno sa šarenim svetlima koja emituje zvučnik iz kog je dolazio zadati zvuk za tačne, ili zvuk neodobravanja zajedno sa crvenim svetlom koje emituju svi zvučnici za netačne odgovore. Na tasterima će se pojaviti brojevi koji označavaju broj datih tačnih, odnosno pogrešnih odgovora.
 
-U donjem zelenom polju ekrana se nalazi taster "**Režim**".Pritiskom na ovaj taster će se pojaviti zvučne banke koje možete da izaberete. Ima ih 21, po pet zvukova u svakoj: životinje, vozila, kućni aparati, instrumenti, priroda, domaće životinje, divlje životinje, telo, usta, emocije, deset slogovnih banaka (suglasnici B, P, M, T, D i S, Z, Š, Č, Ž, svaki niz sa vokalima A, E, I, O, U) i glasovi. Izborom neke od grupa zvukova slike u donjem delu ekrana će se promeniti i pojaviće se slike iz grupe zvukova koje ste odabrali. Pritiskom na slike će se emitovati novi zvukovi koji odgovaraju slikama.
+U donjem zelenom polju ekrana se nalazi taster "**Zvukovi**". Pritiskom na ovaj taster će se pojaviti zvučne banke koje možete da izaberete. Ima ih 21, po pet zvukova u svakoj: životinje, vozila, kućni aparati, instrumenti, priroda, domaće životinje, divlje životinje, telo, usta, emocije, deset slogovnih banaka (suglasnici B, P, M, T, D i S, Z, Š, Č, Ž, svaki niz sa vokalima A, E, I, O, U) i glasovi. Izborom neke od grupa zvukova slike u donjem delu ekrana će se promeniti i pojaviće se slike iz grupe zvukova koje ste odabrali. Pritiskom na slike će se emitovati novi zvukovi koji odgovaraju slikama.
 
 Pritiskom na taster sa simbolom kućice se vraćate na početni ekran **VoiceToys** aplikacije gde možete izabrati neki drugi uređaj iz sistema **VoiceToys** sa kojim želite da nastavite rad.
 </FigureBlock>

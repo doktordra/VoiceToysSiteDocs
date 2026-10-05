@@ -106,13 +106,13 @@ Im unteren Bereich des Bildschirms befinden sich:
 	imagePosition="right"
 >
 
-*Bildschirmansicht nach dem Drücken der Taste „Modus“.*
+*Bildschirmansicht nach dem Drücken der Taste „Klänge“.*
 
 - wenn Sie die Anordnung der Geräusche ändern möchten, drücken Sie einen der Pfeile ⬅️ oder ➡️, die sich über dem blauen bzw. gelben Feld befinden. Die Bilder tauschen die Plätze, und die Lautsprecher reagieren gemäß der neuen Anordnung.
 
 - an den Positionen unter dem blauen und gelben Feld befinden sich Felder in den Farben grün 👍 und rot 👎, die zur **Bewertung der Antworten** dienen. Eine richtige Antwort wird durch Drücken auf das grüne, eine falsche durch Drücken auf das rote Feld bewertet. Dabei sind charakteristische Geräusche der Zustimmung zusammen mit bunten Lichtern zu hören, die der Lautsprecher ausstrahlt, aus dem das vorgegebene Geräusch kam – bei richtigen Antworten, oder ein Geräusch der Ablehnung zusammen mit rotem Licht, das alle Lautsprecher ausstrahlen – bei falschen Antworten. Auf den Tasten erscheinen Zahlen, die die Anzahl der gegebenen richtigen bzw. falschen Antworten angeben.
 
-Im unteren grünen Feld des Bildschirms befindet sich die Taste **„Modus“**. Durch Drücken dieser Taste erscheinen die Klangbänke, die Sie auswählen können. Es gibt 21, mit je fünf Geräuschen: Tiere, Fahrzeuge, Haushaltsgeräte, Instrumente, Natur, Haustiere, Wildtiere, Körper, Mund, Emotionen, zehn Silbenbänke (die Konsonanten B, P, M, T, D und S, Z, Š, Č, Ž, jede Reihe mit den Vokalen A, E, I, O, U) und Stimmen. Durch die Auswahl einer der Geräuschgruppen ändern sich die Bilder im unteren Bereich des Bildschirms, und es erscheinen Bilder aus der Geräuschgruppe, die Sie ausgewählt haben. Durch Drücken der Bilder werden neue Geräusche ausgegeben, die den Bildern entsprechen.
+Im unteren grünen Feld des Bildschirms befindet sich die Taste **„Klänge“**. Durch Drücken dieser Taste erscheinen die Klangbänke, die Sie auswählen können. Es gibt 21, mit je fünf Geräuschen: Tiere, Fahrzeuge, Haushaltsgeräte, Instrumente, Natur, Haustiere, Wildtiere, Körper, Mund, Emotionen, zehn Silbenbänke (die Konsonanten B, P, M, T, D und S, Z, Š, Č, Ž, jede Reihe mit den Vokalen A, E, I, O, U) und Stimmen. Durch die Auswahl einer der Geräuschgruppen ändern sich die Bilder im unteren Bereich des Bildschirms, und es erscheinen Bilder aus der Geräuschgruppe, die Sie ausgewählt haben. Durch Drücken der Bilder werden neue Geräusche ausgegeben, die den Bildern entsprechen.
 
 Durch Drücken der Taste mit dem Häuschen-Symbol kehren Sie zum Startbildschirm der **VoiceToys**-App zurück, wo Sie ein anderes Gerät aus dem **VoiceToys**-System auswählen können, mit dem Sie die Arbeit fortsetzen möchten.
 </FigureBlock>
