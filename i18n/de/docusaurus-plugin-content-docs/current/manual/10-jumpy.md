@@ -22,6 +22,7 @@ sidebar_position: 10
 - **[Gruppen-Klatschspiel](#gruppen-klatschspiel)**
 - **[Klatschspiel mit Ball](#klatschspiel-mit-ball)**
 - **[Folge meinem Rhythmus](#folge-meinem-rhythmus)**
+- **[Gruppenspiel Folge meinem Rhythmus](#gruppenspiel-folge-meinem-rhythmus)**
 
 JumpY ist ein LED-Panel, das Geräusche oder Bewegungen erkennt und diese dann visuell als Lichteffekte in verschiedenen Farben anzeigt, abhängig von der Dynamik der empfangenen Signale. Es bietet mehrere Betriebsmodi, die es dem Therapeuten ermöglichen, die Entwicklung von Stimme, Sprache und Sprache, motorischen und sozialen Fähigkeiten, räumlicher Orientierung, verbesserter Konzentration und Aufmerksamkeit bei Kindern zu fördern.
 
@@ -195,6 +196,14 @@ Spielbeschreibung: Für ein Einzelspiel steht das Kind vor dem Panel, während d
 
 Anpassung (falls erforderlich): Sie können die Spielschwierigkeit mit dem grauen Schieberegler unten auf dem App-Bildschirm anpassen. Die Option EINFACH macht das blaue Feld größer, gibt mehr Zeit für die Reaktion des Kindes und ermöglicht Erfolg. Die Option SCHWIERIG macht das Spiel schwieriger, indem sie das blaue Feld verkleinert. Wenn sich die weiße Linie zu schnell bewegt, können Sie sie mit dem Schieberegler GESCHWINDIGKEIT verlangsamen. Wenn im Raum zu viel Lärm ist, passen Sie die EMPFINDLICHKEIT an, indem Sie den Schieberegler nach links oder rechts verschieben, bis Sie die passende Empfindlichkeit finden.
 Außerdem können Sie die Bewegungsrichtung der Linie nach oben oder unten ändern.
+
+### **Gruppenspiel Folge meinem Rhythmus**
+
+Für ein Gruppenspiel stellen sich die Kinder in einer Reihe vor dem Panel auf. Der Therapeut gibt ein einfaches Rhythmusmuster vor. Das erste Kind in der Reihe wiederholt den Rhythmus und achtet darauf, wann die weiße Linie mit der blauen übereinstimmt. Nach dem Versuch geht es ans Ende der Reihe; der Therapeut setzt das Spiel bei Bedarf zurück (↻) und gibt dem nächsten Kind den Rhythmus vor.
+
+Variation: Ein Kind, das den Rhythmus richtig wiederholt hat, gibt dem nächsten Kind in der Reihe einen neuen Rhythmus vor, bei Bedarf mit Hilfe des Therapeuten.
+
+Anpassung: In der Gruppe ist es lauter. Stellen Sie die EMPFINDLICHKEIT so ein, dass Gespräche und Bewegungen der wartenden Kinder das Spiel nicht auslösen. Wartende Kinder klatschen nicht, während ein anderes Kind an der Reihe ist. Für eine jüngere Gruppe wählen Sie die Option EINFACH und eine langsamere GESCHWINDIGKEIT.
 
 ## **PHONETIK**
 

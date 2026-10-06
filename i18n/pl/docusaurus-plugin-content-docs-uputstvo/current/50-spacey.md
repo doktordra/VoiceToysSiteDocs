@@ -26,7 +26,7 @@ sidebar_position: 7
 
 ### Opis systemu i uwagi dotyczące bezpieczeństwa
 
-SpaceY to system złożony z 5 inteligentnych głośników, opracowany przede wszystkim do ćwiczenia rozpoznawania i lokalizacji przestrzennej dźwięku u osób z uszkodzeniem słuchu. Zabawy i ustawienia pozwalają wykorzystywać go w pracy z dziećmi w każdym wieku i na każdym poziomie rozwoju. Głośniki łączą się bezprzewodowo i są zasilane z wbudowanych akumulatorów. Steruje się nimi wyłącznie za pomocą aplikacji mobilnej **VoiceToys**. Odtwarzają łatwo rozpoznawalne dźwięki, pogrupowane w banki po pięć dźwięków.
+SpaceY to system złożony z 5 inteligentnych głośników, służący do ćwiczenia rozpoznawania i lokalizacji przestrzennej dźwięku. Zabawy i ustawienia pozwalają wykorzystywać go w pracy z dziećmi w każdym wieku i na każdym poziomie rozwoju, także z dziećmi z uszkodzeniem słuchu. Głośniki łączą się bezprzewodowo i są zasilane z wbudowanych akumulatorów. Steruje się nimi wyłącznie za pomocą aplikacji mobilnej **VoiceToys**. Odtwarzają łatwo rozpoznawalne dźwięki, pogrupowane w banki po pięć dźwięków.
 
 ![SpaceYs.3](/voice-toys/images/image-135.png)
 

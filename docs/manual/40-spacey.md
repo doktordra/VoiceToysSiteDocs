@@ -20,11 +20,11 @@ sidebar_position: 40
 - **[Ulovi mačku](#ulovi-mačku)**
 - **[Moroov refleks](#moroov-refleks)**
 
-SpaceY je sistem od 5 bežičnih pametnih zvučnika. Omogućava korisnicima da identifikuju zvuk i precizno lokalizuju izvor zvuka, odnosno da odrede njegovu poziciju, smer i udaljenost. Kućišta su im obojena u čiste, jasne boje, zarad lakog raspoznavanja. Razvijen je prvenstveno za uvežbavanje identifikacije i prostorne lokalizacije zvuka kod dece sa oštećenim sluhom, a igre i podešavanja omogućavaju njegovu primenu u radu sa decom svih uzrasta i nivoa razvoja.  
+SpaceY je sistem od 5 bežičnih pametnih zvučnika. Omogućava korisnicima da identifikuju zvuk i precizno lokalizuju izvor zvuka, odnosno da odrede njegovu poziciju, smer i udaljenost. Kućišta su im obojena u čiste, jasne boje, zarad lakog raspoznavanja. Namenjen je uvežbavanju identifikacije i prostorne lokalizacije zvuka, a igre i podešavanja omogućavaju njegovu primenu u radu sa decom svih uzrasta i nivoa razvoja, uključujući decu sa oštećenim sluhom.  
 To je jedini sistem uređaja na VoiceToys platformi koji zahteva mobilnu aplikaciju i ne može da radi bez nje.  
 Zvuci su u aplikaciji predstavljeni ikonicama. Svaka od njih je uokvirena linijama u boji zvučnika.  
 Na raspolaganju je 105 zvučnih uzoraka, grupisanih u 21 zvučnu banku po pet zvukova. U samoj aplikaciji su uključene opcije za označavanje odgovora: OK i NIJE OK (predstavljene simbolima palca okrenutog na gore - sa zelenom pozadinom i palca okrenutog na dole - sa crvenom pozadinom) koje omogućavaju korisnicima da označe tačan ili netačan odgovor. Zvučnici na ove akcije reaguju generisanjem zvučnih i svetlosnih efekata. Ukoliko dete ne uspeva da lokalizuje izvor zvuka,  možete ga navesti na tačan odgovor korišćenjem tastera “Pomoć” koji aktivira svetlosni signal na onom zvučniku sa kog je emitovan zvuk.  
-Osim toga, aplikacija prati rezultate korisnika: brzinu poslednjeg odgovora, prosečnu vrednost svih odgovora, kao i tačnost (tačne i netačne odgovore), pružajući detaljan uvid u napredak korisnika.
+Osim toga, aplikacija prati rezultate korisnika: brzinu poslednjeg odgovora, prosečnu vrednost svih odgovora, kao i tačnost (tačne i netačne odgovore), pružajući pregled rezultata rada.
 
 Upotreba zvučnika se preporučuje za razvoj različitih auditivnih, jezičkih, kognitivnih i socijalnih veština, uključujući:
 
@@ -48,7 +48,7 @@ Upotreba zvučnika se preporučuje za razvoj različitih auditivnih, jezičkih, 
 -   Praćenje redosleda
 -   Takmičarske veštine
 
-Može se koristiti kod dece koja imaju oštećen vid, zato što su im akustičke veštine veoma bitne kako bi nadoknadile vizuelni hendikep.
+Pogodan je i za rad sa decom sa oštećenim vidom, kojoj je orijentacija po zvuku u prostoru posebno važna.
 
 TEHNIČKA UPUTSTVA:
 

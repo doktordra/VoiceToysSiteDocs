@@ -22,6 +22,7 @@ sidebar_position: 10
 - **[Grupowa gra w klaskanie](#grupowa-gra-w-klaskanie)**
 - **[Gra w klaskanie z piłką](#gra-w-klaskanie-z-piłką)**
 - **[Podążaj za moim rytmem](#podążaj-za-moim-rytmem)**
+- **[Grupowa gra Podążaj za moim rytmem](#grupowa-gra-podążaj-za-moim-rytmem)**
 
 JumpY to panel LED, który wykrywa dźwięki lub ruch i pokazuje je w postaci efektów świetlnych w różnych kolorach, zależnie od dynamiki odbieranych sygnałów.
 Ma kilka trybów pracy, dzięki którym terapeuta może wspierać u dziecka rozwój głosu, mowy i języka, umiejętności motorycznych i społecznych, orientacji przestrzennej, koncentracji i uwagi.
@@ -196,6 +197,14 @@ Opis zabawy: w zabawie indywidualnej dziecko stoi przed panelem, a terapeuta moc
 
 Dostosowanie (w razie potrzeby): poziom trudności zmienisz przełącznikiem ŁATWY / ŚREDNI / TRUDNY w dolnej części ekranu aplikacji. Opcja ŁATWY powiększa niebieskie pole, co daje dziecku więcej czasu na reakcję i pomaga mu odnieść sukces. Opcja TRUDNY utrudnia zabawę, zmniejszając niebieskie pole. Jeśli biała linia porusza się zbyt szybko, możesz ją spowolnić suwakiem PRĘDKOŚĆ. Jeśli w pomieszczeniu jest zbyt głośno, dostosuj CZUŁOŚĆ, przesuwając suwak w lewo lub w prawo, aż znajdziesz odpowiedni poziom.
 Możesz też zmienić kierunek ruchu linii: w górę lub w dół.
+
+### **Grupowa gra Podążaj za moim rytmem**
+
+W grze grupowej dzieci ustawiają się przed panelem jedno za drugim, w kolejce. Terapeuta zadaje prosty wzór rytmiczny. Pierwsze dziecko w kolejce powtarza rytm, obserwując, kiedy biała linia pokryje się z niebieską. Po swojej próbie przechodzi na koniec kolejki, a terapeuta w razie potrzeby resetuje grę (↻) i zadaje rytm następnemu dziecku.
+
+Wariant: dziecko, które poprawnie powtórzyło rytm, zadaje nowy rytm następnemu dziecku w kolejce, w razie potrzeby z pomocą terapeuty.
+
+Dostosowanie: w grupie jest głośniej, dlatego ustaw CZUŁOŚĆ tak, aby rozmowy i ruchy czekających dzieci nie uruchamiały gry. Dzieci, które czekają, nie klaszczą, gdy kolej ma inne dziecko. Dla młodszej grupy wybierz opcję ŁATWY i mniejszą PRĘDKOŚĆ.
 
 ## **FONETYKA**
 

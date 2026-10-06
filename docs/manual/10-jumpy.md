@@ -22,6 +22,7 @@ sidebar_position: 10
 - **[Grupna igra tapšanja](#grupna-igra-tapšanja)**
 - **[Igra tapšanja uz pomoć lopte](#igra-tapšanja-uz-pomoć-lopte)**
 - **[Prati moj ritam](#prati-moj-ritam)**
+- **[Grupna igra Prati moj ritam](#grupna-igra-prati-moj-ritam)**
 
 JumpY je LED panel koji detektuje zvukove ili pokrete, a zatim ih vizuelno prikazuje kao svetlosne efekte u različitim bojama, u zavisnosti od dinamike signala koje prima.  
 Raspolaže sa nekoliko režima rada koje omogućavaju terapeutu da kod deteta podstiče razvoj glasa, govora i jezika, motoričkih i socijalnih veština, prostorne orijentacije, poboljšanja koncentracije i pažnje.
@@ -206,6 +207,14 @@ Opis igre: Za individualnu igru - dete stoji ispred panela, a terapeut snažno 
 
 Prilagođavanje (ako je potrebno): Možete prilagoditi težinu igre pomoću sivog klizača u donjem delu ekrana aplikacije. Opcija LAKO će učiniti plavo polje većim, što će dati više vremena za reakciju deteta i omogućiti mu da bude uspešno. Opcija TEŠKO otežava igru tako što se plavo polje smanjuje. Ako se bela linija kreće prebrzo, možete je usporiti pomoću klizača BRZINA. Ako je u prostoriji previše buke, prilagodite OSETLJIVOST pomeranjem klizača ulevo ili udesno dok ne pronađete odgovarajući nivo.  
 Pored toga, možete promeniti smer kretanja linije nagore ili nadole.
+
+### **Grupna igra Prati moj ritam**
+
+Za grupnu igru deca stanu u red ispred panela. Terapeut zadaje jednostavan ritmički obrazac. Prvo dete u redu ponavlja ritam, prateći kada se bela linija poklopi sa plavom. Posle pokušaja ide na kraj reda, a terapeut po potrebi resetuje igru (↻) i zadaje ritam sledećem detetu.
+
+Varijacija: Dete koje je tačno ponovilo ritam zadaje novi ritam sledećem detetu u redu, uz pomoć terapeuta kada je potrebno.
+
+Prilagođavanje: U grupi je bučnije, pa OSETLJIVOST podesite tako da razgovor i pokreti dece koja čekaju ne pokreću igru. Deca koja čekaju ne tapšu dok je drugo dete na redu. Za mlađu grupu izaberite opciju LAKO i sporiju BRZINU.
 
 ## **FONETIKA**
 

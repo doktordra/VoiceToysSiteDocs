@@ -20,11 +20,11 @@ sidebar_position: 40
 - **[Fange die Katze](#fange-die-katze)**
 - **[Moro-Reflex](#moro-reflex)**
 
-SpaceY ist ein System aus 5 drahtlosen intelligenten Lautsprechern. Es ermöglicht Benutzern, Geräusche zu identifizieren und die Klangquelle präzise zu lokalisieren, d.h. ihre Position, Richtung und Entfernung zu bestimmen. Die Gehäuse sind in klaren, deutlichen Farben gefärbt, um eine einfache Erkennung zu ermöglichen. Es wurde in erster Linie für das Üben der Identifikation und räumlichen Lokalisierung von Schall bei Kindern mit Hörschädigung entwickelt; Spiele und Einstellungen ermöglichen den Einsatz in der Arbeit mit Kindern jeden Alters und Entwicklungsstands.
+SpaceY ist ein System aus 5 drahtlosen intelligenten Lautsprechern. Es ermöglicht Benutzern, Geräusche zu identifizieren und die Klangquelle präzise zu lokalisieren, d.h. ihre Position, Richtung und Entfernung zu bestimmen. Die Gehäuse sind in klaren, deutlichen Farben gefärbt, um eine einfache Erkennung zu ermöglichen. Es dient dem Üben der Identifikation und räumlichen Lokalisierung von Schall; Spiele und Einstellungen ermöglichen den Einsatz in der Arbeit mit Kindern jeden Alters und Entwicklungsstands, auch mit Kindern mit Hörschädigung.
 Es ist das einzige System von Geräten auf der VoiceToys-Plattform, das eine mobile App erfordert und ohne sie nicht funktioniert.
 Geräusche in der App werden durch Symbole dargestellt. Jedes wird durch Linien in der Lautsprecherfarbe eingerahmt.
 Es stehen 105 Klangmuster zur Verfügung, gruppiert in 21 Klangbänke mit je fünf Geräuschen. Die App selbst enthält Optionen zum Markieren von Antworten: OK und NICHT OK (dargestellt durch Daumen hoch - mit grünem Hintergrund und Daumen runter - mit rotem Hintergrund), mit denen Benutzer korrekte oder falsche Antworten markieren können. Lautsprecher reagieren auf diese Aktionen durch Erzeugung von Schall- und Lichteffekten. Wenn das Kind die Klangquelle nicht lokalisieren kann, können Sie es mit der Schaltfläche "Hilfe" zur korrekten Antwort führen, die ein Lichtsignal auf dem Lautsprecher aktiviert, von dem der Klang emittiert wurde.
-Außerdem verfolgt die App Benutzerergebnisse: die Geschwindigkeit der letzten Antwort, den Durchschnittswert aller Antworten sowie die Genauigkeit (korrekte und falsche Antworten) und bietet einen detaillierten Einblick in die Benutzerfortschritte.
+Außerdem verfolgt die App Benutzerergebnisse: die Geschwindigkeit der letzten Antwort, den Durchschnittswert aller Antworten sowie die Genauigkeit (korrekte und falsche Antworten) und bietet einen Überblick über die Ergebnisse der Arbeit.
 
 Die Verwendung von Lautsprechern wird für die Entwicklung verschiedener auditorischer, sprachlicher, kognitiver und sozialer Fähigkeiten empfohlen, einschließlich:
 
@@ -48,7 +48,7 @@ Die Verwendung von Lautsprechern wird für die Entwicklung verschiedener auditor
 -   Verfolgung von Sequenzen
 -   Wettbewerbsfähigkeiten
 
-Es kann bei Kindern mit Sehbehinderung eingesetzt werden, da auditorische Fähigkeiten für sie sehr wichtig sind, um die visuelle Behinderung auszugleichen.
+Es eignet sich auch für die Arbeit mit Kindern mit Sehbehinderung, für die die Orientierung nach Geräuschen im Raum besonders wichtig ist.
 
 TECHNISCHE ANLEITUNG:
 

@@ -26,7 +26,7 @@ sidebar_position: 7
 
 ### Opis sistema i bezbednosne napomene
 
-SpaceY je sistem koji se sastoji od 5 pametnih zvučnika, razvijen prvenstveno za uvežbavanje identifikacije i prostorne lokalizacije zvuka kod osoba sa oštećenim sluhom. Igre i podešavanja omogućavaju njegovu primenu u radu sa decom svih uzrasta i nivoa razvoja. Povezuju se bežično, a napajaju se pomoću ugrađenih punjivih baterija. Kontrolišu se isključivo **VoiceToys** mobilnom aplikacijom. Emituju lako prepoznatljive zvukove razvrstane u grupe od po pet zvukova.
+SpaceY je sistem koji se sastoji od 5 pametnih zvučnika, namenjen uvežbavanju identifikacije i prostorne lokalizacije zvuka. Igre i podešavanja omogućavaju njegovu primenu u radu sa decom svih uzrasta i nivoa razvoja, uključujući decu sa oštećenim sluhom. Povezuju se bežično, a napajaju se pomoću ugrađenih punjivih baterija. Kontrolišu se isključivo **VoiceToys** mobilnom aplikacijom. Emituju lako prepoznatljive zvukove razvrstane u grupe od po pet zvukova.
 
 ![SpaceYs.3](/voice-toys/images/image-135.png)
 

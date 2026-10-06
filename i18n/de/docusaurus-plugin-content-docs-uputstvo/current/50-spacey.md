@@ -26,7 +26,7 @@ sidebar_position: 7
 
 ### Systembeschreibung und Sicherheitshinweise
 
-SpaceY ist ein System aus 5 intelligenten Lautsprechern, das in erster Linie für das Üben der Identifikation und räumlichen Lokalisierung von Schall bei Personen mit Hörschädigung entwickelt wurde. Spiele und Einstellungen ermöglichen den Einsatz in der Arbeit mit Kindern jeden Alters und Entwicklungsstands. Sie werden drahtlos verbunden und über eingebaute wiederaufladbare Batterien mit Strom versorgt. Sie werden ausschließlich über die mobile App **VoiceToys** gesteuert. Sie geben leicht erkennbare Geräusche aus, die in Gruppen zu je fünf Geräuschen eingeteilt sind.
+SpaceY ist ein System aus 5 intelligenten Lautsprechern, das dem Üben der Identifikation und räumlichen Lokalisierung von Schall dient. Spiele und Einstellungen ermöglichen den Einsatz in der Arbeit mit Kindern jeden Alters und Entwicklungsstands, auch mit Kindern mit Hörschädigung. Sie werden drahtlos verbunden und über eingebaute wiederaufladbare Batterien mit Strom versorgt. Sie werden ausschließlich über die mobile App **VoiceToys** gesteuert. Sie geben leicht erkennbare Geräusche aus, die in Gruppen zu je fünf Geräuschen eingeteilt sind.
 
 ![SpaceYs.3](/voice-toys/images/image-135.png)
 

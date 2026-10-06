@@ -20,11 +20,11 @@ sidebar_position: 40
 - **[Złap kota](#złap-kota)**
 - **[Odruch Moro](#odruch-moro)**
 
-SpaceY to system 5 bezprzewodowych, inteligentnych głośników. Pozwala rozpoznawać dźwięki i precyzyjnie lokalizować ich źródło, czyli określać jego położenie, kierunek i odległość. Obudowy głośników mają czyste, wyraźne kolory, aby łatwo je było odróżnić. System powstał przede wszystkim do ćwiczenia rozpoznawania i lokalizacji przestrzennej dźwięku u dzieci z uszkodzeniem słuchu, a zabawy i ustawienia pozwalają wykorzystywać go w pracy z dziećmi w każdym wieku i na każdym poziomie rozwoju.
+SpaceY to system 5 bezprzewodowych, inteligentnych głośników. Pozwala rozpoznawać dźwięki i precyzyjnie lokalizować ich źródło, czyli określać jego położenie, kierunek i odległość. Obudowy głośników mają czyste, wyraźne kolory, aby łatwo je było odróżnić. System służy do ćwiczenia rozpoznawania i lokalizacji przestrzennej dźwięku, a zabawy i ustawienia pozwalają wykorzystywać go w pracy z dziećmi w każdym wieku i na każdym poziomie rozwoju, także z dziećmi z uszkodzeniem słuchu.
 To jedyny system urządzeń platformy VoiceToys, który wymaga aplikacji mobilnej i nie działa bez niej.
 Dźwięki są w aplikacji przedstawione jako ikony. Każda z nich ma ramkę w kolorze głośnika.
 Do dyspozycji jest 105 próbek dźwiękowych, zgrupowanych w 21 bankach dźwięków po pięć dźwięków. Aplikacja ma przyciski do oznaczania odpowiedzi: dobrze i źle (kciuk w górę na zielonym tle i kciuk w dół na czerwonym tle), którymi oznacza się poprawną lub błędną odpowiedź. Głośniki reagują na nie efektami dźwiękowymi i świetlnymi. Jeśli dziecko nie potrafi zlokalizować źródła dźwięku, możesz naprowadzić je na poprawną odpowiedź przyciskiem „Pomoc”, który zapala światło na głośniku, z którego popłynął dźwięk.
-Ponadto aplikacja zapisuje wyniki: czas ostatniej odpowiedzi („Ostatni”), średni czas wszystkich odpowiedzi („Średni czas”) oraz trafność (poprawne i błędne odpowiedzi), co daje dokładny obraz postępów.
+Ponadto aplikacja zapisuje wyniki: czas ostatniej odpowiedzi („Ostatni”), średni czas wszystkich odpowiedzi („Średni czas”) oraz trafność (poprawne i błędne odpowiedzi), co daje przegląd wyników pracy.
 
 Głośniki są zalecane do rozwijania różnych umiejętności słuchowych, językowych, poznawczych i społecznych, w tym:
 
@@ -48,7 +48,7 @@ Głośniki są zalecane do rozwijania różnych umiejętności słuchowych, jęz
 -   śledzenia kolejności,
 -   umiejętności współzawodnictwa.
 
-System można stosować u dzieci z uszkodzeniem wzroku, ponieważ umiejętności słuchowe są dla nich bardzo ważne w kompensowaniu niepełnosprawności wzrokowej.
+System sprawdza się także w pracy z dziećmi z uszkodzeniem wzroku, dla których orientacja w przestrzeni na podstawie dźwięku jest szczególnie ważna.
 
 WSKAZÓWKI TECHNICZNE:
 
