@@ -20,11 +20,11 @@ sidebar_position: 40
 - **[Catch the Cat](#catch-the-cat)**
 - **[Moro Reflex](#moro-reflex)**
 
-SpaceY is a system of 5 wireless smart speakers. It enables users to identify sounds and precisely localize the source of sound, that is, to determine its position, direction, and distance. The housings are colored in pure, clear colors for easy recognition. It was developed primarily for practicing the identification and spatial localization of sound in children with impaired hearing, and its games and settings allow it to be used in work with children of all ages and developmental levels.
+SpaceY is a system of 5 wireless smart speakers. It enables users to identify sounds and precisely localize the source of sound, that is, to determine its position, direction, and distance. The housings are colored in pure, clear colors for easy recognition. It is intended for practicing the identification and spatial localization of sound, and its games and settings allow it to be used in work with children of all ages and developmental levels, including children with hearing loss.
 It is the only system of devices on the VoiceToys platform that requires a mobile app and cannot work without it.
 Sounds in the app are represented by icons. Each one is framed by lines in the color of the speaker.
 There are 105 sound samples available, grouped into 21 sound banks of five sounds each. The app itself includes options for marking answers: OK and NOT OK (represented by thumbs up - with a green background and thumbs down - with a red background) which allow users to mark correct or incorrect answers. Speakers react to these actions by generating sound and light effects. If the child cannot localize the sound source, you can guide them to the correct answer using the "Help" button which activates a light signal on the speaker from which the sound was emitted.
-Moreover, the app tracks user results: the speed of the latest response, the average value of all responses, as well as accuracy (correct and incorrect answers), providing detailed insight into user progress.
+Moreover, the app tracks user results: the speed of the latest response, the average value of all responses, as well as accuracy (correct and incorrect answers), providing an overview of the results of the work.
 
 The use of speakers is recommended for developing various auditory, language, cognitive, and social skills, including:
 
@@ -48,7 +48,7 @@ The use of speakers is recommended for developing various auditory, language, co
 -   Following sequences
 -   Competitive skills
 
-It can be used with children who have visual impairment, because auditory skills are very important for them to compensate for the visual handicap.
+It is also suitable for work with children with visual impairment, for whom orientation by sound in space is especially important.
 
 TECHNICAL INSTRUCTIONS:
 

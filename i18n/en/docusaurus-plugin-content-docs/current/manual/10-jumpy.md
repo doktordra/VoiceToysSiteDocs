@@ -22,6 +22,7 @@ sidebar_position: 10
 - **[Group Clapping Game](#group-clapping-game)**
 - **[Clapping Game with Ball](#clapping-game-with-ball)**
 - **[Follow My Rhythm](#follow-my-rhythm)**
+- **[Group Follow My Rhythm](#group-follow-my-rhythm)**
 
 JumpY is an LED panel that detects sounds or movements and then displays them visually as light effects in different colors, depending on the dynamics of the signals it receives. It offers several operating modes that enable the therapist to stimulate voice, speech and language development, motor and social skills, spatial orientation, improved concentration and attention in children.
 
@@ -195,6 +196,14 @@ Game Description: For an individual game - the child stands in front of the pane
 
 Adjustment (if necessary): You can adjust the game difficulty using the gray slider at the bottom of the app screen. The EASY option will make the blue field larger, giving more time for the child's reaction and enabling success. The HARD option makes the game more difficult by shrinking the blue field. If the white line moves too quickly, you can slow it down using the SPEED slider. If there is too much noise in the room, adjust the SENSITIVITY by moving the slider left or right until you find the appropriate level.
 Besides that, you can change the direction of line movement up or down.
+
+### **Group Follow My Rhythm**
+
+For a group game, children stand in a line in front of the panel. The therapist sets a simple rhythmic pattern. The first child in line repeats the rhythm, watching for the moment when the white line meets the blue one. After the attempt, the child goes to the back of the line, and the therapist resets the game if needed (↻) and sets the rhythm for the next child.
+
+Variation: A child who has repeated the rhythm correctly sets a new rhythm for the next child in line, with the therapist's help when needed.
+
+Adjustment: A group is noisier, so set the SENSITIVITY so that talking and movement of the waiting children do not trigger the game. Children who are waiting do not clap while another child has their turn. For a younger group, choose the EASY option and a slower SPEED.
 
 ## **PHONETICS**
 

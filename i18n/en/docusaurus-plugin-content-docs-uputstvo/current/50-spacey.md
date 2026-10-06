@@ -26,7 +26,7 @@ sidebar_position: 7
 
 ### System description and safety notes
 
-SpaceY is a system consisting of 5 smart speakers, developed primarily for practicing the identification and spatial localization of sound in persons with impaired hearing. Its games and settings allow it to be used in work with children of all ages and developmental levels. They connect wirelessly, and are powered by built-in rechargeable batteries. They are controlled exclusively with the **VoiceToys** mobile application. They emit easily recognizable sounds sorted into groups of five sounds each.
+SpaceY is a system consisting of 5 smart speakers, intended for practicing the identification and spatial localization of sound. Its games and settings allow it to be used in work with children of all ages and developmental levels, including children with hearing loss. They connect wirelessly, and are powered by built-in rechargeable batteries. They are controlled exclusively with the **VoiceToys** mobile application. They emit easily recognizable sounds sorted into groups of five sounds each.
 
 ![SpaceYs.3](/voice-toys/images/image-135.png)
 
