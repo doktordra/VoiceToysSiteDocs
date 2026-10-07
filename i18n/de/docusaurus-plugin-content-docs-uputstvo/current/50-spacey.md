@@ -12,7 +12,7 @@ sidebar_position: 7
 
 
 
-| Stromversorgung | DC, 5V, 3A                                           |
+| Stromversorgung | DC, 5V, 2A                                           |
 | --------------- | ---------------------------------------------------- |
 | Anschluss       | USB-C                                                |
 | Abmessungen     | 120x 73 x 107mm                                      |
@@ -58,7 +58,7 @@ Stellen Sie die Lautsprecher so im Raum auf, dass sie sich vorne, links, rechts,
 
 ### Aufladen der Gerätebatterie
 
-Das Gerät enthält eine Lithium-Ionen-Batterie, die mit einer Spannung von **5V/3A über den USB-C-Anschluss an der Rückseite des Geräts** aufgeladen wird. Nach dem Anschließen der Spannung zeigt das Licht den Ladevorgang an, indem es rotes, gelbes oder grünes Licht ausstrahlt, je nach Batteriezustand. Wenn es konstant grün leuchtet, ist der Ladevorgang abgeschlossen. Wenn Sie aufhören, mit den SpaceY-Lautsprechern zu arbeiten, gehen die Lichter an ihnen als Erinnerung an, sie auszuschalten. Lassen Sie sie nicht unnötig eingeschaltet, um einen unnötigen Batterieverbrauch zu vermeiden.
+Das Gerät enthält eine Lithium-Ionen-Batterie, die mit einer Spannung von **5V/2A über den USB-C-Anschluss an der Rückseite des Geräts** aufgeladen wird. Nach dem Anschließen der Spannung zeigt das Licht den Ladevorgang an, indem es rotes, gelbes oder grünes Licht ausstrahlt, je nach Batteriezustand. Wenn es konstant grün leuchtet, ist der Ladevorgang abgeschlossen. Wenn Sie aufhören, mit den SpaceY-Lautsprechern zu arbeiten, gehen die Lichter an ihnen als Erinnerung an, sie auszuschalten. Lassen Sie sie nicht unnötig eingeschaltet, um einen unnötigen Batterieverbrauch zu vermeiden.
 
 
 ---

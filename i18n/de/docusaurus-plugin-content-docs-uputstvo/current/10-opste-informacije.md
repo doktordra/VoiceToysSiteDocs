@@ -65,7 +65,7 @@ Das Gerät **JumpY** wird an der Wand montiert, gemäß den Anweisungen in dem K
 
 ### Stromversorgung der Geräte und elektrische Sicherheit
 
-Alle Geräte werden über handelsübliche USB-Ladegeräte mit 5 V/3 A über ein Kabel mit USB-C-Anschluss versorgt. Verwenden Sie keine defekten oder beschädigten Kabel, sondern nur die mitgelieferten oder angemessene, hochwertige Ersatzkabel. LASSEN SIE DIE GERÄTE WÄHREND DES LADENS NICHT UNBEAUFSICHTIGT! Sollte am Gerät eine ungewöhnlich hohe Temperatur, Rauch oder ein ungewöhnlicher Geruch auftreten, trennen Sie das Gerät SOFORT vom Stromnetz und legen Sie es an einen Ort, an dem es keinen Brand verursachen kann! Die drahtlosen Geräte werden aufgeladen und sind für den Betrieb ohne angeschlossene Stromversorgung vorgesehen, während das Gerät **JumpY** ständig an die Stromversorgung angeschlossen sein muss, da es keine Batterien enthält.
+Alle Geräte werden über handelsübliche USB-Ladegeräte mit 5 V/2 A über ein Kabel mit USB-C-Anschluss versorgt. Verwenden Sie keine defekten oder beschädigten Kabel, sondern nur die mitgelieferten oder angemessene, hochwertige Ersatzkabel. LASSEN SIE DIE GERÄTE WÄHREND DES LADENS NICHT UNBEAUFSICHTIGT! Sollte am Gerät eine ungewöhnlich hohe Temperatur, Rauch oder ein ungewöhnlicher Geruch auftreten, trennen Sie das Gerät SOFORT vom Stromnetz und legen Sie es an einen Ort, an dem es keinen Brand verursachen kann! Die drahtlosen Geräte werden aufgeladen und sind für den Betrieb ohne angeschlossene Stromversorgung vorgesehen, während das Gerät **JumpY** ständig an die Stromversorgung angeschlossen sein muss, da es keine Batterien enthält.
 
 ### Erklärung der Symbole
 

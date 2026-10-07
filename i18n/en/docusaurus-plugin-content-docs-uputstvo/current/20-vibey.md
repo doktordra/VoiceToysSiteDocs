@@ -14,7 +14,7 @@ sidebar_position: 3
 >
 
 
-| Power supply | DC, 5V, 3A                      |
+| Power supply | DC, 5V, 2A                      |
 | --------- | ------------------------------- |
 | Connector  | USB-C                           |
 | Dimensions | Diameter 121mm<br />Height 60 mm |
@@ -41,7 +41,7 @@ On the underside of the device there are also three openings for the entry of so
 
 ### Charging the device battery
 
-The device contains a lithium-ion battery that is charged with a voltage of 5V/3A, using the USB-C connector on the **underside of the device.** After connecting the voltage, the logo indicates charging by emitting red, yellow or green color, in accordance with the battery status. When it glows constantly green, the charging process is complete.
+The device contains a lithium-ion battery that is charged with a voltage of 5V/2A, using the USB-C connector on the **underside of the device.** After connecting the voltage, the logo indicates charging by emitting red, yellow or green color, in accordance with the battery status. When it glows constantly green, the charging process is complete.
 
 ![vibey-removebg-preview](/voice-toys/images/vibey-removebg-preview.png)
 

@@ -12,7 +12,7 @@ sidebar_position: 7
 
 
 
-| Zasilanie | DC, 5V, 3A                                           |
+| Zasilanie | DC, 5V, 2A                                           |
 | --------- | ---------------------------------------------------- |
 | Złącze    | USB-C                                                |
 | Wymiary   | 120 x 73 x 107 mm                                    |
@@ -58,7 +58,7 @@ Rozstaw głośniki tak, aby znajdowały się przed słuchaczem (lub grupą), po 
 
 ### Ładowanie akumulatora
 
-Urządzenie zawiera akumulator litowo-jonowy, który ładuje się ładowarką **5 V/3 A przez złącze USB-C z tyłu urządzenia.** Po podłączeniu zasilania światło sygnalizuje ładowanie, świecąc na czerwono, żółto lub zielono, zależnie od stanu akumulatora. Gdy świeci stale na zielono, ładowanie jest zakończone. Gdy przestaniesz pracować z głośnikami SpaceY, zapalą się na nich światła, przypominające o ich wyłączeniu. Nie zostawiaj ich niepotrzebnie włączonych, aby nie rozładowywać akumulatorów.
+Urządzenie zawiera akumulator litowo-jonowy, który ładuje się ładowarką **5 V/2 A przez złącze USB-C z tyłu urządzenia.** Po podłączeniu zasilania światło sygnalizuje ładowanie, świecąc na czerwono, żółto lub zielono, zależnie od stanu akumulatora. Gdy świeci stale na zielono, ładowanie jest zakończone. Gdy przestaniesz pracować z głośnikami SpaceY, zapalą się na nich światła, przypominające o ich wyłączeniu. Nie zostawiaj ich niepotrzebnie włączonych, aby nie rozładowywać akumulatorów.
 
 
 ---

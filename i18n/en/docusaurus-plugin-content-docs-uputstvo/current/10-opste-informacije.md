@@ -65,7 +65,7 @@ The **JumpY** device is mounted on the wall, according to the instructions in th
 
 ### Powering the devices and electrical safety
 
-All devices are powered by standard 5V/3A USB chargers using a cable with a USB-C connector. Do not use faulty or damaged cables, but only those supplied with the device or adequate quality replacements. During charging, DO NOT LEAVE THE DEVICES UNATTENDED! In case an unusually high device temperature occurs, smoke appears or unusual odors appear, IMMEDIATELY disconnect the device from the power and place it in a location where it cannot cause a fire! The wireless devices are charged and are intended to operate without connected power, while the **JumpY** device must be constantly connected to power because it does not contain batteries.
+All devices are powered by standard 5V/2A USB chargers using a cable with a USB-C connector. Do not use faulty or damaged cables, but only those supplied with the device or adequate quality replacements. During charging, DO NOT LEAVE THE DEVICES UNATTENDED! In case an unusually high device temperature occurs, smoke appears or unusual odors appear, IMMEDIATELY disconnect the device from the power and place it in a location where it cannot cause a fire! The wireless devices are charged and are intended to operate without connected power, while the **JumpY** device must be constantly connected to power because it does not contain batteries.
 
 ### Explanation of symbols
 

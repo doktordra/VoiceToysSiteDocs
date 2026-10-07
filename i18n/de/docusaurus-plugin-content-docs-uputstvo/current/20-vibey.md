@@ -14,7 +14,7 @@ sidebar_position: 3
 >
 
 
-| Stromversorgung | DC, 5V, 3A                      |
+| Stromversorgung | DC, 5V, 2A                      |
 | --------- | ------------------------------- |
 | Anschluss  | USB-C                           |
 | Abmessungen | Durchmesser 121 mm<br />Höhe 60 mm |
@@ -41,7 +41,7 @@ An der Unterseite des Geräts befinden sich außerdem drei Öffnungen für den S
 
 ### Aufladen der Gerätebatterie
 
-Das Gerät enthält eine Lithium-Ionen-Batterie, die mit einer Spannung von 5V/3A über einen USB-C-Anschluss an der **Unterseite des Geräts** geladen wird. Nach Anschluss der Spannung zeigt das Logo den Ladevorgang an, indem es entsprechend dem Batteriestand rot, gelb oder grün leuchtet. Wenn es konstant grün leuchtet, ist der Ladevorgang abgeschlossen.
+Das Gerät enthält eine Lithium-Ionen-Batterie, die mit einer Spannung von 5V/2A über einen USB-C-Anschluss an der **Unterseite des Geräts** geladen wird. Nach Anschluss der Spannung zeigt das Logo den Ladevorgang an, indem es entsprechend dem Batteriestand rot, gelb oder grün leuchtet. Wenn es konstant grün leuchtet, ist der Ladevorgang abgeschlossen.
 
 ![vibey-removebg-preview](/voice-toys/images/vibey-removebg-preview.png)
 

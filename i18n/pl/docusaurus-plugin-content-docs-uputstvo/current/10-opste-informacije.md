@@ -65,7 +65,7 @@ Urządzenie **JumpY** montuje się na ścianie zgodnie z instrukcją w rozdziale
 
 ### Zasilanie urządzeń i bezpieczeństwo elektryczne
 
-Wszystkie urządzenia zasila się standardowymi ładowarkami USB 5 V/3 A za pomocą kabla ze złączem USB-C. Nie używaj wadliwych ani uszkodzonych kabli, tylko kabli dostarczonych z urządzeniem lub odpowiednich zamienników dobrej jakości. Podczas ładowania NIE ZOSTAWIAJ URZĄDZEŃ BEZ NADZORU! Jeśli urządzenie nagrzeje się w nietypowy sposób, pojawi się dym lub nietypowy zapach, NATYCHMIAST odłącz je od zasilania i odłóż w miejsce, w którym nie może wywołać pożaru! Urządzenia bezprzewodowe mają akumulatory i po naładowaniu pracują bez podłączonego zasilania, natomiast urządzenie **JumpY** musi być stale podłączone do zasilania, ponieważ nie ma akumulatora.
+Wszystkie urządzenia zasila się standardowymi ładowarkami USB 5 V/2 A za pomocą kabla ze złączem USB-C. Nie używaj wadliwych ani uszkodzonych kabli, tylko kabli dostarczonych z urządzeniem lub odpowiednich zamienników dobrej jakości. Podczas ładowania NIE ZOSTAWIAJ URZĄDZEŃ BEZ NADZORU! Jeśli urządzenie nagrzeje się w nietypowy sposób, pojawi się dym lub nietypowy zapach, NATYCHMIAST odłącz je od zasilania i odłóż w miejsce, w którym nie może wywołać pożaru! Urządzenia bezprzewodowe mają akumulatory i po naładowaniu pracują bez podłączonego zasilania, natomiast urządzenie **JumpY** musi być stale podłączone do zasilania, ponieważ nie ma akumulatora.
 
 ### Objaśnienie symboli
 

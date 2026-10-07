@@ -12,7 +12,7 @@ sidebar_position: 7
 
 
 
-| Power supply | DC, 5V, 3A                                           |
+| Power supply | DC, 5V, 2A                                           |
 | --------- | ---------------------------------------------------- |
 | Connector  | USB-C                                                |
 | Dimensions | 120x 73 x 107mm                                      |
@@ -58,7 +58,7 @@ Place the speakers in the space so that they are in front, on the left, on the r
 
 ### Charging the device battery
 
-The device contains a lithium-ion battery that is charged with a voltage of **5V/3A, using the USB-C connector on the back side of the device.** After connecting the voltage, the light indicates charging by emitting red, yellow or green color, in accordance with the battery status. When it glows constantly green, the charging process is complete. When you stop working with the SpaceY speakers, the lights on them will turn on as a reminder to turn them off. Do not leave them turned on unnecessarily, in order to avoid unnecessary battery drain.
+The device contains a lithium-ion battery that is charged with a voltage of **5V/2A, using the USB-C connector on the back side of the device.** After connecting the voltage, the light indicates charging by emitting red, yellow or green color, in accordance with the battery status. When it glows constantly green, the charging process is complete. When you stop working with the SpaceY speakers, the lights on them will turn on as a reminder to turn them off. Do not leave them turned on unnecessarily, in order to avoid unnecessary battery drain.
 
 
 ---

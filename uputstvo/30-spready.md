@@ -13,7 +13,7 @@ sidebar_position: 5
 *Raspored SpreadY stubića po bojama*
 
 
-| Napajanje | DC, 5V, 3A                                             |
+| Napajanje | DC, 5V, 2A                                             |
 | --------- | ------------------------------------------------------ |
 | Konektor  | USB-C                                                  |
 | Dimenzije | Prečnik 121mm<br />Visina 340 mm                       |
@@ -43,7 +43,7 @@ Stanje baterija možete kontrolisati i pomoću mobilne aplikacije. Na donjoj str
 
 ### Punjenje baterije uređaja
 
-Uređaj sadrži Litijum-jonsku bateriju koja se puni **naponom od 5V/3A, pomoću USB-C konektora sa donje strane uređaja**. Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
+Uređaj sadrži Litijum-jonsku bateriju koja se puni **naponom od 5V/2A, pomoću USB-C konektora sa donje strane uređaja**. Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
 
 ![Spready-removebg-preview|200](/voice-toys/images/Spready-removebg-preview.png)
 
