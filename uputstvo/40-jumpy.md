@@ -12,7 +12,7 @@ sidebar_position: 6
 	imagePosition="right"
 >
 
-| Napajanje    | DC, 5V, 3A                                                        |
+| Napajanje    | DC, 5V, 2A                                                        |
 | ------------ | ----------------------------------------------------------------- |
 | Konektor     | USB-C                                                             |
 | Mreže        | Wi-Fi, Bluetooth                                                  |
@@ -36,7 +36,7 @@ Svetlosni panel nije predviđen za bilo kakav fizički kontakt sa korisnikom! Ne
 
 JumpY panel je namenjen za montažu na zid. Uputstvo za montažu nalazi se u nastavku. Ukoliko je potrebno da ga često premeštate, na svoju odgovornost ga možete koristiti i bez pričvršćivanja. Nepričvršćen panel postavite tako da ne može da se prevrne: celom donjom ivicom na podu, naslonjen na zid, van putanje kretanja dece. Za igre sa kretanjem, skakanjem i loptom panel mora biti pričvršćen na zid. JumpY panel je jedini VoiceToys uređaj koji mora biti priključen na električnu mrežu tokom rada. Zbog toga, pre korišćenja se uverite da imate izvor napajanja u blizini. Uređaj se napaja kablom sa USB-C konektorom. Priključak se nalazi sa donje desne strane svetlosnog panela, neposredno ispod prekidača.
 
-Pomoću njega priključite standardni USB adapter, **minimum 5V/3A** na električnu mrežu. Uključite prekidač. Uređaj se inicijalizuje emitujući crvenu boju. Nakon kratkog perioda inicijalizacije uređaj počinje da radi, i to u onom režimu u kom je radio prilikom prethodne upotrebe.
+Pomoću njega priključite na električnu mrežu standardni USB adapter od **5V, sa strujom od najmanje 2A**. Uključite prekidač. Uređaj se inicijalizuje emitujući crvenu boju. Nakon kratkog perioda inicijalizacije uređaj počinje da radi, i to u onom režimu u kom je radio prilikom prethodne upotrebe.
 
 ---
 

@@ -26,6 +26,8 @@ Kada sve ove mogućnosti sumiramo, VoiceToys sistem omogućava detetu da na razl
 
 Tokom procene uređaji mogu poslužiti za uspostavljanje kontakta i motivacije i kao prilika za neformalno posmatranje deteta: dolazak na procenu je za dete nov doživljaj, a uz uređaje ono spontanije reaguje i komunicira. Uređaji nisu test, ne daju normirane rezultate i ne zamenjuju standardizovane instrumente procene.
 
+**Namena proizvoda:** VoiceToys nije medicinsko sredstvo u smislu propisa o medicinskim sredstvima i nije namenjen dijagnostici, lečenju, ublažavanju niti praćenju bolesti, povreda ili invaliditeta. VoiceToys je elektronski sistem za multisenzornu stimulaciju, namenjen stručnim licima kao pomoćno sredstvo u logopedskoj, defektološkoj, rehabilitacionoj i edukativnoj praksi. Procenu, izbor postupka i tumačenje napredovanja vrši isključivo stručno lice. Proizvođač ne daje i ne garantuje bilo kakve terapijske ishode.
+
 Ovaj priručnik prati funkcije i daje predloge igara za svaki od 4 uređaja koji čine interaktivnu multifunkcionalnu platformu VT - VibeY, SpaceY, SpreadY i JumpY. Koncipiran je tako da terapeuti dobiju početne ideje za korišćenje VT uređaja, koje kasnije mogu da razvijaju i prilagođavaju potrebama terapeutskog procesa. Predložene igre su jednostavne i inspirisane svakodnevnom praksom.
 
 :::danger[Pre upotrebe]

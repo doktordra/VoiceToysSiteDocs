@@ -9,6 +9,8 @@ hide_table_of_contents: true
 
 Wszystkie urządzenia VoiceToys są wykonane z bezpiecznych materiałów i nie mają ostrych krawędzi, aby ograniczyć ryzyko urazów. Urządzenia są przeznaczone do obsługi przez terapeutów. **Nie dawaj ich dzieciom do samodzielnego używania!** Z wyjątkiem urządzenia **VibeY**, które wytwarza wibracje i jest przeznaczone do dotykania, nie dawaj pozostałych urządzeń do rąk podopiecznym, aby uniknąć przypadkowych uszkodzeń. Karty i obrazki na urządzeniach i w uchwytach na karty umieszcza terapeuta; dziecko je wybiera i kładzie przed urządzeniem. Szczególnie uważaj na głośniki systemu **SpaceY**, ponieważ ich powierzchnie emitujące dźwięk są wykonane z miękkiego drewna. Chwytaj je i trzymaj wyłącznie za plastikową część!
 
+**Przeznaczenie produktu:** VoiceToys nie jest wyrobem medycznym w rozumieniu przepisów o wyrobach medycznych i nie jest przeznaczony do diagnozowania, leczenia, łagodzenia ani monitorowania chorób, urazów lub niepełnosprawności. VoiceToys to elektroniczny system stymulacji wielozmysłowej, przeznaczony dla specjalistów jako narzędzie wspomagające w praktyce logopedycznej, pedagogiki specjalnej, rehabilitacyjnej i edukacyjnej. Ocena, dobór postępowania oraz interpretacja postępów należą wyłącznie do specjalisty. Producent nie formułuje ani nie gwarantuje żadnych efektów terapeutycznych.
+
 **Uwagi dotyczące bezpieczeństwa i odpowiedzialności użytkownika**
 
 Niniejsza instrukcja ma pomóc w prawidłowym i bezpiecznym użytkowaniu tego urządzenia elektronicznego. Przed użyciem urządzenia uważnie przeczytaj instrukcję i stosuj się do wszystkich zawartych w niej wskazówek. Producent nie ponosi odpowiedzialności za niewłaściwe użytkowanie urządzenia ani za jego skutki.
@@ -65,7 +67,7 @@ Urządzenie **JumpY** montuje się na ścianie zgodnie z instrukcją w rozdziale
 
 ### Zasilanie urządzeń i bezpieczeństwo elektryczne
 
-Wszystkie urządzenia zasila się standardowymi ładowarkami USB 5 V/3 A za pomocą kabla ze złączem USB-C. Nie używaj wadliwych ani uszkodzonych kabli, tylko kabli dostarczonych z urządzeniem lub odpowiednich zamienników dobrej jakości. Podczas ładowania NIE ZOSTAWIAJ URZĄDZEŃ BEZ NADZORU! Jeśli urządzenie nagrzeje się w nietypowy sposób, pojawi się dym lub nietypowy zapach, NATYCHMIAST odłącz je od zasilania i odłóż w miejsce, w którym nie może wywołać pożaru! Urządzenia bezprzewodowe mają akumulatory i po naładowaniu pracują bez podłączonego zasilania, natomiast urządzenie **JumpY** musi być stale podłączone do zasilania, ponieważ nie ma akumulatora.
+Wszystkie urządzenia zasila się standardową ładowarką USB o napięciu 5 V i prądzie co najmniej 2 A, za pomocą kabla ze złączem USB-C. Nie używaj wadliwych ani uszkodzonych kabli, tylko kabli dostarczonych z urządzeniem lub odpowiednich zamienników dobrej jakości. Podczas ładowania NIE ZOSTAWIAJ URZĄDZEŃ BEZ NADZORU! Jeśli urządzenie nagrzeje się w nietypowy sposób, pojawi się dym lub nietypowy zapach, NATYCHMIAST odłącz je od zasilania i odłóż w miejsce, w którym nie może wywołać pożaru! Urządzenia bezprzewodowe mają akumulatory i po naładowaniu pracują bez podłączonego zasilania, natomiast urządzenie **JumpY** musi być stale podłączone do zasilania, ponieważ nie ma akumulatora.
 
 ### Objaśnienie symboli
 

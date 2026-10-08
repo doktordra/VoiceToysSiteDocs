@@ -9,6 +9,8 @@ hide_table_of_contents: true
 
 All VoiceToys devices are made of harmless materials and without sharp edges, in order to minimize the risk of injury. The devices are intended to be operated by therapists. **Do not give them to children for independent use!** Except for the **VibeY** device, which produces vibrations and is intended to be touched by the user, do not place the other devices in users' hands, in order to avoid accidental damage. The therapist places cards and pictures on the devices and in the card holders; the child chooses them and places them in front of the device. Pay particular attention to the speakers from the **SpaceY** system, because their emitting surfaces are made of soft wood. Grip and hold them exclusively by the plastic part!
 
+**Intended purpose:** VoiceToys is not a medical device within the meaning of medical device regulations and is not intended for the diagnosis, treatment, alleviation or monitoring of disease, injury or disability. VoiceToys is an electronic multisensory stimulation system, intended for professionals as a supporting tool in speech and language therapy, special education, rehabilitation and educational practice. Assessment, choice of procedure and interpretation of progress are carried out exclusively by the professional. The manufacturer makes no claims and gives no guarantees regarding therapeutic outcomes.
+
 **Note on safety and user responsibility** 
 
 This manual is intended to help you with the correct and safe use of this electronic device. Before using the device, read this manual carefully and follow all the stated guidelines. The manufacturer bears no responsibility for improper use of the device or for consequences that may arise from it.
@@ -65,7 +67,7 @@ The **JumpY** device is mounted on the wall, according to the instructions in th
 
 ### Powering the devices and electrical safety
 
-All devices are powered by standard 5V/3A USB chargers using a cable with a USB-C connector. Do not use faulty or damaged cables, but only those supplied with the device or adequate quality replacements. During charging, DO NOT LEAVE THE DEVICES UNATTENDED! In case an unusually high device temperature occurs, smoke appears or unusual odors appear, IMMEDIATELY disconnect the device from the power and place it in a location where it cannot cause a fire! The wireless devices are charged and are intended to operate without connected power, while the **JumpY** device must be constantly connected to power because it does not contain batteries.
+All devices are powered by a standard USB charger rated 5V with a current of at least 2A, using a cable with a USB-C connector. Do not use faulty or damaged cables, but only those supplied with the device or adequate quality replacements. During charging, DO NOT LEAVE THE DEVICES UNATTENDED! In case an unusually high device temperature occurs, smoke appears or unusual odors appear, IMMEDIATELY disconnect the device from the power and place it in a location where it cannot cause a fire! The wireless devices are charged and are intended to operate without connected power, while the **JumpY** device must be constantly connected to power because it does not contain batteries.
 
 ### Explanation of symbols
 

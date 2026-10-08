@@ -12,7 +12,7 @@ sidebar_position: 6
 	imagePosition="right"
 >
 
-| Stromversorgung | DC, 5V, 3A                                                        |
+| Stromversorgung | DC, 5V, 2A                                                        |
 | --------------- | ----------------------------------------------------------------- |
 | Anschluss       | USB-C                                                             |
 | Netzwerke       | Wi-Fi, Bluetooth                                                  |
@@ -36,7 +36,7 @@ Das Lichtpanel ist für keinerlei physischen Kontakt mit dem Benutzer vorgesehen
 
 Das JumpY-Panel ist für die Wandmontage vorgesehen. Die Montageanleitung folgt weiter unten. Falls Sie es häufig umstellen müssen, können Sie es auf eigene Verantwortung auch ohne Befestigung verwenden. Stellen Sie ein nicht befestigtes Panel so auf, dass es nicht umkippen kann: mit der ganzen Unterkante auf dem Boden, an die Wand gelehnt, außerhalb der Laufwege der Kinder. Für Spiele mit Bewegung, Springen und Ball muss das Panel an der Wand befestigt sein. Das JumpY-Panel ist das einzige VoiceToys-Gerät, das während des Betriebs an das Stromnetz angeschlossen sein muss. Stellen Sie deshalb vor der Verwendung sicher, dass sich eine Stromquelle in der Nähe befindet. Das Gerät wird über ein Kabel mit USB-C-Anschluss mit Strom versorgt. Der Anschluss befindet sich an der unteren rechten Seite des Lichtpanels, unmittelbar unter dem Schalter.
 
-Schließen Sie damit einen handelsüblichen USB-Adapter, **mindestens 5V/3A**, an das Stromnetz an. Schalten Sie den Schalter ein. Das Gerät initialisiert sich, indem es rotes Licht ausstrahlt. Nach einer kurzen Initialisierungsphase beginnt das Gerät zu arbeiten, und zwar in jenem Modus, in dem es bei der vorherigen Verwendung gearbeitet hat.
+Schließen Sie damit einen handelsüblichen USB-Adapter **mit 5 V und mindestens 2 A** an das Stromnetz an. Schalten Sie den Schalter ein. Das Gerät initialisiert sich, indem es rotes Licht ausstrahlt. Nach einer kurzen Initialisierungsphase beginnt das Gerät zu arbeiten, und zwar in jenem Modus, in dem es bei der vorherigen Verwendung gearbeitet hat.
 
 ---
 

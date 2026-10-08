@@ -9,6 +9,8 @@ hide_table_of_contents: true
 
 Svi VoiceToys uređaji su napravljeni od neškodljivih materijala i bez oštrih ivica kako bi se minimizovala opasnost od povreda. Uređaji su namenjeni da njima rukuju terapeuti. **Nemojte ih davati deci na samostalno korišćenje!** Osim uređaja **VibeY**, koji proizvodi vibracije i namenjen je da ga korisnik dodiruje, ostale uređaje nemojte davati korisnicima u ruke kako bi se izbegla slučajna oštećenja. Kartice i slike na uređaje i u nosače kartica stavlja terapeut; dete ih bira i stavlja ispred uređaja. Posebno obratite pažnju na zvučnike iz sistema **SpaceY**, jer su njihove emitujuće površine napravljene od mekanog drveta. Hvatajte ih i držite isključivo za plastični deo!
 
+**Namena proizvoda:** VoiceToys nije medicinsko sredstvo u smislu propisa o medicinskim sredstvima i nije namenjen dijagnostici, lečenju, ublažavanju niti praćenju bolesti, povreda ili invaliditeta. VoiceToys je elektronski sistem za multisenzornu stimulaciju, namenjen stručnim licima kao pomoćno sredstvo u logopedskoj, defektološkoj, rehabilitacionoj i edukativnoj praksi. Procenu, izbor postupka i tumačenje napredovanja vrši isključivo stručno lice. Proizvođač ne daje i ne garantuje bilo kakve terapijske ishode.
+
 **Napomena o sigurnosti i odgovornosti korisnika** 
 
 Ovo uputstvo je namenjeno da vam pomogne u pravilnoj i bezbednoj upotrebi ovog elektronskog uređaja. Pre korišćenja uređaja, pažljivo pročitajte ovo uputstvo i pridržavajte se svih navedenih smernica. Proizvođač ne snosi odgovornost za nepropisnu upotrebu uređaja ili posledice koje mogu proisteći iz iste.
@@ -65,7 +67,7 @@ Uređaj **JumpY** se postavlja na zid, prema uputstvu u poglavlju namenjenom det
 
 ### Napajanje uređaja i električna bezbednost
 
-Svi uređaji se napajaju standardnim USB punjačima od 5V/3A pomoću kabla sa USB-C priključkom. Ne koristite neispravne ili oštećene kablove, već samo one koji su vam isporučeni uz uređaj ili adekvatne kvalitetne zamene. Tokom punjenja NE OSTAVLJAJTE UREĐAJE BEZ NADZORA! U slučaju eventualne pojave neuobičajeno visoke temperature uređaja, pojave dima ili neuobičajenih mirisa uređaj ODMAH isključite iz struje i odložite na mesto na kom ne može izazvati požar! Bežični uređaji se pune i namenjeni su za rad bez priključenog napajanja, dok uređaj **JumpY** mora da bude konstantno priključen na napajanje jer ne sadrži baterije.
+Svi uređaji se napajaju standardnim USB punjačem napona 5V i struje najmanje 2A, pomoću kabla sa USB-C priključkom. Ne koristite neispravne ili oštećene kablove, već samo one koji su vam isporučeni uz uređaj ili adekvatne kvalitetne zamene. Tokom punjenja NE OSTAVLJAJTE UREĐAJE BEZ NADZORA! U slučaju eventualne pojave neuobičajeno visoke temperature uređaja, pojave dima ili neuobičajenih mirisa uređaj ODMAH isključite iz struje i odložite na mesto na kom ne može izazvati požar! Bežični uređaji se pune i namenjeni su za rad bez priključenog napajanja, dok uređaj **JumpY** mora da bude konstantno priključen na napajanje jer ne sadrži baterije.
 
 ### Objašnjenje simbola
 

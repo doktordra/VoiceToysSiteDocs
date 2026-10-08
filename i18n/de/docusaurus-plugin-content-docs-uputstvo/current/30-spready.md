@@ -13,7 +13,7 @@ sidebar_position: 5
 *Anordnung der SpreadY-Säulen nach Farben*
 
 
-| Stromversorgung | DC, 5V, 3A                                             |
+| Stromversorgung | DC, 5V, 2A                                             |
 | --------- | ------------------------------------------------------ |
 | Anschluss  | USB-C                                                  |
 | Abmessungen | Durchmesser 121 mm<br />Höhe 340 mm                       |
@@ -42,7 +42,7 @@ Den Batteriestand können Sie auch über die mobile App kontrollieren. An der Un
 
 ### Aufladen der Gerätebatterie
 
-Das Gerät enthält eine Lithium-Ionen-Batterie, die mit einer **Spannung von 5V/3A über einen USB-C-Anschluss an der Unterseite des Geräts** geladen wird. Nach Anschluss der Spannung zeigt das Logo den Ladevorgang an, indem es entsprechend dem Batteriestand rot, gelb oder grün leuchtet. Wenn es konstant grün leuchtet, ist der Ladevorgang abgeschlossen.
+Das Gerät enthält eine Lithium-Ionen-Batterie, die mit einem **Ladegerät mit 5 V und mindestens 2 A über einen USB-C-Anschluss an der Unterseite des Geräts** geladen wird. Nach Anschluss der Spannung zeigt das Logo den Ladevorgang an, indem es entsprechend dem Batteriestand rot, gelb oder grün leuchtet. Wenn es konstant grün leuchtet, ist der Ladevorgang abgeschlossen.
 
 ![Spready-removebg-preview|200](/voice-toys/images/Spready-removebg-preview.png)
 

@@ -26,6 +26,8 @@ When we sum up all these possibilities, the VoiceToys system allows the child to
 
 During assessment, the devices can help establish contact and motivation and offer an opportunity for informal observation of the child: coming to an assessment is a new experience for a child, and with the devices the child reacts and communicates more spontaneously. The devices are not a test, do not provide standardised results and do not replace standardised assessment instruments.
 
+**Intended purpose:** VoiceToys is not a medical device within the meaning of medical device regulations and is not intended for the diagnosis, treatment, alleviation or monitoring of disease, injury or disability. VoiceToys is an electronic multisensory stimulation system, intended for professionals as a supporting tool in speech and language therapy, special education, rehabilitation and educational practice. Assessment, choice of procedure and interpretation of progress are carried out exclusively by the professional. The manufacturer makes no claims and gives no guarantees regarding therapeutic outcomes.
+
 This manual describes the functions and provides game suggestions for each of the 4 devices that make up the interactive multifunctional VoiceToys platform - VibeY, SpaceY, SpreadY, and JumpY. It is designed so that therapists get initial ideas for using VT devices, which they can later develop and adapt to their therapeutic process needs. The proposed games are simple and inspired by everyday practice.
 
 :::danger[Before use]
