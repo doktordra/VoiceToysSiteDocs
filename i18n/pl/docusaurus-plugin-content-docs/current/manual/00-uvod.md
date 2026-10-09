@@ -3,24 +3,24 @@ title: Wstęp
 sidebar_position: 00
 slug: /manual/uvod
 ---
-Multisensoryczny system edukacyjny „VoiceToys” (VT) to interaktywna, wielofunkcyjna platforma do stymulacji sensorycznej i wspierania rozwoju psychofizycznego dziecka, należąca do obszaru technologii wspomagających. Urządzenia służą do wywoływania wokalizacji i wczesnych zachowań głosowych, pierwszych naśladowań werbalnych, kontroli wysokości głosu, rozwijania uwagi słuchowej i wzrokowej, usprawniania pamięci, motoryki oraz innych umiejętności i zdolności psychomotorycznych.
+Multisensoryczny system edukacyjny „VoiceToys” (VT) to interaktywna, wielofunkcyjna platforma do stymulacji sensorycznej w pracy z dziećmi, należąca do obszaru technologii wspomagających. Urządzenia są wykorzystywane w pracy nad wywoływaniem wokalizacji i wczesnych zachowań głosowych, pierwszymi naśladowaniami werbalnymi, kontrolą wysokości głosu, uwagą słuchową i wzrokową, pamięcią, motoryką oraz innymi umiejętnościami i zdolnościami psychomotorycznymi.
 
 Ponieważ zaburzenia rozwoju mowy często współwystępują z opóźnionym rozwojem psychomotorycznym, słabą koncentracją uwagi i specyficznymi trudnościami w uczeniu się, obszar zastosowań stale się poszerza. Obecnie z VT korzystają logopedzi, pedagodzy specjalni, surdopedagodzy, pedagodzy pracujący z dziećmi o typowym rozwoju, terapeuci zajęciowi i fizjoterapeuci.
 
-Urządzenia VT są silnym środkiem stymulującym, który dzięki przemyślanej formie i funkcjom przyciąga uwagę dzieci. Połączenie zabawy i technologii motywuje dzieci do aktywnego udziału w terapii, ułatwia im przyswajanie nowej wiedzy i umiejętności, a terapeucie pomaga osiągać zamierzone cele. W trakcie terapii terapeuta wydaje polecenia, ukierunkowuje, kontroluje przebieg zajęć i ocenia ich efekt, ma jasny wgląd w postępy i je dokumentuje. Dziecko, jako aktywny uczestnik procesu terapeutycznego, powtarza aktywność i uczy się kontrolować własne wykonanie.
+Urządzenia VT są silnym środkiem stymulującym, który dzięki przemyślanej formie i funkcjom przyciąga uwagę dzieci. Połączenie zabawy i technologii motywuje dzieci do aktywnego udziału w terapii, a terapeucie ułatwia prowadzenie i dostosowywanie aktywności. W trakcie terapii terapeuta wydaje polecenia, ukierunkowuje, kontroluje przebieg zajęć i ocenia ich efekt, ma jasny wgląd w postępy i je dokumentuje. Dziecko, jako aktywny uczestnik procesu terapeutycznego, powtarza aktywność i uczy się kontrolować własne wykonanie.
 
 System VoiceToys opiera się na informacji zwrotnej w czasie rzeczywistym: głos, dźwięk lub ruch dziecka natychmiast wywołuje widoczną, słyszalną lub wyczuwalną reakcję urządzenia. Taka informacja zwrotna czyni dostrzegalnymi te cechy głosu, które dziecku trudno samodzielnie śledzić (natężenie, wysokość, czas trwania, rytm), pomaga mu zauważyć związek między własnym zachowaniem a jego skutkiem oraz wspiera powtarzanie i samokontrolę. Wizualna informacja zwrotna o głosie jest stałym elementem praktyki w terapii głosu i mowy, a stymulacja multisensoryczna jest wykorzystywana w podejściu integracji sensorycznej (A. Jean Ayres) i w metodzie Snoezelen. Urządzenia są narzędziem w rękach specjalisty; wybór celów i aktywności oraz ocena postępów pozostają decyzją terapeuty.
 
-Z praktyki wiemy, jak długo trwa proces zdobywania wiedzy i umiejętności, zwłaszcza u dzieci z trudnościami rozwojowymi. Ponieważ dzieci uczą się najwięcej wtedy, gdy są zmotywowane, urządzenia VT pozwalają im czerpać radość z nauki bez świadomości wyznaczonego celu, co ułatwia cały proces i sprawia, że efekty stają się widoczne.
+Z praktyki wiemy, jak długo trwa proces zdobywania wiedzy i umiejętności, zwłaszcza u dzieci z trudnościami rozwojowymi. Ponieważ dzieci uczą się najwięcej wtedy, gdy są zmotywowane, urządzenia VT pozwalają im czerpać radość z nauki bez świadomości wyznaczonego celu, co sprawia, że cały proces staje się ciekawszy i bardziej przystępny.
 
 **Dlaczego warto łączyć urządzenia?**
 
 Dzieci różnią się tym, który kanał zmysłowy je przyciąga i jest dla nich dostępny: jedno dziecko reaguje na światło, inne na wibrację, jeszcze inne na dźwięk w przestrzeni. Łączenie urządzeń pozwala realizować ten sam cel, na przykład kontrolę natężenia głosu lub uwagę słuchową, przez różne kanały i formy zabawy, podtrzymywać motywację i stopniowo zwiększać trudność zadania.
 
-Urządzenia VT emitujące sygnały dźwiękowe pomagają dzieciom rozpoznawać i naśladować dźwięki, słowa i wyrażenia, a dodatkowe wsparcie wzrokowe pozwala im lepiej przetwarzać i integrować treści dzięki prezentacji wizualnej.
+Urządzenia VT emitujące sygnały dźwiękowe pomagają dzieciom rozpoznawać i naśladować dźwięki, słowa i wyrażenia, a dodatkowe wsparcie wzrokowe ułatwia im śledzenie treści.
 
 Łącząc urządzenia VT z kartami zawierającymi obrazki, słowa i teksty, zachęcamy dzieci do przyswajania nowych informacji poprzez rozpoznawanie prezentowanych treści.
-Zabawy, w których dziecko aktywnie uczestniczy, porusza się i manipuluje przedmiotami, wspierają rozwój podstawowych umiejętności motorycznych i ich przenoszenie do codziennych czynności, co przyczynia się do ogólnego rozwoju psychomotorycznego i funkcjonalnego przystosowania dziecka.
+Zabawy, w których dziecko aktywnie uczestniczy, porusza się i manipuluje przedmiotami, obejmują pracę nad podstawowymi umiejętnościami motorycznymi i ich wykorzystaniem w codziennych czynnościach.
 
 Podsumowując: system VoiceToys pozwala dziecku odkrywać i przyswajać nowe treści na różne, właściwe dla niego sposoby. Urządzenia budzą zainteresowanie dzieci, które stają się zmotywowane i otwarte na nowe przeżycia i doświadczenia.
 
