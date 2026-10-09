@@ -12,7 +12,7 @@ sidebar_position: 7
 
 
 
-| Napajanje | DC, 5V, 3A                                           |
+| Napajanje | DC, 5V, 2A                                           |
 | --------- | ---------------------------------------------------- |
 | Konektor  | USB-C                                                |
 | Dimenzije | 120x 73 x 107mm                                      |
@@ -58,7 +58,7 @@ Postavite zvučnike u prostor tako da se nalaze ispred, levo, desno, iza, a jeda
 
 ### Punjenje baterije uređaja
 
-Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od **5V/3A, pomoću USB-C konektora sa zadnje strane uređaja.** Nakon priključenja napona, svetlo indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen. Kada prestanete da radite sa SpaceY zvučnicima, svetla na njima će se upaliti kao podsetnik da ih isključite. Ne ostavljajte ih uključene bez potrebe, kako biste izbegli bespotrebno trošenje baterije.
+Uređaj sadrži Litijum-jonsku bateriju koja se puni punjačem napona **5V i struje najmanje 2A, pomoću USB-C konektora sa zadnje strane uređaja.** Nakon priključenja napona, svetlo indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen. Kada prestanete da radite sa SpaceY zvučnicima, svetla na njima će se upaliti kao podsetnik da ih isključite. Ne ostavljajte ih uključene bez potrebe, kako biste izbegli bespotrebno trošenje baterije.
 
 
 ---

@@ -12,7 +12,7 @@ sidebar_position: 6
 	imagePosition="right"
 >
 
-| Zasilanie    | DC, 5V, 3A                                                        |
+| Zasilanie    | DC, 5V, 2A                                                        |
 | ------------ | ----------------------------------------------------------------- |
 | Złącze       | USB-C                                                             |
 | Łączność     | Wi-Fi, Bluetooth                                                  |
@@ -36,7 +36,7 @@ Panel świetlny nie jest przeznaczony do żadnego kontaktu fizycznego z użytkow
 
 Panel JumpY jest przeznaczony do montażu na ścianie. Instrukcja montażu znajduje się poniżej. Jeśli musisz często go przenosić, możesz na własną odpowiedzialność używać go bez mocowania. Nieprzymocowany panel ustaw tak, aby nie mógł się przewrócić: całą dolną krawędzią na podłodze, oparty o ścianę, z dala od miejsc, w których poruszają się dzieci. W zabawach z ruchem, skakaniem i piłką panel musi być przymocowany do ściany. Panel JumpY jest jedynym urządzeniem VoiceToys, które podczas pracy musi być podłączone do sieci elektrycznej. Dlatego przed użyciem upewnij się, że w pobliżu jest gniazdko. Urządzenie zasila się kablem ze złączem USB-C. Złącze znajduje się w prawej dolnej części panelu świetlnego, tuż pod przełącznikiem.
 
-Podłącz kabel do standardowego zasilacza USB o parametrach **co najmniej 5 V/3 A**, a zasilacz do gniazdka. Włącz przełącznik. Urządzenie uruchamia się, świecąc na czerwono. Po krótkiej inicjalizacji zaczyna pracować w trybie, w którym pracowało podczas poprzedniego użycia.
+Podłącz kabel do standardowego zasilacza USB **o napięciu 5 V i prądzie co najmniej 2 A**, a zasilacz do gniazdka. Włącz przełącznik. Urządzenie uruchamia się, świecąc na czerwono. Po krótkiej inicjalizacji zaczyna pracować w trybie, w którym pracowało podczas poprzedniego użycia.
 
 ---
 

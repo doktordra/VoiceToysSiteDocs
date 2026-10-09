@@ -12,7 +12,7 @@ sidebar_position: 6
 	imagePosition="right"
 >
 
-| Power supply | DC, 5V, 3A                                                        |
+| Power supply | DC, 5V, 2A                                                        |
 | ------------ | ----------------------------------------------------------------- |
 | Connector    | USB-C                                                             |
 | Networks     | Wi-Fi, Bluetooth                                                  |
@@ -36,7 +36,7 @@ The light panel is not intended for any physical contact with the user! Do not t
 
 The JumpY panel is intended for wall mounting. The mounting instructions follow below. If you need to move it often, you can, at your own responsibility, use it without fastening as well. Place an unfastened panel so that it cannot tip over: with its whole lower edge on the floor, leaning against the wall, out of the children's path of movement. For games involving movement, jumping and a ball, the panel must be fixed to the wall. The JumpY panel is the only VoiceToys device that must be connected to the electrical grid during operation. Therefore, before use, make sure that you have a power source nearby. The device is powered by a cable with a USB-C connector. The connector is located on the lower right side of the light panel, immediately below the switch.
 
-Using it, connect a standard USB adapter, **minimum 5V/3A**, to the electrical grid. Turn on the switch. The device initializes by emitting red color. After a short initialization period the device begins to operate, and that in the mode in which it operated during the previous use.
+Using it, connect a standard **5V USB adapter rated at least 2A** to the mains. Turn on the switch. The device initializes by emitting red color. After a short initialization period the device begins to operate, and that in the mode in which it operated during the previous use.
 
 ---
 

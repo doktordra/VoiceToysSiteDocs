@@ -14,7 +14,7 @@ sidebar_position: 3
 >
 
 
-| Napajanje | DC, 5V, 3A                      |
+| Napajanje | DC, 5V, 2A                      |
 | --------- | ------------------------------- |
 | Konektor  | USB-C                           |
 | Dimenzije | Prečnik 121mm<br />Visina 60 mm |
@@ -41,7 +41,7 @@ Na donjoj strani uređaja se takođe nalaze i tri otvora za ulaz zvuka u unutra�
 
 ### Punjenje baterije uređaja
 
-Uređaj sadrži Litijum-jonsku bateriju koja se puni naponom od 5V/3A, pomoću USB-C konektora sa **donje strane uređaja.** Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
+Uređaj sadrži Litijum-jonsku bateriju koja se puni punjačem napona 5V i struje najmanje 2A, pomoću USB-C konektora sa **donje strane uređaja.** Nakon priključenja napona, logotip indikuje punjenje tako što emituje crvenu, žutu ili zelenu boju, u skladu sa stanjem baterije. Kada svetli konstantno zeleno, proces punjenja je završen.
 
 ![vibey-removebg-preview](/voice-toys/images/vibey-removebg-preview.png)
 

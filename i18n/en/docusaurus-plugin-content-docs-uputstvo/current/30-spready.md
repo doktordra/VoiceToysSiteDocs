@@ -13,7 +13,7 @@ sidebar_position: 5
 *Arrangement of the SpreadY columns by color*
 
 
-| Power supply | DC, 5V, 3A                                             |
+| Power supply | DC, 5V, 2A                                             |
 | --------- | ------------------------------------------------------ |
 | Connector  | USB-C                                                  |
 | Dimensions | Diameter 121mm<br />Height 340 mm                       |
@@ -43,7 +43,7 @@ You can also monitor the battery status using the mobile application. On the und
 
 ### Charging the device battery
 
-The device contains a lithium-ion battery that is charged with a **voltage of 5V/3A, using the USB-C connector on the underside of the device**. After connecting the voltage, the logo indicates charging by emitting red, yellow or green color, in accordance with the battery status. When it glows constantly green, the charging process is complete.
+The device contains a lithium-ion battery that is charged with a **5V charger rated at least 2A, using the USB-C connector on the underside of the device**. After connecting the voltage, the logo indicates charging by emitting red, yellow or green color, in accordance with the battery status. When it glows constantly green, the charging process is complete.
 
 ![Spready-removebg-preview|200](/voice-toys/images/Spready-removebg-preview.png)
 

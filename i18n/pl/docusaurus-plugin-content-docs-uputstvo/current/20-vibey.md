@@ -14,7 +14,7 @@ sidebar_position: 3
 >
 
 
-| Zasilanie | DC, 5V, 3A                      |
+| Zasilanie | DC, 5V, 2A                      |
 | --------- | ------------------------------- |
 | Złącze    | USB-C                           |
 | Wymiary   | Średnica 121 mm<br />Wysokość 60 mm |
@@ -41,7 +41,7 @@ Na spodzie urządzenia znajdują się też trzy otwory, przez które dźwięk do
 
 ### Ładowanie akumulatora
 
-Urządzenie zawiera akumulator litowo-jonowy, który ładuje się ładowarką 5 V/3 A przez złącze USB-C na **spodzie urządzenia.** Po podłączeniu zasilania logo sygnalizuje ładowanie, świecąc na czerwono, żółto lub zielono, zależnie od stanu akumulatora. Gdy świeci stale na zielono, ładowanie jest zakończone.
+Urządzenie zawiera akumulator litowo-jonowy, który ładuje się ładowarką o napięciu 5 V i prądzie co najmniej 2 A przez złącze USB-C na **spodzie urządzenia.** Po podłączeniu zasilania logo sygnalizuje ładowanie, świecąc na czerwono, żółto lub zielono, zależnie od stanu akumulatora. Gdy świeci stale na zielono, ładowanie jest zakończone.
 
 ![vibey-removebg-preview](/voice-toys/images/vibey-removebg-preview.png)
 
