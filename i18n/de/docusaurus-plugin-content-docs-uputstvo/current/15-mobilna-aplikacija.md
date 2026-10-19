@@ -11,11 +11,13 @@ Die mobile App „VoiceToys" dient zur Steuerung, zum Speichern von Parametern u
 
 ### Installation
 
-Wenn Sie ein Android-Gerät verwenden, können Sie die App aus dem Google Play Store herunterladen, also durch Scannen des QR-Codes auf der Box, in der Sie das Gerät erhalten haben.
+Wenn Sie ein Android-Gerät verwenden, können Sie die App aus dem [Google Play Store](https://play.google.com/store/apps/details?id=com.voicetoys.blearduino) herunterladen oder durch Scannen des QR-Codes auf der Box, in der Sie das Gerät erhalten haben.
 
-Für die Installation der App sind Berechtigungen für die Nutzung von Standort und Bluetooth erforderlich. Während der Installation erhalten Sie Benachrichtigungen, in denen Sie den Zugriff auf die angeforderten Telefonfunktionen genehmigen müssen. Nach der Genehmigung wird die App auf die übliche Weise installiert und ist unter Ihren anderen Apps auf dem Gerät zu finden, unter dem Namen VoiceToys und mit unserem Logo.
+Wenn Sie ein iPhone oder iPad verwenden, können Sie die App aus dem [App Store](https://apps.apple.com/app/id6472061112) herunterladen.
 
-**Während der Nutzung müssen Bluetooth-Kommunikation, Benachrichtigungen und Standort auf Ihrem Telefon eingeschaltet sein.**
+Die App benötigt die Berechtigung zur Nutzung von Bluetooth und auf Android-Geräten zusätzlich des Standorts. Während der Installation erhalten Sie Benachrichtigungen, in denen Sie den Zugriff auf die angeforderten Telefonfunktionen genehmigen müssen. Nach der Genehmigung wird die App auf die übliche Weise installiert und ist unter Ihren anderen Apps auf dem Gerät zu finden, unter dem Namen VoiceToys und mit unserem Logo.
+
+**Während der Nutzung müssen Bluetooth-Kommunikation und Benachrichtigungen, auf Android-Geräten auch der Standort, auf Ihrem Telefon eingeschaltet sein.**
 
 ### Startbildschirm
 
