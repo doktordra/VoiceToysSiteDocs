@@ -134,9 +134,5 @@
   "sidebar.tutorialSidebar.doc.manual-spacey": {
     "message": "SpaceY",
     "description": "The label for the doc item 'SpaceY' in sidebar 'tutorialSidebar', linking to the doc manual/spacey"
-  },
-  "sidebar.tutorialSidebar.link.Katalog": {
-    "message": "Katalog",
-    "description": "The label for link 'Katalog' in sidebar 'tutorialSidebar', linking to '/katalog'"
   }
 }

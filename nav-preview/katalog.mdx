@@ -1,7 +1,6 @@
 ---
 id: katalog
-title: VoiceToys katalog
-sidebar_label: Katalog
+title: VoiceToys katalog · Catalogue
 hide_title: true
 hide_table_of_contents: true
 pagination_prev: null
@@ -11,22 +10,26 @@ pagination_next: null
 import styles from './index.module.css';
 import Link from '@docusaurus/Link';
 
+<head>
+  <meta name="robots" content="noindex, nofollow" />
+</head>
+
+{/* Skrivena strana: nije u meniju, vodi do nje QR kod sa vizit karte.
+    Novi katalog = novo dugme, natpis na jeziku samog kataloga. */}
+
 <div className={styles.landing}>
   <div className={styles.grid}>
     <div className={styles.card} data-color="teal" data-wide="true">
-      <h1 className={styles.cardTitle}>VoiceToys katalog</h1>
-      <p className={styles.cardDesc}>Katalog VoiceToys multisenzornog edukativnog sistema: uređaji, igre, mobilna aplikacija i tehnički podaci. Izaberite jezik kataloga:</p>
-      <div className={styles.cardLinks}>
-        <div className={styles.btnGroup}>
-          <Link to="pathname:///katalog/VoiceToys-katalog-SR.pdf" target="_blank" className={styles.btnPrimary}>Srpski</Link>
-          <Link to="pathname:///katalog/VoiceToys-katalog-PL.pdf" target="_blank" className={styles.btnPrimary}>Polski</Link>
-        </div>
+      <h1 className={styles.cardTitle}>VoiceToys katalog · Catalogue</h1>
+      <div className={styles.catalogList}>
+        <Link to="pathname:///katalog/VoiceToys-katalog-SR.pdf" target="_blank" className={styles.btnPrimary}>Katalog na srpskom</Link>
+        <Link to="pathname:///katalog/VoiceToys-katalog-PL.pdf" target="_blank" className={styles.btnPrimary}>Katalog po polsku</Link>
       </div>
     </div>
     <div className={styles.card} data-color="teal" data-wide="true">
       <div className={styles.btnGroup}>
-        <a href="https://voicetoys.rs" className={styles.btnSecondary}>Sajt voicetoys.rs</a>
-        <Link to="/" className={styles.btnSecondary}>Dokumentacija</Link>
+        <a href="https://voicetoys.rs" className={styles.btnSecondary}>voicetoys.rs</a>
+        <Link to="pathname:///" className={styles.btnSecondary}>docs.voicetoys.rs</Link>
         <a href="mailto:voicetoys.rs@gmail.com" className={styles.btnSecondary}>voicetoys.rs@gmail.com</a>
         <a href="tel:+381652761635" className={styles.btnSecondary}>+381 65 276 1635</a>
       </div>
