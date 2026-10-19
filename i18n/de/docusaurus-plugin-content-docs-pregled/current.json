@@ -31,9 +31,9 @@
     "message": "Zertifikate",
     "description": "The label for category 'Sertifikati' in sidebar 'pregledSidebar'"
   },
-  "sidebar.pregledSidebar.category.Testimonials": {
-    "message": "Testimonials",
-    "description": "The label for category 'Testimonials' in sidebar 'pregledSidebar'"
+  "sidebar.pregledSidebar.category.Preporuke i iskustva": {
+    "message": "Empfehlungen und Erfahrungen",
+    "description": "The label for category 'Preporuke i iskustva' in sidebar 'pregledSidebar'"
   },
   "sidebar.pregledSidebar.link.Uvod": {
     "message": "Einführung",

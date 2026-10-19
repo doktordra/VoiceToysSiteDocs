@@ -78,7 +78,7 @@ const sidebarsUputstvo: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Testimonials',
+      label: 'Preporuke i iskustva',
       collapsed: true,
       items: [
         { type: 'link', label: 'Logomedica (SR) — pismo preporuke', href: 'pathname:///Testimonials/Logomedica1.pdf' },

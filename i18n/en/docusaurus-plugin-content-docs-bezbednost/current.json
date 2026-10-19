@@ -35,9 +35,9 @@
     "message": "Certificates",
     "description": "The label for category 'Sertifikati' in sidebar 'bezbednostSidebar'"
   },
-  "sidebar.bezbednostSidebar.category.Testimonials": {
-    "message": "Testimonials",
-    "description": "The label for category 'Testimonials' in sidebar 'bezbednostSidebar'"
+  "sidebar.bezbednostSidebar.category.Preporuke i iskustva": {
+    "message": "Recommendations and experiences",
+    "description": "The label for category 'Preporuke i iskustva' in sidebar 'bezbednostSidebar'"
   },
   "sidebar.bezbednostSidebar.link.VoiceToys dokumentacija": {
     "message": "VoiceToys Documentation",
