@@ -11,11 +11,13 @@ Mobilna aplikacija "VoiceToys" je namenjena za kontrolu, pamćenje parametara i 
 
 ### Instalacija
 
-Ukoliko koristite Android uređaj, aplikaciju možete preuzeti sa Google Play Store-a, odnosno skeniranjem QR koda na kutiji u kojoj ste dobili uređaj.
+Ukoliko koristite Android uređaj, aplikaciju možete preuzeti sa [Google Play Store-a](https://play.google.com/store/apps/details?id=com.voicetoys.blearduino) ili skeniranjem QR koda na kutiji u kojoj ste dobili uređaj.
 
-Za instalaciju aplikacije potrebna su odobrenja za korišćenje lokacije i bluetooth- a. Prilikom instaliranja, dobićete notifikacije na kojima je potrebno da odobrite pristup traženim funkcijama telefona. Nakon odobrenja, aplikacija se instalira na uobičajeni način i može se naći među ostalim aplikacijama na vašem uređaju, pod imenom VoiceToys i sa našim logotipom.
+Ukoliko koristite iPhone ili iPad, aplikaciju možete preuzeti sa [App Store-a](https://apps.apple.com/app/id6472061112).
 
-**Tokom upotrebe neophodno je da bluetooth komunikacija, notifikacije i lokacija na vašem telefonu budu uključene.**
+Za rad aplikacije potrebno je odobrenje za korišćenje Bluetooth-a, a na Android uređajima i lokacije. Prilikom instaliranja, dobićete notifikacije na kojima je potrebno da odobrite pristup traženim funkcijama telefona. Nakon odobrenja, aplikacija se instalira na uobičajeni način i može se naći među ostalim aplikacijama na Vašem uređaju, pod imenom VoiceToys i sa našim logotipom.
+
+**Tokom upotrebe neophodno je da Bluetooth komunikacija i notifikacije, a na Android uređajima i lokacija, budu uključene na Vašem telefonu.**
 
 ### Početni ekran
 
