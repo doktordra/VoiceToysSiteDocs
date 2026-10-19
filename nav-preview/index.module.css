@@ -278,3 +278,18 @@
 :global(.plugin-id-pregled) .theme-doc-sidebar-container~div>.container {
   padding: 0;
 }
+/* Skrivena strana /katalog: veliki dugmići jedan ispod drugog (telefon) */
+.catalogList {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-width: 24rem;
+  margin-top: 1rem;
+}
+
+.card[data-color="teal"] .catalogList .btnPrimary {
+  display: block;
+  text-align: center;
+  font-size: 1.05rem;
+  padding: 0.9rem 1rem;
+}
