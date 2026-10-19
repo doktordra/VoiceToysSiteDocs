@@ -31,9 +31,9 @@
     "message": "Zertifikate",
     "description": "The label for category 'Sertifikati' in sidebar 'tutorialSidebar'"
   },
-  "sidebar.tutorialSidebar.category.Testimonials": {
-    "message": "Testimonials",
-    "description": "The label for category 'Testimonials' in sidebar 'tutorialSidebar'"
+  "sidebar.tutorialSidebar.category.Preporuke i iskustva": {
+    "message": "Empfehlungen und Erfahrungen",
+    "description": "The label for category 'Preporuke i iskustva' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.link.VoiceToys dokumentacija": {
     "message": "VoiceToys Dokumentation",
@@ -90,6 +90,14 @@
   "sidebar.tutorialSidebar.link.LVD": {
     "message": "LVD",
     "description": "The label for link 'LVD' in sidebar 'tutorialSidebar', linking to '/bezbednost/lvd'"
+  },
+  "sidebar.tutorialSidebar.link.Logomedica (SR) — pismo preporuke": {
+    "message": "Logomedica (SR) — Empfehlungsschreiben",
+    "description": "The label for link 'Logomedica (SR) — pismo preporuke' in sidebar 'tutorialSidebar', linking to 'pathname:///Testimonials/Logomedica1.pdf'"
+  },
+  "sidebar.tutorialSidebar.link.Goran Petrušev (MK) — preporuka": {
+    "message": "Goran Petrušev (MK) — Empfehlung",
+    "description": "The label for link 'Goran Petrušev (MK) — preporuka' in sidebar 'tutorialSidebar', linking to 'pathname:///Testimonials/Goran_Petrusev1.pdf'"
   },
   "sidebar.tutorialSidebar.link.Buzganovic (SR) — zapažanja sa tretmana": {
     "message": "Buzganović (SR) — Behandlungsnotizen",

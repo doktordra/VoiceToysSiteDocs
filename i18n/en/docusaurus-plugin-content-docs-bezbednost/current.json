@@ -35,9 +35,9 @@
     "message": "Certificates",
     "description": "The label for category 'Sertifikati' in sidebar 'bezbednostSidebar'"
   },
-  "sidebar.bezbednostSidebar.category.Testimonials": {
-    "message": "Testimonials",
-    "description": "The label for category 'Testimonials' in sidebar 'bezbednostSidebar'"
+  "sidebar.bezbednostSidebar.category.Preporuke i iskustva": {
+    "message": "Recommendations and experiences",
+    "description": "The label for category 'Preporuke i iskustva' in sidebar 'bezbednostSidebar'"
   },
   "sidebar.bezbednostSidebar.link.VoiceToys dokumentacija": {
     "message": "VoiceToys Documentation",
@@ -106,6 +106,14 @@
   "sidebar.bezbednostSidebar.link.Kontakt": {
     "message": "Contact",
     "description": "The label for link 'Kontakt' in sidebar 'bezbednostSidebar', linking to '/uputstvo/kontakt'"
+  },
+  "sidebar.bezbednostSidebar.link.Logomedica (SR) — pismo preporuke": {
+    "message": "Logomedica (SR) — recommendation letter",
+    "description": "The label for link 'Logomedica (SR) — pismo preporuke' in sidebar 'bezbednostSidebar', linking to 'pathname:///Testimonials/Logomedica1.pdf'"
+  },
+  "sidebar.bezbednostSidebar.link.Goran Petrušev (MK) — preporuka": {
+    "message": "Goran Petrušev (MK) — recommendation",
+    "description": "The label for link 'Goran Petrušev (MK) — preporuka' in sidebar 'bezbednostSidebar', linking to 'pathname:///Testimonials/Goran_Petrusev1.pdf'"
   },
   "sidebar.bezbednostSidebar.link.Buzganovic (SR) — zapažanja sa tretmana": {
     "message": "Buzganović (SR) — treatment notes",
