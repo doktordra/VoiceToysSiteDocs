@@ -91,6 +91,14 @@
     "message": "LVD",
     "description": "The label for link 'LVD' in sidebar 'tutorialSidebar', linking to '/bezbednost/lvd'"
   },
+  "sidebar.tutorialSidebar.link.Logomedica (SR) — pismo preporuke": {
+    "message": "Logomedica (SR) — recommendation letter",
+    "description": "The label for link 'Logomedica (SR) — pismo preporuke' in sidebar 'tutorialSidebar', linking to 'pathname:///Testimonials/Logomedica1.pdf'"
+  },
+  "sidebar.tutorialSidebar.link.Goran Petrušev (MK) — preporuka": {
+    "message": "Goran Petrušev (MK) — recommendation",
+    "description": "The label for link 'Goran Petrušev (MK) — preporuka' in sidebar 'tutorialSidebar', linking to 'pathname:///Testimonials/Goran_Petrusev1.pdf'"
+  },
   "sidebar.tutorialSidebar.link.Buzganovic (SR) — zapažanja sa tretmana": {
     "message": "Buzganović (SR) — treatment notes",
     "description": "The label for link 'Buzganovic (SR) — zapažanja sa tretmana' in sidebar 'tutorialSidebar', linking to 'pathname:///Testimonials/Buzganovic1.pdf'"

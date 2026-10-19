@@ -81,6 +81,8 @@ const sidebarsUputstvo: SidebarsConfig = {
       label: 'Testimonials',
       collapsed: true,
       items: [
+        { type: 'link', label: 'Logomedica (SR) — pismo preporuke', href: 'pathname:///Testimonials/Logomedica1.pdf' },
+        { type: 'link', label: 'Goran Petrušev (MK) — preporuka', href: 'pathname:///Testimonials/Goran_Petrusev1.pdf' },
         { type: 'link', label: 'Buzganovic (SR) — zapažanja sa tretmana', href: 'pathname:///Testimonials/Buzganovic1.pdf' },
         { type: 'link', label: 'Logo-centar (SR) — zapažanja sa tretmana', href: 'pathname:///Testimonials/Logo-centar1.pdf' },
         { type: 'link', label: 'OŠ Miloje Pavlović (SR) — pismo preporuke', href: 'pathname:///Testimonials/OS_MilojePavlovic1.pdf' },
