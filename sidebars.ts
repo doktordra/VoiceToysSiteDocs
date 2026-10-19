@@ -89,6 +89,7 @@ const sidebars: SidebarsConfig = {
         { type: 'link', label: 'Оберіг (UK) — recommendation letter', href: 'pathname:///Testimonials/KZ_LOR1.pdf' },
       ],
     },
+    { type: 'link', label: 'Katalog', href: '/katalog' },
   ],
 };
 

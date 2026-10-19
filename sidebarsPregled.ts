@@ -3,6 +3,7 @@ import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 const sidebarsPregled: SidebarsConfig = {
   pregledSidebar: [
     'index',
+    'katalog',
     {
       type: 'category',
       label: 'Priručnik',
