@@ -130,5 +130,9 @@
   "sidebar.bezbednostSidebar.link.Оберіг (UK) — recommendation letter": {
     "message": "Оберіг (UA) — Empfehlungsschreiben",
     "description": "The label for link 'Оберіг (UK) — recommendation letter' in sidebar 'bezbednostSidebar', linking to 'pathname:///Testimonials/KZ_LOR1.pdf'"
+  },
+  "sidebar.bezbednostSidebar.link.Katalog": {
+    "message": "Katalog",
+    "description": "The label for link 'Katalog' in sidebar 'bezbednostSidebar', linking to '/katalog'"
   }
 }

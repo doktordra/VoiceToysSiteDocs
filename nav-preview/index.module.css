@@ -69,7 +69,25 @@
   transform: translateY(-2px);
 }
 
+/* Full-width card (Katalog) */
+.card[data-wide="true"] {
+  grid-column: 1 / -1;
+}
+
 /* Color accents per card */
+.card[data-color="teal"] {
+  border-top: 4px solid #146687;
+}
+
+.card[data-color="teal"] .btnPrimary {
+  background: #146687;
+  min-width: 8rem;
+}
+
+.card[data-color="teal"] .btnPrimary:hover {
+  background: #0d3d54;
+}
+
 .card[data-color="blue"] {
   border-top: 4px solid var(--vt-blue);
 }

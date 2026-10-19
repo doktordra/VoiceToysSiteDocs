@@ -90,5 +90,9 @@
   "sidebar.uputstvoSidebar.link.Оберіг (UK) — recommendation letter": {
     "message": "Оберіг (UA) — recommendation letter",
     "description": "The label for link 'Оберіг (UK) — recommendation letter' in sidebar 'uputstvoSidebar', linking to 'pathname:///Testimonials/KZ_LOR1.pdf'"
+  },
+  "sidebar.uputstvoSidebar.link.Katalog": {
+    "message": "Catalogue",
+    "description": "The label for link 'Katalog' in sidebar 'uputstvoSidebar', linking to '/katalog'"
   }
 }
