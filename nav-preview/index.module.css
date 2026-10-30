@@ -182,6 +182,24 @@
   gap: 0.38rem;
 }
 
+/* Mala napomena ispod dugmadi (npr. linkovi na originalne dokumente uz prevode) */
+.originals {
+  margin: 0.6rem 0 0;
+  font-size: 0.76rem;
+  line-height: 1.5;
+  color: #5a6b76;
+}
+
+.originals a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+[data-theme='dark'] .originals {
+  color: #aab6bf;
+}
+
 .btnSecondary {
   display: inline-block;
   background: color-mix(in srgb, var(--vt-blue) 10%, white);
