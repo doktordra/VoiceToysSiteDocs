@@ -1,4 +1,5 @@
 import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
+import { testimonialsCategory } from './sidebarsTestimonials';
 
 const sidebarsPregled: SidebarsConfig = {
   pregledSidebar: [
@@ -72,19 +73,7 @@ const sidebarsPregled: SidebarsConfig = {
         { type: 'link', label: 'LVD', href: '/bezbednost/lvd' },
       ],
     },
-    {
-      type: 'category',
-      label: 'Preporuke i iskustva',
-      collapsed: true,
-      items: [
-        { type: 'link', label: 'Logomedica (SR) — pismo preporuke', href: 'pathname:///Testimonials/Logomedica1.pdf' },
-        { type: 'link', label: 'Goran Petrušev (MK) — preporuka', href: 'pathname:///Testimonials/Goran_Petrusev1.pdf' },
-        { type: 'link', label: 'Buzganovic (SR) — zapažanja sa tretmana', href: 'pathname:///Testimonials/Buzganovic1.pdf' },
-        { type: 'link', label: 'Logo-centar (SR) — zapažanja sa tretmana', href: 'pathname:///Testimonials/Logo-centar1.pdf' },
-        { type: 'link', label: 'OŠ Miloje Pavlović (SR) — pismo preporuke', href: 'pathname:///Testimonials/OS_MilojePavlovic1.pdf' },
-        { type: 'link', label: 'Оберіг (UK) — recommendation letter', href: 'pathname:///Testimonials/KZ_LOR1.pdf' },
-      ],
-    },
+    testimonialsCategory(),
   ],
 };
 
